@@ -5878,11 +5878,12 @@ diseases, in 48 districts distributed over 13 governorates.”"
 
 </div>
 
+<br> <br>
+
 This website and all OxCGRT data is published under a [Creative Commons
 CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/),
-meaning you are free to use it for any purpose, *provided you attribute
-us as the source*. You can read more about citing our work on our
-[GitHub
+meaning you are free to use it for any purpose, provided you attribute
+us as the source. You can read more about citing our work on our [GitHub
 repository](https://github.com/OxCGRT/covid-policy-tracker/blob/master/README.md#citing-our-data).
 
 <p style="text-align:right; font-size:70%">
