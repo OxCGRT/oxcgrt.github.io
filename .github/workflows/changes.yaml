@@ -9,10 +9,10 @@ jobs:
     name: R github actions
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout
+      - uses: actions/checkout@main
         with:
           path: main
-      - uses: actions/cache
+      - uses: actions/cache@main
         with:
           path: ~/.local/share/renv
           key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
