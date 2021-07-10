@@ -5878,8 +5878,6 @@ diseases, in 48 districts distributed over 13 governorates.”"
 
 </div>
 
-</br> </br>
-
 This website and all OxCGRT data is published under a [Creative Commons
 CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/),
 meaning you are free to use it for any purpose, *provided you attribute
