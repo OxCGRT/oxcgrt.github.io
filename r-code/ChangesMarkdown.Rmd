@@ -539,6 +539,6 @@ for (i in unique(FirstLast$CountryName)) {
 
 This website and all OxCGRT data is published under a [Creative Commons CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/), meaning you are free to use it for any purpose, _provided you attribute us as the source_. You can read more about citing our work on our [GitHub repository](https://github.com/OxCGRT/covid-policy-tracker/blob/master/README.md#citing-our-data).
 
-<p style="text-align:right"><i>
-This summary page was written by Andrew Wood and Toby Phillips.
+<p style="text-align:right; font-size:70%"><i>
+This summary page was created by Andrew Wood and Toby Phillips.
 </i></p>
