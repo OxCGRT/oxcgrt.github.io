@@ -1,4 +1,4 @@
----
+---  
 layout: recent-changes  
 title: Recent policy changes reported in the OxCGRT  
 permalink: /recent-changes/  
@@ -40,7 +40,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <p style="text-align:right">
 
-<i>Updated on 18817</i>
+<i>Last updated 2021-07-10</i>
 
 </p>
 
@@ -54,13 +54,19 @@ Overall increase
 
 <div>
 
-<a href="#australia-gri-61--63">Australia (GRI: 61 ↑ 63)</a>
+<a href="#brunei-gri-46--47">Brunei (GRI: 46 ↑ 47)</a>
 
 </div>
 
 <div>
 
 <a href="#canada-gri-69--72">Canada (GRI: 69 ↑ 72)</a>
+
+</div>
+
+<div>
+
+<a href="#chad-gri-39--40">Chad (GRI: 39 ↑ 40)</a>
 
 </div>
 
@@ -85,12 +91,6 @@ Overall increase
 <div>
 
 <a href="#portugal-gri-72--74">Portugal (GRI: 72 ↑ 74)</a>
-
-</div>
-
-<div>
-
-<a href="#russia-gri-54--58">Russia (GRI: 54 ↑ 58)</a>
 
 </div>
 
@@ -140,6 +140,12 @@ Overall decrease
 <div>
 
 <a href="#aruba-gri-39--34">Aruba (GRI: 39 ↓ 34)</a>
+
+</div>
+
+<div>
+
+<a href="#australia-gri-63--61">Australia (GRI: 63 ↓ 61)</a>
 
 </div>
 
@@ -229,7 +235,19 @@ Overall decrease
 
 <div>
 
+<a href="#norway-gri-60--57">Norway (GRI: 60 ↓ 57)</a>
+
+</div>
+
+<div>
+
 <a href="#oman-gri-78--74">Oman (GRI: 78 ↓ 74)</a>
+
+</div>
+
+<div>
+
+<a href="#russia-gri-59--58">Russia (GRI: 59 ↓ 58)</a>
 
 </div>
 
@@ -339,7 +357,7 @@ allowed to re-open / be back to normal operations
 
 </div>
 
-### Australia (GRI: 61 ↑ 63)
+### Australia (GRI: 63 ↓ 61)
 
 #### Workplace closing (C2)
 
@@ -928,9 +946,9 @@ In line with C6. No other policies noted.
 
 </div>
 
-### Canada (GRI: 69 ↑ 72)
+### Brunei (GRI: 46 ↑ 47)
 
-#### Workplace closing (C2)
+#### Vaccination policy (H7)
 
 <div id="table-div">
 
@@ -946,15 +964,16 @@ In line with C6. No other policies noted.
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Canada (3T)
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Brunei (4S)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-25/6/2021  
-<img src="../images/down-arrow.png">
+5/7/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -962,22 +981,38 @@ parts of Canada (3T)
 
 <b>New policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Canada (2T)
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Brunei (5S)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-On 25 june 2021, in the Porcupine Health region (including city of
-Timmins north to James Bay) of the province of Ontario, “nonessential
-retail stores with outside doors are allowed to reopen with limited
-capacity.” Shopping malls, hair salons, fitness studios and other
-close-contact businesses remain closed throughout Ontario and some other
-jurisdictions. See Porcupine Health Region and Retail Council of Canada
-websites, archived:
-<https://web.archive.org/web/20210626100713/https://www.porcupinehu.on.ca/en/your-health/infectious-diseases/novel-coronavirus/>
-<https://web.archive.org/web/20210626102507/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
+Vaccination groups: Phase 1, 2 and 3 under Brunei’s Vaccination Strategy
+Phase 1: Frontline workers; senior citizens aged 60 and above; students
+studying abroad; and Phase 2: teachers; childcare centre staff/childcare
+workers; adults at high risk or suffering from chronic diseases and
+Phase 3: individuals aged 18 years and above Vaccines used:
+Oxford-AstraZeneca (AZD1222/ChAdOx1 nCoV-19); Sinopharm (BBIBP-CorV);
+Moderna (elasomeran/mRNA-1273) Brunei’s Phase 3 of its Vaccination
+Strategy, for individuals aged 18 years and above, commenced on 05 July.
+"“\[Individuals\] who wish to get the COVID-19 vaccinations during Phase
+3 are required to reserve a slot”“. See: The Ministry of Health’s press
+release”“Registration For The National Vaccination Program For Covid-19
+For The Phase Three”" (dated 01 Jul), archived at
+<https://archive.vn/M1nb1> The Ministry of Health’s press release
+"“Registration For The National Vaccination Program For COVID-19 For
+The Second Phase”" (dated 14 Jun), archived at
+<https://archive.vn/nzwGg> The Scoop’s report, entitled "“Phase 2 of
+COVID-19 vaccination starts on June 21”" (dated 14 Jun), archived at
+<https://archive.vn/qgiQm> The Ministry of Health’s press release
+"“COVID-19 Moderna vaccine arrived in Brunei Darussalam”" (dated 20
+Jun), archived at <https://archive.vn/2onLe> Borneo Bulletin’s report,
+entitled "“Second phase of COVID-19 vaccination begins”" (dated 22 Jun),
+archived at <https://archive.vn/XhM2i> The Star Online’s report,
+entitled "“Brunei: Over 76, 000 received Covid-19 vaccination as country
+goes 417 without local cases”" (dated 28 Jun), archived at
+<https://archive.is/7F2bK>
 
 </td>
 
@@ -990,6 +1025,8 @@ websites, archived:
 </div>
 
 </div>
+
+### Canada (GRI: 69 ↑ 72)
 
 #### Contact tracing (H3)
 
@@ -1041,6 +1078,63 @@ levels earlier in 2021 and recent isolated outbreaks subsiding, there is
 no evidence in the past 10 days of contact tracing efforts failing to
 keep up with new cases. See Government of Canada website, archived:
 <https://web.archive.org/web/20210628112551/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/testing.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Chad (GRI: 39 ↑ 40)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Chad (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/6/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Chad (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Note: The strictest policy in place is that "“Some international
+travelers, including those from the UK, may face bans due to variants of
+the disease existing in their country of departure”" according to Garda
+World.
+<http://web.archive.org/web/20210709163826/https://www.garda.com/crisis24/news-alerts/484521/chad-covid-19-related-measures-remain-largely-unchanged-in-chad-as-of-may-28-update-36>
 
 </td>
 
@@ -3502,6 +3596,140 @@ No policy found
 
 </div>
 
+### Norway (GRI: 60 ↓ 57)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Norway (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Norway (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy change
+<https://web.archive.org/web/20210709181039/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Norway (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Norway
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“International Entry RestrictionsAs of July 6, authorities are using
+European Centre for Disease Prevention and Control (ECDC) assessments of
+countries’ COVID-19 risk profiles to assign international entry
+restrictions. Only travelers from green countries or travelers from
+other countries that can present a certificate of vaccination or
+recovery from COVID-19 that is linked to the EU Digital Covid
+Certificate Gateway are permitted to enter Norway. Exceptions are in
+place for Norwegian citizens and residents, their immediate family
+members, cross-border commuters, and limited categories of essential
+work. All travelers are required to fill out a registration form prior
+to arrival, available here; additional entry requirements by country
+classification are as follows: Green Countries: No additional pre-entry
+requirements, must submit to a COVID-19 test on arrival. Orange and Red
+Countries: Must present a negative COVID-19 PCR or antigen test taken
+within 24 hours prior to arrival, or 24 hours prior to boarding
+aircraft, submit to a second test on arrival, and self-isolate for 10
+days on arrival. Self-isolation can be ended early following a negative
+COVID-19 test taken on day seven of the isolation period. Purple
+Countries: Same entry requirements as orange and red countries; a
+slightly wider pool of relatives and partners are permitted to enter
+Norway. Dark Red and Grey Countries: Same entry requirements as orange
+and red countries, but the first three days of the isolation period must
+be spent in a designated quarantine hotel. Travelers with a valid
+certificate of vaccination or recovery are exempt from testing and
+isolation requirements upon entry. A full list of countries by color
+designation is available here.”"
+<https://web.archive.org/web/20210709180958/https://www.garda.com/crisis24/news-alerts/498526/norway-authorities-delay-easing-of-domestic-covid-19-restrictions-through-at-least-july-31-international-entry-restrictions-amended-update-46>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Oman (GRI: 78 ↓ 74)
 
 #### Protection of elderly people (H8)
@@ -3873,52 +4101,6 @@ area). Source:
 
 <b>Old policy:</b>
 
-<b>No measures</b> are present across all of Portugal (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/6/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Portugal (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“Specific Rules at Lisbon Metropolitan Area (includes municipalities of
-Alcochete, Almada, Barreiro, Amadora, Cascais, Lisbon, Loures, Mafra,
-Moita, Montijo, Odivelas, Oeiras, Palmela, Seixal, Sintra, Sesimbra,
-Setúbal, Vila Franca de Xira) Circulation to and from the Lisbon
-Metropolitan Area is prohibited between 3pm on June 25th and 6am on June
-28th, with the following exceptions: - professional activities (provided
-that it is accompanied by a declaration); - health reasons; - attendance
-at school establishments; - necessary circulation to leave the mainland
-national territory; - circulation of non-resident citizens (tourists) to
-places of proven permanence (ex. Hotel or Airbnb reservation); - return
-home; - To enter and exit the area: RT¬-PCR Test (with 72h max.), or
-Rapid Antigen Test (with 48h max.) with negative result, or EU Digital
-COVID Certificate.”" Source: <https://archive.vn/IMf3c>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Internal travel restrictions</b> are in place; in <b>some</b> parts
 of Portugal (2T)
 
@@ -4002,7 +4184,7 @@ COVID Certificate”" Source: <https://archive.vn/5N6pC>
 
 </div>
 
-### Russia (GRI: 54 ↑ 58)
+### Russia (GRI: 59 ↓ 58)
 
 #### Workplace closing (C2)
 
@@ -5696,6 +5878,8 @@ diseases, in 48 districts distributed over 13 governorates.”"
 
 </div>
 
+</br> </br>
+
 This website and all OxCGRT data is published under a [Creative Commons
 CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/),
 meaning you are free to use it for any purpose, *provided you attribute
@@ -5703,8 +5887,8 @@ us as the source*. You can read more about citing our work on our
 [GitHub
 repository](https://github.com/OxCGRT/covid-policy-tracker/blob/master/README.md#citing-our-data).
 
-<p style="text-align:right">
+<p style="text-align:right; font-size:70%">
 
-<i> This summary page was written by Andrew Wood and Toby Phillips. </i>
+<i> This summary page was created by Andrew Wood and Toby Phillips. </i>
 
 </p>
