@@ -59,12 +59,12 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#kosovo-gri-49--49">Kosovo (GRI: 49 ↓ 49)</a> 
 </div><div><a href="#macao-gri-46--43">Macao (GRI: 46 ↓ 43)</a> 
 </div><div><a href="#mauritius-gri-68--63">Mauritius (GRI: 68 ↓ 63)</a> 
+</div><div><a href="#mexico-gri-48--44">Mexico (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#mozambique-gri-51--50">Mozambique (GRI: 51 ↓ 50)</a> 
 </div><div><a href="#peru-gri-70--69">Peru (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#portugal-gri-70--69">Portugal (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#qatar-gri-60--59">Qatar (GRI: 60 ↓ 59)</a> 
 </div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
-</div><div><a href="#turkmenistan-gri-53--47">Turkmenistan (GRI: 53 ↓ 47)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--59">Uruguay (GRI: 60 ↓ 59)</a> 
 </div><div><a href="#zambia-gri-43--31">Zambia (GRI: 43 ↓ 31)</a> 
@@ -2314,6 +2314,8 @@ PCR test.
 
 </div>
 
+### Mexico (GRI: 48 ↓ 44)
+
 ### Mozambique (GRI: 51 ↓ 50)
 
 #### Facial Coverings (H6)
@@ -3513,8 +3515,6 @@ Leste Government website, archived:
 </div>
 
 </div>
-
-### Turkmenistan (GRI: 53 ↓ 47)
 
 ### United Kingdom (GRI: 64 ↓ 58)
 
