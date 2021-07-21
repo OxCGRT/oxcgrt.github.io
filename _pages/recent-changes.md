@@ -25,11 +25,11 @@ The Government Response Index is an aggregate summary of all 20 of our
 policy indicators. The index goes from 0 to 100, and a higher number
 generally means a more active policy (eg. more stringent restrictions,
 more generous economic support, or more pro-active public health
-measures). The following map shows countries that have changed their
-response at some point during the last two weeks, resulting in an
-increase or decrease in the overall Government Response Index. For more
-detail on the Government Response Index please see our most recent
-[working
+measures).
+<!-- The following map shows countries that have changed their response at some point during the last two weeks, resulting in an increase or decrease in the overall Government Response Index. -->
+The headings for each country report how the index has changed from two
+weeks ago. For more detail on the Government Response Index please see
+our most recent [working
 paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-responses-covid-19)
 or explore our [dataset
 publication](https://doi.org/10.1038/s41562-021-01079-8).
