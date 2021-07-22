@@ -41,7 +41,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#france-gri-52--53">France (GRI: 52 ↑ 53)</a> 
 </div><div><a href="#guatemala-gri-50--57">Guatemala (GRI: 50 ↑ 57)</a> 
 </div><div><a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a> 
-</div><div><a href="#italy-gri-64--80">Italy (GRI: 64 ↑ 80)</a> 
+</div><div><a href="#italy-gri-64--81">Italy (GRI: 64 ↑ 81)</a> 
 </div><div><a href="#kazakhstan-gri-49--53">Kazakhstan (GRI: 49 ↑ 53)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
@@ -1512,7 +1512,7 @@ the head of the Metropolitan Region of the Central District, Harry Bock.
 
 </div>
 
-### Italy (GRI: 64 ↑ 80)
+### Italy (GRI: 64 ↑ 81)
 
 #### School closing (C1)
 
@@ -1837,6 +1837,66 @@ except for people holding green passes starting July 14th some local red
 zones have been established until 21st July:
 <https://web.archive.org/web/20210714203412/http://www.ansa.it/calabria/notizie/2021/07/14/covid-tre-focolai-e-48-casi-zona-rossa-in-comune-calabrese_c45c7a33-6668-43ea-8165-1aff8b52e3ab.html>
 <https://web.archive.org/web/20210712185437/https://www.ilmessaggero.it/italia/zona_rossa_piazza_armerina_enna_contagi_limitazioni_divieti-6076928.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Italy (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of Italy (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+in red zones masks are required in all public spaces, no exemption for
+green passes
+<https://web.archive.org/web/20210720190926/https://www.ilgiorno.it/cronaca/zone-rosse-italia-1.6611127>
+in white zones masks can now be removed in the open air if social
+distancing can be guaranteed,
+<https://web.archive.org/web/20210703024443/https://www.romatoday.it/attualita/mascherine-obbligatorie-quando.html>
 
 </td>
 
