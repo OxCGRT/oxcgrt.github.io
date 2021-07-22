@@ -36,7 +36,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-22</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#azerbaijan-gri-55--59">Azerbaijan (GRI: 55 ↑ 59)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-22</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
+</div><div><a href="#azerbaijan-gri-55--59">Azerbaijan (GRI: 55 ↑ 59)</a> 
 </div><div><a href="#el salvador-gri-38--42">El Salvador (GRI: 38 ↑ 42)</a> 
 </div><div><a href="#france-gri-52--53">France (GRI: 52 ↑ 53)</a> 
 </div><div><a href="#guatemala-gri-50--57">Guatemala (GRI: 50 ↑ 57)</a> 
@@ -69,6 +70,66 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
+
+### Albania (GRI: 48 ↑ 49)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>TWO</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Albania (2S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Albania (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccinations being administered to vulnerable groups, key workers and
+people over 18 (A:, B: and C:) using Pfizer/Biontech, Astra-Zeneca
+Gamelaya and SinoVac.
+<http://web.archive.org/web/20210722083536/https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-1082424-vaksinime/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Azerbaijan (GRI: 55 ↑ 59)
 
