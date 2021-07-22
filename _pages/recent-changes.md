@@ -36,9 +36,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-21</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#azerbaijan-gri-55--59">Azerbaijan (GRI: 55 ↑ 59)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-22</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#azerbaijan-gri-55--59">Azerbaijan (GRI: 55 ↑ 59)</a> 
 </div><div><a href="#el salvador-gri-38--42">El Salvador (GRI: 38 ↑ 42)</a> 
-</div><div><a href="#france-gri-53--53">France (GRI: 53 ↑ 53)</a> 
+</div><div><a href="#france-gri-52--53">France (GRI: 52 ↑ 53)</a> 
 </div><div><a href="#guatemala-gri-50--57">Guatemala (GRI: 50 ↑ 57)</a> 
 </div><div><a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a> 
 </div><div><a href="#italy-gri-64--80">Italy (GRI: 64 ↑ 80)</a> 
@@ -46,8 +46,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#nigeria-gri-42--46">Nigeria (GRI: 42 ↑ 46)</a> 
-</div><div><a href="#oman-gri-78--79">Oman (GRI: 78 ↑ 79)</a> 
 </div><div><a href="#panama-gri-73--75">Panama (GRI: 73 ↑ 75)</a> 
+</div><div><a href="#qatar-gri-58--59">Qatar (GRI: 58 ↑ 59)</a> 
 </div><div><a href="#south korea-gri-52--59">South Korea (GRI: 52 ↑ 59)</a> 
 </div><div><a href="#spain-gri-55--56">Spain (GRI: 55 ↑ 56)</a> 
 </div><div><a href="#timor-leste-gri-56--57">Timor-Leste (GRI: 56 ↑ 57)</a> 
@@ -57,17 +57,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#costa rica-gri-58--57">Costa Rica (GRI: 58 ↓ 57)</a> 
 </div><div><a href="#greenland-gri-51--44">Greenland (GRI: 51 ↓ 44)</a> 
 </div><div><a href="#kosovo-gri-49--49">Kosovo (GRI: 49 ↓ 49)</a> 
-</div><div><a href="#macao-gri-46--43">Macao (GRI: 46 ↓ 43)</a> 
 </div><div><a href="#mauritius-gri-68--63">Mauritius (GRI: 68 ↓ 63)</a> 
 </div><div><a href="#mexico-gri-48--44">Mexico (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#mozambique-gri-51--50">Mozambique (GRI: 51 ↓ 50)</a> 
 </div><div><a href="#peru-gri-70--69">Peru (GRI: 70 ↓ 69)</a> 
-</div><div><a href="#portugal-gri-70--69">Portugal (GRI: 70 ↓ 69)</a> 
-</div><div><a href="#qatar-gri-60--59">Qatar (GRI: 60 ↓ 59)</a> 
 </div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--59">Uruguay (GRI: 60 ↓ 59)</a> 
-</div><div><a href="#zambia-gri-43--31">Zambia (GRI: 43 ↓ 31)</a> 
 </div></div> <br/>
 -->
 
@@ -712,7 +708,7 @@ a rise in daily cases of covid-19.
 
 </div>
 
-### France (GRI: 53 ↑ 53)
+### France (GRI: 52 ↑ 53)
 
 #### Workplace closing (C2)
 
@@ -2144,63 +2140,6 @@ and those with chronic conditions
 
 </div>
 
-### Macao (GRI: 46 ↓ 43)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Macao (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Macao (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public events are resumed with safety measures such as mask-wearing; the
-9th Macao International Travel (Industry) Expo hold from 9-11 July
-attracted c.24k in-persons visitors. <https://archive.vn/t6yOr>
-<https://archive.vn/WRSfS>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Malta (GRI: 58 ↑ 60)
 
 #### Workplace closing (C2)
@@ -2428,82 +2367,6 @@ spread of the Coronavirus. See: <http://archive.today/x5AaM>
 
 </div>
 
-### Oman (GRI: 78 ↑ 79)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Oman (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Oman (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting from 9 July, entry into Musandam Governorate & Governorate of
-Dhofar (Khareef) is banned unless vaccinated with at least one dose.
-"“It is not allowed to enter the Musandam Governorate except for those
-who have received at least one dose of the vaccine approved in the
-Sultanate (those who are 18 years old and over) of citizens and
-residents in the Sultanate, and for those who have received two doses of
-the approved vaccine for those coming from outside the Sultanate,
-starting from five o’clock from On the evening of Friday 28 Dhu
-al-Qa’dah 1442 AH corresponding to July 9, 2021 AD until further
-notice.”" "“With the advent of the monsoon season in the Governorate of
-Dhofar (Khareef), citizens and residents of the Sultanate who have
-received at least one dose of the vaccine approved in the Sultanate
-(those aged 18 years and over) can enter the Governorate of Dhofar, and
-it is also allowed to enter the governorate for those who received two
-doses of the vaccine. Approved for those coming from outside the
-Sultanate, provided that this decision will take effect from five
-o’clock in the evening on Friday 28 Dhu al-Qa’dah 1442 AH
-corresponding to July 9, 2021 AD until further notice.”"
-<https://web.archive.org/web/20210712125708/https://omannews.gov.om/Arabic_NewsDescription/ArtMID/437/ArticleID/35247/%D8%A7%D9%84%D9%84%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%B9%D9%8F%D9%84%D9%8A%D8%A7-%D8%AA%D8%B5%D8%AF%D8%B1-%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9>
-<https://web.archive.org/web/20210711005859/https://om.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210709165008/https://gulfbusiness.com/oman-complete-lockdown-declared-for-eid-al-adha-2021/>
-<https://web.archive.org/web/20210712124437/https://www.omanair.com/om/en/travel-advisory-covid-19-coronavirus-outbreak>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Panama (GRI: 73 ↑ 75)
 
 #### Stay at home requirements (C6)
@@ -2681,63 +2544,7 @@ Link:
 
 </div>
 
-### Portugal (GRI: 70 ↓ 69)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Portugal (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Portugal (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Targeted closure ends July 8:
-<http://web.archive.org/web/20210701210552/https://magg.sapo.pt/atualidade/atualidade-nacional/artigos/alunos-ciclo-algarve-terminar-ano-letivo-aulas-distancia>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Qatar (GRI: 60 ↓ 59)
+### Qatar (GRI: 58 ↑ 59)
 
 #### Workplace closing (C2)
 
@@ -4149,171 +3956,6 @@ operational differences; across <b>all</b> of Uruguay (1G)
 
 The face-to-face return to classes is completed on the 19th.
 <https://web.archive.org/web/20210719134709/https://www.anep.edu.uy/15-d/el-lunes-19-anep-completar-el-regreso-presencialidad-con-educaci-n-media>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Zambia (GRI: 43 ↓ 31)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Zambia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Zambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Previous restrictions applied to the entertainment industry within a
-period of 21 days. No evidence exists to suggest an extension of these
-restrictions and closures.
-<https://web.archive.org/web/20210712135935/https://www.theeastafrican.co.ke/tea/rest-of-africa/zambia-closes-schools-restricts-social-functions-as-it-battles-covid-third-wave-3440526>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Zambia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Zambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Previous measures elapsed on the 8th of July, no evidence to support an
-extension of cancellations.
-<https://web.archive.org/web/20210712135935/https://www.theeastafrican.co.ke/tea/rest-of-africa/zambia-closes-schools-restricts-social-functions-as-it-battles-covid-third-wave-3440526>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Zambia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Zambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Previous measures elapsed on the 8th of July, no evidence to support an
-extension of cancellations.
-<https://web.archive.org/web/20210712135935/https://www.theeastafrican.co.ke/tea/rest-of-africa/zambia-closes-schools-restricts-social-functions-as-it-battles-covid-third-wave-3440526>
 
 </td>
 
