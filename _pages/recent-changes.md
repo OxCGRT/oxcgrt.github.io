@@ -36,8 +36,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-22</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
-</div><div><a href="#azerbaijan-gri-55--59">Azerbaijan (GRI: 55 ↑ 59)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-23</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
+</div><div><a href="#benin-gri-45--46">Benin (GRI: 45 ↑ 46)</a> 
 </div><div><a href="#el salvador-gri-38--42">El Salvador (GRI: 38 ↑ 42)</a> 
 </div><div><a href="#france-gri-52--53">France (GRI: 52 ↑ 53)</a> 
 </div><div><a href="#guatemala-gri-50--57">Guatemala (GRI: 50 ↑ 57)</a> 
@@ -52,7 +52,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#south korea-gri-52--59">South Korea (GRI: 52 ↑ 59)</a> 
 </div><div><a href="#spain-gri-55--56">Spain (GRI: 55 ↑ 56)</a> 
 </div><div><a href="#timor-leste-gri-56--57">Timor-Leste (GRI: 56 ↑ 57)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#benin-gri-46--45">Benin (GRI: 46 ↓ 45)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#azerbaijan-gri-59--55">Azerbaijan (GRI: 59 ↓ 55)</a> 
 </div><div><a href="#canada-gri-72--67">Canada (GRI: 72 ↓ 67)</a> 
 </div><div><a href="#costa rica-gri-58--57">Costa Rica (GRI: 58 ↓ 57)</a> 
 </div><div><a href="#greenland-gri-51--44">Greenland (GRI: 51 ↓ 44)</a> 
@@ -131,7 +131,7 @@ Gamelaya and SinoVac.
 
 </div>
 
-### Azerbaijan (GRI: 55 ↑ 59)
+### Azerbaijan (GRI: 59 ↓ 55)
 
 #### Close public transport (C5)
 
@@ -235,7 +235,7 @@ Source 2:
 
 </div>
 
-### Benin (GRI: 46 ↓ 45)
+### Benin (GRI: 45 ↑ 46)
 
 #### Cancel public events (C3)
 
