@@ -60,6 +60,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mauritius-gri-68--63">Mauritius (GRI: 68 ↓ 63)</a> 
 </div><div><a href="#mexico-gri-48--44">Mexico (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#mozambique-gri-51--50">Mozambique (GRI: 51 ↓ 50)</a> 
+</div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
+</div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#peru-gri-70--69">Peru (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
@@ -2432,6 +2434,125 @@ The wearing of a protective facemask is compulsory in all public spaces.
 
 </div>
 
+### Netherlands (GRI: 52 ↓ 48)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of
+Netherlands (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Netherlands (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Nightclubs have been forced to close again "“Measures as of 10 July 2021
+The following measures will take effect from 06.00 on the morning of
+Saturday 10 July and remain in place until 13 August 2021: Assigned
+seating and 1.5-metre distancing required in restaurants and bars
+Restaurants and bars may remain open provided all visitors have assigned
+seats that are placed 1.5 metres apart. All restaurants and bars must be
+closed from midnight until 06.00. Entertainment in the form of live
+performances and loud music is prohibited. Discos and nightclubs must
+close again. The coronavirus entry pass scheme, which granted an
+exemption from the 1.5 metre distancing rule, will be suspended for
+restaurants and bars until 13 August.”"
+<https://web.archive.org/web/20210723111645/https://www.government.nl/topics/coronavirus-covid-19/news/2021/07/09/no-choice-but-to-take-summertime-measures-in-face-of-rapid-increase-in-infections>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+Netherlands (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Netherlands (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://web.archive.org/web/20210722074416/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Nigeria (GRI: 42 ↑ 46)
 
 #### School closing (C1)
@@ -2474,6 +2595,63 @@ parts of Nigeria (2T)
 
 The University of Lagos is currently closed down as a result of the
 spread of the Coronavirus. See: <http://archive.today/x5AaM>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Norway (GRI: 57 ↓ 56)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Norway (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Norway
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No information on closure found
+<https://web.archive.org/web/20210723114839/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
 
 </td>
 
