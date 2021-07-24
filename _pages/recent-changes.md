@@ -62,6 +62,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#peru-gri-70--69">Peru (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#spain-gri-55--54">Spain (GRI: 55 ↓ 54)</a> 
 </div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
+</div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--59">Uruguay (GRI: 60 ↓ 59)</a> 
 </div></div> <br/>
@@ -3334,6 +3335,123 @@ mRNA vaccine as a second dose still applies.
 <http://web.archive.org/web/20210507150836/https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2021/april/tillatet-att-valja-astra-zeneca-for-de-yngre-som-tidigare-fatt-en-forsta-dos/>
 Vaccinations are still taking place:
 <https://web.archive.org/web/20210716175940/https://www.folkhalsomyndigheten.se/folkhalsorapportering-statistik/statistikdatabaser-och-visualisering/vaccinationsstatistik/statistik-for-vaccination-mot-covid-19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Switzerland (GRI: 54 ↑ 54)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Switzerland (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of
+Switzerland (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As it says on governmental sources, "“Working from home is recommended
+in all areas where it is possible to work from home without
+disproportionate effort”". Some other protective measures, such as
+wearing masks in indoor places, still apply. Link:
+<http://web.archive.org/web/20210724092823/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Switzerland (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Switzerland (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines are broadly available to the public. The government has defined
+various priority groups, and it has proceeded to vaccinate individuals
+from all of them. More than 8,700,000 doses have been administered.
+<http://web.archive.org/web/20210724090432/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/impfen.html>
 
 </td>
 
