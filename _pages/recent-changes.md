@@ -36,8 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-23</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
-</div><div><a href="#benin-gri-45--46">Benin (GRI: 45 ↑ 46)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-24</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
 </div><div><a href="#el salvador-gri-38--42">El Salvador (GRI: 38 ↑ 42)</a> 
 </div><div><a href="#france-gri-52--53">France (GRI: 52 ↑ 53)</a> 
 </div><div><a href="#guatemala-gri-50--57">Guatemala (GRI: 50 ↑ 57)</a> 
@@ -48,11 +47,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#nigeria-gri-42--46">Nigeria (GRI: 42 ↑ 46)</a> 
 </div><div><a href="#panama-gri-73--75">Panama (GRI: 73 ↑ 75)</a> 
-</div><div><a href="#qatar-gri-58--59">Qatar (GRI: 58 ↑ 59)</a> 
 </div><div><a href="#south korea-gri-52--59">South Korea (GRI: 52 ↑ 59)</a> 
-</div><div><a href="#spain-gri-55--56">Spain (GRI: 55 ↑ 56)</a> 
 </div><div><a href="#timor-leste-gri-56--57">Timor-Leste (GRI: 56 ↑ 57)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#azerbaijan-gri-59--55">Azerbaijan (GRI: 59 ↓ 55)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#azerbaijan-gri-59--56">Azerbaijan (GRI: 59 ↓ 56)</a> 
 </div><div><a href="#canada-gri-72--67">Canada (GRI: 72 ↓ 67)</a> 
 </div><div><a href="#costa rica-gri-58--57">Costa Rica (GRI: 58 ↓ 57)</a> 
 </div><div><a href="#greenland-gri-51--44">Greenland (GRI: 51 ↓ 44)</a> 
@@ -63,6 +60,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#peru-gri-70--69">Peru (GRI: 70 ↓ 69)</a> 
+</div><div><a href="#spain-gri-55--54">Spain (GRI: 55 ↓ 54)</a> 
 </div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--59">Uruguay (GRI: 60 ↓ 59)</a> 
@@ -133,7 +131,7 @@ Gamelaya and SinoVac.
 
 </div>
 
-### Azerbaijan (GRI: 59 ↓ 55)
+### Azerbaijan (GRI: 59 ↓ 56)
 
 #### Close public transport (C5)
 
@@ -229,82 +227,19 @@ Source 2:
 
 </tr>
 
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Benin (GRI: 45 ↑ 46)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
 <tr>
 
 <td style="text-align:left;min-width: 2in; ">
 
 <b>Old policy:</b>
 
-<b>Require</b> cancellation of public events; across <b>all</b> of Benin
-(2G)
+<b>No measures</b> are present across all of Azerbaijan (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-10/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Benin (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In the last communique, released on June 2020, public events like
-sports, political events and demonstrations were suspended. however,
-12000 spectators were authorised by the African Football Federation to
-attend the CAF Cup final at the Mathieu KEREKOU stadium in Cotonou on
-the July 10, 2021 at 8pm. However, negative covid tests would be
-required from all attendees to show their covid status.
-<https://web.archive.org/web/20210719213553/https://www.gouv.bj/coronavirus/documents/>
-<https://web.archive.org/web/20210719213314/https://www.gouv.bj/actualite/1374/test-covid-obligatoire-assister-finale-coupe-stade-mathieu-kerekou-cotonou-samedi-10-juillet-2021/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Benin (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/7/2021  
+13/7/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -313,22 +248,15 @@ Benin (2T)
 
 <b>New policy:</b>
 
-<b>Require</b> cancellation of public events; across <b>all</b> of Benin
-(2G)
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Azerbaijan (1T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-In the last communique, released on June 2020, public events like
-sports, political events and demonstrations were suspended. however,
-12000 spectators were authorised by the African Football Federation to
-attend the CAF Cup final at the Mathieu KEREKOU stadium in Cotonou on
-the July 10, 2021 at 8pm. However, negative covid tests would be
-required from all attendees to show their covid status. tests would be
-provided free of charge.
-<https://web.archive.org/web/20210719213553/https://www.gouv.bj/coronavirus/documents/>
-<https://web.archive.org/web/20210719213314/https://www.gouv.bj/actualite/1374/test-covid-obligatoire-assister-finale-coupe-stade-mathieu-kerekou-cotonou-samedi-10-juillet-2021/>
+Mostly opened but not operating on weekends.
+<https://web.archive.org/web/20210723224413/https://az.usembassy.gov/covid-19-information-for-azerbaijan/>
 
 </td>
 
@@ -771,67 +699,6 @@ a rise in daily cases of covid-19.
 </div>
 
 ### France (GRI: 52 ↑ 53)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of France (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of France (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-WIth the opening of nightclubs and discos from 9 July, all business
-sectors admitting the public (e.g., cafes, restaurants, shops, cinemas)
-are now open in almost all of France, with targeted restrictions
-enforced in the department of Landes, where closure of nightclubs,
-indoor standing concerts and outdoor festivals will continue to be
-enforced until at least 21 July -
-<https://web.archive.org/web/20210711132322/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_sanitaire_dans_les_landes.pdf>
-and
-<https://web.archive.org/web/20210711125919/https://www.gouvernement.fr/info-coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Facial Coverings (H6)
 
@@ -2842,194 +2709,6 @@ Link:
 
 </div>
 
-### Qatar (GRI: 58 ↑ 59)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Qatar (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Qatar
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Phase 3 of the controlled phased lifting of restrictions in Qatar is
-effective as of 09/07/21. Source:
-<http://web.archive.org/web/20210710161102/https://covid19.moph.gov.qa/EN/Precautions-for-lifting-restrictions/Pages/default.aspx>
-&
-<http://web.archive.org/web/20210707181834/https://thepeninsulaqatar.com/article/07/07/2021/Phase-3-of-lifting-Covid-19-restrictions-in-Qatar-from-Friday-kids-allowed-in-cinemas>
-“Continued operation of workplaces at 80% capacity, excluding the
-military, security, and health sectors, with essential meetings for up
-to 15 people, including 5 unvaccinated people.” Barbershops and beauty
-salons are no longer required to be closed to those who are
-unvaccinated. However, their capacity limit is 50% and “all employees
-must be vaccinated.” “Amusement parks and entertainment centres to
-increase to 50% capacity outdoors and 30% capacity indoors. 75% of
-customers must be vaccinated. Children are allowed to enter and will be
-counted among the 25% of who\[m\] did not complete or did not receive
-vaccine.” Source:
-<http://web.archive.org/web/20210710155554/https://www.gco.gov.qa/en/preventative-measures/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Qatar (4)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Qatar
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting 12 July, Qatar has reopened to fully vaccinated tourists,
-"“Visitors must register on ehteraz.gov.qa at least 12 hours before
-travel, but no more than 72 hours prior. They will be asked to submit
-relevant travel documents.”" "“Unvaccinated citizens and residents
-travelling from green list countries will be expected to quarantine at
-home for five days, and take a PCR test on day four after arrival. Those
-arriving from yellow list countries will have a seven-day hotel
-quarantine, with a PCR test on day six. Red list arrivals will have a
-ten-day hotel quarantine, and a PCR test on day nine.”"
-<https://web.archive.org/web/20210716191813/https://www.hoteliermiddleeast.com/news/qatar-reopening-to-tourists-from-july-12>
-<https://web.archive.org/web/20210718133717/https://www.arabianbusiness.com/travel-hospitality/466265-qatar-reopens-to-fully-vaccinated-tourists>
-<https://web.archive.org/web/20210719110222/https://www.gco.gov.qa/en/travel/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Qatar (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Qatar (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Testing widely available.
-<https://web.archive.org/web/20210621104245/https://www.gco.gov.qa/en/preventative-measures/>
-<https://web.archive.org/web/20210524195340/https://www.timeoutdoha.com/news/458120-where-to-find-all-the-covid-19-pcr-test-centres-in-qatar>
-<http://web.archive.org/web/20210710205701/https://www.moph.gov.qa/english/mediacenter/News/Pages/NewsDetails.aspx?ItemId=388+&+https%3A%2F%2Fcovid19.moph.gov.qa%2FEN%2FDocuments%2FPDFs%2F=>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### South Korea (GRI: 52 ↑ 59)
 
 #### School closing (C1)
@@ -3250,7 +2929,7 @@ parts of South Korea (1T)
 
 </div>
 
-### Spain (GRI: 55 ↑ 56)
+### Spain (GRI: 55 ↓ 54)
 
 #### Stay at home requirements (C6)
 
@@ -3310,9 +2989,7 @@ Friday. It will last until at least July 23.”"
 
 </div>
 
-### Sweden (GRI: 53 ↓ 46)
-
-#### Workplace closing (C2)
+#### International travel controls (C8)
 
 <div id="table-div">
 
@@ -3327,6 +3004,113 @@ Friday. It will last until at least July 23.”"
 <td style="text-align:left;min-width: 2in; ">
 
 <b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Spain (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Spain (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travellers arriving by air, sea or land, with the exception of children
+under 12 years of age, must certify one of the following requirements:
+1. Certificate of recovery from COVID-19 issued by the competent
+authorities or medical service. 2. Diagnostic certificate: a negative
+PCR or PCR-like test. Mandatory quarantine is not required. \* Bans to
+flights from India and Brazil were lifted on July 20. Source:
+<https://web.archive.org/web/20210723235636/https://travelbans.org/europe/spain/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Spain (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Spain (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+  - A: Key workers, nationally covered. - B: clinically vulnerable
+    people are eligible for vaccination nationally. - C: People over 80
+    are fully covered at the national level with two doses. Almost full
+    coverage in 70 to 79 age group with two doses (97.9%). - Extended
+    coverage in 60-69, 50-59, 40-49 ages groups. - Medium coverage in
+    30-39 age group. - Low coverage in 20-29 age group. \* Vaccines
+    administered: Pfizer / BioNtech, Moderna, AstraZeneca / Oxford,
+    Jansenn. Source:
+    <https://web.archive.org/web/20210724002323/https://www.rtve.es/noticias/20210723/campana-vacunacion-espana/2062499.shtml>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+    ### Sweden (GRI: 53 ↓ 46)
+    #### Workplace closing (C2)
+    <div id="table-div">
+    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+    <table class="table" style="margin-left: auto; margin-right: auto;">
+    <tbody>
+    <tr>
+    <td style="text-align:left;min-width: 2in; ">
+    <b>Old policy:</b>
 
 <b>Recommended closure </b> (or work from home) of businesses or open
 with significant operational differences; across <b>all</b> of Sweden
