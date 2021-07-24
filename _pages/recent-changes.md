@@ -60,7 +60,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#peru-gri-70--69">Peru (GRI: 70 ↓ 69)</a> 
-</div><div><a href="#spain-gri-55--54">Spain (GRI: 55 ↓ 54)</a> 
+</div><div><a href="#spain-gri-56--55">Spain (GRI: 56 ↓ 55)</a> 
 </div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
@@ -2930,7 +2930,7 @@ parts of South Korea (1T)
 
 </div>
 
-### Spain (GRI: 55 ↓ 54)
+### Spain (GRI: 56 ↓ 55)
 
 #### Stay at home requirements (C6)
 
@@ -3021,47 +3021,37 @@ Friday. It will last until at least July 23.”"
 
 <b>New policy:</b>
 
-<b>Screening</b> arrivals coming into Spain (1)
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Spain
+(2)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Travellers arriving by air, sea or land, with the exception of children
-under 12 years of age, must certify one of the following requirements:
-1. Certificate of recovery from COVID-19 issued by the competent
-authorities or medical service. 2. Diagnostic certificate: a negative
-PCR or PCR-like test. Mandatory quarantine is not required. \* Bans to
-flights from India and Brazil were lifted on July 20. Source:
-<https://web.archive.org/web/20210723235636/https://travelbans.org/europe/spain/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
+  - Travellers arriving by air, sea or land, with the exception of
+    children under 12 years of age, must certify one of the following
+    requirements: 1. Certificate of recovery from COVID-19 issued by the
+    competent authorities or medical service. 2. Diagnostic certificate:
+    a negative PCR or PCR-like test. \* A mandatory 10-days quarantine
+    is required for travelers coming from India. The same measure
+    applies to travelers coming from Argentina, Colombia, and Bolivia
+    from July 27. \* Bans to flights from India and Brazil were lifted
+    on July 20. Source:
+    <https://web.archive.org/web/20210723235636/https://travelbans.org/europe/spain/>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+    #### Vaccination policy (H7)
+    <div id="table-div">
+    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+    <table class="table" style="margin-left: auto; margin-right: auto;">
+    <tbody>
+    <tr>
+    <td style="text-align:left;min-width: 2in; ">
+    <b>Old policy:</b>
 
 Available to <b>ALL</b> key group (key workers, elderly, clinically
 vulnerable); at no / minimal cost to the individual (government funded
@@ -3071,7 +3061,7 @@ or subsidised) Spain (3S)
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/7/2021  
+11/7/2021  
 <img src="../images/up-arrow.png">
 
 </td>
