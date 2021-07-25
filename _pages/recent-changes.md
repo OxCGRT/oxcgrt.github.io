@@ -43,6 +43,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a> 
 </div><div><a href="#italy-gri-64--81">Italy (GRI: 64 ↑ 81)</a> 
 </div><div><a href="#kazakhstan-gri-48--53">Kazakhstan (GRI: 48 ↑ 53)</a> 
+</div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#nigeria-gri-42--46">Nigeria (GRI: 42 ↑ 46)</a> 
 </div><div><a href="#timor-leste-gri-56--57">Timor-Leste (GRI: 56 ↑ 57)</a> 
@@ -1707,6 +1708,399 @@ Kazakhstan (1T)
 
 Lockdown imposed in 4 regions and there are no measures to protect
 elderly people. <https://archive.vn/X0afB>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Lesotho (GRI: 46 ↑ 54)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Lesotho (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Lesotho (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to an announcement from the Ministry of Education and
+Training, all schools are closed for winter break from June 27 to August
+1, 2021. No schools are allowed to open for winter classes.
+<https://web.archive.org/web/20210724235926/https://www.gov.ls/wp-content/uploads/2021/06/Circular-17-Basic-Education.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Lesotho (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Lesotho (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the Purple Code Guidelines released by NACOSEC,
+entertainment events and contact sports are prohibted. Non contact
+sports may proceed with no spectators. Exceptions for weddings,
+funerals, and religious gatherings.
+<https://web.archive.org/web/20210725000343/https://www.gov.ls/wp-content/uploads/2021/07/PURPLE-COLOR-CODE-STAGE-1.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Lesotho (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Lesotho (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the Purple Code Guidelines released by NACOSEC, gathering
+restrictions are dependent on the event. Weddings are limited to 50
+people. Funerals may only allow for nuclear family members. Church
+gatherings are permitted up to 30% capacity and 2 hours. Most other
+gatherings are prohibited.
+<https://web.archive.org/web/20210725000343/https://www.gov.ls/wp-content/uploads/2021/07/PURPLE-COLOR-CODE-STAGE-1.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Lesotho (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Lesotho (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the Purple Code Guidelines released by NACOSEC, starting
+July 24, 2021, vehicles are allowed to operate with limited capacity
+depending on the original capacity of the vehicle.
+<https://web.archive.org/web/20210725000343/https://www.gov.ls/wp-content/uploads/2021/07/PURPLE-COLOR-CODE-STAGE-1.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Lesotho (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Lesotho (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the U.S. Embassy in Lesotho, citizens can obtain a COVID-19
+test at their own expense at private clinics in Maseru for approximately
+USD 86. A paper copy of the results is usually available in 24 hours.
+<https://web.archive.org/web/20210725043315/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Lesotho (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Lesotho (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Masks are required in public spaces.
+<https://web.archive.org/web/20210725043315/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Lesotho (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No availability</b> is present across all of Lesotho (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The AstraZeneca vaccine is approved for use, however first doses are
+currently unavailable until more shots are procured.
+<https://web.archive.org/web/20210725040325/https://www.gov.uk/foreign-travel-advice/lesotho/coronavirus>
+<https://web.archive.org/web/20210725043315/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
 
 </td>
 
