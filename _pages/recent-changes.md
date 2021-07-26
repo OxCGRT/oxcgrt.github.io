@@ -36,21 +36,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-25</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
-</div><div><a href="#azerbaijan-gri-55--56">Azerbaijan (GRI: 55 ↑ 56)</a> 
-</div><div><a href="#el salvador-gri-38--42">El Salvador (GRI: 38 ↑ 42)</a> 
-</div><div><a href="#guatemala-gri-50--57">Guatemala (GRI: 50 ↑ 57)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-26</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
 </div><div><a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a> 
 </div><div><a href="#italy-gri-64--81">Italy (GRI: 64 ↑ 81)</a> 
 </div><div><a href="#kazakhstan-gri-48--53">Kazakhstan (GRI: 48 ↑ 53)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
-</div><div><a href="#nigeria-gri-42--46">Nigeria (GRI: 42 ↑ 46)</a> 
-</div><div><a href="#timor-leste-gri-56--57">Timor-Leste (GRI: 56 ↑ 57)</a> 
+</div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-72--67">Canada (GRI: 72 ↓ 67)</a> 
-</div><div><a href="#greenland-gri-51--44">Greenland (GRI: 51 ↓ 44)</a> 
+</div><div><a href="#france-gri-53--52">France (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#mauritius-gri-68--63">Mauritius (GRI: 68 ↓ 63)</a> 
-</div><div><a href="#mexico-gri-48--44">Mexico (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#spain-gri-56--55">Spain (GRI: 56 ↓ 55)</a> 
@@ -112,103 +107,6 @@ Vaccinations being administered to vulnerable groups, key workers and
 people over 18 (A:, B: and C:) using Pfizer/Biontech, Astra-Zeneca
 Gamelaya and SinoVac.
 <http://web.archive.org/web/20210722083536/https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-1082424-vaksinime/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Azerbaijan (GRI: 55 ↑ 56)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Azerbaijan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Azerbaijan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-‘The Baku Metro is operating on its normal 06:00-23:59 schedule Mondays
-through Fridays; however, through at least the end of June, metro trains
-will not run on Saturdays and Sundays.’ There are mask-wearing
-requirements. (See Source 1, linked) ‘Most public transportation,
-including the Baku Metro, reopened on May 31, but will not operate on
-weekends’ (See Source 2, linked). Source 1:
-<https://web.archive.org/web/20210712230911/https://www.garda.com/crisis24/news-alerts/492741/azerbaijan-government-continuing-to-ease-covid-19-international-travel-restrictions-travel-from-seven-additional-countries-permitted-starting-june-21-update-33>
-Source 2:
-<https://web.archive.org/web/20210712231136/https://az.usembassy.gov/covid-19-information-for-azerbaijan/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Azerbaijan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Azerbaijan (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Mostly opened but not operating on weekends.
-<https://web.archive.org/web/20210723224413/https://az.usembassy.gov/covid-19-information-for-azerbaijan/>
 
 </td>
 
@@ -426,678 +324,7 @@ and Globe and Mail newspaper websites, archived:
 
 </div>
 
-### El Salvador (GRI: 38 ↑ 42)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of El
-Salvador (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of El
-Salvador (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Legislative Assembly of El Salvador on July 13th prohibited mass
-public and private concentrations for 90 days when the country registers
-a rise in daily cases of covid-19.
-<https://web.archive.org/web/20210719023812/https://cnnespanol.cnn.com/2021/07/13/el-salvador-prohibe-concentraciones-orix/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of El Salvador (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>very large</b> gatherings (over 1000 people); across
-<b>all</b> of El Salvador (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Legislative Assembly of El Salvador on July 13th prohibited mass
-public and private concentrations for 90 days when the country registers
-a rise in daily cases of covid-19.
-<https://web.archive.org/web/20210719023812/https://cnnespanol.cnn.com/2021/07/13/el-salvador-prohibe-concentraciones-orix/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Greenland (GRI: 51 ↓ 44)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Greenland
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Greenland (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restaurants, cafés and bars are open. You must present a corona passport
-when served inside restaurants, cafés and bars. It is not necessary to
-present a valid corona passport when served outdoors. Please note that
-restaurants, cafés and bars close no later than 2 am. All stores and
-shopping centres are open Museums, amusement parks, theatres, cinemas,
-venues, zoos, stadiums and other sports venues are open with infection
-prevention measures. All discos and nightclubs are closed
-<https://web.archive.org/web/20210718113654/https://en.coronasmitte.dk/rules-and-regulations>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Greenland (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Greenland (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No more than 250 people can gather at indoor events and activities
-simultaneously at the same location
-<https://web.archive.org/web/20210718113654/https://en.coronasmitte.dk/rules-and-regulations>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Greenland
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Greenland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policies found
-<https://web.archive.org/web/20210718113654/https://en.coronasmitte.dk/rules-and-regulations>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Greenland (4)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into
-Greenland (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Travelers must also present a negative COVID-19 PCR test result taken no
-more than 72 hours prior to travel into Greenland. If you have been
-vaccinated, you no longer need to be quarantined at home on arrival in
-Greenland, nor do you need to take a re-test after arrival. It should
-also be noted that you must still have performed a covid-19 test before
-entry. Travelers who are not fully vaccinated must quarantine for five
-days prior to taking their test. Travelers are not cleared to leave
-quarantine until receiving a negative COVID-19 test in Greenland.
-<https://web.archive.org/web/20210718112618/https://dk.usembassy.gov/u-s-citizen-services/security-and-travel-information/covid-19-information/>
-<https://web.archive.org/web/20210718112924/https://corona.nun.gl/emner/til_den_rejsende/indrejse_til_groenland?sc_lang=da>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Greenland (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Greenland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policies found
-<https://web.archive.org/web/20210718113654/https://en.coronasmitte.dk/rules-and-regulations>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Guatemala (GRI: 50 ↑ 57)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; in <b>some</b> parts of Guatemala (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Guatemala (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change in policy <https://archive.is/r4Ns4>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Guatemala (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of
-Guatemala (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change in policy <https://archive.is/r4Ns4>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Guatemala (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Guatemala (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Guatemalan government declared on Tuesday a "“state of prevention”"
-for the entire country, limiting outdoor meetings and public
-demonstrations, after a dramatic spike in the number of COVID-19 cases
-last week. <https://archive.ph/Mku6t>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Guatemala (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Guatemala (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Is public transportation operating? Yes.
-<http://web.archive.org/web/20210628163850/https://www.gov.uk/foreign-travel-advice/guatemala/coronavirus>
-<https://archive.is/r4Ns4>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Guatemala (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Guatemala (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Guatemalan government declared on Tuesday a "“state of prevention”"
-for the entire country, limiting outdoor meetings and public
-demonstrations, after a dramatic spike in the number of COVID-19 cases
-last week. <https://archive.ph/Mku6t>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### France (GRI: 53 ↓ 52)
 
 #### Facial Coverings (H6)
 
@@ -1115,13 +342,15 @@ last week. <https://archive.ph/Mku6t>
 
 <b>Old policy:</b>
 
-<b>No face mask measures</b> are present across all of Guatemala (0)
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; in <b>some</b> parts of
+France (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-13/7/2021  
+12/7/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -1130,16 +359,70 @@ last week. <https://archive.ph/Mku6t>
 
 <b>New policy:</b>
 
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Guatemala (4G)
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of France (3T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No change in policy
-<http://web.archive.org/web/20210628163850/https://www.gov.uk/foreign-travel-advice/guatemala/coronavirus>
-<https://archive.is/r4Ns4>
+In most of metropolitan France, masks are required in schools and in
+some situations where social distancing cannot be maintained (eg,
+markets, stadiums) -
+<https://web.archive.org/web/20210716204901/https://www.gouvernement.fr/info-coronavirus>
+In the Landes department, more restrictive mask-wearing requirements are
+in place until at least 21 July due to prevalence of the Delta variant
+Covid-19 virus - in addition to the national standard, masks are
+required to be worn in public in a specified list of popular tourist
+towns and locations
+<https://web.archive.org/web/20210716213845/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_evolution_des_mesures_de_lutte_contre_la_covid-19.pdf>
+For public events with less than 1000 people, wearing a mask is
+mandatory. For events of more than 1000 people where use of the Health
+Pass is required, wearing of masks is recommended but not required.
+<https://web.archive.org/web/20210716204901/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of France (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; in <b>some</b> parts of
+France (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change to update of 12 July, face coverings are required in public
+throughout France were social distancing cannot be maintained, with
+stricter measures implemented in Les Landes until at least 4 August -
+<https://web.archive.org/web/20210725210109/https://www.gouvernement.fr/info-coronavirus>
+and
+<https://web.archive.org/web/20210725210808/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_sanitaire_dans_les_landes-3.pdf>
 
 </td>
 
@@ -2227,8 +1510,6 @@ PCR test.
 
 </div>
 
-### Mexico (GRI: 48 ↓ 44)
-
 ### Netherlands (GRI: 52 ↓ 48)
 
 #### Debt/contract relief (E2)
@@ -2270,61 +1551,6 @@ Netherlands (1)
 <td style="text-align:left;min-width: 4in; ">
 
 <https://web.archive.org/web/20210722074416/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Nigeria (GRI: 42 ↑ 46)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Nigeria (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Nigeria (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The University of Lagos is currently closed down as a result of the
-spread of the Coronavirus. See: <http://archive.today/x5AaM>
 
 </td>
 
@@ -2382,6 +1608,282 @@ with significant operational differences; across <b>all</b> of Norway
 
 No information on closure found
 <https://web.archive.org/web/20210723114839/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### South Korea (GRI: 59 ↑ 60)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of South Korea (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of South Korea (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/LloYc> For Greater Seoul area, schools are required
+to close as of 14th July. (two days for buffer)
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+South Korea (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+South Korea (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/u7vrP> Weddings and funerals are strictly limited to
+immediate family members and relatives, with a maximum of 49 people.
+Sports events will run without spectators. Religious events will be
+moved online.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of South Korea (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of South Korea (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/LloYc> Restrictions: gatherings of four people
+before 6:00pm, gatherings of two people after 6:00pm, gatherings not
+allowed at all entertainment facilities, and multiuse facilities not
+allowed to operate after 10:00pm
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of South Korea (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of South Korea (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/LloYc>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) South Korea (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) South Korea (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/GppC9> South Korea kicked off COVID-19 vaccinations
+for people ages 55-59 on Monday
 
 </td>
 
@@ -2503,55 +2005,6 @@ Friday. It will last until at least July 23.”"
     from July 27. \* Bans to flights from India and Brazil were lifted
     on July 20. Source:
     <https://web.archive.org/web/20210723235636/https://travelbans.org/europe/spain/>
-    </td>
-    </tr>
-    </tbody>
-    </table>
-    </div>
-    </div>
-    #### Vaccination policy (H7)
-    <div id="table-div">
-    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-    <table class="table" style="margin-left: auto; margin-right: auto;">
-    <tbody>
-    <tr>
-    <td style="text-align:left;min-width: 2in; ">
-    <b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Spain (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Spain (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-  - A: Key workers, nationally covered. - B: clinically vulnerable
-    people are eligible for vaccination nationally. - C: People over 80
-    are fully covered at the national level with two doses. Almost full
-    coverage in 70 to 79 age group with two doses (97.9%). - Extended
-    coverage in 60-69, 50-59, 40-49 ages groups. - Medium coverage in
-    30-39 age group. - Low coverage in 20-29 age group. \* Vaccines
-    administered: Pfizer / BioNtech, Moderna, AstraZeneca / Oxford,
-    Jansenn. Source:
-    <https://web.archive.org/web/20210724002323/https://www.rtve.es/noticias/20210723/campana-vacunacion-espana/2062499.shtml>
     </td>
     </tr>
     </tbody>
@@ -2907,64 +2360,6 @@ Vaccines are broadly available to the public. The government has defined
 various priority groups, and it has proceeded to vaccinate individuals
 from all of them. More than 8,700,000 doses have been administered.
 <http://web.archive.org/web/20210724090432/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/impfen.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Timor-Leste (GRI: 56 ↑ 57)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Timor-Leste (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Timor-Leste (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-At the Meetings of the Council of Ministers on July 14 th, 2021 was
-informed that the rule about this indicator remain unchanged, See Timor
-Leste Government website, archived:
-<https://web.archive.org/web/20210719012255/http://timor-leste.gov.tl/?cat=10&lang=en>
 
 </td>
 
