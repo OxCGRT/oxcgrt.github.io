@@ -42,8 +42,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#kazakhstan-gri-48--53">Kazakhstan (GRI: 48 ↑ 53)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
+</div><div><a href="#mozambique-gri-50--52">Mozambique (GRI: 50 ↑ 52)</a> 
 </div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-72--67">Canada (GRI: 72 ↓ 67)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-72--64">Canada (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#france-gri-53--52">France (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#mauritius-gri-68--63">Mauritius (GRI: 68 ↓ 63)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
@@ -120,7 +121,7 @@ Gamelaya and SinoVac.
 
 </div>
 
-### Canada (GRI: 72 ↓ 67)
+### Canada (GRI: 72 ↓ 64)
 
 #### Workplace closing (C2)
 
@@ -238,6 +239,104 @@ differentiating between event participants based on vaccination status.
 See Province of Ontario and Retail Council of Canada websites, archived:
 <https://web.archive.org/web/20210715191008/https://news.ontario.ca/en/release/1000501/ontario-moving-to-step-three-of-roadmap-to-reopen-on-july-16>
 <https://web.archive.org/web/20210715191124/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>more than 50% income</b>; for <b>formal
+workers only</b> in Canada (2F)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>formal
+workers only</b> in Canada (1F)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Effective 18 july 2021, the government of Canada continues to pay the
+Canada Recovery Benefit (CRB) to self-employed Canadians who have lost
+income, but the benefit for new claimants is now C$300/week. The
+original C$500/week benefit level was about 50% of pre-crisis average
+weekly earnings (excluding overtime) of just over C$1,000/week. The new
+benefit level is just below 30% of pre-crisis average earnings. (Average
+weekly earnings of employed Canadians have increased significantly in
+part thanks to the reduction in employment in low-wage sectors such as
+hospitality that have been hit harder by the covid crisis.) Employment
+Insurance benefits and eligibility rules for formerly employed Canadians
+continue to be enhanced relative to pre-covid rules. See Government of
+Canada website, archived:
+<https://web.archive.org/web/20210725110959/https://www.canada.ca/en/revenue-agency/services/benefits/recovery-benefit.html>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>formal
+workers only</b> in Canada (1F)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is replacing <b>more than 50% income</b>; for <b>formal
+workers only</b> in Canada (2F)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
 
 </td>
 
@@ -1497,6 +1596,294 @@ Boarders opened to vaccinated and unvaccinated people, pending proof of
 PCR test.
 <https://web.archive.org/web/20210719114955/https://www.mymauritius.travel/mauritius-travel-alerts>
 <https://web.archive.org/web/20210719114544/https://mu.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mozambique (GRI: 50 ↑ 52)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Mozambique (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Mozambique (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In-person classes in primary, secondary and higher education are
+suspended for 30 days in the greater Maputo metropolitan area, including
+Manhiça, and in Xai-Xai, Inhambane city, Beira, Chimoio, Tete city and
+Dondo. Pre-school education is suspended for 30 days nationwide.
+<http://web.archive.org/web/20210726111650/https://mz.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Mozambique (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of
+Mozambique (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public institutions are open from 8:00 am to 2:00 pm, except for
+essential services, and the private sector is encouraged to follow the
+same measures. Shopping centers are open from 9:00 am to 4:00 pm from
+Monday to Saturday and from 9:00 am to 1:00 pm on Sundays and public
+holidays. Bottle stores are open from 9:00 am to 1:00 pm from Monday to
+Saturday and are closed on Sundays and public holidays. Restaurants,
+take-aways and home delivery services are open from 6:00 am to 6:00 pm.
+The stalls for the sale of food products are open from 6:00 am to 5:00
+pm, but the ban on the sale of alcoholic beverages from stalls remains.
+Bakeries and pastry shops are open from 5:00 am to 6:00 pm. Teleworking
+is recommended, in particular for people at higher risk.
+<http://web.archive.org/web/20210726111650/https://mz.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Mozambique (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Mozambique (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Ministry of Transport and Communications must define the maximum
+capacity in the different means of transport. Public transport operators
+are limited to the official capacity of the vehicle, and all passengers
+must use facemasks or visors.
+<http://web.archive.org/web/20210726111650/https://mz.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Mozambique (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Mozambique (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+COVID-19 tests are available at the following clinics in Maputo, paid
+for by the patient at the time of testing.
+<http://web.archive.org/web/20210726111650/https://mz.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Mozambique (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Mozambique (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The wearing of a protective facemask is compulsory in all public spaces.
+<http://web.archive.org/web/20210701164706/https://www.garda.com/crisis24/news-alerts/466831/mozambique-authorities-maintain-covid-19-restrictions-as-of-april-14-update-13>
 
 </td>
 
