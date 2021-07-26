@@ -39,21 +39,24 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-26</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
 </div><div><a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a> 
 </div><div><a href="#italy-gri-64--81">Italy (GRI: 64 ↑ 81)</a> 
-</div><div><a href="#kazakhstan-gri-48--53">Kazakhstan (GRI: 48 ↑ 53)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
+</div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
 </div><div><a href="#mozambique-gri-50--52">Mozambique (GRI: 50 ↑ 52)</a> 
 </div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-72--64">Canada (GRI: 72 ↓ 64)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
+</div><div><a href="#canada-gri-72--64">Canada (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#france-gri-53--52">France (GRI: 53 ↓ 52)</a> 
+</div><div><a href="#kazakhstan-gri-48--48">Kazakhstan (GRI: 48 ↓ 48)</a> 
 </div><div><a href="#mauritius-gri-68--63">Mauritius (GRI: 68 ↓ 63)</a> 
+</div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#spain-gri-56--55">Spain (GRI: 56 ↓ 55)</a> 
 </div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
-</div><div><a href="#uruguay-gri-60--59">Uruguay (GRI: 60 ↓ 59)</a> 
+</div><div><a href="#uruguay-gri-60--57">Uruguay (GRI: 60 ↓ 57)</a> 
 </div></div> <br/>
 -->
 
@@ -108,6 +111,230 @@ Vaccinations being administered to vulnerable groups, key workers and
 people over 18 (A:, B: and C:) using Pfizer/Biontech, Astra-Zeneca
 Gamelaya and SinoVac.
 <http://web.archive.org/web/20210722083536/https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-1082424-vaksinime/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Bosnia and Herzegovina (GRI: 42 ↓ 37)
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>all
+workers</b> in Bosnia and Herzegovina (1A)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>formal
+workers only</b> in Bosnia and Herzegovina (1F)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy change. Minimum wages provided to workers in affected sectors.
+Approximately 8% of the Covid-19 spending allocation is intended to
+provide support to households. Link:
+<https://web.archive.org/web/20210726173434/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+Bosnia and Herzegovina (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Bosnia and Herzegovina
+(0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy found. Link:
+<https://web.archive.org/web/20210726173434/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Bosnia and Herzegovina (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Bosnia and
+Herzegovina (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public Health Centers (Dom Zdravlja) test symptomatic individuals
+regardless of nationality, free of charge. Private and public clinics
+throughout BiH also perform PCR and serological COVID-19 tests at the
+cost of the individual. Link:
+<https://web.archive.org/web/20210726162737/https://ba.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; in
+<b>some</b> parts of Bosnia and Herzegovina (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Bosnia and Herzegovina (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+It is recommended that the elderly take extra precautions and avoid
+unnecessary travel or visits. Link:
+<https://web.archive.org/web/20210513093814/http://fbihvlada.gov.ba/bosanski/preporuke/Prilog_2_2.pdf>
 
 </td>
 
@@ -304,39 +531,6 @@ Insurance benefits and eligibility rules for formerly employed Canadians
 continue to be enhanced relative to pre-covid rules. See Government of
 Canada website, archived:
 <https://web.archive.org/web/20210725110959/https://www.canada.ca/en/revenue-agency/services/benefits/recovery-benefit.html>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>formal
-workers only</b> in Canada (1F)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>more than 50% income</b>; for <b>formal
-workers only</b> in Canada (2F)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
 
 </td>
 
@@ -993,7 +1187,61 @@ distancing can be guaranteed,
 
 </div>
 
-### Kazakhstan (GRI: 48 ↑ 53)
+### Kazakhstan (GRI: 48 ↑ 48)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Kazakhstan (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Kazakhstan (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Gatherings have a limit of 30 people in the West Kazakhstan region.
+<https://archive.vn/QXczL>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Close public transport (C5)
 
@@ -1036,6 +1284,222 @@ public transport; in <b>some</b> parts of Kazakhstan (2T)
 Public transport does not operate in Nur-Sultan, Shymkent, Atyrau
 region, and Karaganda region during weekends, due to lockdown imposed
 until further notice. <https://archive.vn/X0afB>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport does not operate in Nur-Sultan, Shymkent, Atyrau
+region, and Karaganda region during weekends, due to lockdown imposed
+until further notice. <https://archive.vn/X0afB>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport does not operate in Nur-Sultan, Shymkent, Atyrau
+region, and Karaganda region during weekends, due to lockdown imposed
+until further notice. <https://archive.vn/X0afB>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Shymkent city suspended public transport operations during weekends. In
+other regions, public transport operates normally.
+<https://archive.vn/QXczL>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No internal movement restrictions are in place.
+<https://archive.vn/QXczL>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No income support</b> is present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>formal
+workers only</b> in Kazakhstan (1F)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government announced that 42,500 KZT will be paid for those who lost
+their jobs during recent COVID-19 restrictions. However, this will be
+paid once and during a period of 20 July - 2 August.
+<https://archive.vn/9jjPv>
 
 </td>
 
@@ -1596,6 +2060,175 @@ Boarders opened to vaccinated and unvaccinated people, pending proof of
 PCR test.
 <https://web.archive.org/web/20210719114955/https://www.mymauritius.travel/mauritius-travel-alerts>
 <https://web.archive.org/web/20210719114544/https://mu.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mexico (GRI: 49 ↑ 50)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Mexico (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Mexico (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A,B,C: Pfizer-BioNTech, Cansino, COVAX, AstraZeneca, Sputnik V y
+Sinovac. The national strategy for COVID vaccination is organised in 5
+stages. Stage 3 (general population aged 50-59) was scheduled to start
+in April but due to delays in the supply of vaccines it was postponed to
+start May 2021. Stage 1: Front line health workers (Dec 2020-Feb 2021)
+Stage 2: Rest of health workers and elderly population (aged 60 and
+over) (Feb 2021-May 2021) Stage 3: General population aged 50-59 and
+pregnant women aged + 18 after their third month of pregnancy (May
+2021-June 2021) Stage 4: General population aged 40-49 (June 2021-July
+2021) Stage 5: rest of the population (July 2021-March 2022)
+<https://web.archive.org/web/20210721155052/https://coronavirus.gob.mx/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Mexico (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Mexico (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A,B,C: Pfizer-BioNTech, Cansino, COVAX, AstraZeneca, Sputnik V y
+Sinovac. The national strategy for COVID vaccination is organised in 5
+stages. Stage 3 (general population aged 50-59) was scheduled to start
+in April but due to delays in the supply of vaccines it was postponed to
+start May 2021. Stage 1: Front line health workers (Dec 2020-Feb 2021)
+Stage 2: Rest of health workers and elderly population (aged 60 and
+over) (Feb 2021-May 2021) Stage 3: General population aged 50-59 and
+pregnant women aged + 18 after their third month of pregnancy (May
+2021-June 2021) Stage 4: General population aged 40-49 (June 2021-July
+2021) Stage 5: rest of the population (July 2021-March 2022)
+<https://web.archive.org/web/20210726154845/https://coronavirus.gob.mx/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Monaco (GRI: 52 ↓ 50)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Monaco (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Monaco (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Educational establishments are open. Children over 5 years of age are
+required to wear a mask. Link:
+<https://web.archive.org/web/20210719195706/https://covid19.mc/en/measures-from-12-06-21/>
 
 </td>
 
@@ -3056,7 +3689,7 @@ other protections currently in place in England.
 
 </div>
 
-### Uruguay (GRI: 60 ↓ 59)
+### Uruguay (GRI: 60 ↓ 57)
 
 #### School closing (C1)
 
@@ -3099,6 +3732,63 @@ operational differences; across <b>all</b> of Uruguay (1G)
 
 The face-to-face return to classes is completed on the 19th.
 <https://web.archive.org/web/20210719134709/https://www.anep.edu.uy/15-d/el-lunes-19-anep-completar-el-regreso-presencialidad-con-educaci-n-media>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Uruguay (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Uruguay
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The workers of the public offices return to the presence after four
+months of virtuality. Sources:
+<https://web.archive.org/web/20210726182652/https://www.elobservador.com.uy/nota/las-recomendaciones-del-msp-para-el-retorno-a-la-presencialidad-en-oficinas-publicas-2021723201440>
+<https://web.archive.org/web/20210726182107/https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/noticias/Resolucio%CC%81n%20REINTEGRO%20PRESENCIALIDAD.pdf>
 
 </td>
 
