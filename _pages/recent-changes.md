@@ -38,6 +38,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-27</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
 </div><div><a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a> 
+</div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
 </div><div><a href="#italy-gri-80--81">Italy (GRI: 80 ↑ 81)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
@@ -795,6 +796,178 @@ Pfizer and Moderna Honduras began on July 15th the immunization of
 people between 45 and 49 years old with underlying diseases, informed
 the head of the Metropolitan Region of the Central District, Harry Bock.
 <https://web.archive.org/web/20210719054430/https://www.swissinfo.ch/spa/coronavirus-honduras_honduras-vacuna-a-su-poblaci%C3%B3n-de-entre-45-y-49-a%C3%B1os-con-enfermedades-de-base/46790868>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Iceland (GRI: 49 ↑ 58)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Iceland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Iceland
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Fitness centres, swimming pools and bathing facilities will be allowed
+to be open to 75% of the maximum number of allowed guests. Common
+equipment should be disinfected between users. Museums can admit 75% of
+the maximum number of allowed guests. Restaurants, bars etc. will close
+at 23:00 (places must be emptied before midnight) and the maximum number
+of guests will be 100 persons in each compartment. Alcoholic beverages
+shall be served to seated customers. Guests must be registered.
+<https://web.archive.org/web/20210727084800/https://www.government.is/news/article/2021/07/23/COVID-19-Restrictions-on-gatherings-as-of-25-July/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Iceland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Iceland (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Stage performances and comparable activities and functions are allowed
+with up to 100 persons on stage. The maximum number of people taking
+part in the activities of religious and philosophical organisations will
+be 200.
+<https://web.archive.org/web/20210727084800/https://www.government.is/news/article/2021/07/23/COVID-19-Restrictions-on-gatherings-as-of-25-July/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Iceland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Iceland (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The general limit of gatherings will be 200 persons. Children born in
+2016 and after will be exempt.
+<https://web.archive.org/web/20210727084800/https://www.government.is/news/article/2021/07/23/COVID-19-Restrictions-on-gatherings-as-of-25-July/>
 
 </td>
 
