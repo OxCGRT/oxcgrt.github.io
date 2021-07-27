@@ -36,15 +36,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-26</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-27</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#albania-gri-48--49">Albania (GRI: 48 ↑ 49)</a> 
 </div><div><a href="#honduras-gri-71--72">Honduras (GRI: 71 ↑ 72)</a> 
-</div><div><a href="#italy-gri-64--81">Italy (GRI: 64 ↑ 81)</a> 
+</div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
+</div><div><a href="#italy-gri-80--81">Italy (GRI: 80 ↑ 81)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
-</div><div><a href="#malta-gri-58--60">Malta (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
 </div><div><a href="#mozambique-gri-50--52">Mozambique (GRI: 50 ↑ 52)</a> 
 </div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-66--64">Belgium (GRI: 66 ↓ 64)</a> 
+</div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#canada-gri-72--64">Canada (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#france-gri-53--52">France (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#kazakhstan-gri-48--48">Kazakhstan (GRI: 48 ↓ 48)</a> 
@@ -53,7 +54,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#spain-gri-56--55">Spain (GRI: 56 ↓ 55)</a> 
-</div><div><a href="#sweden-gri-53--46">Sweden (GRI: 53 ↓ 46)</a> 
+</div><div><a href="#sweden-gri-55--46">Sweden (GRI: 55 ↓ 46)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--57">Uruguay (GRI: 60 ↓ 57)</a> 
@@ -123,6 +124,8 @@ Gamelaya and SinoVac.
 </div>
 
 </div>
+
+### Belgium (GRI: 66 ↓ 64)
 
 ### Bosnia and Herzegovina (GRI: 42 ↓ 37)
 
@@ -635,56 +638,6 @@ and Globe and Mail newspaper websites, archived:
 
 <b>Old policy:</b>
 
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; in <b>some</b> parts of
-France (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; in <b>some</b> parts of France (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In most of metropolitan France, masks are required in schools and in
-some situations where social distancing cannot be maintained (eg,
-markets, stadiums) -
-<https://web.archive.org/web/20210716204901/https://www.gouvernement.fr/info-coronavirus>
-In the Landes department, more restrictive mask-wearing requirements are
-in place until at least 21 July due to prevalence of the Delta variant
-Covid-19 virus - in addition to the national standard, masks are
-required to be worn in public in a specified list of popular tourist
-towns and locations
-<https://web.archive.org/web/20210716213845/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_evolution_des_mesures_de_lutte_contre_la_covid-19.pdf>
-For public events with less than 1000 people, wearing a mask is
-mandatory. For events of more than 1000 people where use of the Health
-Pass is required, wearing of masks is recommended but not required.
-<https://web.archive.org/web/20210716204901/https://www.gouvernement.fr/info-coronavirus>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Required</b> wearing of face masks in <b>all shared spaces</b>
 outside the home when other people are present <b>or</b> when social
 distancing not possible; in <b>some</b> parts of France (3T)
@@ -789,7 +742,85 @@ the head of the Metropolitan Region of the Central District, Harry Bock.
 
 </div>
 
-### Italy (GRI: 64 ↑ 81)
+### Israel (GRI: 50 ↑ 52)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Israel (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Israel (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Indoor events for 100 or more people are now only open to the
+vaccinated, recovered, or those who present a negative COVID-19 PCR test
+taken within 72 hours of the event. The Times of Israel reported: "“New
+restrictions on public life came into effect midnight Tuesday, limiting
+access to large indoor events and instating a raft of new fines for
+those violating health rules, as Israel strives to contain a recent rise
+in coronavirus infections.”“Under the new orders, the so-called Green
+Pass system, first used earlier this year, will be reinstated for indoor
+events attended by more than 100 people.”“Access to such gatherings is
+now limited to those who are vaccinated or have recovered, or who
+present a negative COVID-19 PCR test taken within 72 hours of the event.
+A rapid virus test can also be used if taken within the previous 24
+hours. While gatherings aren’t limited in size, face masks are
+mandatory, except when eating or drinking.”“Venues are required to have
+a dedicated coronavirus monitor who ensures that the rules are being
+followed and are required to post signs that they are operating under
+Green Pass rules, or face a NIS 3,000 fine ($911).”“Locations that have
+both indoor and open-air areas are considered indoor sites under the
+rules.”“Attendees who violate the rules will be fined NIS 1,000 ($303)
+while venue operators can face a NIS 10,000 fine for not checking that
+participants have the proper permits for entry.”“Police and inspectors
+from local authorities will check up on venues hosting events that fall
+under the rules to make sure they are complying.”" Sources:
+<https://web.archive.org/web/20210726212703/https://www.timesofisrael.com/some-restrictions-return-as-coronavirus-cases-continue-to-climb/>
+<https://archive.vn/kWTHv> \[Ministry of Health\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Italy (GRI: 80 ↑ 81)
 
 #### School closing (C1)
 
@@ -1513,117 +1544,7 @@ paid once and during a period of 20 July - 2 August.
 
 </div>
 
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; in <b>some</b> parts of
-Kazakhstan (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Lockdown imposed in 4 regions and there are no measures to protect
-elderly people. <https://archive.vn/X0afB>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Lesotho (GRI: 46 ↑ 54)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Lesotho (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Lesotho (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to an announcement from the Ministry of Education and
-Training, all schools are closed for winter break from June 27 to August
-1, 2021. No schools are allowed to open for winter classes.
-<https://web.archive.org/web/20210724235926/https://www.gov.ls/wp-content/uploads/2021/06/Circular-17-Basic-Education.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Cancel public events (C3)
 
@@ -1782,228 +1703,6 @@ According to the Purple Code Guidelines released by NACOSEC, starting
 July 24, 2021, vehicles are allowed to operate with limited capacity
 depending on the original capacity of the vehicle.
 <https://web.archive.org/web/20210725000343/https://www.gov.ls/wp-content/uploads/2021/07/PURPLE-COLOR-CODE-STAGE-1.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Lesotho (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Lesotho (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the U.S. Embassy in Lesotho, citizens can obtain a COVID-19
-test at their own expense at private clinics in Maseru for approximately
-USD 86. A paper copy of the results is usually available in 24 hours.
-<https://web.archive.org/web/20210725043315/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Lesotho (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Lesotho (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Masks are required in public spaces.
-<https://web.archive.org/web/20210725043315/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Lesotho (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No availability</b> is present across all of Lesotho (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The AstraZeneca vaccine is approved for use, however first doses are
-currently unavailable until more shots are procured.
-<https://web.archive.org/web/20210725040325/https://www.gov.uk/foreign-travel-advice/lesotho/coronavirus>
-<https://web.archive.org/web/20210725043315/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Malta (GRI: 58 ↑ 60)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Malta
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Malta (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Source:
-<http://web.archive.org/web/20210719060133/https://timesofmalta.com/articles/view/health-minister-to-speak-at-4pm-amid-rapid-rise-in-virus-cases.885415>
 
 </td>
 
@@ -2475,61 +2174,6 @@ for by the patient at the time of testing.
 
 </div>
 
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Mozambique (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Mozambique (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The wearing of a protective facemask is compulsory in all public spaces.
-<http://web.archive.org/web/20210701164706/https://www.garda.com/crisis24/news-alerts/466831/mozambique-authorities-maintain-covid-19-restrictions-as-of-april-14-update-13>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Netherlands (GRI: 52 ↓ 48)
 
 #### Debt/contract relief (E2)
@@ -2642,224 +2286,6 @@ No information on closure found
 </div>
 
 ### South Korea (GRI: 59 ↑ 60)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of South Korea (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of South Korea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://archive.is/LloYc> For Greater Seoul area, schools are required
-to close as of 14th July. (two days for buffer)
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
-South Korea (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-South Korea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://archive.is/u7vrP> Weddings and funerals are strictly limited to
-immediate family members and relatives, with a maximum of 49 people.
-Sports events will run without spectators. Religious events will be
-moved online.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of South Korea (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of South Korea (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://archive.is/LloYc> Restrictions: gatherings of four people
-before 6:00pm, gatherings of two people after 6:00pm, gatherings not
-allowed at all entertainment facilities, and multiuse facilities not
-allowed to operate after 10:00pm
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of South Korea (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of South Korea (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://archive.is/LloYc>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Vaccination policy (H7)
 
@@ -3031,7 +2457,7 @@ Friday. It will last until at least July 23.”"
     </table>
     </div>
     </div>
-    ### Sweden (GRI: 53 ↓ 46)
+    ### Sweden (GRI: 55 ↓ 46)
     #### Workplace closing (C2)
     <div id="table-div">
     <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
