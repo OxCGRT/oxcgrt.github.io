@@ -46,6 +46,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-66--64">Belgium (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
+</div><div><a href="#botswana-gri-57--56">Botswana (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#canada-gri-72--64">Canada (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#france-gri-53--52">France (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#kazakhstan-gri-48--48">Kazakhstan (GRI: 48 ↓ 48)</a> 
@@ -338,6 +339,71 @@ Bosnia and Herzegovina (1G)
 It is recommended that the elderly take extra precautions and avoid
 unnecessary travel or visits. Link:
 <https://web.archive.org/web/20210513093814/http://fbihvlada.gov.ba/bosanski/preporuke/Prilog_2_2.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Botswana (GRI: 57 ↓ 56)
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Botswana (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Botswana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Face coverings are compulsory in hotels and other accommodation. When
+entering the premises, you will also be need to have your temperature
+taken and sanitise your hands. The majority of shops, banks and
+restaurants continue to operate, with precautionary measures in place
+including the compulsory wearing of face coverings and a requirement to
+have your temperature taken and sanitise your hands. Masks are required
+at all times on public transportation.
+<https://web.archive.org/web/20210727065222/https://www.gov.uk/foreign-travel-advice/botswana/coronavirus>
+<https://web.archive.org/web/20210725002846/https://bw.usembassy.gov/covid-19-information/>
 
 </td>
 
