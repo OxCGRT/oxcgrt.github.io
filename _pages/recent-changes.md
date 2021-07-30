@@ -36,7 +36,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#france-gri-53--63">France (GRI: 53 ↑ 63)</a> 
+</div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
 </div><div><a href="#italy-gri-80--81">Italy (GRI: 80 ↑ 81)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
@@ -46,7 +47,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#botswana-gri-57--56">Botswana (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#canada-gri-67--64">Canada (GRI: 67 ↓ 64)</a> 
-</div><div><a href="#france-gri-53--52">France (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#kazakhstan-gri-53--48">Kazakhstan (GRI: 53 ↓ 48)</a> 
 </div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
@@ -622,7 +622,214 @@ and Globe and Mail newspaper websites, archived:
 
 </div>
 
-### France (GRI: 53 ↓ 52)
+### France (GRI: 53 ↑ 63)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of France (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of France (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In all departments of metropolitan France except Landes (see below),
+limitations on the number of people who can gather in public have been
+revoked as of 30 June.
+<https://web.archive.org/web/20210716211324/https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2021/05/dp-strategie-reouverture-annexe-v3.pdf>
+In the department of Landes, the prohibition on gatherings, meetings or
+activities on the public highway or in the places open to the public
+with more than twenty people at the same time will be maintained until
+at least 4 August due to high prevalence of the Delta variant virus -
+<https://web.archive.org/web/20210725210808/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_sanitaire_dans_les_landes-3.pdf>
+In the overseas territories of Guadaloupe and Martinique, a curfew will
+be enforced between 7pm and 5am from 30 July for at least 3 weeks. Any
+gathering of more than 10 people on the public highway is prohibited
+with the exception of official ceremonies, protest events, sports
+competitions of less than 50 competitors and events without catering
+authorized by the mayors in their municipalities. Religious worship and
+marriages may take place with two seats between each attendee or family
+group, and use of alternate seating rows.
+<https://web.archive.org/web/20210729174015/https://www.martinique.gouv.fr/Politiques-publiques/Environnement-sante-publique/Sante/Informations-COVID-19/La-Martinique-face-au-COVID-19-mesures-attestations-recommandations>
+and
+<https://web.archive.org/web/20210729162842/https://www.guadeloupe.gouv.fr/Politiques-publiques/Risques-naturels-technologiques-et-sanitaires/Securite-sanitaire/Informations-coronavirus/Mesures-regionales-pour-lutter-contre-la-degradation-epidemique-aigue-de-la-4eme-vague>
+Similar restrictions will be introduced in La Reunion from 31 July -
+<https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of France (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of France
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There is no recommendation to stay at home within metropolitan France
+<https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
+In Guadaloupe, a curfew is in place between 21:00 and 5:00 from 30 July
+-
+<https://web.archive.org/web/20210729162842/https://www.guadeloupe.gouv.fr/Politiques-publiques/Risques-naturels-technologiques-et-sanitaires/Securite-sanitaire/Informations-coronavirus/Mesures-regionales-pour-lutter-contre-la-degradation-epidemique-aigue-de-la-4eme-vague>
+In Martinique, a lockdown is in place from 19:00 to 5:00. From 5:00 to
+19:00, only travel within a radius of 10km is allowed from a person’s
+home, with exceptions for travel to work. Teleworking is recommended,
+whenever possible. Discotheques are closed. Restuarants are only allowed
+to serve customers at outdoor tables, or provide take-away services.
+Restuarants and bars located in enclosed shopping cetners over 5000m2
+are not allowed to open, unless only accessible from a public road.
+<https://web.archive.org/web/20210729174015/https://www.martinique.gouv.fr/Politiques-publiques/Environnement-sante-publique/Sante/Informations-COVID-19/La-Martinique-face-au-COVID-19-mesures-attestations-recommandations>
+In La Reunion from July 31, a lockdown will be enforced from from 18:00
+to 5:00. From 5:00 to 18:00, only travel within a radius of 10km on
+weekdays and 5km on weekends from a person’s home will be allowed,
+beyond which proof of compelling reason for travel will be required -
+<https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of France (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of France (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There is no restrictions on internal travel within metropolitan France
+<https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
+In Martinique, a lockdown is in place from 19:00 to 5:00. From 5:00 to
+19:00, only travel within a radius of 10km is allowed from a person’s
+home, with exceptions for travel to work. Teleworking is recommended,
+whenever
+possible.https://web.archive.org/web/20210729174015/<https://www.martinique.gouv.fr/Politiques-publiques/Environnement-sante-publique/Sante/Informations-COVID-19/La-Martinique-face-au-COVID-19-mesures-attestations-recommandations>
+In La Reunion from July 31, a lockdown will be enforced from from 18:00
+to 5:00. From 5:00 to 18:00, only travel within a radius of 10km on
+weekdays and 5km on weekends from a person’s home will be allowed,
+beyond which proof of compelling reason for travel will be required-
+<https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Facial Coverings (H6)
 
@@ -671,6 +878,72 @@ stricter measures implemented in Les Landes until at least 4 August -
 <https://web.archive.org/web/20210725210109/https://www.gouvernement.fr/info-coronavirus>
 and
 <https://web.archive.org/web/20210725210808/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_sanitaire_dans_les_landes-3.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of France (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Since 21 July, a new protocol provides in long-term care facilities for
+the elderly. Measures for the protection of residents implemented are
+the same as in the general population, with additional safeguards
+including: - It is no longer required to complete a self-questionnaire
+on arrival. The traceability register is maintained; - Outings are
+allowed, without limiting collective activities on return (except in the
+case of risky contact), but maintaining screenings for unvaccinated
+residents; - Day receptions are open normally. - Visits by relatives can
+now be done without an appointment, in the room as in collective spaces.
+They will be organized in such a way that distancing is respected from
+other residents/families of residents. Vaccination is mandatory for all
+people in contact with frail people (caregivers, non-caregivers,
+professionals and volunteers).
+<https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
 
 </td>
 
