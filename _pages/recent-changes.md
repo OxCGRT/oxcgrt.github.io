@@ -36,21 +36,21 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#france-gri-53--63">France (GRI: 53 ↑ 63)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
 </div><div><a href="#italy-gri-80--81">Italy (GRI: 80 ↑ 81)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
+</div><div><a href="#norway-gri-57--58">Norway (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-66--64">Belgium (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#botswana-gri-57--56">Botswana (GRI: 57 ↓ 56)</a> 
-</div><div><a href="#canada-gri-67--64">Canada (GRI: 67 ↓ 64)</a> 
+</div><div><a href="#canada-gri-67--60">Canada (GRI: 67 ↓ 60)</a> 
 </div><div><a href="#kazakhstan-gri-53--48">Kazakhstan (GRI: 53 ↓ 48)</a> 
 </div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
-</div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#spain-gri-57--55">Spain (GRI: 57 ↓ 55)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
@@ -353,7 +353,7 @@ at all times on public transportation.
 
 </div>
 
-### Canada (GRI: 67 ↓ 64)
+### Canada (GRI: 67 ↓ 60)
 
 #### Workplace closing (C2)
 
@@ -549,6 +549,74 @@ Canada website, archived:
 
 </div>
 
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Canada (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Canada (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of 29 july 2021, government of Canada guidance that when individuals
+“test positive for COVID-19, a public health official will ask you
+questions to collect important information about your symptoms;
+activities and travel you did before you tested positive; all the people
+you may have been in close contact with while you were contagious
+…contact tracing. It’s a key public health measure.” Provinces and
+territories have been applying this advice. However, in the province of
+Alberta: “Starting July 29 All positive tests will continue to be
+notified. Contact tracers will not notify close contacts of positive
+cases, but will ask that individuals do so when informed of their
+positive result. Contact tracers will continue to investigate cases in
+high-risk settings, such as acute and continuing care.” See Government
+of Canada and Province of Alberta websites, archived:
+<https://web.archive.org/web/20210729160005/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/testing.html>
+<https://web.archive.org/web/20210730133310/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html>
+<https://web.archive.org/web/20210729180943/https://www.alberta.ca/covid-19-public-health-actions.aspx>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Protection of elderly people (H8)
 
 <div id="table-div">
@@ -622,7 +690,7 @@ and Globe and Mail newspaper websites, archived:
 
 </div>
 
-### France (GRI: 53 ↑ 63)
+### France (GRI: 53 ↑ 65)
 
 #### Restrictions on gatherings (C4)
 
@@ -818,66 +886,6 @@ to 5:00. From 5:00 to 18:00, only travel within a radius of 10km on
 weekdays and 5km on weekends from a person’s home will be allowed,
 beyond which proof of compelling reason for travel will be required-
 <https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; in <b>some</b> parts of France (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; in <b>some</b> parts of
-France (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change to update of 12 July, face coverings are required in public
-throughout France were social distancing cannot be maintained, with
-stricter measures implemented in Les Landes until at least 4 August -
-<https://web.archive.org/web/20210725210109/https://www.gouvernement.fr/info-coronavirus>
-and
-<https://web.archive.org/web/20210725210808/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_sanitaire_dans_les_landes-3.pdf>
 
 </td>
 
@@ -1943,7 +1951,7 @@ Netherlands (1)
 
 </div>
 
-### Norway (GRI: 57 ↓ 56)
+### Norway (GRI: 57 ↑ 58)
 
 #### Workplace closing (C2)
 
@@ -1987,6 +1995,68 @@ with significant operational differences; across <b>all</b> of Norway
 
 No information on closure found
 <https://web.archive.org/web/20210723114839/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Norway (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Norway (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“Authorities are maintaining measures imposed to combat the spread of
+COVID-19 as of July 26. Private indoor gatherings remain limited to 20
+people; the limit does not apply to fully vaccinated individuals.
+Nonessential businesses and services may operate, albeit subject to
+strict social distancing and capacity measures. Individuals are advised
+to limit their social contact and avoid all nonessential travel.
+Protective facemasks are recommended rather than mandatory.
+Municipalities with higher rates of infection may impose stricter
+measures within their jurisdictions.”"
+<https://web.archive.org/web/20210730145115/https://www.garda.com/crisis24/news-alerts/506321/norway-authorities-maintaining-covid-19-restrictions-as-of-july-26-update-47>
 
 </td>
 
