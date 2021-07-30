@@ -36,10 +36,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
+</div><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
-</div><div><a href="#italy-gri-80--81">Italy (GRI: 80 ↑ 81)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
 </div><div><a href="#norway-gri-57--58">Norway (GRI: 57 ↑ 58)</a> 
@@ -48,6 +48,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#botswana-gri-57--56">Botswana (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#canada-gri-67--60">Canada (GRI: 67 ↓ 60)</a> 
+</div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#kazakhstan-gri-53--48">Kazakhstan (GRI: 53 ↓ 48)</a> 
 </div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
@@ -61,6 +62,74 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
+
+### Australia (GRI: 63 ↑ 64)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Australia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Australia
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+NSW: no change in policy - stay at home orders are still in place and
+are now being enforced by the military. "“Australia has deployed
+hundreds of soldiers to Sydney to help enforce a Covid lockdown. A Delta
+outbreak which began in June has produced nearly 3,000 infections and
+led to nine deaths. Australian Defence Force soldiers will undergo
+training on the weekend before beginning unarmed patrols on Monday. But
+many have questioned whether the military intervention is necessary,
+calling it heavy-handed. The lockdown - in place until at least 28
+August - bars people from leaving their home except for essential
+exercise, shopping, caregiving and other reasons.”" see here:
+<https://web.archive.org/web/20210730183855/https://www.bbc.com/news/world-australia-58021718>
+<https://www.web.archive.org/web/20210730184047/https://www.nsw.gov.au/covid-19/rules/greater-sydney>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Belgium (GRI: 66 ↓ 64)
 
@@ -1215,7 +1284,342 @@ under the rules to make sure they are complying.”" Sources:
 
 </div>
 
-### Italy (GRI: 80 ↑ 81)
+### Italy (GRI: 80 ↓ 62)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of Italy (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+in presence schooling is possible in white zones, no more local red
+zones in place from 30th July
+<https://web.archive.org/web/20210724113547/https://qds.it/covid-zona-rossa-sicilia-parametri/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Italy (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Italy (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+some businesses still closed: discos are still closed and probably won’t
+be able to open from Aug 6th when green passes will allow businesses to
+remain open
+<https://web.archive.org/web/20210724190852/https://www.fanpage.it/politica/decreto-covid-le-discoteche-restano-chiuse-non-basta-il-green-pass-per-la-riapertura/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Italy (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+events are possible in white zones with restrictions on the number of
+participants and special hygiene and distancing measures, no mention to
+exemptions for vaccinated people
+<https://web.archive.org/web/20210615074201/https://www.puntosicuro.it/sicurezza-sul-lavoro-C-1/coronavirus-covid19-C-131/covid-19-nuove-aree-bianche-novita-per-congressi-grandi-eventi-AR-21345/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Italy (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+For events or people gatherings in the open air the maximum number of
+participants is 1000, the maximum is 500 for events in closed spaces
+<https://web.archive.org/web/20210624190713/http://www.sport.governo.it/media/2687/linee-guida-per-eventi-sportivi_1-giugno-2021_light-ms-002.pdf>
+Restrictions on the max number of participants for events are
+irrespective of the vaccination status of participants
+<http://web.archive.org/web/20210709163607/https://www.gazzettaufficiale.it/eli/id/2021/06/08/21A03452/sg>
+the is no restriction on the max number of visitors for private
+gatherings at home
+<https://web.archive.org/web/20210716052516/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Italy
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Italy (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+white zones don’t have requirements to stay at home:
+<https://web.archive.org/web/20210730052429/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Italy (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Italy (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+white zones don’t have restrictions for internal movement:
+<https://web.archive.org/web/20210730052429/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Facial Coverings (H6)
 
@@ -1264,6 +1668,45 @@ green passes
 in white zones masks can now be removed in the open air if social
 distancing can be guaranteed,
 <https://web.archive.org/web/20210703024443/https://www.romatoday.it/attualita/mascherine-obbligatorie-quando.html>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of Italy (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Italy (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+in white zones masks are required only in closed spaces, in the open air
+they are required when distancing is not possible no exemptions apply
+<https://web.archive.org/web/20210730052429/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
 
 </td>
 
