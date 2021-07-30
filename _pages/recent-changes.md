@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-29</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
 </div><div><a href="#italy-gri-80--81">Italy (GRI: 80 ↑ 81)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
@@ -47,11 +47,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#botswana-gri-57--56">Botswana (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#canada-gri-67--64">Canada (GRI: 67 ↓ 64)</a> 
 </div><div><a href="#france-gri-53--52">France (GRI: 53 ↓ 52)</a> 
-</div><div><a href="#kazakhstan-gri-48--48">Kazakhstan (GRI: 48 ↓ 48)</a> 
+</div><div><a href="#kazakhstan-gri-53--48">Kazakhstan (GRI: 53 ↓ 48)</a> 
 </div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#norway-gri-57--56">Norway (GRI: 57 ↓ 56)</a> 
-</div><div><a href="#spain-gri-56--55">Spain (GRI: 56 ↓ 55)</a> 
+</div><div><a href="#spain-gri-57--55">Spain (GRI: 57 ↓ 55)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--57">Uruguay (GRI: 60 ↓ 57)</a> 
@@ -996,7 +996,7 @@ distancing can be guaranteed,
 
 </div>
 
-### Kazakhstan (GRI: 48 ↑ 48)
+### Kazakhstan (GRI: 53 ↓ 48)
 
 #### Restrictions on gatherings (C4)
 
@@ -1785,7 +1785,7 @@ for people ages 55-59 on Monday
 
 </div>
 
-### Spain (GRI: 56 ↓ 55)
+### Spain (GRI: 57 ↓ 55)
 
 #### Stay at home requirements (C6)
 
