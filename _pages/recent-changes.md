@@ -53,6 +53,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#kazakhstan-gri-53--48">Kazakhstan (GRI: 53 ↓ 48)</a> 
 </div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
+</div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#spain-gri-57--55">Spain (GRI: 57 ↓ 55)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
@@ -2477,6 +2478,61 @@ Protective facemasks are recommended rather than mandatory.
 Municipalities with higher rates of infection may impose stricter
 measures within their jurisdictions.”"
 <https://web.archive.org/web/20210730145115/https://www.garda.com/crisis24/news-alerts/506321/norway-authorities-maintaining-covid-19-restrictions-as-of-july-26-update-47>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Poland (GRI: 56 ↓ 53)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Poland (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Poland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Are there restrictions on intercity or interstate travel? No
+<https://web.archive.org/web/20210730044030/https://pl.usembassy.gov/covid-19-information/>
 
 </td>
 
