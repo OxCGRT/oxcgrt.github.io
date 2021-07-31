@@ -36,7 +36,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-31</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
+</div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
@@ -47,7 +48,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-66--64">Belgium (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#botswana-gri-57--56">Botswana (GRI: 57 ↓ 56)</a> 
-</div><div><a href="#canada-gri-67--60">Canada (GRI: 67 ↓ 60)</a> 
+</div><div><a href="#canada-gri-64--60">Canada (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#kazakhstan-gri-53--48">Kazakhstan (GRI: 53 ↓ 48)</a> 
 </div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
@@ -422,136 +423,7 @@ at all times on public transportation.
 
 </div>
 
-### Canada (GRI: 67 ↓ 60)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Canada
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 16 july 2021, Ontario became the last province to allow indoor
-shopping malls, fitness studios and indoor dining to open with public
-health guidelines in force. The three westernmost provinces have removed
-many covid-related public health guidelines for business operations. No
-jurisdiction is setting rules differentiating between business owners,
-employees or customers based on vaccination status. See See Province of
-Ontario and Retail Council of Canada websites, archived:
-<https://web.archive.org/web/20210715191008/https://news.ontario.ca/en/release/1000501/ontario-moving-to-step-three-of-roadmap-to-reopen-on-july-16>
-<https://web.archive.org/web/20210715191124/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
-Canada (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 16 July 2021, the rules set by each province and territory vary.
-Ontario became the last province to allow indoor public events: “Indoor
-meeting and event spaces permitted to operate with physical distancing
-and other restrictions still in effect and capacity limited to not
-exceed 50 per cent capacity or 1,000 people, (whichever is less)”.
-Effective 1 July, the province of Alberta removed capacity and other
-limits on all public events in favour of optional guidelines for
-distancing and record-keeping. Effective 11 July, Saskatchewan
-implemented “the removal of limits on events”. In other provinces and
-territories, public events are permitted with capacity limits, mask
-requirements and other guidelines. No jurisdiction is setting rules
-differentiating between event participants based on vaccination status.
-See Province of Ontario and Retail Council of Canada websites, archived:
-<https://web.archive.org/web/20210715191008/https://news.ontario.ca/en/release/1000501/ontario-moving-to-step-three-of-roadmap-to-reopen-on-july-16>
-<https://web.archive.org/web/20210715191124/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Canada (GRI: 64 ↓ 60)
 
 #### Income support (E1)
 
@@ -686,7 +558,9 @@ of Canada and Province of Alberta websites, archived:
 
 </div>
 
-#### Protection of elderly people (H8)
+### Cyprus (GRI: 62 ↑ 65)
+
+#### Close public transport (C5)
 
 <div id="table-div">
 
@@ -702,14 +576,75 @@ of Canada and Province of Alberta websites, archived:
 
 <b>Old policy:</b>
 
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Canada (2G)
+<b>No measures</b> are present across all of Cyprus (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-16/7/2021  
+27/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Cyprus (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport is generally accessible, however, the use of facemask
+is necessary while employees and passengers aged 12 and above should
+hold either a negative laboratory test or a rapid antigen test for
+Covid-19 performed within 72 hours, or a certificate of vaccination
+against Covid-19 for at least one dose and provided that three weeks
+have elapsed after the date of vaccination or a proof of release for
+those infected with Covid-19 and provided that a period of six months
+has not elapsed since the date of the initial positive diagnosis, or an
+EU Digital COVID Certificate See Decree 31 Archived:
+<https://web.archive.org/web/20210730224211/https://www.pio.gov.cy/coronavirus/uploads/19072021_Decree%20No%2031%20EN.pdf>
+<https://web.archive.org/web/20210730231516/https://www.pio.gov.cy/en/press-releases-article.html?id=21710>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Cyprus (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -718,34 +653,76 @@ of Canada and Province of Alberta websites, archived:
 
 <b>New policy:</b>
 
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of Canada (2T)
+<b>No measures</b> are present across all of Cyprus (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-On 16 july 2021, the provincial and territorial governments continue to
-be responsible for regulating long-term care (LTC) homes with the
-government of Canada providing guidance to protect residents and staff
-from covid-19. Effective 16 July, Ontario, Canada’s most populous
-province, “is lifting mandatory COVID-19 testing for fully vaccinated
-visitors, caregivers and staff at long-term care homes … \[and\] limits
-on visitors, …buffet dining, resident absences, off-site excursions and
-activities such as singing and dancing…Partly vaccinated or unvaccinated
-people will still need to be tested … The province has also made it
-mandatory that staff in long-term care disclose their COVID-19
-vaccination status…Personal care services like haircuts have also
-resumed and a limit on designated caregivers has been lifted.” Other
-provinces and territories have gradually relaxed earlier restrictions in
-long-term care homes, but not to the same extent as Ontario. New
-Brunswick (NB) has tighter restrictions on less-than-fully vaccinated
-LTC residents, non-Atlantic visitors and staff returning from trips
-outside the Atlantic provinces. See Government of Canada, Province of NB
-and Globe and Mail newspaper websites, archived:
-<https://web.archive.org/web/20210715103823/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevent-control-covid-19-long-term-care-homes.html>
-<https://web.archive.org/web/20210712223921/https://www2.gnb.ca/content/dam/gnb/Departments/h-s/pdf/Measures_RestrictionsNH_ARF.pdf>
-<https://web.archive.org/web/20210715103335/https://www.theglobeandmail.com/canada/article-people-fully-vaccinated-wont-need-covid-19-tests-to-enter-ontario-ltc/>
+No change in policy. Nationwide curfew was lifted on June 10 Archived:
+<https://web.archive.org/web/20210730231724/https://www.garda.com/crisis24/news-alerts/488786/cyprus-authorities-ease-domestic-covid-19-related-restrictions-as-of-june-10-update-39>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Cyprus (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cyprus
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Cyprus follows a colour-coded system which grades countries into GREEN,
+ORANGE, RED & GREY. Persons travelling from countries labelled GREEN
+require a Cyprus Flight Pass completion 48h prior to departure, those
+coming from countries labelled ORANGE require the flight pass in
+addition to a PCR test 72 hours prior to departure. Those in the
+countries labelled RED require a flight pass, a PCR test 72 hours prior
+to departure, and a PCR test on arrival in Cyprus. People coming from
+countries labelled GREY require a flight pass, a PCR test 72 hours prior
+to departure, a PCR test on arrival in Cyprus and are also required
+mandatorily to self-isolate upon arrival. Archived:
+<https://web.archive.org/web/20210730232930/https://www.visitcyprus.com/files/COVID-19_Destination_Protocol_Cyprus_-1st_July_21_FINAL.pdf>
 
 </td>
 
