@@ -53,6 +53,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
+</div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
 </div><div><a href="#spain-gri-57--55">Spain (GRI: 57 ↓ 55)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#uruguay-gri-59--57">Uruguay (GRI: 59 ↓ 57)</a> 
@@ -2374,6 +2375,348 @@ of Poland (1G)
 
 Are there restrictions on intercity or interstate travel? No
 <https://web.archive.org/web/20210730044030/https://pl.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### South Africa (GRI: 72 ↓ 63)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of South Africa (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of South Africa (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to government website, schools are set to reopen on July 26,
+2021. The website also states: "“The Cabinet member responsible for
+basic education may, in directions, further announce measures related to
+the management and reduction of risk at schools in the basic education
+sector, in order to address, prevent and combat the spread of
+COVID-19.”"
+<https://web.archive.org/web/20210801035609/https://www.gov.za/about-sa/school-calendar>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of South
+Africa (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+South Africa (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the government website and the U.S. Embassy in South
+Africa, the South African government updated the lockdown alert level to
+Level 3. Indoor and outdoor gatherings are now permitted with public
+health regulations such as mask wearing and capacity limits.
+<https://web.archive.org/web/20210801040606/https://za.usembassy.gov/covid-19-information-2/>
+<https://web.archive.org/web/20210801042939/https://www.gov.za/covid-19/alert-level-3-coronavirus-covid-19-lockdown>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of South Africa (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of South Africa (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the government website and the U.S. Embassy in South
+Africa, the South African government updated the lockdown alert level to
+Level 3. Indoor gatherings and funerals have a limit of 50% capacity up
+to 50 people. Outdoor gatherings are limited at 100 people. Social
+distancing and health precautions are required.
+<https://web.archive.org/web/20210801040606/https://za.usembassy.gov/covid-19-information-2/>
+<https://web.archive.org/web/20210801042939/https://www.gov.za/covid-19/alert-level-3-coronavirus-covid-19-lockdown>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of South Africa (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of South Africa (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the South Africa government website, inter-provincial
+travel is permitted.
+<https://web.archive.org/web/20210801042939/https://www.gov.za/covid-19/alert-level-3-coronavirus-covid-19-lockdown>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No income support</b> is present across all of South Africa (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>all
+workers</b> in South Africa (1A)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Social grants of R350 per month appear to still be available on the
+government website.
+<https://web.archive.org/web/20210801045410/https://www.gov.za/covid-19/individuals-and-households/social-grants-coronavirus-covid-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA South Africa (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA South Africa
+(3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the U.S. Embassy in South Africa, PCR testing is widely
+available. There are some private enterprises running COVID-19 testing
+with a price around $80-100 USD. Hospitals will generally only conduct
+COVID-19 tests for incoming patients in possession of a doctor’s letter.
+<https://web.archive.org/web/20210801040606/https://za.usembassy.gov/covid-19-information-2/>
 
 </td>
 
