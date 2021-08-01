@@ -36,28 +36,26 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-07-31</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-01</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
 </div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
+</div><div><a href="#kazakhstan-gri-43--48">Kazakhstan (GRI: 43 ↑ 48)</a> 
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
 </div><div><a href="#norway-gri-57--58">Norway (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
+</div><div><a href="#ukraine-gri-50--52">Ukraine (GRI: 50 ↑ 52)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-66--64">Belgium (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
-</div><div><a href="#botswana-gri-57--56">Botswana (GRI: 57 ↓ 56)</a> 
 </div><div><a href="#canada-gri-64--60">Canada (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
-</div><div><a href="#kazakhstan-gri-53--48">Kazakhstan (GRI: 53 ↓ 48)</a> 
-</div><div><a href="#monaco-gri-52--50">Monaco (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#spain-gri-57--55">Spain (GRI: 57 ↓ 55)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
-</div><div><a href="#united kingdom-gri-64--58">United Kingdom (GRI: 64 ↓ 58)</a> 
-</div><div><a href="#uruguay-gri-60--57">Uruguay (GRI: 60 ↓ 57)</a> 
+</div><div><a href="#uruguay-gri-59--57">Uruguay (GRI: 59 ↓ 57)</a> 
 </div></div> <br/>
 -->
 
@@ -346,71 +344,6 @@ Bosnia and Herzegovina (1G)
 It is recommended that the elderly take extra precautions and avoid
 unnecessary travel or visits. Link:
 <https://web.archive.org/web/20210513093814/http://fbihvlada.gov.ba/bosanski/preporuke/Prilog_2_2.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Botswana (GRI: 57 ↓ 56)
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Botswana (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Botswana (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Face coverings are compulsory in hotels and other accommodation. When
-entering the premises, you will also be need to have your temperature
-taken and sanitise your hands. The majority of shops, banks and
-restaurants continue to operate, with precautionary measures in place
-including the compulsory wearing of face coverings and a requirement to
-have your temperature taken and sanitise your hands. Masks are required
-at all times on public transportation.
-<https://web.archive.org/web/20210727065222/https://www.gov.uk/foreign-travel-advice/botswana/coronavirus>
-<https://web.archive.org/web/20210725002846/https://bw.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -1698,7 +1631,7 @@ they are required when distancing is not possible no exemptions apply
 
 </div>
 
-### Kazakhstan (GRI: 53 ↓ 48)
+### Kazakhstan (GRI: 43 ↑ 48)
 
 #### Restrictions on gatherings (C4)
 
@@ -1763,42 +1696,6 @@ Gatherings have a limit of 30 people in the West Kazakhstan region.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not operate in Nur-Sultan, Shymkent, Atyrau
-region, and Karaganda region during weekends, due to lockdown imposed
-until further notice. <https://archive.vn/X0afB>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -2262,62 +2159,6 @@ pregnant women aged + 18 after their third month of pregnancy (May
 
 </div>
 
-### Monaco (GRI: 52 ↓ 50)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Monaco (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Monaco (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Educational establishments are open. Children over 5 years of age are
-required to wear a mask. Link:
-<https://web.archive.org/web/20210719195706/https://covid19.mc/en/measures-from-12-06-21/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Netherlands (GRI: 52 ↓ 48)
 
 #### Debt/contract relief (E2)
@@ -2606,64 +2447,6 @@ for people ages 55-59 on Monday
 
 ### Spain (GRI: 57 ↓ 55)
 
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Spain (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Spain
-(2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Catalonia reinstates curfew from Saturday, July 17: "“The curfew is to
-run from 01:00 to 06:00 in towns or cities of more than 5,000 residents
-in which the incidence rate exceeds 400 COVID-19 cases per 100,000
-population, the Superior Court of Justice of Catalonia announced on
-Friday. It will last until at least July 23.”"
-<https://web.archive.org/web/20210719132115/https://www.euronews.com/2021/07/16/spain-curfew-restored-in-catalonia-as-covid-19-cases-soar>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### International travel controls (C8)
 
 <div id="table-div">
@@ -2827,246 +2610,7 @@ from all of them. More than 8,700,000 doses have been administered.
 
 </div>
 
-### United Kingdom (GRI: 64 ↓ 58)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of United Kingdom (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of United Kingdom (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In England, businesses are now all open, including nightclubs. While it
-is recommended that nightclubs use a COVID-19 immunity pass, there is no
-legal requirement to do so, so there are no measures or exemptions in
-place as anyone can access any business. "“There are now no limits on
-how many people can meet or attend events, nightclubs reopened at
-midnight, and table service will not be necessary in pubs and
-restaurants.”" Required closure sectors remain in other devolved
-nations.
-<https://web.archive.org/web/20210719082844if_/https://www.bbc.com/news/uk-57882029>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-United Kingdom (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
-United Kingdom (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In England, "“there are now no limits on how many people can meet or
-attend events…”"
-<https://web.archive.org/web/20210719082844if_/https://www.bbc.com/news/uk-57882029>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of United Kingdom (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of United Kingdom (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In England, "“face coverings will be recommended in some spaces, but not
-required by law”" at national level. However, face masks still required
-in London, coded as 0 as per interpretation guidance. However, reduced
-capacity for trains in Scotland remains, to coding 1T for GBR "“In the
-capital, passengers on all Transport for London (TfL) services -
-including the Tube, bus, tram, Docklands Light Railway, Overground and
-TfL Rail - will need to keep wearing a face covering in stations and for
-their entire journey unless they are exempt. Enforcement officers in
-London will be able to deny access or eject passengers who are found to
-not be complying with the mask requirement.”"
-<https://web.archive.org/web/20210719082844if_/https://www.bbc.com/news/uk-57882029>
-<https://web.archive.org/web/20210719084152/https://news.sky.com/story/covid-19-what-are-the-rules-on-wearing-face-masks-in-england-from-today-12357181>
-<https://web.archive.org/web/20210720101408/https://www.transport.gov.scot/travelling-during-covid-19/using-public-transport-in-scotland-during-covid-19/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of United Kingdom (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; in <b>some</b> parts of United Kingdom (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Face masks no longer required in England (except London public
-transport).
-<https://web.archive.org/web/20210719082844if_/https://www.bbc.com/news/uk-57882029>
-<https://web.archive.org/web/20210719084152/https://news.sky.com/story/covid-19-what-are-the-rules-on-wearing-face-masks-in-england-from-today-12357181>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Ukraine (GRI: 50 ↑ 52)
 
 #### Protection of elderly people (H8)
 
@@ -3085,13 +2629,13 @@ transport).
 <b>Old policy:</b>
 
 <b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of United Kingdom (2G)
+<b>all</b> of Ukraine (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/7/2021  
+21/7/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -3100,16 +2644,17 @@ transport).
 
 <b>New policy:</b>
 
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of United Kingdom (2T)
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Ukraine (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-In England, limits on care home visits have been removed. No evidence of
-other protections currently in place in England.
-<https://web.archive.org/web/20210718175822if_/https://www.bbc.com/news/explainers-52530518>
+After a year in lockdown, elderly people in Ukraine are looking forward
+to seeing their families once more, thanks to the COVID-19 vaccine.
+<https://archive.ph/NscXM>
 
 </td>
 
@@ -3123,7 +2668,7 @@ other protections currently in place in England.
 
 </div>
 
-### Uruguay (GRI: 60 ↓ 57)
+### Uruguay (GRI: 59 ↓ 57)
 
 #### School closing (C1)
 
