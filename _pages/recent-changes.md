@@ -45,13 +45,14 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
 </div><div><a href="#norway-gri-57--58">Norway (GRI: 57 ↑ 58)</a> 
-</div><div><a href="#south korea-gri-59--60">South Korea (GRI: 59 ↑ 60)</a> 
+</div><div><a href="#south korea-gri-59--64">South Korea (GRI: 59 ↑ 64)</a> 
 </div><div><a href="#ukraine-gri-50--52">Ukraine (GRI: 50 ↑ 52)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-66--64">Belgium (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#canada-gri-64--60">Canada (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
+</div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
 </div><div><a href="#spain-gri-57--55">Spain (GRI: 57 ↓ 55)</a> 
@@ -1465,7 +1466,8 @@ grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Italy
 
 <td style="text-align:left;min-width: 4in; ">
 
-white zones don’t have requirements to stay at home:
+Local red zones are no longer in place after the 29th of July. White
+zones don’t have requirements to stay at home:
 <https://web.archive.org/web/20210730052429/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
 
 </td>
@@ -1518,7 +1520,8 @@ of Italy (2T)
 
 <td style="text-align:left;min-width: 4in; ">
 
-white zones don’t have restrictions for internal movement:
+Local red zones are no longer in place after the 29th of July. White
+zones don’t have restrictions for internal movement:
 <https://web.archive.org/web/20210730052429/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
 
 </td>
@@ -2333,6 +2336,208 @@ measures within their jurisdictions.”"
 
 </div>
 
+### Pakistan (GRI: 70 ↓ 63)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Pakistan (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Pakistan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public and private offices can operate at full capacity
+<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Pakistan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Pakistan
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government will ban unvaccinated people from boarding domestic
+flights and entering public facilities, such as government offices,
+schools, food establishments, and shopping malls.
+<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Pakistan (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Pakistan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+May operate with protocols. 70% passenger capacity.
+<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Pakistan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Pakistan (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government will ban unvaccinated people from boarding domestic
+flights and entering public facilities, such as government offices,
+schools, food establishments, and shopping malls.
+<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Poland (GRI: 56 ↓ 53)
 
 #### Restrictions on internal movement (C7)
@@ -2730,7 +2935,222 @@ COVID-19 tests for incoming patients in possession of a doctor’s letter.
 
 </div>
 
-### South Korea (GRI: 59 ↑ 60)
+### South Korea (GRI: 59 ↑ 64)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of South Korea (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of South Korea (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Level 4 social distancing in the greater Seoul Area extended for 2 weeks
+7/26 (Mon.) \~ 8/8 (Sun.) <https://archive.is/ouIRQ> All the province
+are in level 3 except the greater Seoul area which is 4.
+<https://archive.is/s6zMB>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of South
+Korea (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of South Korea
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/ouIRQ>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of South Korea (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of South Korea (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/ouIRQ>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of South Korea (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of South Korea (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Vaccination policy (H7)
 
