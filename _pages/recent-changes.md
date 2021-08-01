@@ -37,18 +37,18 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-01</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
+</div><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
 </div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
-</div><div><a href="#israel-gri-50--52">Israel (GRI: 50 ↑ 52)</a> 
+</div><div><a href="#israel-gri-50--56">Israel (GRI: 50 ↑ 56)</a> 
 </div><div><a href="#kazakhstan-gri-43--48">Kazakhstan (GRI: 43 ↑ 48)</a> 
-</div><div><a href="#lesotho-gri-46--54">Lesotho (GRI: 46 ↑ 54)</a> 
+</div><div><a href="#lesotho-gri-46--52">Lesotho (GRI: 46 ↑ 52)</a> 
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
 </div><div><a href="#norway-gri-57--58">Norway (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#south korea-gri-59--64">South Korea (GRI: 59 ↑ 64)</a> 
 </div><div><a href="#ukraine-gri-50--52">Ukraine (GRI: 50 ↑ 52)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-66--64">Belgium (GRI: 66 ↓ 64)</a> 
-</div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#canada-gri-64--60">Canada (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
@@ -133,7 +133,246 @@ exercise, shopping, caregiving and other reasons.”" see here:
 
 </div>
 
-### Belgium (GRI: 66 ↓ 64)
+### Bahamas (GRI: 64 ↑ 69)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Bahamas (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Bahamas (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+• Outdoor dining and takeaway services may continue at restaurants.
+Indoor dining may continue provided that all persons are fully
+vaccinated, and capacity of indoor area is limited to 33 percent;
+loitering in groups outside of restaurants and Fish Frys will be
+prohibited. These restrictions do not apply to hotel properties. • Spas
+will not be permitted to operate, including for massages, waxing,
+threading and facials. the operation of a bar, night club and any
+cultural or entertainment facility remains prohibited.
+<https://archive.is/GZjVd>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Bahamas (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Bahamas (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+• Religious worship services will be limited to one hour and must be
+conducted in accordance with Bahamas Christian Council health guidelines
+approved by the Ministry of Health. Capacity of religious facility will
+be limited to 33 percent. • Funeral and cremation services will be
+prohibited indoors; funeral or burial services will be permitted at the
+graveside only. Cremation services are permitted outdoors and are
+limited to one hour. Burial and funeral services will be limited to 30
+people, excluding the officiant and funeral home workers. Repasts are
+not permitted. • Weddings will be limited to 30 people and may be held
+indoors or outdoors. Wedding receptions will be permitted provided they
+are held outdoors and are limited to 30 people. • As it relates to
+recreational and sporting actives: Exercise groups will be limited to 10
+people; recreational sporting activity is not permitted; professional
+athletes are permitted to train; groups gathering on beaches and parks
+will be limited to 5 people; summer camps and associated activities will
+be prohibited; and gyms and movie theaters will be limited to 33 percent
+occupancy. <https://archive.is/GZjVd>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Bahamas (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Bahamas (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+• For all islands of The Bahamas, social gatherings and persons carrying
+out political campaigning will be limited to groups of 5 people provided
+that all persons are fully vaccinated. <https://archive.is/GZjVd>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Bahamas (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Bahamas (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Wear a face mask when you leave your home. <https://archive.is/4Mwrl>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Bosnia and Herzegovina (GRI: 42 ↓ 37)
 
@@ -1119,7 +1358,7 @@ The general limit of gatherings will be 200 persons. Children born in
 
 </div>
 
-### Israel (GRI: 50 ↑ 52)
+### Israel (GRI: 50 ↑ 56)
 
 #### Cancel public events (C3)
 
@@ -1925,7 +2164,68 @@ paid once and during a period of 20 July - 2 August.
 
 </div>
 
-### Lesotho (GRI: 46 ↑ 54)
+### Lesotho (GRI: 46 ↑ 52)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Lesotho (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Lesotho (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to an announcement from the Ministry of Education and
+Training, all schools are to reopen from winter break on August 1, 2021.
+The country remains under Purple Code Guidelines. Under the Purple Code
+Guidelines, schools will open under a rotational basis, adhering to
+standard risk guidelines and sanitization. Buses only allowed to hold
+50% capacity.
+<https://web.archive.org/web/20210724235926/https://www.gov.ls/wp-content/uploads/2021/06/Circular-17-Basic-Education.pdf>
+<https://web.archive.org/web/20210725000343/https://www.gov.ls/wp-content/uploads/2021/07/PURPLE-COLOR-CODE-STAGE-1.pdf>
+<https://web.archive.org/web/20210801183213/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Cancel public events (C3)
 
@@ -2084,6 +2384,64 @@ According to the Purple Code Guidelines released by NACOSEC, starting
 July 24, 2021, vehicles are allowed to operate with limited capacity
 depending on the original capacity of the vehicle.
 <https://web.archive.org/web/20210725000343/https://www.gov.ls/wp-content/uploads/2021/07/PURPLE-COLOR-CODE-STAGE-1.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No availability</b> is present across all of Lesotho (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>TWO</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Lesotho (2S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Lesotho were previously using AstraZeneca vaccines and recently received
+a new bath of John and Johnson vaccines. The priority for vaccination is
+healthcare and port workers and clinically vulnerable groups.
+<https://web.archive.org/web/20210801195237/https://www.gov.ls/pm-receives-covid-19-vaccine/>
+<https://web.archive.org/web/20210801183213/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
+<https://web.archive.org/web/20210801195008/https://www.gov.uk/foreign-travel-advice/lesotho/coronavirus>
 
 </td>
 
@@ -3140,6 +3498,11 @@ distancing not possible; across <b>all</b> of South Korea (3G)
 
 <td style="text-align:left;min-width: 4in; ">
 
+Level 4 social distancing in the greater Seoul Area extended for 2 weeks
+7/26 (Mon.) \~ 8/8 (Sun.) <https://archive.is/ouIRQ> All the province
+are in level 3 except the greater Seoul area which is 4.
+<https://archive.is/s6zMB>
+
 </td>
 
 </tr>
@@ -3193,8 +3556,10 @@ to the individual (government funded or subsidised) South Korea (4S)
 
 <td style="text-align:left;min-width: 4in; ">
 
-<https://archive.is/GppC9> South Korea kicked off COVID-19 vaccinations
-for people ages 55-59 on Monday
+After prioritized group, general vaccination started from 26th July.
+South Korea kicked off COVID-19 vaccinations for people ages 55-59 on
+Monday to speed up the pace of its inoculation campaign, as the country
+battles the fourth wave of infections. <https://archive.is/MI8fX>
 
 </td>
 
