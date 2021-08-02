@@ -36,26 +36,25 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-01</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-02</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
 </div><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
 </div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
-</div><div><a href="#israel-gri-50--56">Israel (GRI: 50 ↑ 56)</a> 
 </div><div><a href="#kazakhstan-gri-43--48">Kazakhstan (GRI: 43 ↑ 48)</a> 
 </div><div><a href="#lesotho-gri-46--52">Lesotho (GRI: 46 ↑ 52)</a> 
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
-</div><div><a href="#norway-gri-57--58">Norway (GRI: 57 ↑ 58)</a> 
+</div><div><a href="#norway-gri-56--58">Norway (GRI: 56 ↑ 58)</a> 
 </div><div><a href="#south korea-gri-59--64">South Korea (GRI: 59 ↑ 64)</a> 
+</div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
 </div><div><a href="#ukraine-gri-50--52">Ukraine (GRI: 50 ↑ 52)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
 </div><div><a href="#canada-gri-64--60">Canada (GRI: 64 ↓ 60)</a> 
-</div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
-</div><div><a href="#netherlands-gri-52--48">Netherlands (GRI: 52 ↓ 48)</a> 
+</div><div><a href="#italy-gri-81--62">Italy (GRI: 81 ↓ 62)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
-</div><div><a href="#spain-gri-57--55">Spain (GRI: 57 ↓ 55)</a> 
+</div><div><a href="#spain-gri-55--50">Spain (GRI: 55 ↓ 50)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#uruguay-gri-59--57">Uruguay (GRI: 59 ↓ 57)</a> 
 </div></div> <br/>
@@ -599,71 +598,6 @@ unnecessary travel or visits. Link:
 </div>
 
 ### Canada (GRI: 64 ↓ 60)
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>more than 50% income</b>; for <b>formal
-workers only</b> in Canada (2F)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>formal
-workers only</b> in Canada (1F)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Effective 18 july 2021, the government of Canada continues to pay the
-Canada Recovery Benefit (CRB) to self-employed Canadians who have lost
-income, but the benefit for new claimants is now C$300/week. The
-original C$500/week benefit level was about 50% of pre-crisis average
-weekly earnings (excluding overtime) of just over C$1,000/week. The new
-benefit level is just below 30% of pre-crisis average earnings. (Average
-weekly earnings of employed Canadians have increased significantly in
-part thanks to the reduction in employment in low-wage sectors such as
-hospitality that have been hit harder by the covid crisis.) Employment
-Insurance benefits and eligibility rules for formerly employed Canadians
-continue to be enhanced relative to pre-covid rules. See Government of
-Canada website, archived:
-<https://web.archive.org/web/20210725110959/https://www.canada.ca/en/revenue-agency/services/benefits/recovery-benefit.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Contact tracing (H3)
 
@@ -1358,85 +1292,7 @@ The general limit of gatherings will be 200 persons. Children born in
 
 </div>
 
-### Israel (GRI: 50 ↑ 56)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Israel (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Israel (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Indoor events for 100 or more people are now only open to the
-vaccinated, recovered, or those who present a negative COVID-19 PCR test
-taken within 72 hours of the event. The Times of Israel reported: "“New
-restrictions on public life came into effect midnight Tuesday, limiting
-access to large indoor events and instating a raft of new fines for
-those violating health rules, as Israel strives to contain a recent rise
-in coronavirus infections.”“Under the new orders, the so-called Green
-Pass system, first used earlier this year, will be reinstated for indoor
-events attended by more than 100 people.”“Access to such gatherings is
-now limited to those who are vaccinated or have recovered, or who
-present a negative COVID-19 PCR test taken within 72 hours of the event.
-A rapid virus test can also be used if taken within the previous 24
-hours. While gatherings aren’t limited in size, face masks are
-mandatory, except when eating or drinking.”“Venues are required to have
-a dedicated coronavirus monitor who ensures that the rules are being
-followed and are required to post signs that they are operating under
-Green Pass rules, or face a NIS 3,000 fine ($911).”“Locations that have
-both indoor and open-air areas are considered indoor sites under the
-rules.”“Attendees who violate the rules will be fined NIS 1,000 ($303)
-while venue operators can face a NIS 10,000 fine for not checking that
-participants have the proper permits for entry.”“Police and inspectors
-from local authorities will check up on venues hosting events that fall
-under the rules to make sure they are complying.”" Sources:
-<https://web.archive.org/web/20210726212703/https://www.timesofisrael.com/some-restrictions-return-as-coronavirus-cases-continue-to-climb/>
-<https://archive.vn/kWTHv> \[Ministry of Health\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Italy (GRI: 80 ↓ 62)
+### Italy (GRI: 81 ↓ 62)
 
 #### School closing (C1)
 
@@ -2436,12 +2292,10 @@ or subsidised) Lesotho (2S)
 
 <td style="text-align:left;min-width: 4in; ">
 
-Lesotho were previously using AstraZeneca vaccines and recently received
-a new bath of John and Johnson vaccines. The priority for vaccination is
-healthcare and port workers and clinically vulnerable groups.
-<https://web.archive.org/web/20210801195237/https://www.gov.ls/pm-receives-covid-19-vaccine/>
-<https://web.archive.org/web/20210801183213/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
+Lesotho recently received more vaccine doses and is prioritizing health
+and port workers and those with health conditions.
 <https://web.archive.org/web/20210801195008/https://www.gov.uk/foreign-travel-advice/lesotho/coronavirus>
+<https://web.archive.org/web/20210801195237/https://www.gov.ls/pm-receives-covid-19-vaccine/>
 
 </td>
 
@@ -2521,61 +2375,7 @@ pregnant women aged + 18 after their third month of pregnancy (May
 
 </div>
 
-### Netherlands (GRI: 52 ↓ 48)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Netherlands (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No debt relief</b> is present across all of Netherlands (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210722074416/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Norway (GRI: 57 ↑ 58)
+### Norway (GRI: 56 ↑ 58)
 
 #### Workplace closing (C2)
 
@@ -3573,7 +3373,7 @@ battles the fourth wave of infections. <https://archive.is/MI8fX>
 
 </div>
 
-### Spain (GRI: 57 ↓ 55)
+### Spain (GRI: 55 ↓ 50)
 
 #### International travel controls (C8)
 
@@ -3725,6 +3525,245 @@ Vaccines are broadly available to the public. The government has defined
 various priority groups, and it has proceeded to vaccinate individuals
 from all of them. More than 8,700,000 doses have been administered.
 <http://web.archive.org/web/20210724090432/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/impfen.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Timor-Leste (GRI: 57 ↑ 61)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Timor-Leste (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Timor-Leste (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+At the extraordinary meeting of the Council of Ministers held on July
+30th, it approved the draft Government Resolution imposing that the
+circulation of public transport in the entire area of the administrative
+posts of Ermera and Railaco, namely microlets, biscotta and angunas, is
+prohibited. See Timor Leste Government website, archived:
+<https://web.archive.org/web/20210802000608/https://l.sharethis.com/pview?event=pview&hostname=timor-leste.gov.tl&location=%2F&product=inline-share-buttons&url=http%3A%2F%2Ftimor-leste.gov.tl%2F%3Fcat%3D10%26lang%3Dpt&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Comunicados%20%C2%AB%20Governo%20de%20Timor-Leste&cms=unknown&publisher=58ea36b1f863710012d93bfb&sop=true&bsamesite=true&consent_cookie_duration=298&consent_duration=298&gdpr_domain=.consensu.org&gdpr_method=cookie&version=st_sop.js&lang=en&description=Portal%20Oficial%20do%20Governo%20de%20Timor-Leste%2C%20Comunicados>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Timor-Leste (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); in <b>some</b> parts of Timor-Leste (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+At the extraordinary meeting of the Council of Ministers held on July
+30th, it approved the draft Government Resolution imposing the general
+home confinement of the population of the Administrative Posts of Ermera
+and Railaco, in the Municipality of Ermera, between 00:00 on 31 July and
+23:59 on 11 August of 2021. Individuals who prove complete vaccination
+(two doses) against COVID-19 are not covered by the imposition of home
+confinement. See Timor Leste Government website, archived:
+<https://web.archive.org/web/20210802000608/https://l.sharethis.com/pview?event=pview&hostname=timor-leste.gov.tl&location=%2F&product=inline-share-buttons&url=http%3A%2F%2Ftimor-leste.gov.tl%2F%3Fcat%3D10%26lang%3Dpt&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Comunicados%20%C2%AB%20Governo%20de%20Timor-Leste&cms=unknown&publisher=58ea36b1f863710012d93bfb&sop=true&bsamesite=true&consent_cookie_duration=298&consent_duration=298&gdpr_domain=.consensu.org&gdpr_method=cookie&version=st_sop.js&lang=en&description=Portal%20Oficial%20do%20Governo%20de%20Timor-Leste%2C%20Comunicados>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Timor-Leste (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Timor-Leste (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+It was declared at the Meetings of the Council of Ministers on July 28st
+that the implementation measures of the previous declaration of the
+state of emergency are being maintained. See Timor Leste Government
+website, archived:
+<https://web.archive.org/web/20210802000608/https://l.sharethis.com/pview?event=pview&hostname=timor-leste.gov.tl&location=%2F&product=inline-share-buttons&url=http%3A%2F%2Ftimor-leste.gov.tl%2F%3Fcat%3D10%26lang%3Dpt&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Comunicados%20%C2%AB%20Governo%20de%20Timor-Leste&cms=unknown&publisher=58ea36b1f863710012d93bfb&sop=true&bsamesite=true&consent_cookie_duration=298&consent_duration=298&gdpr_domain=.consensu.org&gdpr_method=cookie&version=st_sop.js&lang=en&description=Portal%20Oficial%20do%20Governo%20de%20Timor-Leste%2C%20Comunicados>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Timor-Leste (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Timor-Leste (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+It was declared at the Meetings of the Council of Ministers on July 28st
+that the implementation measures of the previous declaration of the
+state of emergency are being maintained. See Timor Leste Government
+website, archived:
+<https://web.archive.org/web/20210802000608/https://l.sharethis.com/pview?event=pview&hostname=timor-leste.gov.tl&location=%2F&product=inline-share-buttons&url=http%3A%2F%2Ftimor-leste.gov.tl%2F%3Fcat%3D10%26lang%3Dpt&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Comunicados%20%C2%AB%20Governo%20de%20Timor-Leste&cms=unknown&publisher=58ea36b1f863710012d93bfb&sop=true&bsamesite=true&consent_cookie_duration=298&consent_duration=298&gdpr_domain=.consensu.org&gdpr_method=cookie&version=st_sop.js&lang=en&description=Portal%20Oficial%20do%20Governo%20de%20Timor-Leste%2C%20Comunicados>
+Vaccines: Astrazeneca and Sinovac
 
 </td>
 
