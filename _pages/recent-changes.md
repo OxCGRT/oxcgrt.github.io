@@ -47,20 +47,75 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#spain-gri-55--57">Spain (GRI: 55 ↑ 57)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
 </div><div><a href="#ukraine-gri-50--52">Ukraine (GRI: 50 ↑ 52)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
-</div><div><a href="#canada-gri-64--60">Canada (GRI: 64 ↓ 60)</a> 
+</div><div><a href="#uruguay-gri-59--60">Uruguay (GRI: 59 ↑ 60)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#argentina-gri-69--69">Argentina (GRI: 69 ↓ 69)</a> 
+</div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
+</div><div><a href="#canada-gri-62--60">Canada (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#italy-gri-81--62">Italy (GRI: 81 ↓ 62)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
-</div><div><a href="#uruguay-gri-59--57">Uruguay (GRI: 59 ↓ 57)</a> 
+</div><div><a href="#tajikistan-gri-31--29">Tajikistan (GRI: 31 ↓ 29)</a> 
 </div></div> <br/>
 -->
 
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
+
+### Argentina (GRI: 69 ↑ 69)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Argentina (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Argentina (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Bahamas (GRI: 64 ↑ 69)
 
@@ -527,7 +582,160 @@ unnecessary travel or visits. Link:
 
 </div>
 
-### Canada (GRI: 64 ↓ 60)
+### Canada (GRI: 62 ↓ 60)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of Canada
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Canada
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 26 july 2021, the rules set by each province and territory vary. The
+provinces of Alberta (effective 1 July) and Saskatchewan (11 July)
+revoked covid-related public health requirements for business
+operations. Alberta provides businesses with “general guidance for
+COVID-19 and other respiratory illnesses for optional mitigations to
+protect the health of your staff and customers”. No jurisdiction is
+setting rules differentiating between business owners, employees or
+customers based on vaccination status. Manitoba is issuing
+“proof-of-immunization cards”, but is not requiring businesses to
+restrict access if customers do not have cards. See Retail Council of
+Canada, Global news, and Globe and Mail newspaper websites, archived:
+<https://web.archive.org/web/20210724103747/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
+<https://web.archive.org/web/20210725082743/https://www.theglobeandmail.com/canada/article-provinces-diverge-on-vaccine-passports-as-some-sectors-begin-requiring/>
+<https://web.archive.org/web/20210725085501/https://globalnews.ca/news/8036166/covid-reopening-plans-provinces-july-2021/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Canada
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of Canada
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 26 july 2021, the rules set by each province and territory vary. The
+provinces of Alberta (effective 1 July) and Saskatchewan (11 July)
+revoked covid-related public health requirements for business
+operations. Alberta provides businesses with “general guidance for
+COVID-19 and other respiratory illnesses for optional mitigations to
+protect the health of your staff and customers”. Manitoba is issuing
+“proof-of-immunization cards” and is restricting access to indoor
+dining and casinos to fully vaccinated patrons. See Retail Council of
+Canada, Global news, Globe and Mail newspaper and Province of Manitoba
+websites, archived:
+<http://web.archive.org/web/20210727231956/https://www.gov.mb.ca/covid19/prs/index.html>
+<https://web.archive.org/web/20210724103747/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
+<https://web.archive.org/web/20210725082743/https://www.theglobeandmail.com/canada/article-provinces-diverge-on-vaccine-passports-as-some-sectors-begin-requiring/>
+<https://web.archive.org/web/20210725085501/https://globalnews.ca/news/8036166/covid-reopening-plans-provinces-july-2021/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of Canada
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Canada
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Contact tracing (H3)
 
@@ -3085,6 +3293,59 @@ from all of them. More than 8,700,000 doses have been administered.
 
 </div>
 
+### Tajikistan (GRI: 31 ↓ 29)
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Tajikistan (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No testing policy</b> are present across all of Tajikistan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No changes found as per last update
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Timor-Leste (GRI: 57 ↑ 61)
 
 #### Close public transport (C5)
@@ -3382,7 +3643,7 @@ to seeing their families once more, thanks to the COVID-19 vaccine.
 
 </div>
 
-### Uruguay (GRI: 59 ↓ 57)
+### Uruguay (GRI: 59 ↑ 60)
 
 #### School closing (C1)
 
@@ -3482,6 +3743,63 @@ The workers of the public offices return to the presence after four
 months of virtuality. Sources:
 <https://web.archive.org/web/20210726182652/https://www.elobservador.com.uy/nota/las-recomendaciones-del-msp-para-el-retorno-a-la-presencialidad-en-oficinas-publicas-2021723201440>
 <https://web.archive.org/web/20210726182107/https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/noticias/Resolucio%CC%81n%20REINTEGRO%20PRESENCIALIDAD.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Uruguay (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Uruguay (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Minister of Public Health reported on July 21 that the ministry
+regained control of the pandemic and is managing to monitor 100% of new
+cases, after months of overflowing with the "“tetris”" strategy that
+involves testing, tracking and isolation of people.
+<https://web.archive.org/web/20210802202443/https://www.elobservador.com.uy/nota/msp-se-plantea-diferir-informes-diarios-cuando-haya-alta-tasa-de-vacunacion-202173014490>
 
 </td>
 
