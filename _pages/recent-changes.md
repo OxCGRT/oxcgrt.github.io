@@ -36,8 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-02</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#australia-gri-63--64">Australia (GRI: 63 ↑ 64)</a> 
-</div><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-02</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
 </div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-53--65">France (GRI: 53 ↑ 65)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
@@ -46,6 +45,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
 </div><div><a href="#norway-gri-56--58">Norway (GRI: 56 ↑ 58)</a> 
 </div><div><a href="#south korea-gri-59--64">South Korea (GRI: 59 ↑ 64)</a> 
+</div><div><a href="#spain-gri-55--57">Spain (GRI: 55 ↑ 57)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
 </div><div><a href="#ukraine-gri-50--52">Ukraine (GRI: 50 ↑ 52)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
@@ -54,7 +54,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
-</div><div><a href="#spain-gri-55--50">Spain (GRI: 55 ↓ 50)</a> 
 </div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#uruguay-gri-59--57">Uruguay (GRI: 59 ↓ 57)</a> 
 </div></div> <br/>
@@ -63,74 +62,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
-
-### Australia (GRI: 63 ↑ 64)
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Australia (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-27/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Australia
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-NSW: no change in policy - stay at home orders are still in place and
-are now being enforced by the military. "“Australia has deployed
-hundreds of soldiers to Sydney to help enforce a Covid lockdown. A Delta
-outbreak which began in June has produced nearly 3,000 infections and
-led to nine deaths. Australian Defence Force soldiers will undergo
-training on the weekend before beginning unarmed patrols on Monday. But
-many have questioned whether the military intervention is necessary,
-calling it heavy-handed. The lockdown - in place until at least 28
-August - bars people from leaving their home except for essential
-exercise, shopping, caregiving and other reasons.”" see here:
-<https://web.archive.org/web/20210730183855/https://www.bbc.com/news/world-australia-58021718>
-<https://www.web.archive.org/web/20210730184047/https://www.nsw.gov.au/covid-19/rules/greater-sydney>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 ### Bahamas (GRI: 64 ↑ 69)
 
@@ -3373,7 +3304,7 @@ battles the fourth wave of infections. <https://archive.is/MI8fX>
 
 </div>
 
-### Spain (GRI: 55 ↓ 50)
+### Spain (GRI: 55 ↑ 57)
 
 #### International travel controls (C8)
 
@@ -3423,6 +3354,55 @@ battles the fourth wave of infections. <https://archive.is/MI8fX>
     from July 27. \* Bans to flights from India and Brazil were lifted
     on July 20. Source:
     <https://web.archive.org/web/20210723235636/https://travelbans.org/europe/spain/>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+    #### Vaccination policy (H7)
+    <div id="table-div">
+    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+    <table class="table" style="margin-left: auto; margin-right: auto;">
+    <tbody>
+    <tr>
+    <td style="text-align:left;min-width: 2in; ">
+    <b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Spain (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Spain (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+  - A: Key workers, nationally covered. - B: clinically vulnerable
+    people are eligible for vaccination nationally. - C: People over 80
+    are fully covered at the national level with two doses. Almost full
+    coverage in 70 to 79 age group with two doses (99%). - Extended
+    coverage in 60-69, 50-59, 40-49 ages groups. - Medium coverage in
+    30-39 age group with one dose. - Medium coverage in 20-29 age group
+    with one dose. - The 12-17 age group is now being vaccinated. Total
+    coverage so far: 12.1%. \* Vaccines administered: Pfizer / BioNtech,
+    Moderna, AstraZeneca / Oxford, Jansenn. Source:
+    <https://web.archive.org/web/20210802031053/https://www.rtve.es/noticias/20210730/campana-vacunacion-espana/2062499.shtml>
     </td>
     </tr>
     </tbody>
