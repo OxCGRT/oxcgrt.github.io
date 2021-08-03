@@ -50,6 +50,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#spain-gri-55--57">Spain (GRI: 55 ↑ 57)</a> 
 </div><div><a href="#thailand-gri-56--58">Thailand (GRI: 56 ↑ 58)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
+</div><div><a href="#venezuela-gri-78--84">Venezuela (GRI: 78 ↑ 84)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#albania-gri-49--44">Albania (GRI: 49 ↓ 44)</a> 
 </div><div><a href="#argentina-gri-69--69">Argentina (GRI: 69 ↓ 69)</a> 
 </div><div><a href="#canada-gri-62--59">Canada (GRI: 62 ↓ 59)</a> 
@@ -4530,6 +4531,336 @@ regained control of the pandemic and is managing to monitor 100% of new
 cases, after months of overflowing with the "“tetris”" strategy that
 involves testing, tracking and isolation of people.
 <https://web.archive.org/web/20210802202443/https://www.elobservador.com.uy/nota/msp-se-plantea-diferir-informes-diarios-cuando-haya-alta-tasa-de-vacunacion-202173014490>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Venezuela (GRI: 78 ↑ 84)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Venezuela (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is moving to a full lockdown dor 7 days following the delta
+variant spike
+<https://web.archive.org/web/20210726125401/https://www.notimerica.com/politica/noticia-coronavirus-venezuela-entrara-semana-cuarentena-siete-dias-presencia-variante-delta-20210726043526.html>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Venezuela (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Venezuela (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Venezuela (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is moving to a full lockdown dor 7 days following the delta
+variant spike
+<https://web.archive.org/web/20210726125401/https://www.notimerica.com/politica/noticia-coronavirus-venezuela-entrara-semana-cuarentena-siete-dias-presencia-variante-delta-20210726043526.html>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Venezuela (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Venezuela (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); across <b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is moving to a full lockdown dor 7 days following the delta
+variant spike
+<https://web.archive.org/web/20210726125401/https://www.notimerica.com/politica/noticia-coronavirus-venezuela-entrara-semana-cuarentena-siete-dias-presencia-variante-delta-20210726043526.html>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); across <b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Venezuela (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Venezuela (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
 
 </td>
 
