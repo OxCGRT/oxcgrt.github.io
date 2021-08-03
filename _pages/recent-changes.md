@@ -37,6 +37,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-03</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
+</div><div><a href="#bangladesh-gri-35--72">Bangladesh (GRI: 35 ↑ 72)</a> 
 </div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-55--57">France (GRI: 55 ↑ 57)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
@@ -462,6 +463,416 @@ home; across <b>all</b> of Bahamas (4G)
 <td style="text-align:left;min-width: 4in; ">
 
 Wear a face mask when you leave your home. <https://archive.is/4Mwrl>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Bangladesh (GRI: 35 ↑ 72)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Bangladesh (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Bangladesh (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A strict lockdown is in place in Bangladesh. Grocery Stores and
+Pharmacies may operate for 6 hours a day between 9AM and 3PM. Some food
+services are open to allow for food delivery, but no in person dining is
+allowed. \[
+<https://web.archive.org/web/20210727160627/https://bd.usembassy.gov/covid-19-information/>
+\] \[
+<https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Bangladesh (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A strict lockdown is in place in Bangladesh. Unless outside the home for
+strict reasons concerning food, medicine, or funeral services, citizens
+are subject to fines. \[
+<https://web.archive.org/web/20210727160627/https://bd.usembassy.gov/covid-19-information/>
+\] \[
+<https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Bangladesh (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A strict lockdown is in place in Bangladesh. Citizens are only allowed
+to leave their homes for food, medicine, or in situations surrounding
+funerals. Leaving the house for any other reason is subject to a fine.
+\[
+<https://web.archive.org/web/20210727160627/https://bd.usembassy.gov/covid-19-information/>
+\] \[
+<https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Bangladesh (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A strict lockdown is in place in Bangladesh. All public transport has
+been suspended. \[
+<https://web.archive.org/web/20210727160627/https://bd.usembassy.gov/covid-19-information/>
+\] \[
+<https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Bangladesh
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A strict lockdown is in place in Bangladesh. Residents may only leave
+their houses for food, medicine, or to attend funeral services. \[
+<https://web.archive.org/web/20210727160627/https://bd.usembassy.gov/covid-19-information/>
+\] \[
+<https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Bangladesh (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A strict lockdown is in place in Bangladesh. Travel is to be restricted,
+and the use of public transport and personal vehicles is fully
+restricted, unless moving for specific reasons outlined by the
+government (Transport of food, medicine, money, or public utilities) \[
+<https://web.archive.org/web/20210727160627/https://bd.usembassy.gov/covid-19-information/>
+\] \[
+<https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of Bangladesh (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A strict lockdown is in place in Bangladesh. Residents may only leave
+their houses for food, medicine, or to attend funeral services. \[
+<https://web.archive.org/web/20210727160627/https://bd.usembassy.gov/covid-19-information/>
+\] \[
+<https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
+\]
 
 </td>
 
@@ -2400,6 +2811,10 @@ vaccination at this point
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
+
+Testing seems to be available to all who needs it as per the US Embassy
+in Nicaragua
+<https://web.archive.org/web/20210803075034/https://ni.usembassy.gov/covid-19-information-2-2-2-2/>
 
 </td>
 
