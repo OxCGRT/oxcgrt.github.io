@@ -44,17 +44,21 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#lesotho-gri-46--52">Lesotho (GRI: 46 ↑ 52)</a> 
 </div><div><a href="#mexico-gri-49--61">Mexico (GRI: 49 ↑ 61)</a> 
 </div><div><a href="#mongolia-gri-60--61">Mongolia (GRI: 60 ↑ 61)</a> 
+</div><div><a href="#nicaragua-gri-11--19">Nicaragua (GRI: 11 ↑ 19)</a> 
 </div><div><a href="#south korea-gri-58--61">South Korea (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#spain-gri-55--57">Spain (GRI: 55 ↑ 57)</a> 
 </div><div><a href="#thailand-gri-56--58">Thailand (GRI: 56 ↑ 58)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#argentina-gri-69--69">Argentina (GRI: 69 ↓ 69)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#albania-gri-49--44">Albania (GRI: 49 ↓ 44)</a> 
+</div><div><a href="#argentina-gri-69--69">Argentina (GRI: 69 ↓ 69)</a> 
 </div><div><a href="#canada-gri-62--59">Canada (GRI: 62 ↓ 59)</a> 
+</div><div><a href="#croatia-gri-46--45">Croatia (GRI: 46 ↓ 45)</a> 
 </div><div><a href="#italy-gri-81--62">Italy (GRI: 81 ↓ 62)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
 </div><div><a href="#tajikistan-gri-31--29">Tajikistan (GRI: 31 ↓ 29)</a> 
+</div><div><a href="#united states-gri-62--59">United States (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#uruguay-gri-62--60">Uruguay (GRI: 62 ↓ 60)</a> 
 </div></div> <br/>
 -->
@@ -62,6 +66,120 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
+
+### Albania (GRI: 49 ↓ 44)
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Albania (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No contact tracing</b> is present across all of Albania (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No convincing contact tracing policy is found.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Albania (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Albania (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Since 1st August, open vaccination +18 has begun.
+<https://web.archive.org/web/20210803044247/https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-1198933-vaksinime/>
+According to Albanian health authorities, the government is currently
+administering Pfizer-BioNTech, AstraZeneca-Oxford, Gamaleya and Sinovac
+vaccines.
+<https://web.archive.org/web/20210803033951/https://al.usembassy.gov/updates_covid19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Argentina (GRI: 69 ↑ 69)
 
@@ -414,6 +532,127 @@ of Canada and Province of Alberta websites, archived:
 <https://web.archive.org/web/20210729160005/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/testing.html>
 <https://web.archive.org/web/20210730133310/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html>
 <https://web.archive.org/web/20210729180943/https://www.alberta.ca/covid-19-public-health-actions.aspx>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Croatia (GRI: 46 ↓ 45)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Croatia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Croatia
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In addition to delivery, drive-in or take-away, restaurants, catering
+facilities, cafés and bars may also host guests in outdoor areas (from
+06:00 – 24:00). From 31.5.2021 , catering establishments that offer food
+and drinks may also serve guests indoors (in compliance with strict
+epidemiological measures) Betting shops, casinos and slot machine clubs
+are allowed to work from 08:00 – 24:00, but without the distribution of
+food/drinks
+<https://web.archive.org/web/20210803051229/https://www.wko.at/service/aussenwirtschaft/coronoavirus-update-kroatien.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Croatia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Croatia (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Since 26 July, the following stricter provisions apply to the
+Dubrovnik-Neretva, Split-Dalmatia, Šibenik-Knin, Zadar, Primorje-Gorski
+Kotar and Istrian counties, as well as to Novalja, Senj and the
+municipality of Karlobag: 15 people at private ceremonies and gatherings
+of all kinds (including weddings) in catering and other facilities
+<https://web.archive.org/web/20210803051229/https://www.wko.at/service/aussenwirtschaft/coronoavirus-update-kroatien.html>
 
 </td>
 
@@ -2070,6 +2309,110 @@ Bars, clubs, camps, and some other sectors remain closed.
 
 </div>
 
+### Nicaragua (GRI: 11 ↑ 19)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Nicaragua (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Nicaragua (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A negative covid-19 test is required for entry, regardless of
+vaccination at this point
+<https://web.archive.org/web/20210803075034/https://ni.usembassy.gov/covid-19-information-2-2-2-2/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No testing policy</b> are present across all of Nicaragua (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Nicaragua (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Pakistan (GRI: 70 ↓ 63)
 
 #### Workplace closing (C2)
@@ -3600,6 +3943,62 @@ state of emergency are being maintained. See Timor Leste Government
 website, archived:
 <https://web.archive.org/web/20210802000608/https://l.sharethis.com/pview?event=pview&hostname=timor-leste.gov.tl&location=%2F&product=inline-share-buttons&url=http%3A%2F%2Ftimor-leste.gov.tl%2F%3Fcat%3D10%26lang%3Dpt&source=sharethis.js&fcmp=false&fcmpv2=false&has_segmentio=false&title=Comunicados%20%C2%AB%20Governo%20de%20Timor-Leste&cms=unknown&publisher=58ea36b1f863710012d93bfb&sop=true&bsamesite=true&consent_cookie_duration=298&consent_duration=298&gdpr_domain=.consensu.org&gdpr_method=cookie&version=st_sop.js&lang=en&description=Portal%20Oficial%20do%20Governo%20de%20Timor-Leste%2C%20Comunicados>
 Vaccines: Astrazeneca and Sinovac
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### United States (GRI: 62 ↓ 59)
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+United States (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of United States (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On July 31st, the eviction moratorium expired and on August 1st, had no
+debt/contract relief at the federal level. See archive:
+<https://web.archive.org/web/20210726165916/https://www.cdc.gov/coronavirus/2019-ncov/more/pdf/CDC_Eviction_Extension_Order_Final_06242021.pdf>
 
 </td>
 
