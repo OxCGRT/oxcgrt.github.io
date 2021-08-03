@@ -36,27 +36,26 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-02</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-03</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
 </div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-55--57">France (GRI: 55 ↑ 57)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#kazakhstan-gri-43--48">Kazakhstan (GRI: 43 ↑ 48)</a> 
 </div><div><a href="#lesotho-gri-46--52">Lesotho (GRI: 46 ↑ 52)</a> 
-</div><div><a href="#mexico-gri-49--50">Mexico (GRI: 49 ↑ 50)</a> 
+</div><div><a href="#mexico-gri-49--61">Mexico (GRI: 49 ↑ 61)</a> 
+</div><div><a href="#mongolia-gri-60--61">Mongolia (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#south korea-gri-58--61">South Korea (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#spain-gri-55--57">Spain (GRI: 55 ↑ 57)</a> 
+</div><div><a href="#thailand-gri-56--58">Thailand (GRI: 56 ↑ 58)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
-</div><div><a href="#ukraine-gri-50--52">Ukraine (GRI: 50 ↑ 52)</a> 
-</div><div><a href="#uruguay-gri-59--60">Uruguay (GRI: 59 ↑ 60)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#argentina-gri-69--69">Argentina (GRI: 69 ↓ 69)</a> 
-</div><div><a href="#bosnia and herzegovina-gri-42--37">Bosnia and Herzegovina (GRI: 42 ↓ 37)</a> 
-</div><div><a href="#canada-gri-62--60">Canada (GRI: 62 ↓ 60)</a> 
+</div><div><a href="#canada-gri-62--59">Canada (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#italy-gri-81--62">Italy (GRI: 81 ↓ 62)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
-</div><div><a href="#switzerland-gri-54--54">Switzerland (GRI: 54 ↓ 54)</a> 
 </div><div><a href="#tajikistan-gri-31--29">Tajikistan (GRI: 31 ↓ 29)</a> 
+</div><div><a href="#uruguay-gri-62--60">Uruguay (GRI: 62 ↓ 60)</a> 
 </div></div> <br/>
 -->
 
@@ -358,384 +357,7 @@ Wear a face mask when you leave your home. <https://archive.is/4Mwrl>
 
 </div>
 
-### Bosnia and Herzegovina (GRI: 42 ↓ 37)
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>all
-workers</b> in Bosnia and Herzegovina (1A)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>formal
-workers only</b> in Bosnia and Herzegovina (1F)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy change. Minimum wages provided to workers in affected sectors.
-Approximately 8% of the Covid-19 spending allocation is intended to
-provide support to households. Link:
-<https://web.archive.org/web/20210726173434/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Bosnia and Herzegovina (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No debt relief</b> is present across all of Bosnia and Herzegovina
-(0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy found. Link:
-<https://web.archive.org/web/20210726173434/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Bosnia and Herzegovina (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Bosnia and
-Herzegovina (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public Health Centers (Dom Zdravlja) test symptomatic individuals
-regardless of nationality, free of charge. Private and public clinics
-throughout BiH also perform PCR and serological COVID-19 tests at the
-cost of the individual. Link:
-<https://web.archive.org/web/20210726162737/https://ba.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; in
-<b>some</b> parts of Bosnia and Herzegovina (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Bosnia and Herzegovina (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-It is recommended that the elderly take extra precautions and avoid
-unnecessary travel or visits. Link:
-<https://web.archive.org/web/20210513093814/http://fbihvlada.gov.ba/bosanski/preporuke/Prilog_2_2.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Canada (GRI: 62 ↓ 60)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of Canada
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Canada
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 26 july 2021, the rules set by each province and territory vary. The
-provinces of Alberta (effective 1 July) and Saskatchewan (11 July)
-revoked covid-related public health requirements for business
-operations. Alberta provides businesses with “general guidance for
-COVID-19 and other respiratory illnesses for optional mitigations to
-protect the health of your staff and customers”. No jurisdiction is
-setting rules differentiating between business owners, employees or
-customers based on vaccination status. Manitoba is issuing
-“proof-of-immunization cards”, but is not requiring businesses to
-restrict access if customers do not have cards. See Retail Council of
-Canada, Global news, and Globe and Mail newspaper websites, archived:
-<https://web.archive.org/web/20210724103747/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
-<https://web.archive.org/web/20210725082743/https://www.theglobeandmail.com/canada/article-provinces-diverge-on-vaccine-passports-as-some-sectors-begin-requiring/>
-<https://web.archive.org/web/20210725085501/https://globalnews.ca/news/8036166/covid-reopening-plans-provinces-july-2021/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Canada
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of Canada
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 26 july 2021, the rules set by each province and territory vary. The
-provinces of Alberta (effective 1 July) and Saskatchewan (11 July)
-revoked covid-related public health requirements for business
-operations. Alberta provides businesses with “general guidance for
-COVID-19 and other respiratory illnesses for optional mitigations to
-protect the health of your staff and customers”. Manitoba is issuing
-“proof-of-immunization cards” and is restricting access to indoor
-dining and casinos to fully vaccinated patrons. See Retail Council of
-Canada, Global news, Globe and Mail newspaper and Province of Manitoba
-websites, archived:
-<http://web.archive.org/web/20210727231956/https://www.gov.mb.ca/covid19/prs/index.html>
-<https://web.archive.org/web/20210724103747/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
-<https://web.archive.org/web/20210725082743/https://www.theglobeandmail.com/canada/article-provinces-diverge-on-vaccine-passports-as-some-sectors-begin-requiring/>
-<https://web.archive.org/web/20210725085501/https://globalnews.ca/news/8036166/covid-reopening-plans-provinces-july-2021/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of Canada
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-27/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Canada
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Canada (GRI: 62 ↓ 59)
 
 #### Contact tracing (H3)
 
@@ -1663,60 +1285,6 @@ they are required when distancing is not possible no exemptions apply
 
 ### Kazakhstan (GRI: 43 ↑ 48)
 
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Kazakhstan (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Kazakhstan (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Gatherings have a limit of 30 people in the West Kazakhstan region.
-<https://archive.vn/QXczL>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Close public transport (C5)
 
 <div id="table-div">
@@ -1726,42 +1294,6 @@ Gatherings have a limit of 30 people in the West Kazakhstan region.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not operate in Nur-Sultan, Shymkent, Atyrau
-region, and Karaganda region during weekends, due to lockdown imposed
-until further notice. <https://archive.vn/X0afB>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -1830,114 +1362,6 @@ public transport; in <b>some</b> parts of Kazakhstan (2T)
 Shymkent city suspended public transport operations during weekends. In
 other regions, public transport operates normally.
 <https://archive.vn/QXczL>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No internal movement restrictions are in place.
-<https://archive.vn/QXczL>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No income support</b> is present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>formal
-workers only</b> in Kazakhstan (1F)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The government announced that 42,500 KZT will be paid for those who lost
-their jobs during recent COVID-19 restrictions. However, this will be
-paid once and during a period of 20 July - 2 August.
-<https://archive.vn/9jjPv>
 
 </td>
 
@@ -2240,7 +1664,289 @@ and port workers and those with health conditions.
 
 </div>
 
-### Mexico (GRI: 49 ↑ 50)
+### Mexico (GRI: 49 ↑ 61)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Mexico (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Mexico (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+One area is deemed "“red”" where only essential economic activities are
+permitted. However, the latest traffic light system guide states that
+local governments can allow non essential economic activities to
+operate.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
+<https://web.archive.org/web/20210728021711/https://coronavirus.gob.mx/wp-content/uploads/2021/07/2021.7.27-Metodo_semaforo_COVID.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Mexico (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Mexico (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In "“red”" areas people are required to stay at home and only essential
+economic activities are permitted.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
+<https://web.archive.org/web/20210728021711/https://coronavirus.gob.mx/wp-content/uploads/2021/07/2021.7.27-Metodo_semaforo_COVID.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Mexico (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Mexico (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In "“red”" areas people are not allowed to meet with people outside of
+their household.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
+<https://web.archive.org/web/20210728021711/https://coronavirus.gob.mx/wp-content/uploads/2021/07/2021.7.27-Metodo_semaforo_COVID.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of Mexico
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Mexico
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In "“red”" areas people are required to stay at home but can go outside
+for exercise, essential economic activities and shopping.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; in <b>some</b> parts of Mexico (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of Mexico (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Several states and municipalities have imposed curfews and movement
+restrictions on non-essential activities and have required citizens to
+wear masks when outside the home.
+<https://web.archive.org/web/20210802144309/https://mx.usembassy.gov/covid-19-information-for-u-s-citizens-in-mexico/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Vaccination policy (H7)
 
@@ -2293,6 +1999,64 @@ pregnant women aged + 18 after their third month of pregnancy (May
 2021-June 2021) Stage 4: General population aged 40-49 (June 2021-July
 2021) Stage 5: rest of the population (July 2021-March 2022)
 <https://web.archive.org/web/20210726154845/https://coronavirus.gob.mx/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mongolia (GRI: 60 ↑ 61)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Mongolia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Mongolia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On June 30, 2021, the Government of Mongolia announced that the current
+status of “heightened emergency preparedness” is extended by two months.
+Bars, clubs, camps, and some other sectors remain closed.
+<https://web.archive.org/web/20210803023752/https://mn.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -2795,60 +2559,6 @@ travel is permitted.
 
 </div>
 
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No income support</b> is present across all of South Africa (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>all
-workers</b> in South Africa (1A)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Social grants of R350 per month appear to still be available on the
-government website.
-<https://web.archive.org/web/20210801045410/https://www.gov.za/covid-19/individuals-and-households/social-grants-coronavirus-covid-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Testing policy (H2)
 
 <div id="table-div">
@@ -3184,8 +2894,8 @@ to the individual (government funded or subsidised) Spain (4S)
     </table>
     </div>
     </div>
-    ### Switzerland (GRI: 54 ↑ 54)
-    #### Workplace closing (C2)
+    ### Tajikistan (GRI: 31 ↓ 29)
+    #### Testing policy (H2)
     <div id="table-div">
     <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
     <table class="table" style="margin-left: auto; margin-right: auto;">
@@ -3194,14 +2904,13 @@ to the individual (government funded or subsidised) Spain (4S)
     <td style="text-align:left;min-width: 2in; ">
     <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Switzerland (2G)
+NA; NA Tajikistan (1)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/7/2021  
+25/7/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -3210,19 +2919,347 @@ to the individual (government funded or subsidised) Spain (4S)
 
 <b>New policy:</b>
 
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of
-Switzerland (1G)
+<b>No testing policy</b> are present across all of Tajikistan (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-As it says on governmental sources, "“Working from home is recommended
-in all areas where it is possible to work from home without
-disproportionate effort”". Some other protective measures, such as
-wearing masks in indoor places, still apply. Link:
-<http://web.archive.org/web/20210724092823/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html>
+No changes found as per last update
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Thailand (GRI: 56 ↑ 58)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of
+Thailand (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Thailand (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 23 July, Bangkok has been ordered to close 10 additional types of
+sites or businesses to prevent and control the COVID-19 epidemic
+including; 1. All types of sports courts 2. Parks, botanic gardens 3.
+Sports grounds 4. Exhibition centers, convention centers and exhibition
+venues 5. Education Centre and Art Gallery 6. Public libraries 7.
+Museums 8. Nursery children 9. Beauty salons, hair salons, nail salons
+and tattoo salons and 10. Swimming pool for sports and public swimming
+pools from July 23 to August 2. Archived:
+<https://ddc.moph.go.th/viralpneumonia/eng/file/situation/situation-no561-230764.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of Thailand
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Thailand (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 1st August, The Centre for Covid-19 Situation Administration (CCSA),
+on Sunday extended lockdown measures for another 14 days in a bid to
+tackle the fast-spreading Delta variant. The CCSA said the slew of
+measures will start on Tuesday (Aug 3) and will be evaluated after two
+weeks - with the possibility they will last until the end of August.
+Archived:
+<https://web.archive.org/web/20210801134926/https://www.straitstimes.com/asia/se-asia/thailand-extends-stricter-covid-19-measures-until-end-august>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of Thailand (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Thailand (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Ministry of Public Health (MOPH) has emphasized people to continue
+to practice preventive and control measures for themselve, their family,
+the community, the market and the manufacturer. Factories where
+confirmed cases have been reported should use the Bubble and Seal
+measure, restricting employee travel to prevent the spread of the
+disease in communities. Archived:
+<https://ddc.moph.go.th/viralpneumonia/eng/file/situation/situation-no564-260764.pdf>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Thailand (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Thailand (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 28 July, Prime Minister Hun Sen instructed to impose curfew from 9pm
+to 3am in parts or throughout territories under your jurisdiction,
+especially in Phnom Penh, provincial town or urban areas from July 29
+midnight through August 12. Archived:
+<https://web.archive.org/web/20210801155148if_/https://www.nationthailand.com/international/40003890>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Thailand (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Thailand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 26 July, The Department of Medical Services has updated medical
+practices regarding the diagnosis, treatment and control of COVID-19
+infection in hospitals. Guidelines were also introduced to quickly
+deliver favipiravir to a group of COVID-19 patients with mild symptoms,
+no pneumonia and no risk factors for serious illness. Archived:
+<https://ddc.moph.go.th/viralpneumonia/eng/file/situation/situation-no563-250764.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Thailand (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+NA; NA Thailand (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 29 July, The Public Health Ministry has authorized Antigen Rapid
+Tests, a test kit for professional use, is available at hospitals and
+clinics across Thailand. Available:
+<https://web.archive.org/web/20210801142946if_/https://www.nationthailand.com/in-focus/40003950>
 
 </td>
 
@@ -3252,72 +3289,15 @@ wearing masks in indoor places, still apply. Link:
 
 <b>Old policy:</b>
 
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Switzerland (4S)
+Available to <b>TWO</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Thailand (2S)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
 21/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Switzerland (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccines are broadly available to the public. The government has defined
-various priority groups, and it has proceeded to vaccinate individuals
-from all of them. More than 8,700,000 doses have been administered.
-<http://web.archive.org/web/20210724090432/https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/impfen.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Tajikistan (GRI: 31 ↓ 29)
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Tajikistan (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/7/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -3326,13 +3306,61 @@ NA; NA Tajikistan (1)
 
 <b>New policy:</b>
 
-<b>No testing policy</b> are present across all of Tajikistan (0)
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Thailand (1S)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No changes found as per last update
+On 21 July, The Center for COVID-19 Situation Administration (CCSA)
+presented that a gestational age group of 12 weeks or more is another
+group receiving the vaccine as the first group. This is an additional
+group after older people and the group of 7 chronic conditions have been
+prioritized. Archived:
+<https://ddc.moph.go.th/viralpneumonia/eng/file/situation/situation-no559-210764.pdf>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Thailand (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>TWO</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Thailand (2S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 22 July, The Department of Medical Services has implemented an
+COVID-19 vaccination service (the first dose) as follows; persons aged
+60 or over, the pregnant woman having at least 12 weeks of gestational
+age must submit the verification of pregnancy by a physician, and those
+weighing more than 100kg.
 
 </td>
 
@@ -3585,119 +3613,7 @@ Vaccines: Astrazeneca and Sinovac
 
 </div>
 
-### Ukraine (GRI: 50 ↑ 52)
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Ukraine (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Ukraine (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-After a year in lockdown, elderly people in Ukraine are looking forward
-to seeing their families once more, thanks to the COVID-19 vaccine.
-<https://archive.ph/NscXM>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Uruguay (GRI: 59 ↑ 60)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Uruguay (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Uruguay (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The face-to-face return to classes is completed on the 19th.
-<https://web.archive.org/web/20210719134709/https://www.anep.edu.uy/15-d/el-lunes-19-anep-completar-el-regreso-presencialidad-con-educaci-n-media>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Uruguay (GRI: 62 ↓ 60)
 
 #### Workplace closing (C2)
 
