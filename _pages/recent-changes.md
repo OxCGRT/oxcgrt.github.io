@@ -56,6 +56,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#canada-gri-62--59">Canada (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#croatia-gri-46--45">Croatia (GRI: 46 ↓ 45)</a> 
 </div><div><a href="#italy-gri-81--62">Italy (GRI: 81 ↓ 62)</a> 
+</div><div><a href="#mozambique-gri-52--50">Mozambique (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
@@ -2666,6 +2667,65 @@ On June 30, 2021, the Government of Mongolia announced that the current
 status of “heightened emergency preparedness” is extended by two months.
 Bars, clubs, camps, and some other sectors remain closed.
 <https://web.archive.org/web/20210803023752/https://mn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mozambique (GRI: 52 ↓ 50)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into
+Mozambique (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Mozambique (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All passengers arriving in Mozambique must present a negative PCR test
+administered 72 hours before departure, even if they hold proof of
+vaccination. This requirement also applies to children over 5 years old.
+All persons who test positive for COVID-19 or have been directly exposed
+to a positive case of COVID-19 must quarantine for 14 days.
+<http://web.archive.org/web/20210726111650/https://mz.usembassy.gov/covid-19-information/>
 
 </td>
 
