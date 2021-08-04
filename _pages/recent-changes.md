@@ -36,19 +36,19 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-03</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-04</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bahamas-gri-64--69">Bahamas (GRI: 64 ↑ 69)</a> 
 </div><div><a href="#bangladesh-gri-35--72">Bangladesh (GRI: 35 ↑ 72)</a> 
 </div><div><a href="#cyprus-gri-62--65">Cyprus (GRI: 62 ↑ 65)</a> 
 </div><div><a href="#france-gri-55--57">France (GRI: 55 ↑ 57)</a> 
 </div><div><a href="#iceland-gri-49--58">Iceland (GRI: 49 ↑ 58)</a> 
 </div><div><a href="#kazakhstan-gri-43--48">Kazakhstan (GRI: 43 ↑ 48)</a> 
 </div><div><a href="#lesotho-gri-46--52">Lesotho (GRI: 46 ↑ 52)</a> 
-</div><div><a href="#mexico-gri-49--61">Mexico (GRI: 49 ↑ 61)</a> 
+</div><div><a href="#mexico-gri-50--61">Mexico (GRI: 50 ↑ 61)</a> 
 </div><div><a href="#mongolia-gri-60--61">Mongolia (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#nicaragua-gri-11--19">Nicaragua (GRI: 11 ↑ 19)</a> 
 </div><div><a href="#south korea-gri-58--61">South Korea (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#spain-gri-55--57">Spain (GRI: 55 ↑ 57)</a> 
-</div><div><a href="#thailand-gri-56--58">Thailand (GRI: 56 ↑ 58)</a> 
+</div><div><a href="#thailand-gri-58--58">Thailand (GRI: 58 ↑ 58)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
 </div><div><a href="#venezuela-gri-78--84">Venezuela (GRI: 78 ↑ 84)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#albania-gri-49--44">Albania (GRI: 49 ↓ 44)</a> 
@@ -1851,48 +1851,6 @@ zones don’t have restrictions for internal movement:
 
 <b>Old policy:</b>
 
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Italy (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; in <b>some</b> parts of Italy (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-in red zones masks are required in all public spaces, no exemption for
-green passes
-<https://web.archive.org/web/20210720190926/https://www.ilgiorno.it/cronaca/zone-rosse-italia-1.6611127>
-in white zones masks can now be removed in the open air if social
-distancing can be guaranteed,
-<https://web.archive.org/web/20210703024443/https://www.romatoday.it/attualita/mascherine-obbligatorie-quando.html>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Required</b> wearing of face masks in <b>all shared spaces</b>
 outside the home when other people are present <b>or</b> when social
 distancing not possible; in <b>some</b> parts of Italy (3T)
@@ -2315,7 +2273,7 @@ and port workers and those with health conditions.
 
 </div>
 
-### Mexico (GRI: 49 ↑ 61)
+### Mexico (GRI: 50 ↑ 61)
 
 #### Workplace closing (C2)
 
@@ -3550,7 +3508,7 @@ battles the fourth wave of infections. <https://archive.is/MI8fX>
 
 ### Spain (GRI: 55 ↑ 57)
 
-#### International travel controls (C8)
+#### Vaccination policy (H7)
 
 <div id="table-div">
 
@@ -3565,53 +3523,6 @@ battles the fourth wave of infections. <https://archive.is/MI8fX>
 <td style="text-align:left;min-width: 2in; ">
 
 <b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Spain (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Spain
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-  - Travellers arriving by air, sea or land, with the exception of
-    children under 12 years of age, must certify one of the following
-    requirements: 1. Certificate of recovery from COVID-19 issued by the
-    competent authorities or medical service. 2. Diagnostic certificate:
-    a negative PCR or PCR-like test. \* A mandatory 10-days quarantine
-    is required for travelers coming from India. The same measure
-    applies to travelers coming from Argentina, Colombia, and Bolivia
-    from July 27. \* Bans to flights from India and Brazil were lifted
-    on July 20. Source:
-    <https://web.archive.org/web/20210723235636/https://travelbans.org/europe/spain/>
-    </td>
-    </tr>
-    </tbody>
-    </table>
-    </div>
-    </div>
-    #### Vaccination policy (H7)
-    <div id="table-div">
-    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-    <table class="table" style="margin-left: auto; margin-right: auto;">
-    <tbody>
-    <tr>
-    <td style="text-align:left;min-width: 2in; ">
-    <b>Old policy:</b>
 
 Available to ALL key group (key workers, elderly, clinically vulnerable)
 plus additional availability to wider population; at no / minimal cost
@@ -3698,7 +3609,7 @@ No changes found as per last update
 
 </div>
 
-### Thailand (GRI: 56 ↑ 58)
+### Thailand (GRI: 58 ↑ 58)
 
 #### Workplace closing (C2)
 
@@ -4621,6 +4532,9 @@ parts of Venezuela (3T)
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
 
 </td>
 
