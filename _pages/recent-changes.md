@@ -53,11 +53,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#venezuela-gri-78--84">Venezuela (GRI: 78 ↑ 84)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#albania-gri-49--44">Albania (GRI: 49 ↓ 44)</a> 
 </div><div><a href="#argentina-gri-69--69">Argentina (GRI: 69 ↓ 69)</a> 
+</div><div><a href="#belarus-gri-38--33">Belarus (GRI: 38 ↓ 33)</a> 
 </div><div><a href="#canada-gri-62--59">Canada (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#croatia-gri-46--45">Croatia (GRI: 46 ↓ 45)</a> 
 </div><div><a href="#italy-gri-81--62">Italy (GRI: 81 ↓ 62)</a> 
 </div><div><a href="#mozambique-gri-52--50">Mozambique (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
+</div><div><a href="#palestine-gri-65--63">Palestine (GRI: 65 ↓ 63)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
 </div><div><a href="#tajikistan-gri-31--29">Tajikistan (GRI: 31 ↓ 29)</a> 
@@ -875,6 +877,62 @@ their houses for food, medicine, or to attend funeral services. \[
 \] \[
 <https://web.archive.org/web/20210728080940/https://www.newindianexpress.com/world/2021/jul/23/covid-19-bangladesh-reimposes-stricter-14-day-nationwide-shutdown-after-eid-2334435.html>
 \]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Belarus (GRI: 38 ↓ 33)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Belarus (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Belarus (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change from previous entry
+<https://web.archive.org/web/20210725202428/http://minzdrav.gov.by/upload/dadvfiles/letter/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83%20%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf>
 
 </td>
 
@@ -3036,6 +3094,67 @@ The government will ban unvaccinated people from boarding domestic
 flights and entering public facilities, such as government offices,
 schools, food establishments, and shopping malls.
 <http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Palestine (GRI: 65 ↓ 63)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Palestine
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Palestine
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Curfew no longer in place. However, the Palestinian
+Authority?may?institute?local or?West?Bank-wide lockdowns on?short
+notice?to contain the spread of COVID-19.? This?may?include?closing most
+businesses; curtailing residents’ movements, which may impede movement
+inside and between cities; a general curfew. Link:
+<https://web.archive.org/web/20210804183219/https://il.usembassy.gov/covid-19-information/>
 
 </td>
 
