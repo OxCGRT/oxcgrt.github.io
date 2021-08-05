@@ -55,7 +55,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#mozambique-gri-52--50">Mozambique (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
-</div><div><a href="#palestine-gri-65--63">Palestine (GRI: 65 ↓ 63)</a> 
+</div><div><a href="#palestine-gri-65--64">Palestine (GRI: 65 ↓ 64)</a> 
 </div><div><a href="#poland-gri-56--53">Poland (GRI: 56 ↓ 53)</a> 
 </div><div><a href="#south africa-gri-72--63">South Africa (GRI: 72 ↓ 63)</a> 
 </div><div><a href="#tajikistan-gri-31--29">Tajikistan (GRI: 31 ↓ 29)</a> 
@@ -2459,7 +2459,7 @@ schools, food establishments, and shopping malls.
 
 </div>
 
-### Palestine (GRI: 65 ↓ 63)
+### Palestine (GRI: 65 ↓ 64)
 
 #### Stay at home requirements (C6)
 
@@ -2485,7 +2485,7 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Palestine
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-29/7/2021  
+27/7/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -2494,18 +2494,21 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Palestine
 
 <b>New policy:</b>
 
-<b>Recommend</b> not leaving the house; across <b>all</b> of Palestine
-(1G)
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Palestine (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Curfew no longer in place. However, the Palestinian
-Authority?may?institute?local or?West?Bank-wide lockdowns on?short
-notice?to contain the spread of COVID-19.? This?may?include?closing most
-businesses; curtailing residents’ movements, which may impede movement
-inside and between cities; a general curfew. Link:
+Palestinian authorities imposed an indefinite security-related curfew in
+the West Bank’s Hebron Governorate from the evening of July 27; specific
+hours during which movement restrictions will be in force each night
+have not been announced. (US Embassy website states that there is not
+currently a curfew in place, but this seems to be referring to Covid-19
+related curfews) Link:
+<https://web.archive.org/web/20210805044716/https://www.garda.com/crisis24/news-alerts/506991/pt-authorities-impose-a-security-related-curfew-in-the-west-banks-hebron-governorate-from-late-july-27-until-further-notice>
 <https://web.archive.org/web/20210804183219/https://il.usembassy.gov/covid-19-information/>
 
 </td>
