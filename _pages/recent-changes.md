@@ -36,13 +36,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
+</div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-45--48">Kazakhstan (GRI: 45 ↑ 48)</a> 
+</div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
 </div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
 </div><div><a href="#vietnam-gri-65--69">Vietnam (GRI: 65 ↑ 69)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-62--59">Canada (GRI: 62 ↓ 59)</a> 
+</div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#kosovo-gri-49--47">Kosovo (GRI: 49 ↓ 47)</a> 
 </div><div><a href="#lesotho-gri-57--52">Lesotho (GRI: 57 ↓ 52)</a> 
@@ -61,7 +64,314 @@ Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
 
+### Belarus (GRI: 33 ↑ 41)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Belarus (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Belarus (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change from previous entry
+<https://web.archive.org/web/20210725202428/http://minzdrav.gov.by/upload/dadvfiles/letter/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83%20%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Belarus (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Belarus (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://web.archive.org/web/20210803171840/https://minzdrav.gov.by/upload/dadvfiles/letter/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83%20%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf>
+Recommendations include "“restriction of holding any mass events with
+more than 5 participants”"
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Belarus (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Belarus (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://web.archive.org/web/20210809090701/https://www.gov.uk/foreign-travel-advice/belarus/entry-requirements>
+"“Entry into the Republic of Belarus through a land border for foreign
+citizens has been suspended. There is a narrow list of concessions,
+including for holders of permanent/temporary residency \[…\] Flights
+continue to operate in and out of Minsk National Airport as normal.”"
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Canada (GRI: 62 ↓ 59)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of Canada
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Canada (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Effective 6 august 2021, in the central Okanagan region of British
+Columbia: “liquor service will be suspended at 10 p.m…Nightclubs and
+bars will be closed unless they serve food. High-intensity fitness gyms
+are also being temporarily closed”. Rules set by each province and
+territory vary. Some provinces – e.g., Alberta, Saskatchewan, New
+Brunswick – have revoked covid-related public health requirements for
+business operations. Manitoba is issuing “proof-of-immunization cards”
+and is restricting access to casinos and bingo halls to fully vaccinated
+patrons. (Manitoba will revoke its requirement that indoor dining,
+cinema and museum patrons be fully vaccinated effective 7 August.) See
+Retail Council of Canada, Global news and Province of Manitoba websites,
+archived:
+<https://web.archive.org/web/20210808152549/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
+<https://web.archive.org/web/20210809113612/https://globalnews.ca/news/8092646/bc-covid-update-august-6-2021/>
+<https://web.archive.org/web/20210809111929/https://news.gov.mb.ca/news/?archive=&item=51998>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Canada (4)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Canada (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 9 August 2021, Canada allows entry to fully vaccinated Americans. The
+border remains closed to all non-essential, non-American visitors until
+7 September. See Globe and Mail newspaper website, archived:
+<https://web.archive.org/web/20210809141258/https://www.theglobeandmail.com/canada/article-coronavirus-update-canada-opens-border-to-vaccinated-americans/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Canada (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Canada (4)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 9 August 2021, Canada allows entry to fully vaccinated Americans. The
+border remains closed to all non-essential, non-American visitors until
+7 September and to less-than-fully vaccinated, non-essential American
+visitors. See Globe and Mail newspaper website, archived:
+<https://web.archive.org/web/20210809141258/https://www.theglobeandmail.com/canada/article-coronavirus-update-canada-opens-border-to-vaccinated-americans/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Contact tracing (H3)
 
@@ -241,6 +551,444 @@ other residents/families of residents. Vaccination is mandatory for all
 people in contact with frail people (caregivers, non-caregivers,
 professionals and volunteers).
 <https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Gambia (GRI: 48 ↓ 40)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Gambia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Gambia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All schools are open, with Covid 19 prevention measures in place
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Gambia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Gambia
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+work places allowed to operate with covid 19 preventive regulations in
+place
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Gambia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Gambia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+ovid-19-information/ there is no evidence that public events are
+recommended/required to be cancelled, however, social distancing and
+face masks are required in all public spaces
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Gambia (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Gambia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Although there isn’t clear information on the number of people allowed
+to attend gatherings, most COVID 19 restrictions have been lifted and
+places like markets and cinemas are allowed to operate
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Gambia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Gambia (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Tests are available at a cost for all interested individuals.
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Gambia (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Gambia (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Face masks are mandatory in all public spaces.
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Gambia (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Gambia (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccination has been extended beyond priority groups and is provided
+free of charge by the government.
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of Gambia (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Gambia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There was no information found particularly on the protection of the
+elderly from Covid 19, however, all general preventive measures apply to
+them. The elderly were a priority group at the onset of vaccination.
+<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
@@ -1588,6 +2336,287 @@ Portugal (2T)
 The Prime Minister, António Costa, announced that the curfew currently
 in place in high-risk and very high risk municipalities will come to an
 end on August 1st. Source: <https://archive.vn/SD4J2>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Russia (GRI: 41 ↑ 55)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Russia (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Russia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Whilst it is recommended that public events are cancelled, certain
+exceptions are being permitted. In August, outdoor sports activities for
+the public, such as yoga or outdoor gym sessions, are being permitted in
+areas near to health centres. \[
+<https://web.archive.org/web/20210809092444/https://www.sobyanin.ru/pavilony-zdorovaya-moskva-vozobnovlyayut-rabotu-v-obychnom-rezhime>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people); in
+<b>some</b> parts of Russia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Russia (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+St.Petersburg has placed a ban on gatherings in excess of 75 people. \[
+<https://web.archive.org/web/20210809105334/https://www.themoscowtimes.com/2021/08/09/coronavirus-in-russia-the-latest-news-august-9-a69117>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Russia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Russia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Internal movement may be restricted at an interstate basis for parties
+who lack evidence of vaccination, within certain Russian states, at this
+moment in time. \[
+<https://web.archive.org/web/20210809100749/https://ru.usembassy.gov/covid-19-information/>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Russia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Russia
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There is a mandatory quarantine following on from international travel.
+The length of this quarantine is determined by whichever region of
+Russia you travel into. \[
+<https://web.archive.org/web/20210809100749/https://ru.usembassy.gov/covid-19-information/>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Russia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Russia (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Testing is generally available in Russia, with results available within
+72 hours. \[
+<https://web.archive.org/web/20210809100749/https://ru.usembassy.gov/covid-19-information/>
+\]
 
 </td>
 
