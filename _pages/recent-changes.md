@@ -37,16 +37,23 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
+</div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
+</div><div><a href="#botswana-gri-56--57">Botswana (GRI: 56 ↑ 57)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
+</div><div><a href="#israel-gri-53--55">Israel (GRI: 53 ↑ 55)</a> 
 </div><div><a href="#kazakhstan-gri-45--48">Kazakhstan (GRI: 45 ↑ 48)</a> 
+</div><div><a href="#kiribati-gri-21--33">Kiribati (GRI: 21 ↑ 33)</a> 
+</div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
+</div><div><a href="#tajikistan-gri-32--34">Tajikistan (GRI: 32 ↑ 34)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
+</div><div><a href="#turkmenistan-gri-53--55">Turkmenistan (GRI: 53 ↑ 55)</a> 
 </div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
 </div><div><a href="#vietnam-gri-65--69">Vietnam (GRI: 65 ↑ 69)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-62--59">Canada (GRI: 62 ↓ 59)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-62--57">Canada (GRI: 62 ↓ 57)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
-</div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
+</div><div><a href="#italy-gri-80--66">Italy (GRI: 80 ↓ 66)</a> 
 </div><div><a href="#kosovo-gri-49--47">Kosovo (GRI: 49 ↓ 47)</a> 
 </div><div><a href="#lesotho-gri-57--52">Lesotho (GRI: 57 ↓ 52)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
@@ -55,8 +62,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#poland-gri-50--47">Poland (GRI: 50 ↓ 47)</a> 
 </div><div><a href="#portugal-gri-69--65">Portugal (GRI: 69 ↓ 65)</a> 
-</div><div><a href="#thailand-gri-58--58">Thailand (GRI: 58 ↓ 58)</a> 
+</div><div><a href="#thailand-gri-64--64">Thailand (GRI: 64 ↓ 64)</a> 
 </div><div><a href="#united states-gri-62--59">United States (GRI: 62 ↓ 59)</a> 
+</div><div><a href="#uruguay-gri-60--56">Uruguay (GRI: 60 ↓ 56)</a> 
 </div></div> <br/>
 -->
 
@@ -212,7 +220,314 @@ continue to operate in and out of Minsk National Airport as normal.”"
 
 </div>
 
-### Canada (GRI: 62 ↓ 59)
+### Belize (GRI: 70 ↑ 72)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Belize (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Belize (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change in Policy
+<http://web.archive.org/web/20210809201311/https://bz.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Botswana (GRI: 56 ↑ 57)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Botswana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Botswana (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All gatherings are suspended with the exception of: Funerals – up to 50
+and no more than 2 hours Religious services – up to 50 and no more than
+2 hours Weddings – up to 4 including administrators Cultural or
+traditional occasion – up to 16 and no more than 2 hours
+<https://web.archive.org/web/20210809194629/https://bw.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of Botswana (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Botswana (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Banks have agreed to offer restructuring of loan facilities through
+which each bank will consider each case within their credit policy and
+parameters. This will include owner-occupied residential property
+mortgages and motor vehicle loans. All commercial banks will offer a
+payment holiday for three (3) months with the option to extend to six
+(6) months to the affected sectors. Regular payment obligations
+including life insurance premium payment, retirement fund contributions
+and loan instalments will be restructured and rescheduled to offer
+relief for at least three months to COVID-19 affected people subject to
+individual policies.
+<https://web.archive.org/web/20210320091542/https://covid19portal.gov.bw/assistance-businesses>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Botswana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Botswana (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+General recommendations and stay at home advice applies
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Canada (GRI: 62 ↓ 57)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of Canada (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Canada (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Effective 3 August 2021, the province of Ontario is “permitting school
+boards to offer in-person summer school in August with strict health and
+safety measures in place” and continuing “efforts ahead of September to
+deliver a safe, and more normal in-person learning experience”. Ontario
+closed schools for in-class learning with teaching online over the last
+3 months of the regular school year ending in June and required that
+“School boards are delivering virtual summer programming in July.”
+Elementary and secondary schools throughout Canada are on the regular
+summer break. In most of the rest of Canada, schools finished the year
+open for in-class learning. Those provinces and territories that have
+announced plans for the school year starting in September 2021 intend to
+start with in-class learning. Many post-secondary institutions in Canada
+offered online classes during the past academic year and are continuing
+to do so for summer courses. For the most part, teachers or students
+starting classes at all levels in September will NOT be required to
+provide proof of vaccination, immunity or negative test to attend
+classes(with the exception of at least one faculty of medicine and one
+Ontario college). Vaccination proof will be required to live in student
+housing operated by some post-secondary education institutions. See
+government of Ontario as well as Global and Globe and Mail news
+websites, archived:
+<https://web.archive.org/web/20210630201644/https://news.ontario.ca/en/statement/1000403/in-person-summer-learning-to-support-student-success-and-a-strong-start-to-2021-22-school-year>
+<https://web.archive.org/web/20210730110910/https://www.theglobeandmail.com/canada/article-canadas-international-students-face-covid-19-vaccine-hurdles-as-they/>
+<https://web.archive.org/web/20210809194945/https://globalnews.ca/news/8091790/manitoba-back-to-school-plan-other-provinces/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Workplace closing (C2)
 
@@ -269,97 +584,6 @@ archived:
 <https://web.archive.org/web/20210808152549/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
 <https://web.archive.org/web/20210809113612/https://globalnews.ca/news/8092646/bc-covid-update-august-6-2021/>
 <https://web.archive.org/web/20210809111929/https://news.gov.mb.ca/news/?archive=&item=51998>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Canada (4)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Canada (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 9 August 2021, Canada allows entry to fully vaccinated Americans. The
-border remains closed to all non-essential, non-American visitors until
-7 September. See Globe and Mail newspaper website, archived:
-<https://web.archive.org/web/20210809141258/https://www.theglobeandmail.com/canada/article-coronavirus-update-canada-opens-border-to-vaccinated-americans/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Canada (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Canada (4)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 9 August 2021, Canada allows entry to fully vaccinated Americans. The
-border remains closed to all non-essential, non-American visitors until
-7 September and to less-than-fully vaccinated, non-essential American
-visitors. See Globe and Mail newspaper website, archived:
-<https://web.archive.org/web/20210809141258/https://www.theglobeandmail.com/canada/article-coronavirus-update-canada-opens-border-to-vaccinated-americans/>
 
 </td>
 
@@ -1002,7 +1226,264 @@ them. The elderly were a priority group at the onset of vaccination.
 
 </div>
 
-### Italy (GRI: 80 ↓ 62)
+### Israel (GRI: 53 ↑ 55)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Israel
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Israel (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Although not yet reflected on the local councils traffic light site, the
+green pass system is now in place in a number of sectors. In addition,
+government buildings are reducing in-office work for public servants (to
+50 percent), with the private sector encouraged to allow employees to
+work from home "“Due to the significant increase in the infection rate
+and the attempts to curb the spread of the disease, the Coronavirus
+Cabinet has approved the expansion of the Green Pass
+system.”“Consequently, effective this Sunday, 8.8.2021, the Green
+Pass system, regardless of the number of participants, shall apply to
+event venues and gardens, conference halls, culture and sporting events,
+food establishments offering on premise dining, gyms and studios, hotels
+and movie theaters.”" Coding as level 2 to reflect these changes.
+Sources: <https://archive.vn/Nqpys>
+<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
+<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Israel (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Israel (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“Starting Sunday, gatherings of any size, indoors and out, are limited
+to those who have been vaccinated, recovered from the virus, or who
+present a negative COVID test, under the Green Pass system, which will
+also extend to hotels, restaurants and gyms.”" While the local council
+guidelines still mention other events going on as usual, this must only
+be possible where the green pass requirements aren’t being applied. The
+more stringent requirements are now limiting gatherings of any size, so
+coding now as a 2. Sources: <https://archive.vn/Nqpys>
+<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
+<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Israel (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Israel (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“Starting Sunday, gatherings of any size, indoors and out, are limited
+to those who have been vaccinated, recovered from the virus, or who
+present a negative COVID test, under the Green Pass system, which will
+also extend to hotels, restaurants and gyms.”" Gatherings are now being
+limited in specific venues operating the green pass and in places of
+worship where there are over 50 worshippers. As these requirements are
+restricting gatherings ‘defacto’, switching the coding level to 3.
+Sources: <https://archive.vn/Nqpys>
+<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
+<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Israel (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Testing for entry as required by new restrictions is available free
+until 8 August. At that point, people without a green pass will have to
+pay to use the service. "“Until August 8, PCR virus tests can be done
+for free at designated sites around the country and must be taken no
+more than 72 hours before the event. After that date, only rapid virus
+tests will be available at special stations spread across the country,
+and members of the public will be required to pay for each test. The
+tests will need to be done within 24 hours of the event.”“Rapid virus
+testing stations will be available in Magen David Adom ambulance service
+sites, Terem and Bikurofe medical clinics, and later also at Sonol gas
+stations as well as other locations.”“Home virus testing kits that are
+planned for sale in pharmacies will not be valid to gain entry to sites
+under the Green Pass system.”" Source:
+<https://archive.vn/PV8oP#selection-1159.0-1159.380>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Italy (GRI: 80 ↓ 66)
 
 #### School closing (C1)
 
@@ -1333,6 +1814,45 @@ zones don’t have restrictions for internal movement:
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Italy (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Although internal movement is allowed for those travelling for family or
+work reasons, or in possession of a green pass while all of Italy
+remains a "“white zone”", those subject to quarantine or with a
+temperature of 37,5 degrees and above are not allowed to travel. Social
+distancing and mask wearing are required when travelling.
+<http://archive.today/aiGia> | <http://archive.today/7ICsB>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -1545,6 +2065,200 @@ Currently, no measures. The government announced that 42,500 KZT will be
 paid for those who lost their jobs during recent COVID-19 restrictions.
 However, this will be paid once and during a period of 20 July - 2
 August. <https://archive.vn/9jjPv>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Kiribati (GRI: 21 ↑ 33)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Kiribati (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Kiribati (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From Facebook page for Office of Te Beretitenti
+(<https://www.facebook.com/ob.gov.ki>) Post on 30th July 2021 announces
+curfew order and other control measures "“for South Tarawa and Betio”"
+(<https://www.facebook.com/ob.gov.ki/posts/1465766767118862?__tn__=-R>)
+The measures are contained in a PDF:
+<https://www.president.gov.ki/images/Gazettes/Curfew_Order_ENGLISH_30_July_2021_FINAL.pdf>
+No indication is given on numbers, and wording implies that this applies
+to all social gatherings. "“5. All social gatherings like bingo games,
+drinking kava and alcohol are hereby prohibited. 6. All other kinds of
+gatherings are not encouraged. All Church leaders, Island Councils and
+families are hereby reminded not to encourage social gatherings to their
+members in line with this new normal.”" The link to the curfew order is
+at bottom of this page
+<http://archive.today/2021.08.09-190327/https://www.president.gov.ki/resources/gazettes-instruments.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Kiribati (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Kiribati (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From Facebook page for Office of Te Beretitenti
+(<https://www.facebook.com/ob.gov.ki>) Post on 30th July 2021 announces
+curfew order and other control measures for South Tarawa and Betio
+(<https://www.facebook.com/ob.gov.ki/posts/1465766767118862?__tn__=-R>)
+The measures are contained in a PDF:
+<https://www.president.gov.ki/images/Gazettes/Curfew_Order_ENGLISH_30_July_2021_FINAL.pdf>
+"“All arms of government (government agencies) including private
+businesses will maintain their operations as usual and without
+restrictions on sales of goods that would cause the public to panic. The
+government agencies and private businesses are reminded to comply with
+the health directions issued by the Ministry of Health during their
+operation hours such as social distancing, no hand shaking, wearing face
+mask, regular hand wash with soap, covering mouth when coughing etc. All
+operations by the government agencies and businesses must end before
+11pm at night until 4am in the morning.”" The link to the curfew order
+is at bottom of this page
+<http://archive.today/2021.08.09-190327/https://www.president.gov.ki/resources/gazettes-instruments.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Kiribati (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Kiribati (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From MHMS Facebook page. Post dated 4th August
+<https://www.facebook.com/info.mhms.gov.ki/posts/1021427372001653?__tn__=-R>
+(cannot archive link) Announces arrival of vaccines and program of
+vaccination for those aged 18 and above. There are no references to the
+type of vaccine (see also MISC note on 28th July 2021)
 
 </td>
 
@@ -1836,6 +2550,288 @@ with significant operational differences; across <b>all</b> of Malta
 The closure of language schools was reversed as the \[22\] schools were
 given permission to reopen for fully vaccinated students. Source:
 <http://web.archive.org/web/20210809062056/https://timesofmalta.com/articles/view/22-language-schools-reopen-doors.891676>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mexico (GRI: 63 ↑ 66)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Mexico (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Mexico (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+One area is deemed "“red”" where only essential economic activities are
+permitted. However, the latest traffic light system guide states that
+local governments can allow non essential economic activities to
+operate.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
+<https://web.archive.org/web/20210728021711/https://coronavirus.gob.mx/wp-content/uploads/2021/07/2021.7.27-Metodo_semaforo_COVID.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Mexico (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Mexico (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In "“red”" areas people are required to stay at home and only essential
+economic activities are permitted.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
+<https://web.archive.org/web/20210728021711/https://coronavirus.gob.mx/wp-content/uploads/2021/07/2021.7.27-Metodo_semaforo_COVID.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Mexico (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Mexico (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In "“red”" areas people are not allowed to meet with people outside of
+their household.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
+<https://web.archive.org/web/20210728021711/https://coronavirus.gob.mx/wp-content/uploads/2021/07/2021.7.27-Metodo_semaforo_COVID.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Mexico (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Mexico (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Is public transportation operating? \[Yes\] Some states and
+municipalities have implemented additional transportation restrictions.
+<https://web.archive.org/web/20210809144153/https://mx.usembassy.gov/covid-19-information-for-u-s-citizens-in-mexico/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of Mexico
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Mexico
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In "“red”" areas people are required to stay at home but can go outside
+for exercise, essential economic activities and shopping.
+<https://web.archive.org/web/20210802144334/https://coronavirus.gob.mx/semaforo/>
 
 </td>
 
@@ -2685,7 +3681,61 @@ Cash assistance is provided to low-income households
 
 </div>
 
-### Thailand (GRI: 58 ↑ 58)
+### Tajikistan (GRI: 32 ↑ 34)
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No testing policy</b> are present across all of Tajikistan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+NA; NA Tajikistan (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No changes found - testing for severe cases only.
+<https://web.archive.org/web/20210809181449/https://www.gov.uk/foreign-travel-advice/tajikistan/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Thailand (GRI: 64 ↑ 64)
 
 #### Stay at home requirements (C6)
 
@@ -3138,6 +4188,68 @@ Vaccines: Astrazeneca and Sinovac
 
 </div>
 
+### Turkmenistan (GRI: 53 ↑ 55)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Turkmenistan (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Turkmenistan (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Quote: Authorities in Ashgabat have reportedly closed major shopping
+centers, including the Altyn Asyr market and the Berkahar and 15 Let
+Nezalezhnosti malls, as of Aug. 2 as a measure to counter the spread of
+COVID-19; reports suggest that swimming pools and gymnasiums have also
+closed. In addition, gatherings, including family celebrations, have
+been prohibited indefinitely nationwide. The measures come amid a
+reported increase in COVID-19 cases."" Archive Link
+<http://web.archive.org/web/20210809171353/https://www.garda.com/crisis24/news-alerts/508931/turkmenistan-authorities-tighten-covid-19-countermeasures-in-ashgabat-as-of-aug-2-update-16>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### United States (GRI: 62 ↓ 59)
 
 #### Debt/contract relief (E2)
@@ -3181,6 +4293,218 @@ United States (1)
 On July 31st, the eviction moratorium expired and on August 1st, had no
 debt/contract relief at the federal level. See archive:
 <https://web.archive.org/web/20210726165916/https://www.cdc.gov/coronavirus/2019-ncov/more/pdf/CDC_Eviction_Extension_Order_Final_06242021.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Uruguay (GRI: 60 ↓ 56)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Uruguay (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Uruguay
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The workers of the public offices return to the presence after four
+months of virtuality. Sources:
+<https://web.archive.org/web/20210726182652/https://www.elobservador.com.uy/nota/las-recomendaciones-del-msp-para-el-retorno-a-la-presencialidad-en-oficinas-publicas-2021723201440>
+<https://web.archive.org/web/20210726182107/https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/noticias/Resolucio%CC%81n%20REINTEGRO%20PRESENCIALIDAD.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Uruguay (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Uruguay (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Uruguay
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of Uruguay
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Uruguay (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of Uruguay (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
 
 </td>
 
