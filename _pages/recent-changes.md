@@ -36,7 +36,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#kazakhstan-gri-45--48">Kazakhstan (GRI: 45 ↑ 48)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
+</div><div><a href="#kazakhstan-gri-45--48">Kazakhstan (GRI: 45 ↑ 48)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
 </div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
@@ -45,6 +46,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#italy-gri-80--62">Italy (GRI: 80 ↓ 62)</a> 
 </div><div><a href="#kosovo-gri-49--47">Kosovo (GRI: 49 ↓ 47)</a> 
 </div><div><a href="#lesotho-gri-57--52">Lesotho (GRI: 57 ↓ 52)</a> 
+</div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#mozambique-gri-52--50">Mozambique (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
@@ -116,6 +118,129 @@ of Canada and Province of Alberta websites, archived:
 <https://web.archive.org/web/20210729160005/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/testing.html>
 <https://web.archive.org/web/20210730133310/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/interim-guidance-cases-contacts.html>
 <https://web.archive.org/web/20210729180943/https://www.alberta.ca/covid-19-public-health-actions.aspx>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### France (GRI: 57 ↑ 63)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of France (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Use of the Health Pass is required to make use of long-distance
+inter-regional public transport (including domestic flights, TGV,
+Intercity and night trains, interregional buses) from 9 August -
+<https://web.archive.org/web/20210807000529/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of France (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Since 21 July, a new protocol provides in long-term care facilities for
+the elderly. Measures for the protection of residents implemented are
+the same as in the general population, with additional safeguards
+including: - It is no longer required to complete a self-questionnaire
+on arrival. The traceability register is maintained; - Outings are
+allowed, without limiting collective activities on return (except in the
+case of risky contact), but maintaining screenings for unvaccinated
+residents; - Day receptions are open normally. - Visits by relatives can
+now be done without an appointment, in the room as in collective spaces.
+They will be organized in such a way that distancing is respected from
+other residents/families of residents. Vaccination is mandatory for all
+people in contact with frail people (caregivers, non-caregivers,
+professionals and volunteers).
+<https://web.archive.org/web/20210729184634/https://www.gouvernement.fr/info-coronavirus>
 
 </td>
 
@@ -905,6 +1030,64 @@ Lesotho recently received more vaccine doses and is prioritizing health
 and port workers and those with health conditions.
 <https://web.archive.org/web/20210801195008/https://www.gov.uk/foreign-travel-advice/lesotho/coronavirus>
 <https://web.archive.org/web/20210801195237/https://www.gov.ls/pm-receives-covid-19-vaccine/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Malta (GRI: 60 ↓ 58)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Malta (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Malta
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The closure of language schools was reversed as the \[22\] schools were
+given permission to reopen for fully vaccinated students. Source:
+<http://web.archive.org/web/20210809062056/https://timesofmalta.com/articles/view/22-language-schools-reopen-doors.891676>
 
 </td>
 
