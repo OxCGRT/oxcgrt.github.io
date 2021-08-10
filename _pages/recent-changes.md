@@ -62,6 +62,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#poland-gri-50--47">Poland (GRI: 50 ↓ 47)</a> 
 </div><div><a href="#portugal-gri-69--65">Portugal (GRI: 69 ↓ 65)</a> 
 </div><div><a href="#thailand-gri-66--64">Thailand (GRI: 66 ↓ 64)</a> 
+</div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
 </div><div><a href="#united states-gri-62--59">United States (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#uruguay-gri-60--56">Uruguay (GRI: 60 ↓ 56)</a> 
 </div></div> <br/>
@@ -3725,6 +3726,121 @@ reported increase in COVID-19 cases."" Archive Link
 
 </div>
 
+### Uganda (GRI: 71 ↓ 66)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Uganda (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Uganda (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport may operate at 50% capacity.
+<https://web.archive.org/web/20210806164040/https://ug.usembassy.gov/covid-19-information-page/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Uganda (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Uganda (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of June 11, all arrivals from Category 1 (India) and Category 2
+countries (USA, UK, UAE, Turkey, South Africa, Ethiopia, South Sudan,
+Kenya, and Tanzania) to Uganda will be subjected to PCR COVID-19 testing
+on arrival. Fully vaccinated, asymptomatic travelers from Category 2
+countries with proof of vaccination status will be exempted from the
+arrival PCR test. However, these procedures are not always uniformly
+implemented and we cannot guarantee that proof of vaccination will waive
+the required PCR test upon arrival.
+<https://web.archive.org/web/20210806164040/https://ug.usembassy.gov/covid-19-information-page/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### United States (GRI: 62 ↓ 59)
 
 #### Debt/contract relief (E2)
@@ -3768,6 +3884,42 @@ United States (1)
 On July 31st, the eviction moratorium expired and on August 1st, had no
 debt/contract relief at the federal level. See archive:
 <https://web.archive.org/web/20210726165916/https://www.cdc.gov/coronavirus/2019-ncov/more/pdf/CDC_Eviction_Extension_Order_Final_06242021.pdf>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of United States (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+United States (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 3rd, the CDC announced a new eviction moratorium that will
+expire October 3rd, 2021. See archive:
+<https://web.archive.org/web/20210805034852/https://www.cdc.gov/media/releases/2021/s0803-cdc-eviction-order.html>
 
 </td>
 
