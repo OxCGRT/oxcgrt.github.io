@@ -39,6 +39,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-10</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
+</div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-53--63">Israel (GRI: 53 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-45--48">Kazakhstan (GRI: 45 ↑ 48)</a> 
@@ -53,6 +54,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-62--57">Canada (GRI: 62 ↓ 57)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
+</div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#italy-gri-80--66">Italy (GRI: 80 ↓ 66)</a> 
 </div><div><a href="#lesotho-gri-57--52">Lesotho (GRI: 57 ↓ 52)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
@@ -61,10 +63,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#poland-gri-50--47">Poland (GRI: 50 ↓ 47)</a> 
 </div><div><a href="#portugal-gri-69--65">Portugal (GRI: 69 ↓ 65)</a> 
+</div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#thailand-gri-66--64">Thailand (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
 </div><div><a href="#united states-gri-62--59">United States (GRI: 62 ↓ 59)</a> 
-</div><div><a href="#uruguay-gri-60--56">Uruguay (GRI: 60 ↓ 56)</a> 
 </div></div> <br/>
 -->
 
@@ -632,6 +634,232 @@ of Canada and Province of Alberta websites, archived:
 
 </div>
 
+### Central African Republic (GRI: 11 ↑ 25)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Central African Republic
+(0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Central
+African Republic (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A national curfew is in place in response to outbreaks of violence,
+following presidential and legislative elections. This curfew comes into
+effect at 8pm and ends at 5am.
+<https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Central African Republic (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Central African Republic (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government of CAR has established a coronavirus hotline (French and
+Sango) – call 1212 if you have questions or to report possible exposure.
+<https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Central African Republic (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Central African Republic (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+For symptomatic patients, testing is free and available at the Ministry
+of Health and Institute Pasteur. For pre-departure testing, travelers
+should go to the Pasteur Institute in Bangui. Their current hours are
+7:00am to 11:15am Monday to Saturday and testing is first come, first
+serve. Tests are approximately $75 and should be paid in local currency.
+<https://web.archive.org/web/20210803132632/https://cf.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No face mask measures</b> are present across all of Central African
+Republic (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Central African Republic
+(3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+It is compulsory to wear face masks in public places
+<https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### France (GRI: 57 ↑ 63)
 
 #### Close public transport (C5)
@@ -1114,6 +1342,62 @@ There was no information found particularly on the protection of the
 elderly from Covid 19, however, all general preventive measures apply to
 them. The elderly were a priority group at the onset of vaccination.
 <http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Hong Kong (GRI: 74 ↓ 73)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Hong Kong (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Hong
+Kong (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Inbound travelers are subject to quarantine. For fully vaccinated
+travelers, a shortened period of quarantine applies.
+<https://web.archive.org/web/20210810224329/https://www.coronavirus.gov.hk/eng/inbound-travel.html>
 
 </td>
 
@@ -3260,6 +3544,78 @@ Testing is generally available in Russia, with results available within
 
 </div>
 
+### Singapore (GRI: 72 ↓ 70)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Singapore (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Singapore
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+coding change from 10th August 2021 as restrictions are relaxed in the
+nation. Restaurants are not allowed to welcome diners as, however,
+differentiations between Vaccinated and unvaccinated individuals are now
+in-place. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Quote
+(1): "“I’M VACCINATED, WHAT CAN I DO? Vaccinated people can gather in
+groups of up to five people from Aug 10. They can also receive five
+distinct visitors at home each day. You can dine-in at food and beverage
+outlets, except hawker centres and coffee shops, in groups of up to five
+people who are all vaccinated. Children under 12 who are not vaccinated
+can be in the group of five, provided they are all from the same
+household.”" Link (1):
+<http://web.archive.org/web/20210810114929/https://www.channelnewsasia.com/singapore/covid-19-vaccinated-unvaccinated-dining-restrictions-aug-10-2097206>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Quote (2):
+"“SINGAPORE: Dining-in at F\&B outlets will resume from Aug 10, only
+for fully vaccinated people in up to groups of five as Singapore
+announced a two-step easing of COVID-19 measures.”" Link (2):
+<http://web.archive.org/web/20210807102312/https://www.channelnewsasia.com/singapore/dining-vaccinated-people-covid-19-aug-10-hawkers-2096546>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### South Sudan (GRI: 32 ↑ 35)
 
 #### Income support (E1)
@@ -3920,161 +4276,6 @@ United States (1)
 On August 3rd, the CDC announced a new eviction moratorium that will
 expire October 3rd, 2021. See archive:
 <https://web.archive.org/web/20210805034852/https://www.cdc.gov/media/releases/2021/s0803-cdc-eviction-order.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Uruguay (GRI: 60 ↓ 56)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Uruguay (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Uruguay (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Uruguay
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; in <b>some</b> parts of Uruguay
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Uruguay (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Uruguay (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
 
 </td>
 
