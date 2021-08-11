@@ -56,6 +56,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#turkmenistan-gri-53--55">Turkmenistan (GRI: 53 ↑ 55)</a> 
 </div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-59--57">Canada (GRI: 59 ↓ 57)</a> 
+</div><div><a href="#denmark-gri-54--52">Denmark (GRI: 54 ↓ 52)</a> 
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
@@ -964,6 +965,301 @@ distancing not possible; across <b>all</b> of Central African Republic
 
 It is compulsory to wear face masks in public places
 <https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Denmark (GRI: 54 ↓ 52)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Denmark
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Workplaces are open, however, for those who are not vaccinated or
+previously infected are expected to undergo regular testing at least
+once per week.
+<https://web.archive.org/web/20210811122501/https://en.coronasmitte.dk/rules-and-regulations>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Denmark (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public events are currently allowed, however, participants must present
+a valid corona passport to enter indoor theatres, concert venues and
+cinemas with more than 500 seated spectators. Other requirements can be
+found on the archived web link. Archived:
+<https://web.archive.org/web/20210811122501/https://en.coronasmitte.dk/rules-and-regulations>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Denmark (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Denmark
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Danish travel restrictions classify all countries and regions into
+four colour categories: green, yellow, orange and red. These categories
+determine which rules apply to you. Countries in the red zone have the
+strictest guidelines requiring: a test required prior to boarding
+aircraft, test and isolation required after entry, with foreigners
+requiring a worthy purpose for entry to Denmark, and to take test prior
+to entry to Denmark (EU Digital COVID Certificate)
+<https://archive.vn/R8X5Q>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Denmark (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Denmark (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A mobile app, SmitteStop is currently in use to help with contact
+tracing and it helps by notifying users who have been in contact with
+infected users for more than 15 minutes at a distance of 1 metre.
+Archived: <https://archive.vn/fdSVd>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Denmark (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In Denmark, a face mask or shield is required at the airport and while
+standing up when using public transportation. You are advised to wear a
+face mask or shield at test centres or when you visit the hospital.
+However, some groups are exempt from the required use of face mask or
+shield. These include, for instance, children up to the age of 12,
+people with a decreased level of consciousness, or people with physical
+or mental impairments that make it impossible for them to remove the
+face mask or shield themselves. Face masks may be removed if the wearer
+experience a severe discomfort, such as difficulty breathing Archived:
+<https://web.archive.org/web/20210811122501/https://en.coronasmitte.dk/rules-and-regulations>
 
 </td>
 
