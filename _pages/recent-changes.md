@@ -38,8 +38,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-11</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
+</div><div><a href="#belgium-gri-66--67">Belgium (GRI: 66 ↑ 67)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
 </div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
+</div><div><a href="#finland-gri-54--59">Finland (GRI: 54 ↑ 59)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-53--63">Israel (GRI: 53 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-45--48">Kazakhstan (GRI: 45 ↑ 48)</a> 
@@ -67,6 +69,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#portugal-gri-69--65">Portugal (GRI: 69 ↓ 65)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
+</div><div><a href="#united kingdom-gri-58--55">United Kingdom (GRI: 58 ↓ 55)</a> 
 </div><div><a href="#united states-gri-62--59">United States (GRI: 62 ↓ 59)</a> 
 </div></div> <br/>
 -->
@@ -352,6 +355,119 @@ more than 5 participants”"
 citizens has been suspended. There is a narrow list of concessions,
 including for holders of permanent/temporary residency \[…\] Flights
 continue to operate in and out of Minsk National Airport as normal.”"
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Belgium (GRI: 66 ↑ 67)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Belgium (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Belgium
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+People are advised to work from home, as much as possible. However, if
+people have to go to work, they are advised to use a facemask and to
+ensure adequate ventilation wherever they are. Archived:
+<https://web.archive.org/web/20210811113749/https://www.info-coronavirus.be/en/faq/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Belgium (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Belgium (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport is currently open and passengers greater than 12 years
+old are required to use a face mask Archived:
+<https://web.archive.org/web/20210811113749/https://www.info-coronavirus.be/en/faq/>
 
 </td>
 
@@ -913,6 +1029,342 @@ will remain closed. The decision to close all other classes will be
 reviewed over the next two weeks while we monitor the situation on the
 ground.”"""
 <https://web.archive.org/web/20210810160745/http://www.gov.sz/images/CORONA/PM-Statement-6-August-2021-Schools.pdf>""
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Finland (GRI: 54 ↑ 59)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Finland (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Finland (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Events are generally permitted, however, certain restrictions differ and
+are made by the regional government agency of the particular area.
+However, large gatherings can be arranged if hygiene and safety
+instructions are followed. Archived: <https://archive.ph/91ms4>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Finland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Finland (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transportation is accessible to all, however, a face mask or
+covering is required in public transport. Archived:
+<https://archive.ph/gnw5n>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Finland (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Finland
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccinated travelers from all countries are now permitted to enter
+Finland. However, this requires having received the last dose of a valid
+COVID-19 vaccine at least 14 days prior to arrival. People coming in
+from countries marked as risk countries who do no not have a certificate
+of a negative COVID-19 test, proof of having had the disease or a
+vaccination certificate, you may be tested for COVID-19 on entry into
+the country. This test is mandatory. Archived:
+<https://archive.ph/gnw5n> <https://archive.ph/ALXcH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Finland (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Finland (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Covid-19 testing is generally available Archived:
+<https://archive.ph/SGezB>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Finland (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Finland (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A mobile app "“Koronavilkku”", is a contact tracing app was produced by
+the Finnish Institute for Health and Welfare (THL) to help people find
+out whether you may have been exposed to coronavirus. The app can also
+be used to send share positive tests results anonymously with those you
+have been in close contact with Archived: <https://archive.ph/uzlhP>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; in <b>some</b> parts of
+Finland (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/7/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> wearing of face masks; across <b>all</b> of Finland
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Finnish Institute for Health and Welfare (THL) currently recommends
+the use of facemasks in all parts of the country Archived:
+<https://archive.ph/QZWJ9>
 
 </td>
 
@@ -4197,6 +4649,62 @@ arrival PCR test. However, these procedures are not always uniformly
 implemented and we cannot guarantee that proof of vaccination will waive
 the required PCR test upon arrival.
 <https://web.archive.org/web/20210806164040/https://ug.usembassy.gov/covid-19-information-page/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### United Kingdom (GRI: 58 ↓ 55)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of United Kingdom (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of United Kingdom (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Scotland opens all sectors, meaning all four nations have no sector
+closures. Scotland- 9 August- all sectors reopen at full capacity
+<https://web.archive.org/web/20210811111705/https://news.sky.com/story/covid-19-scotland-will-lift-most-remaining-legal-coronavirus-restrictions-next-week-nicola-sturgeon-confirms-12371554>
 
 </td>
 
