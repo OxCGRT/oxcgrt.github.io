@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-10</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-11</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
 </div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
@@ -49,10 +49,12 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
 </div><div><a href="#tajikistan-gri-32--34">Tajikistan (GRI: 32 ↑ 34)</a> 
+</div><div><a href="#thailand-gri-64--66">Thailand (GRI: 64 ↑ 66)</a> 
 </div><div><a href="#timor-leste-gri-57--61">Timor-Leste (GRI: 57 ↑ 61)</a> 
 </div><div><a href="#turkmenistan-gri-53--55">Turkmenistan (GRI: 53 ↑ 55)</a> 
 </div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-62--57">Canada (GRI: 62 ↓ 57)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-59--57">Canada (GRI: 59 ↓ 57)</a> 
+</div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#italy-gri-80--66">Italy (GRI: 80 ↓ 66)</a> 
@@ -64,7 +66,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#poland-gri-50--47">Poland (GRI: 50 ↓ 47)</a> 
 </div><div><a href="#portugal-gri-69--65">Portugal (GRI: 69 ↓ 65)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
-</div><div><a href="#thailand-gri-66--64">Thailand (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
 </div><div><a href="#united states-gri-62--59">United States (GRI: 62 ↓ 59)</a> 
 </div></div> <br/>
@@ -420,7 +421,7 @@ No change in Policy
 
 </div>
 
-### Canada (GRI: 62 ↓ 57)
+### Canada (GRI: 59 ↓ 57)
 
 #### School closing (C1)
 
@@ -847,6 +848,71 @@ distancing not possible; across <b>all</b> of Central African Republic
 
 It is compulsory to wear face masks in public places
 <https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Eswatini (GRI: 63 ↓ 61)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Eswatini (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Eswatini (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“According to a statement from the Prime Minister on August 6, schools
+have been closed due to COVID and were set to reopen on August 9,
+however, only certain grades will reopen now.”""“This alarming rise in
+both infections and deaths has required us to reconsider our position on
+the opening of schools on Monday…It is in that regard that Government
+announces that only completing classes will be reopening on Monday, 9
+August 2021; that is Grade 2, 7, Form 3 and Form 5. All other classes
+will remain closed. The decision to close all other classes will be
+reviewed over the next two weeks while we monitor the situation on the
+ground.”"""
+<https://web.archive.org/web/20210810160745/http://www.gov.sz/images/CORONA/PM-Statement-6-August-2021-Schools.pdf>""
 
 </td>
 
@@ -3088,59 +3154,6 @@ be observed. Archived:
 
 ### Poland (GRI: 50 ↓ 47)
 
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Poland (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-27/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Poland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Are there restrictions on intercity or interstate travel? No
-<https://web.archive.org/web/20210730044030/https://pl.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Debt/contract relief (E2)
 
 <div id="table-div">
@@ -3725,7 +3738,7 @@ No changes found - testing for severe cases only.
 
 </div>
 
-### Thailand (GRI: 66 ↓ 64)
+### Thailand (GRI: 64 ↑ 66)
 
 #### Stay at home requirements (C6)
 
