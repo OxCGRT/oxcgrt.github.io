@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-11</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-12</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#belgium-gri-66--67">Belgium (GRI: 66 ↑ 67)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
@@ -44,8 +44,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#finland-gri-54--59">Finland (GRI: 54 ↑ 59)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-53--63">Israel (GRI: 53 ↑ 63)</a> 
+</div><div><a href="#italy-gri-62--66">Italy (GRI: 62 ↑ 66)</a> 
 </div><div><a href="#kazakhstan-gri-45--48">Kazakhstan (GRI: 45 ↑ 48)</a> 
-</div><div><a href="#kiribati-gri-21--33">Kiribati (GRI: 21 ↑ 33)</a> 
+</div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#nigeria-gri-46--48">Nigeria (GRI: 46 ↑ 48)</a> 
 </div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
@@ -60,13 +61,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
-</div><div><a href="#italy-gri-80--66">Italy (GRI: 80 ↓ 66)</a> 
 </div><div><a href="#lesotho-gri-57--52">Lesotho (GRI: 57 ↓ 52)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#mozambique-gri-52--50">Mozambique (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#pakistan-gri-70--63">Pakistan (GRI: 70 ↓ 63)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
-</div><div><a href="#poland-gri-50--47">Poland (GRI: 50 ↓ 47)</a> 
 </div><div><a href="#portugal-gri-69--65">Portugal (GRI: 69 ↓ 65)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
@@ -2528,7 +2527,7 @@ until 20.8.2021).”" Source:
 
 </div>
 
-### Italy (GRI: 80 ↓ 66)
+### Italy (GRI: 62 ↑ 66)
 
 #### School closing (C1)
 
@@ -3087,7 +3086,7 @@ August. <https://archive.vn/9jjPv>
 
 </div>
 
-### Kiribati (GRI: 21 ↑ 33)
+### Kiribati (GRI: 30 ↑ 33)
 
 #### Restrictions on gatherings (C4)
 
@@ -3900,73 +3899,6 @@ be observed. Archived:
 
 </div>
 
-### Poland (GRI: 50 ↓ 47)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Poland (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA
-Poland (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Broad range of contract relief policies seem to be in place as of 08
-August.
-<https://web.archive.org/web/20210808083453/https://www.gov.pl/web/koronawirus/informacje-dla-beneficjentow-fe>
-Further, Poland’s government on 15 May 2021 unveiled details about a new
-stimulus plan designed to bolster the economy following the coronavirus
-(COVID-19) pandemic. The proposed program introduced amendments to the
-Polish tax system, including changes affecting individual taxpayers such
-as: An increase to income for the “tax-free allowance” for low-wage
-earners An increase to the threshold that triggers for individual
-taxpayers, application of the higher income tax bracket of 32% to PLN
-120,000 (currently PLN 85,528) An increase to the total tax and
-contribution burden for non-deductible health insurance contributions
-<https://web.archive.org/web/20210808082921/https://home.kpmg/us/en/home/insights/2021/05/tnf-poland-proposed-economic-stimulus-plan-tax-measures.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Portugal (GRI: 69 ↓ 65)
 
 #### Stay at home requirements (C6)
@@ -4535,63 +4467,6 @@ measures will start on Tuesday (Aug 3) and will be evaluated after two
 weeks - with the possibility they will last until the end of August.
 Archived:
 <https://web.archive.org/web/20210801134926/https://www.straitstimes.com/asia/se-asia/thailand-extends-stricter-covid-19-measures-until-end-august>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Thailand (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Thailand (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 28 July, Prime Minister Hun Sen instructed to impose curfew from 9pm
-to 3am in parts or throughout territories under your jurisdiction,
-especially in Phnom Penh, provincial town or urban areas from July 29
-midnight through August 12. Archived:
-<https://web.archive.org/web/20210801155148if_/https://www.nationthailand.com/international/40003890>
 
 </td>
 
