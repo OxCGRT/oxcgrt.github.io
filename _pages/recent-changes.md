@@ -41,6 +41,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#belgium-gri-66--67">Belgium (GRI: 66 ↑ 67)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
 </div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
+</div><div><a href="#dominica-gri-41--65">Dominica (GRI: 41 ↑ 65)</a> 
 </div><div><a href="#finland-gri-54--59">Finland (GRI: 54 ↑ 59)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-53--63">Israel (GRI: 53 ↑ 63)</a> 
@@ -1259,6 +1260,398 @@ or mental impairments that make it impossible for them to remove the
 face mask or shield themselves. Face masks may be removed if the wearer
 experience a severe discomfort, such as difficulty breathing Archived:
 <https://web.archive.org/web/20210811122501/https://en.coronasmitte.dk/rules-and-regulations>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Dominica (GRI: 41 ↑ 65)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Dominica (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Dominica (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All nonessential businesses must remain closed. Essential businesses may
+open 06:00-16:00, ensuring social distancing measures, the use of
+facemasks and limiting the number of customers within their premises.
+Restaurants must remain closed for in-person dining, but may open for
+take-out services.
+<https://web.archive.org/web/20210812031747/https://www.garda.com/crisis24/news-alerts/511581/dominica-authorities-extend-nightly-curfew-strict-business-restrictions-through-aug-17-due-to-covid-19-update-21>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Dominica (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Dominica (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The following will NOT be permitted: private parties, recreational or
+sporting events, social events, meetings of fraternal societies or of
+clubs, group tours and loud music. <https://archive.ph/IFL5S>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Dominica (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Dominica (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Private gathering is prohibited. Weddings are to be limited to five
+people while funerals are to be no more than ten individuals.
+<https://archive.ph/IFL5S>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Dominica (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Dominica (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public Transportation will be restricted to three individuals per row.
+<https://archive.ph/IFL5S>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Dominica
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Dominica
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Curfew is in place until 8.17. The measures are as follows a Curfew
+Order will be in effect from 6:00 pm to 5:00 am daily from Tuesday
+August 3, 2021 for the next seven days; however, in the case of the
+weekend the curfew will begin at 5:00 pm on Saturday, August 7, 2021 and
+will continue throughout the day on Sunday, August 8, 2021 and end on
+Monday, August 9, 2021 at 5:00 am. Curfew will then resume the night of
+Monday August 9, 2021 at 6:00 pm. <https://archive.ph/IFL5S>
+<https://web.archive.org/web/20210812031747/https://www.garda.com/crisis24/news-alerts/511581/dominica-authorities-extend-nightly-curfew-strict-business-restrictions-through-aug-17-due-to-covid-19-update-21>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Dominica (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Dominica (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Under the new order, masks were mandatory in public.
+<https://web.archive.org/web/20210812034842/https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Dominica (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of Dominica (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No special policies to protect the elderly but more extensive
+protections apply to all citizens. <https://archive.ph/IFL5S>
 
 </td>
 
