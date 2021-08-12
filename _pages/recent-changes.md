@@ -37,9 +37,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-12</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+</div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#belgium-gri-66--67">Belgium (GRI: 66 ↑ 67)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
+</div><div><a href="#brunei-gri-47--72">Brunei (GRI: 47 ↑ 72)</a> 
 </div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
 </div><div><a href="#dominica-gri-41--65">Dominica (GRI: 41 ↑ 65)</a> 
 </div><div><a href="#finland-gri-54--59">Finland (GRI: 54 ↑ 59)</a> 
@@ -244,6 +246,133 @@ Until the morning of August 5, 38,505,454 doses of vaccines were
 distributed throughout the country, while 33,432,831 were applied.
 Administering Sinopharm, Sputnik V, AstraZeneca-Oxford, Moderna.
 <https://web.archive.org/web/20210809215628/https://www.argentina.gob.ar/noticias/comenzo-la-distribucion-de-mas-de-15-millon-de-dosis-de-moderna-en-todo-el-pais>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Austria (GRI: 68 ↑ 72)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Austria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+11/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people); in
+<b>some</b> parts of Austria (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Measures for individual districts - Lienz (Tyrol) "“From August 11, 2021
+(until September 1, 2021), the following applies to the entire Lienz
+district: Meetings of more than 100 people are not permitted. In any
+case, a mask (FFP2) must be worn at permissible gatherings, a 3G
+verification must be checked and a registration must be carried out. An
+FFP2 mask must also be worn in closed rooms in retail, in customer
+areas, when collecting food, in cultural institutions, at workplaces, in
+old people’s and nursing homes and hospitals, in public closed rooms and
+on public transport.”" Elsewhere in Austria "“Meetings of 100 people or
+more are notifiable. The participants have to show a 3G certificate,
+which has to be checked by those responsible. The latter must also
+develop and implement a prevention concept and appoint a COVID-19
+officer.”" Sources: <https://archive.vn/Fulk4> \[Tyrol specific
+measures\] <https://archive.vn/8fEMv> {Ordinance\]
+<https://archive.vn/ZBDCB> \[Nationwide measures\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Austria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+11/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Austria (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Measures for individual districts - Municipalities of Innervillgraten
+and Oberlienz (Tyrol) From August 11, 2021 (until August 24, 2021) the
+following also applies to the communities of Innervillgraten and
+Oberlienz: Leaving the community areas - with a few exceptions - is only
+possible with a negative PCR test (not older than 72 hours), antigen
+test (no older than 48 hours) or full immunization. Source:
+<https://archive.vn/Fulk4> \[Tyrol specific measures\]
 
 </td>
 
@@ -525,6 +654,644 @@ Belize (2G)
 
 No change in Policy
 <http://web.archive.org/web/20210809201311/https://bz.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Brunei (GRI: 47 ↑ 72)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Brunei (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Brunei (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 07 August, Brunei detected its first local Covid-19 cases in over a
+year, all of which were unlinked to previously-known imported cases.
+Hence, Brunei has decided to tighten Covid measures, including
+instituting the closure of schools. Per the press release of 07 Aug by
+the Ministry of Health, "“With the consent of His Majesty the Sultan and
+Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that the
+following control measures are reinstated for two weeks with immediate
+effect: … 3. Online learning will commenced for schools, other
+educational institutions, tuition classes, music classes and special
+needs classes.”" Although it is initially unclear whether this directive
+applies to universities, Universiti Brunei Darussalam, the country’s
+largest university, only instituted Covid-19 shutdown measures on 9th
+August. See the Ministry of Health’s press release, archived at
+<https://archive.vn/C5fBL> See Universiti Brunei Darussalam (UBD)’s
+Covid-19 update page, archived at <https://archive.vn/MKajg>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Brunei (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Brunei (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 07 August, Brunei detected its first local Covid-19 cases in over a
+year, all of which were unlinked to previously-known imported cases.
+Hence, Brunei has decided to tighten Covid measures, including
+instituting the closure of schools. Per the press release of 07 Aug by
+the Ministry of Health, "“With the consent of His Majesty the Sultan and
+Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that the
+following control measures are reinstated for two weeks with immediate
+effect: … 3. Online learning will commenced for schools, other
+educational institutions, tuition classes, music classes and special
+needs classes.”" Although it is initially unclear whether this directive
+applies to universities, Universiti Brunei Darussalam, the country’s
+largest university, instituted Covid-19 shutdown measures on 9th August.
+See the Ministry of Health’s press release, archived at
+<https://archive.vn/C5fBL> See Universiti Brunei Darussalam (UBD)’s
+Covid-19 update page, archived at <https://archive.vn/MKajg>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Brunei
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Brunei (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 07 August, Brunei detected its first local Covid-19 cases in over a
+year, all of which were unlinked to previously-known imported cases.
+Hence, Brunei has decided to tighten Covid measures, including forcing
+the closure of workplaces. Per the press release of 07 Aug by the
+Ministry of Health, "“With the consent of His Majesty the Sultan and
+Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that the
+following control measures are reinstated for two weeks with immediate
+effect: … 4. Restaurants and other food premises including stalls are
+only allowed to sell food for take-away or delivery only; dine-in is not
+allowed. 5. Gyms, fitness centers, indoor and outdoor sports facilities,
+leisure centers, cinemas, internet cafes, children playgrounds, driving
+schools, museums, libraries, galleries, beauty salons and barbershops
+are closed. 6. Companies and offices to implement their respective
+business continuity plans including considering work-from-home methods;
+only essential workers are allowed to work in the office. 7. Other
+premises including markets, tamu, supermarkets and retail business
+premises are allowed to operate by ensuring physical distancing measures
+are implemented.”" See the Ministry of Health’s press release, archived
+at <https://archive.vn/C5fBL>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Brunei (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Brunei (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Measures were further tightened, after the discovery of more local cases
+on the 8th and 9th of August. Per the press release of 09 Aug by the
+Ministry of Health, written in Malay, "“ii) All officers and staff,
+whether government or private are required to do work-from-home. Only
+really needed staff are allowed to go out to work such as, frontline
+workers (health sector, security sector, hospitality sector, transport
+sector) daily necessities sector (food, retail business) facilities and
+utilities sector (electricity, water, telecommunications) officers at
+the borders and entrances to Brunei Darussalam oil and gas and
+downstream sectors development sector agri-food and forestry sectors”"
+See the Ministry of Health’s press release, archived at
+<https://archive.vn/jK4EU>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Brunei (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Brunei (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Measures were further tightened, after the discovery of more local cases
+on the 8th and 9th of August. Per the press release of 09 Aug by the
+Ministry of Health, written in Malay, "“i) Any public gathering is not
+allowed. However, exceptions are allowed as follows: A group of 15
+people for funeral management (not COVID-19). A group of 5 people for
+the marriage ceremony.”" Additionally, "“iii) Leaving the house without
+a significant purpose is not allowed. Only two people from one family
+are allowed out of the house to buy daily necessities.”" See the
+Ministry of Health’s press release, archived at
+<https://archive.vn/jK4EU>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Brunei (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Brunei (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 07 August, Brunei detected its first local Covid-19 cases in over a
+year, all of which were unlinked to previously-known imported cases.
+Hence, Brunei has decided to tighten Covid measures, including
+restricting mass gatherings sizes to 30. Per the press release of 07 Aug
+by the Ministry of Health, "“With the consent of His Majesty the Sultan
+and Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that
+the following control measures are reinstated for two weeks with
+immediate effect: … 1. Mass gathering is limited to 30 people only. 2.
+Mosques, surau, musalla (balai ibadat) and other places of worship are
+closed. 8. All social gathering events must be postponed.”" See the
+Ministry of Health’s press release, archived at
+<https://archive.vn/C5fBL>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Brunei (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Brunei (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Measures were further tightened, after the discovery of more local cases
+on the 8th and 9th of August. All gatherings are restricted, except for
+non-Covid-19 funerals (max 15), and marriage ceremonies (max 5) Per the
+press release of 09 Aug by the Ministry of Health, written in Malay,
+"“i) Any public gathering is not allowed. However, exceptions are
+allowed as follows: A group of 15 people for funeral management (not
+COVID-19). A group of 5 people for the marriage ceremony.”"
+Additionally, "“iii) Leaving the house without a significant purpose is
+not allowed. Only two people from one family are allowed out of the
+house to buy daily necessities.”" See the Ministry of Health’s press
+release, archived at <https://archive.vn/jK4EU>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Brunei (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Brunei (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+After local transmission cases were found in Brunei on 07 Aug in over a
+year, public transport capacity was reduced effective from 09 Aug. Per
+the press release of 08 Aug by the Ministry of Transport and
+Infocommunications, written in Malay, "“1.3.1 Public transport operators
+are limited to 50 per cent seating capacity in public transport
+vehicles.”" See the Ministry of Transport and Infocommunications’s press
+release, archived at <https://archive.vn/dkRj1>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Brunei (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Brunei (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 07 August, Brunei detected its first local Covid-19 cases in over a
+year, all of which were unlinked to previously-known imported cases.
+Hence, Brunei has decided to tighten Covid measures, including
+recommending people not to go out. Per the press release of 07 Aug by
+the Ministry of Health, "“The public are advised to practice their
+social responsibility by maintaining personal hygiene, having proper
+sneeze etiquette, physical distancing and if feeling unwell, to abstain
+from going to public places and attend social gatherings. Avoid going to
+public places including shopping malls without purpose or essential
+need; it is safer to stay at home.”" See the Ministry of Health’s press
+release, archived at <https://archive.vn/C5fBL>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Brunei (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Brunei
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Measures were further tightened, after the discovery of more local cases
+on the 8th and 9th of August. People are required to stay at home,
+except for essential purposes (for example, going to work for essential
+workers, buying groceries, or attending funerals and weddings). Per the
+press release of 09 Aug by the Ministry of Health, written in Malay,
+"“i) Any public gathering is not allowed. However, exceptions are
+allowed as follows: A group of 15 people for funeral management (not
+COVID-19). A group of 5 people for the marriage ceremony.”"
+Additionally, "“iii) Leaving the house without a significant purpose is
+not allowed. Only two people from one family are allowed out of the
+house to buy daily necessities.”" See the Ministry of Health’s press
+release, archived at <https://archive.vn/jK4EU>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Brunei (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Brunei (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 07 August, Brunei detected its first local Covid-19 cases in over a
+year, all of which were unlinked to previously-known imported cases.
+Hence, Brunei has decided to tighten Covid measures, including
+instituting mandatory mask measures. Per the press release of 07 Aug by
+the Ministry of Health, "“Meanwhile, to address the concerns on the
+spread of Delta variant around the world, including in Brunei
+Darussalam, the Ministry of Health would also like to inform the public
+on the changes in the face mask guidelines: 1. Face masks are required
+be worn at all times, especially indoors or in crowded places either
+indoor or outdoor. 2. Face mask must cover the wearer’s nose and mouth.
+3. This directive is applicable to all individuals regardless of their
+vaccination status.”" See the Ministry of Health’s press release,
+archived at <https://archive.vn/C5fBL>
 
 </td>
 
