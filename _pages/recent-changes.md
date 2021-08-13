@@ -48,6 +48,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#nigeria-gri-46--48">Nigeria (GRI: 46 ↑ 48)</a> 
+</div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#pakistan-gri-62--63">Pakistan (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
@@ -3527,6 +3528,63 @@ place. We urge U.S. citizens to check as individual states may have more
 restrictive curfews. Are there restrictions on intercity or interstate
 travel? No. Link:
 <http://web.archive.org/web/20210805225002/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Norway (GRI: 53 ↑ 54)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Norway (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Norway (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In August all adults above the age of 18 have been offered the vaccine
+/web/20210813132031/<https://www.fhi.no/contentassets/71e97765e43c41ee8f059efbd4016ca8/vedlegg/2021.08.13-vaccination-calendar.pdf>
 
 </td>
 
