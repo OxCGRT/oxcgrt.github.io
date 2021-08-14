@@ -41,13 +41,14 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
 </div><div><a href="#brunei-gri-47--72">Brunei (GRI: 47 ↑ 72)</a> 
+</div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
 </div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
 </div><div><a href="#dominica-gri-41--65">Dominica (GRI: 41 ↑ 65)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
-</div><div><a href="#nigeria-gri-46--48">Nigeria (GRI: 46 ↑ 48)</a> 
+</div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
@@ -61,6 +62,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#kazakhstan-gri-50--48">Kazakhstan (GRI: 50 ↓ 48)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
+</div><div><a href="#nigeria-gri-46--35">Nigeria (GRI: 46 ↓ 35)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
@@ -1170,6 +1172,224 @@ indoor or outdoor. 2. Face mask must cover the wearer’s nose and mouth.
 3. This directive is applicable to all individuals regardless of their
 vaccination status.”" See the Ministry of Health’s press release,
 archived at <https://archive.vn/C5fBL>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Cameroon (GRI: 23 ↑ 34)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; in <b>some</b> parts of Cameroon (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools are open and have resumed normal hours.
+<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cameroon
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Air passengers with positive Covid-19 test result will be required to
+enter isolation at home or in a government facility, depending on
+symptoms. All other passengers are encouraged to limit contact with
+others for 14 days after their trip.
+<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Cameroon (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Mass testing had been expanded to flatten the curve, with designated
+screening and testing facilities.
+<http://web.archive.org/web/20210814140254/https://www.aa.com.tr/en/africa/cameroon-starts-mass-virus-screening-campaign/1925230>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No availability</b> is present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Cameroon (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+People aged 18 years old and over can be vaccinated. Vaccines used:
+AstraZeneca and Sinopharm
+<http://web.archive.org/web/20210814141349/https://reliefweb.int/report/cameroon/cameroon-covid-19-emergency-situation-report-no-17-1-31-may-2021>
 
 </td>
 
@@ -3285,7 +3505,68 @@ municipalities have implemented additional transportation restrictions.
 
 </div>
 
-### Nigeria (GRI: 46 ↑ 48)
+### Niger (GRI: 31 ↑ 35)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Niger (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Niger (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+COVID-19 vaccines are available in all eight of Niger’s regions.  Two
+vaccines are currently available in Niger: the Sinopharm vaccine and the
+AstraZeneca vaccine. Both vaccines require two doses and are available
+for individuals 18 years or older. 
+<https://web.archive.org/web/20210812101646/https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Nigeria (GRI: 46 ↓ 35)
 
 #### School closing (C1)
 
@@ -3333,6 +3614,97 @@ transportation etc.) are available in Nigeria, and schools have resumed.
 Link:
 <http://web.archive.org/web/20210805225002/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
 <http://web.archive.org/web/20210809202912/https://unilag.edu.ng/?p=6250>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Nigeria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools have resumed.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Nigeria
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Nigeria
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Government of Nigeria continues to have a 12:00 a.m. to 4:00 a.m.
+daily curfew in place.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
@@ -3390,6 +3762,163 @@ place. We urge U.S. citizens to check as individual states may have more
 restrictive curfews. Are there restrictions on intercity or interstate
 travel? No. Link:
 <http://web.archive.org/web/20210805225002/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Nigeria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No restrictions on intercity or interstate travel.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Nigeria (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Nigeria (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+While vaccines are now available in Nigeria, vaccines are only available
+for Nigerian citizens and legal residents who meet the above criteria.
+Nigeria has an eligibility list which does not prioritize non-Nigerians
+or tourists. Health workers (and other front line staff) will be
+prioritised in the first phase. This will be followed by phase 2 (people
+aged 50 and above) and phase 3 (people with co-morbidities). Phase 1
+ongoing. Vaccines: AstraZeneca with plans for Pfizer and Johnson and
+Johnson in the 3rd quarter of the year. All vaccines government funded
+(COVAX).
+<https://web.archive.org/web/20210810182751/https://mobile.twitter.com/NphcdaNG/status/1381587371032993796>
+<https://web.archive.org/web/20210810182142/https://www.unicef.org/nigeria/press-releases/covid-19-vaccines-shipped-covax-arrive-nigeria>
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Nigeria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Government of Nigeria continues to have a 12:00 a.m. to 4:00 a.m.
+daily curfew in place.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
