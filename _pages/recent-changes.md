@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-13</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-14</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
@@ -49,26 +49,21 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#nigeria-gri-46--48">Nigeria (GRI: 46 ↑ 48)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
-</div><div><a href="#pakistan-gri-62--63">Pakistan (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
 </div><div><a href="#tajikistan-gri-32--34">Tajikistan (GRI: 32 ↑ 34)</a> 
-</div><div><a href="#thailand-gri-64--66">Thailand (GRI: 64 ↑ 66)</a> 
-</div><div><a href="#turkmenistan-gri-53--55">Turkmenistan (GRI: 53 ↑ 55)</a> 
+</div><div><a href="#united states-gri-59--62">United States (GRI: 59 ↑ 62)</a> 
 </div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-59--57">Canada (GRI: 59 ↓ 57)</a> 
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#kazakhstan-gri-50--48">Kazakhstan (GRI: 50 ↓ 48)</a> 
-</div><div><a href="#lesotho-gri-57--52">Lesotho (GRI: 57 ↓ 52)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
-</div><div><a href="#portugal-gri-69--65">Portugal (GRI: 69 ↓ 65)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
 </div><div><a href="#united kingdom-gri-58--55">United Kingdom (GRI: 58 ↓ 55)</a> 
-</div><div><a href="#united states-gri-62--59">United States (GRI: 62 ↓ 59)</a> 
 </div></div> <br/>
 -->
 
@@ -3053,140 +3048,6 @@ August. <https://archive.vn/9jjPv>
 
 ### Kiribati (GRI: 30 ↑ 33)
 
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kiribati (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Kiribati (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From Facebook page for Office of Te Beretitenti
-(<https://www.facebook.com/ob.gov.ki>) Post on 30th July 2021 announces
-curfew order and other control measures "“for South Tarawa and Betio”"
-(<https://www.facebook.com/ob.gov.ki/posts/1465766767118862?__tn__=-R>)
-The measures are contained in a PDF:
-<https://www.president.gov.ki/images/Gazettes/Curfew_Order_ENGLISH_30_July_2021_FINAL.pdf>
-No indication is given on numbers, and wording implies that this applies
-to all social gatherings. "“5. All social gatherings like bingo games,
-drinking kava and alcohol are hereby prohibited. 6. All other kinds of
-gatherings are not encouraged. All Church leaders, Island Councils and
-families are hereby reminded not to encourage social gatherings to their
-members in line with this new normal.”" The link to the curfew order is
-at bottom of this page
-<http://archive.today/2021.08.09-190327/https://www.president.gov.ki/resources/gazettes-instruments.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kiribati (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Kiribati (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From Facebook page for Office of Te Beretitenti
-(<https://www.facebook.com/ob.gov.ki>) Post on 30th July 2021 announces
-curfew order and other control measures for South Tarawa and Betio
-(<https://www.facebook.com/ob.gov.ki/posts/1465766767118862?__tn__=-R>)
-The measures are contained in a PDF:
-<https://www.president.gov.ki/images/Gazettes/Curfew_Order_ENGLISH_30_July_2021_FINAL.pdf>
-"“All arms of government (government agencies) including private
-businesses will maintain their operations as usual and without
-restrictions on sales of goods that would cause the public to panic. The
-government agencies and private businesses are reminded to comply with
-the health directions issued by the Ministry of Health during their
-operation hours such as social distancing, no hand shaking, wearing face
-mask, regular hand wash with soap, covering mouth when coughing etc. All
-operations by the government agencies and businesses must end before
-11pm at night until 4am in the morning.”" The link to the curfew order
-is at bottom of this page
-<http://archive.today/2021.08.09-190327/https://www.president.gov.ki/resources/gazettes-instruments.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Vaccination policy (H7)
 
 <div id="table-div">
@@ -3232,69 +3093,6 @@ From MHMS Facebook page. Post dated 4th August
 (cannot archive link) Announces arrival of vaccines and program of
 vaccination for those aged 18 and above. There are no references to the
 type of vaccine (see also MISC note on 28th July 2021)
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Lesotho (GRI: 57 ↓ 52)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Lesotho (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Lesotho (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to an announcement from the Ministry of Education and
-Training, all schools are to reopen from winter break on August 1, 2021.
-The country remains under Purple Code Guidelines. Under the Purple Code
-Guidelines, schools will open under a rotational basis, adhering to
-standard risk guidelines and sanitization. Buses only allowed to hold
-50% capacity.
-<https://web.archive.org/web/20210724235926/https://www.gov.ls/wp-content/uploads/2021/06/Circular-17-Basic-Education.pdf>
-<https://web.archive.org/web/20210725000343/https://www.gov.ls/wp-content/uploads/2021/07/PURPLE-COLOR-CODE-STAGE-1.pdf>
-<https://web.archive.org/web/20210801183213/https://ls.usembassy.gov/lesothos-new-directive-on-coronavirus-international-arrivals-now-asked-to-self-isolate-for-14-days/>
 
 </td>
 
@@ -3598,208 +3396,6 @@ In August all adults above the age of 18 have been offered the vaccine
 
 </div>
 
-### Pakistan (GRI: 62 ↑ 63)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Pakistan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-31/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Pakistan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public and private offices can operate at full capacity
-<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Pakistan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Pakistan
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The government will ban unvaccinated people from boarding domestic
-flights and entering public facilities, such as government offices,
-schools, food establishments, and shopping malls.
-<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Pakistan (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-31/7/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Pakistan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-May operate with protocols. 70% passenger capacity.
-<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Pakistan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Pakistan (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The government will ban unvaccinated people from boarding domestic
-flights and entering public facilities, such as government offices,
-schools, food establishments, and shopping malls.
-<http://web.archive.org/web/20210801125658/https://www.garda.com/crisis24/news-alerts/508026/pakistan-authorities-continue-to-enforce-covid-19-measures-nationwide-as-of-july-30-update-51>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Philippines (GRI: 64 ↓ 60)
 
 #### Restrictions on internal movement (C7)
@@ -3849,63 +3445,6 @@ will only need to present their domestic vaccination card for interzonal
 travel. Strict observance of minimum public health standards must still
 be observed. Archived:
 <https://web.archive.org/web/20210807213352/https://ph.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Portugal (GRI: 69 ↓ 65)
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Portugal (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Portugal (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Prime Minister, António Costa, announced that the curfew currently
-in place in high-risk and very high risk municipalities will come to an
-end on August 1st. Source: <https://archive.vn/SD4J2>
 
 </td>
 
@@ -4381,130 +3920,6 @@ No changes found - testing for severe cases only.
 
 </div>
 
-### Thailand (GRI: 64 ↑ 66)
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; in <b>some</b> parts of Thailand
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Thailand (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 1st August, The Centre for Covid-19 Situation Administration (CCSA),
-on Sunday extended lockdown measures for another 14 days in a bid to
-tackle the fast-spreading Delta variant. The CCSA said the slew of
-measures will start on Tuesday (Aug 3) and will be evaluated after two
-weeks - with the possibility they will last until the end of August.
-Archived:
-<https://web.archive.org/web/20210801134926/https://www.straitstimes.com/asia/se-asia/thailand-extends-stricter-covid-19-measures-until-end-august>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Turkmenistan (GRI: 53 ↑ 55)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>very large</b> gatherings (over 1000 people); across
-<b>all</b> of Turkmenistan (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Turkmenistan (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Quote: Authorities in Ashgabat have reportedly closed major shopping
-centers, including the Altyn Asyr market and the Berkahar and 15 Let
-Nezalezhnosti malls, as of Aug. 2 as a measure to counter the spread of
-COVID-19; reports suggest that swimming pools and gymnasiums have also
-closed. In addition, gatherings, including family celebrations, have
-been prohibited indefinitely nationwide. The measures come amid a
-reported increase in COVID-19 cases."" Archive Link
-<http://web.archive.org/web/20210809171353/https://www.garda.com/crisis24/news-alerts/508931/turkmenistan-authorities-tighten-covid-19-countermeasures-in-ashgabat-as-of-aug-2-update-16>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Uganda (GRI: 71 ↓ 66)
 
 #### Close public transport (C5)
@@ -4676,7 +4091,7 @@ closures. Scotland- 9 August- all sectors reopen at full capacity
 
 </div>
 
-### United States (GRI: 62 ↓ 59)
+### United States (GRI: 59 ↑ 62)
 
 #### Debt/contract relief (E2)
 
