@@ -58,6 +58,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
+</div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#kazakhstan-gri-50--48">Kazakhstan (GRI: 50 ↓ 48)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
@@ -2852,6 +2853,69 @@ of charge).”“The Happy Pass scheme remains in effect and unchanged
 taken in the HMO clinic or in a Home Front Command testing station,
 until 20.8.2021).”" Source:
 <https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Japan (GRI: 60 ↓ 57)
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Japan (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Japan (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to reports and interviews from prefectures of Tokyo and
+Saitama, due to the high number of infections, close contact tracing has
+been overwhelmed and efforts have shifted to targeted/priority settings
+such as schools or elderly facilities. For other prefectures,
+small-cluster contact tracing continues to be manually and
+comprehensively conducted, in addition to the utilization of the
+COVID-19 Contact-Confirming Application (COCOA).
+<https://web.archive.org/web/20210814022625/https://www3.nhk.or.jp/news/html/20210814/k10013201711000.html>
+<https://web.archive.org/web/20210814030232/https://www.mhlw.go.jp/stf/covid-19/kansenkakudaiboushi-iryouteikyou.html>
 
 </td>
 
