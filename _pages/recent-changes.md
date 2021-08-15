@@ -51,6 +51,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
+</div><div><a href="#south korea-gri-59--61">South Korea (GRI: 59 ↑ 61)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
 </div><div><a href="#united states-gri-59--62">United States (GRI: 59 ↑ 62)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-59--57">Canada (GRI: 59 ↓ 57)</a> 
@@ -4320,6 +4321,395 @@ household.”" Link (1):
 for fully vaccinated people in up to groups of five as Singapore
 announced a two-step easing of COVID-19 measures.”" Link (2):
 <http://web.archive.org/web/20210807102312/https://www.channelnewsasia.com/singapore/dining-vaccinated-people-covid-19-aug-10-hawkers-2096546>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### South Korea (GRI: 59 ↑ 61)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of South Korea (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of South Korea (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Greater Seoul remains under level 4 restrictions. Schools are closed
+here. source: <https://archive.vn/v7bBQ> <https://archive.vn/h15by>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of South
+Korea (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of South Korea (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions in Greater Seoul were extended until August 22.
+Entertainment venues such as nightclubs and pubs are required to remain
+closed. source: <https://archive.vn/v7bBQ>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of South Korea (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of South Korea (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions in Greater Seoul were extended until August 22.
+Entertainment venues such as nightclubs and pubs are required to remain
+closed. source: <https://archive.vn/v7bBQ>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+South Korea (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of South
+Korea (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions in Greater Seoul were extended until August 22. Before 6
+pm, 4 people may gather. After 6 pm, two people may gather. As such,
+public events are required to cancel. source: <https://archive.vn/v7bBQ>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of South
+Korea (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+South Korea (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions in Greater Seoul were extended until August 22. Before 6
+pm, 4 people may gather. After 6 pm, two people may gather. As such,
+public events are required to cancel. source: <https://archive.vn/v7bBQ>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of South Korea (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of South Korea (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions in Greater Seoul were extended until August 22. Before 6
+pm, 4 people may gather. After 6 pm, two people may gather. source:
+<https://archive.vn/v7bBQ>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of South Korea (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of South Korea (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions in Greater Seoul were extended until August 22. Before 6
+pm, 4 people may gather. After 6 pm, two people may gather. source:
+<https://archive.vn/v7bBQ>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) South Korea (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) South Korea (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines are being offered to all residents over age 18 from Monday
+August 9. source:
+<https://web.archive.org/web/20210814190003/https://www.straitstimes.com/asia/east-asia/south-korea-opens-covid-19-vaccine-reservations-for-all-adults>
 
 </td>
 
