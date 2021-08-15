@@ -44,6 +44,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
 </div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
 </div><div><a href="#dominica-gri-41--65">Dominica (GRI: 41 ↑ 65)</a> 
+</div><div><a href="#ecuador-gri-67--68">Ecuador (GRI: 67 ↑ 68)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
@@ -51,18 +52,20 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
-</div><div><a href="#south korea-gri-59--61">South Korea (GRI: 59 ↑ 61)</a> 
+</div><div><a href="#south korea-gri-60--61">South Korea (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
 </div><div><a href="#united states-gri-59--62">United States (GRI: 59 ↑ 62)</a> 
+</div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-59--57">Canada (GRI: 59 ↓ 57)</a> 
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
-</div><div><a href="#namibia-gri-58--52">Namibia (GRI: 58 ↓ 52)</a> 
+</div><div><a href="#namibia-gri-58--50">Namibia (GRI: 58 ↓ 50)</a> 
 </div><div><a href="#nigeria-gri-46--35">Nigeria (GRI: 46 ↓ 35)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
+</div><div><a href="#san marino-gri-49--43">San Marino (GRI: 49 ↓ 43)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
 </div><div><a href="#united kingdom-gri-58--55">United Kingdom (GRI: 58 ↓ 55)</a> 
@@ -2166,6 +2169,225 @@ protections apply to all citizens. <https://archive.ph/IFL5S>
 
 </div>
 
+### Ecuador (GRI: 67 ↑ 68)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Ecuador (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Ecuador
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Remote working continues to be encouraged.
+<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Ecuador (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Ecuador (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public gatherings and mass events are prohibited.
+<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Ecuador (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of Ecuador (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+50% capacity for interstate transport from El Oro province for only
+fully vaccinated passengers.
+<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Ecuador (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Ecuador (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Private COVID-19 tests can be carried out in laboratories approved by
+the Ministry of Health. Tests are easy to arrange at an extra fee.
+<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Eswatini (GRI: 63 ↓ 61)
 
 #### School closing (C1)
@@ -3422,7 +3644,7 @@ municipalities have implemented additional transportation restrictions.
 
 </div>
 
-### Namibia (GRI: 58 ↓ 52)
+### Namibia (GRI: 58 ↓ 50)
 
 #### School closing (C1)
 
@@ -3469,6 +3691,66 @@ encouraging vaccination.
 <https://web.archive.org/web/20210815035924/https://twitter.com/FirstLadyNam/status/1426118618463543300/photo/4>
 <https://web.archive.org/web/20210815041056/https://pbs.twimg.com/media/E8qXTtsWEAEfvyf?format=jpg&name=large>
 <https://web.archive.org/web/20210815041320/https://www.na.emb-japan.go.jp/files/100218201.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Namibia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Namibia
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the 33rd Covid Public Briefing on August 13, 2021, all
+recreational places such as night clubs, casinos, gambling houses,
+betting houses aswell as gyms, be allowed to open and allow patrons at
+half capacity or up to a number not exceeding 50 at a time, subject to
+strict adherence to preventive measures, mandatory wearing of face masks
+and maintaining of physical distance of no less than 1.5 meters.
+<https://web.archive.org/web/20210815174304/https://www.na.emb-japan.go.jp/files/100222555.pdf>
 
 </td>
 
@@ -4262,6 +4544,8 @@ be observed. Archived:
 
 </div>
 
+### San Marino (GRI: 49 ↓ 43)
+
 ### Singapore (GRI: 72 ↓ 70)
 
 #### Workplace closing (C2)
@@ -4334,61 +4618,7 @@ announced a two-step easing of COVID-19 measures.”" Link (2):
 
 </div>
 
-### South Korea (GRI: 59 ↑ 61)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of South Korea (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of South Korea (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Greater Seoul remains under level 4 restrictions. Schools are closed
-here. source: <https://archive.vn/v7bBQ> <https://archive.vn/h15by>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### South Korea (GRI: 60 ↑ 61)
 
 #### Workplace closing (C2)
 
@@ -4423,43 +4653,6 @@ Korea (1G)
 
 <b>New policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of South Korea (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions in Greater Seoul were extended until August 22.
-Entertainment venues such as nightclubs and pubs are required to remain
-closed. source: <https://archive.vn/v7bBQ>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of South Korea (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
 <b>Require</b> closure of <b>some</b> sectors of business; in
 <b>some</b> parts of South Korea (2T)
 
@@ -4470,190 +4663,6 @@ closed. source: <https://archive.vn/v7bBQ>
 Restrictions in Greater Seoul were extended until August 22.
 Entertainment venues such as nightclubs and pubs are required to remain
 closed. source: <https://archive.vn/v7bBQ>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-South Korea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of South
-Korea (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions in Greater Seoul were extended until August 22. Before 6
-pm, 4 people may gather. After 6 pm, two people may gather. As such,
-public events are required to cancel. source: <https://archive.vn/v7bBQ>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of South
-Korea (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-South Korea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions in Greater Seoul were extended until August 22. Before 6
-pm, 4 people may gather. After 6 pm, two people may gather. As such,
-public events are required to cancel. source: <https://archive.vn/v7bBQ>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of South Korea (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of South Korea (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions in Greater Seoul were extended until August 22. Before 6
-pm, 4 people may gather. After 6 pm, two people may gather. source:
-<https://archive.vn/v7bBQ>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of South Korea (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of South Korea (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions in Greater Seoul were extended until August 22. Before 6
-pm, 4 people may gather. After 6 pm, two people may gather. source:
-<https://archive.vn/v7bBQ>
 
 </td>
 
@@ -5028,6 +5037,300 @@ United States (1)
 On August 3rd, the CDC announced a new eviction moratorium that will
 expire October 3rd, 2021. See archive:
 <https://web.archive.org/web/20210805034852/https://www.cdc.gov/media/releases/2021/s0803-cdc-eviction-order.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Venezuela (GRI: 75 ↑ 78)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Venezuela (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Venezuela (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Venezuela (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Venezuela (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); across <b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); across <b>all</b> of Venezuela (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Venezuela (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Venezuela (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Venezuela is scaling back to their previous flexible 7+7 system
+<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
 
 </td>
 
