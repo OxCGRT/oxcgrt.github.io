@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-14</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-15</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
@@ -46,21 +46,18 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#dominica-gri-41--65">Dominica (GRI: 41 ↑ 65)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
+</div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
-</div><div><a href="#russia-gri-41--55">Russia (GRI: 41 ↑ 55)</a> 
 </div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
-</div><div><a href="#tajikistan-gri-32--34">Tajikistan (GRI: 32 ↑ 34)</a> 
 </div><div><a href="#united states-gri-59--62">United States (GRI: 59 ↑ 62)</a> 
-</div><div><a href="#uzbekistan-gri-64--65">Uzbekistan (GRI: 64 ↑ 65)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-59--57">Canada (GRI: 59 ↓ 57)</a> 
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
-</div><div><a href="#kazakhstan-gri-50--48">Kazakhstan (GRI: 50 ↓ 48)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#nigeria-gri-46--35">Nigeria (GRI: 46 ↓ 35)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
@@ -2992,52 +2989,6 @@ Sources: <https://archive.vn/Nqpys>
 
 <b>Old policy:</b>
 
-Anyone <b>symptomatic</b> can be tested; NA Israel (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-31/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Testing for entry as required by new restrictions is available free
-until 8 August. At that point, people without a green pass will have to
-pay to use the service. "“Until August 8, PCR virus tests can be done
-for free at designated sites around the country and must be taken no
-more than 72 hours before the event. After that date, only rapid virus
-tests will be available at special stations spread across the country,
-and members of the public will be required to pay for each test. The
-tests will need to be done within 24 hours of the event.”“Rapid virus
-testing stations will be available in Magen David Adom ambulance service
-sites, Terem and Bikurofe medical clinics, and later also at Sonol gas
-stations as well as other locations.”“Home virus testing kits that are
-planned for sale in pharmacies will not be valid to gain entry to sites
-under the Green Pass system.”" Source:
-<https://archive.vn/PV8oP#selection-1159.0-1159.380>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
 
 </td>
@@ -3149,7 +3100,7 @@ COVID-19 Contact-Confirming Application (COCOA).
 
 </div>
 
-### Kazakhstan (GRI: 50 ↓ 48)
+### Kazakhstan (GRI: 44 ↑ 48)
 
 #### Close public transport (C5)
 
@@ -3160,42 +3111,6 @@ COVID-19 Contact-Confirming Application (COCOA).
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-31/7/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not operate in Nur-Sultan, Shymkent, Atyrau
-region, and Karaganda region during weekends, due to lockdown imposed
-until further notice. <https://archive.vn/X0afB>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -4051,287 +3966,6 @@ be observed. Archived:
 
 </div>
 
-### Russia (GRI: 41 ↑ 55)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
-Russia (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Russia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Whilst it is recommended that public events are cancelled, certain
-exceptions are being permitted. In August, outdoor sports activities for
-the public, such as yoga or outdoor gym sessions, are being permitted in
-areas near to health centres. \[
-<https://web.archive.org/web/20210809092444/https://www.sobyanin.ru/pavilony-zdorovaya-moskva-vozobnovlyayut-rabotu-v-obychnom-rezhime>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people); in
-<b>some</b> parts of Russia (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Russia (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-St.Petersburg has placed a ban on gatherings in excess of 75 people. \[
-<https://web.archive.org/web/20210809105334/https://www.themoscowtimes.com/2021/08/09/coronavirus-in-russia-the-latest-news-august-9-a69117>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Russia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Russia (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Internal movement may be restricted at an interstate basis for parties
-who lack evidence of vaccination, within certain Russian states, at this
-moment in time. \[
-<https://web.archive.org/web/20210809100749/https://ru.usembassy.gov/covid-19-information/>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Screening</b> arrivals coming into Russia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Russia
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There is a mandatory quarantine following on from international travel.
-The length of this quarantine is determined by whichever region of
-Russia you travel into. \[
-<https://web.archive.org/web/20210809100749/https://ru.usembassy.gov/covid-19-information/>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Russia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Russia (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Testing is generally available in Russia, with results available within
-72 hours. \[
-<https://web.archive.org/web/20210809100749/https://ru.usembassy.gov/covid-19-information/>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Singapore (GRI: 72 ↓ 70)
 
 #### Workplace closing (C2)
@@ -4446,60 +4080,6 @@ workers</b> in South Sudan (1A)
 
 Cash assistance is provided to low-income households
 <http://web.archive.org/web/20210808072008/https://www.worldbank.org/en/news/feature/2021/05/12/planting-seeds-of-hope-in-south-sudan-through-direct-cash-assistance>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Tajikistan (GRI: 32 ↑ 34)
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No testing policy</b> are present across all of Tajikistan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-NA; NA Tajikistan (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No changes found - testing for severe cases only.
-<https://web.archive.org/web/20210809181449/https://www.gov.uk/foreign-travel-advice/tajikistan/coronavirus>
 
 </td>
 
@@ -4763,65 +4343,6 @@ United States (1)
 On August 3rd, the CDC announced a new eviction moratorium that will
 expire October 3rd, 2021. See archive:
 <https://web.archive.org/web/20210805034852/https://www.cdc.gov/media/releases/2021/s0803-cdc-eviction-order.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Uzbekistan (GRI: 64 ↑ 65)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Uzbekistan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Uzbekistan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-2nd of August: all regions of the country are classified as red,
-inter-regional travel is restricted to essential use only (exceptions:
-for people seeking urgent medical treatment, international air travelers
-who possess a valid ticket, freight transporters, essential workers).
-<https://web.archive.org/web/20210807170010/https://www.garda.com/crisis24/news-alerts/509006/uzbekistan-authorities-maintain-covid-19-related-measures-as-of-aug-2-update-30>
 
 </td>
 
