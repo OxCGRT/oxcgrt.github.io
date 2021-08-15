@@ -59,6 +59,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
+</div><div><a href="#namibia-gri-58--52">Namibia (GRI: 58 ↓ 52)</a> 
 </div><div><a href="#nigeria-gri-46--35">Nigeria (GRI: 46 ↓ 35)</a> 
 </div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
@@ -3407,6 +3408,300 @@ public transport; in <b>some</b> parts of Mexico (2T)
 Is public transportation operating? \[Yes\] Some states and
 municipalities have implemented additional transportation restrictions.
 <https://web.archive.org/web/20210809144153/https://mx.usembassy.gov/covid-19-information-for-u-s-citizens-in-mexico/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Namibia (GRI: 58 ↓ 52)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Namibia (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+4/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Namibia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the Minister of Health Kalumbi Shangula in the 33rd Covid
+Public Briefing, schools will return to in-person instruction at full
+capacity with other safety measures in place. The government is
+encouraging vaccination.
+<https://web.archive.org/web/20210815035924/https://twitter.com/FirstLadyNam/status/1426118618463543300/photo/4>
+<https://web.archive.org/web/20210815041056/https://pbs.twimg.com/media/E8qXTtsWEAEfvyf?format=jpg&name=large>
+<https://web.archive.org/web/20210815041320/https://www.na.emb-japan.go.jp/files/100218201.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Namibia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Namibia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the US Embassy in Namibia, as of August 11, 2021, the
+number of attendees at?public gatherings?indoor and outdoor has been
+increased to 50 people.? Organizers must ensure that hand sanitizer is
+available, face masks are used, and social distancing is practiced.
+Contact sport is prohibited, and no spectators will be permitted at any
+live sport event.
+<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Namibia (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Namibia (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the US Embassy in Namibia, as of August 11, 2021, the
+number of attendees at?public gatherings?indoor and outdoor has been
+increased to 50 people.? Organizers must ensure that hand sanitizer is
+available, face masks are used, and social distancing is practiced.
+Contact sport is prohibited, and no spectators will be permitted at any
+live sport event.
+<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Namibia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Namibia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the US Embassy in Namibia, as of August 11, 2021, there are
+no restrictions on intercity or interstate travel.
+<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Namibia (4)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Namibia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the US Embassy in Namibia, as of August 11, 2021, all
+non-Namibian travelers arriving in Namibia are required to present a
+negative COVID-19 PCR test result from their country of departure that
+is not older than 72 hours. If the traveler meets this requirement, no
+quarantine or additional testing is required. Non-Namibian travelers
+arriving with a negative result that is older than 72 hours will be
+placed in quarantine and tested for COVID-19 on the same day at their
+own cost and will only be released if the results of this test return
+negative. Most land borders are closed for tourism purposes (Only Katima
+Mulilo, Ariamsvlei, and Noordoewer border posts and Walvis Bay Harbor
+can be used for tourist entries by land and sea).
+<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
 
 </td>
 
