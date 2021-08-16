@@ -36,15 +36,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-15</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-16</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
-</div><div><a href="#belize-gri-70--72">Belize (GRI: 70 ↑ 72)</a> 
 </div><div><a href="#brunei-gri-47--72">Brunei (GRI: 47 ↑ 72)</a> 
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
-</div><div><a href="#central african republic-gri-11--25">Central African Republic (GRI: 11 ↑ 25)</a> 
-</div><div><a href="#dominica-gri-41--65">Dominica (GRI: 41 ↑ 65)</a> 
-</div><div><a href="#ecuador-gri-67--68">Ecuador (GRI: 67 ↑ 68)</a> 
+</div><div><a href="#canada-gri-57--59">Canada (GRI: 57 ↑ 59)</a> 
+</div><div><a href="#dominica-gri-43--65">Dominica (GRI: 43 ↑ 65)</a> 
 </div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
@@ -53,21 +51,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#south korea-gri-60--61">South Korea (GRI: 60 ↑ 61)</a> 
-</div><div><a href="#south sudan-gri-32--35">South Sudan (GRI: 32 ↑ 35)</a> 
-</div><div><a href="#united states-gri-59--62">United States (GRI: 59 ↑ 62)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#canada-gri-59--57">Canada (GRI: 59 ↓ 57)</a> 
-</div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#namibia-gri-58--50">Namibia (GRI: 58 ↓ 50)</a> 
-</div><div><a href="#nigeria-gri-46--35">Nigeria (GRI: 46 ↓ 35)</a> 
-</div><div><a href="#philippines-gri-64--60">Philippines (GRI: 64 ↓ 60)</a> 
-</div><div><a href="#san marino-gri-49--43">San Marino (GRI: 49 ↓ 43)</a> 
+</div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
+</div><div><a href="#peru-gri-75--71">Peru (GRI: 75 ↓ 71)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
-</div><div><a href="#uganda-gri-71--66">Uganda (GRI: 71 ↓ 66)</a> 
 </div><div><a href="#united kingdom-gri-58--55">United Kingdom (GRI: 58 ↓ 55)</a> 
 </div></div> <br/>
 -->
@@ -480,62 +473,6 @@ more than 5 participants”"
 citizens has been suspended. There is a narrow list of concessions,
 including for holders of permanent/temporary residency \[…\] Flights
 continue to operate in and out of Minsk National Airport as normal.”"
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Belize (GRI: 70 ↑ 72)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Belize (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Belize (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change in Policy
-<http://web.archive.org/web/20210809201311/https://bz.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -1405,7 +1342,7 @@ AstraZeneca and Sinopharm
 
 </div>
 
-### Canada (GRI: 59 ↓ 57)
+### Canada (GRI: 57 ↑ 59)
 
 #### School closing (C1)
 
@@ -1551,233 +1488,7 @@ archived:
 
 </div>
 
-### Central African Republic (GRI: 11 ↑ 25)
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Central African Republic
-(0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Central
-African Republic (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-A national curfew is in place in response to outbreaks of violence,
-following presidential and legislative elections. This curfew comes into
-effect at 8pm and ends at 5am.
-<https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Public officials <b>urge caution</b> about COVID-19 in; across
-<b>all</b> of Central African Republic (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Central African Republic (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The government of CAR has established a coronavirus hotline (French and
-Sango) – call 1212 if you have questions or to report possible exposure.
-<https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Central African Republic (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Central African Republic (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-For symptomatic patients, testing is free and available at the Ministry
-of Health and Institute Pasteur. For pre-departure testing, travelers
-should go to the Pasteur Institute in Bangui. Their current hours are
-7:00am to 11:15am Monday to Saturday and testing is first come, first
-serve. Tests are approximately $75 and should be paid in local currency.
-<https://web.archive.org/web/20210803132632/https://cf.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No face mask measures</b> are present across all of Central African
-Republic (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Central African Republic
-(3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-It is compulsory to wear face masks in public places
-<https://web.archive.org/web/20210501045829/https://www.gov.uk/foreign-travel-advice/central-african-republic/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Dominica (GRI: 41 ↑ 65)
+### Dominica (GRI: 43 ↑ 65)
 
 #### Workplace closing (C2)
 
@@ -2156,225 +1867,6 @@ Under the new order, masks were mandatory in public.
 
 No special policies to protect the elderly but more extensive
 protections apply to all citizens. <https://archive.ph/IFL5S>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Ecuador (GRI: 67 ↑ 68)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Ecuador (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Ecuador
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Remote working continues to be encouraged.
-<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Ecuador (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Ecuador (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public gatherings and mass events are prohibited.
-<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Ecuador (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Ecuador (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-50% capacity for interstate transport from El Oro province for only
-fully vaccinated passengers.
-<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Ecuador (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Ecuador (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Private COVID-19 tests can be carried out in laboratories approved by
-the Ministry of Health. Tests are easy to arrange at an extra fee.
-<https://web.archive.org/web/20210815134928/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
 
 </td>
 
@@ -3764,240 +3256,6 @@ and maintaining of physical distance of no less than 1.5 meters.
 
 </div>
 
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Namibia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Namibia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the US Embassy in Namibia, as of August 11, 2021, the
-number of attendees at?public gatherings?indoor and outdoor has been
-increased to 50 people.? Organizers must ensure that hand sanitizer is
-available, face masks are used, and social distancing is practiced.
-Contact sport is prohibited, and no spectators will be permitted at any
-live sport event.
-<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Namibia (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Namibia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the US Embassy in Namibia, as of August 11, 2021, the
-number of attendees at?public gatherings?indoor and outdoor has been
-increased to 50 people.? Organizers must ensure that hand sanitizer is
-available, face masks are used, and social distancing is practiced.
-Contact sport is prohibited, and no spectators will be permitted at any
-live sport event.
-<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Namibia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Namibia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the US Embassy in Namibia, as of August 11, 2021, there are
-no restrictions on intercity or interstate travel.
-<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Namibia (4)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Namibia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the US Embassy in Namibia, as of August 11, 2021, all
-non-Namibian travelers arriving in Namibia are required to present a
-negative COVID-19 PCR test result from their country of departure that
-is not older than 72 hours. If the traveler meets this requirement, no
-quarantine or additional testing is required. Non-Namibian travelers
-arriving with a negative result that is older than 72 hours will be
-placed in quarantine and tested for COVID-19 on the same day at their
-own cost and will only be released if the results of this test return
-negative. Most land borders are closed for tourism purposes (Only Katima
-Mulilo, Ariamsvlei, and Noordoewer border posts and Walvis Bay Harbor
-can be used for tourist entries by land and sea).
-<https://web.archive.org/web/20210814163620/https://na.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Niger (GRI: 31 ↑ 35)
 
 #### Vaccination policy (H7)
@@ -4059,7 +3317,7 @@ for individuals 18 years or older. 
 
 </div>
 
-### Nigeria (GRI: 46 ↓ 35)
+### Nigeria (GRI: 48 ↓ 35)
 
 #### School closing (C1)
 
@@ -4482,7 +3740,179 @@ In August all adults above the age of 18 have been offered the vaccine
 
 </div>
 
-### Philippines (GRI: 64 ↓ 60)
+### Peru (GRI: 75 ↓ 71)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Peru (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Peru (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The education minister reported 2581 schools in the rural areas of Peru
+started classes in blended learning ( 100 000 students and 7000
+teachers). link
+<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Peru (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Peru (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From 26 Jul, according to the Peruvian government’s restrictions to
+combat COVID-19, commercial have reduced capacity according to the alert
+level. For area with high level commercial establishments close 1 hours
+before curfew (00:00 - 4:00 am) and 2 hours before curfew to Lima , for
+areas with moderate level and high 1 hour before curfew . Clubs are
+banned. Link:
+<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Peru (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Peru (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From Jul 26 according to the Peruvian government restrictions, strict
+mandatory social immobilization is established from 22:00 pm to 4:00 am
+for areas with extreme alert and very high alert, high alert areas
+curfew from 00:00 to 4:00 am and moderate areas curfew from 00:00 to
+4:00 link:
+<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Restrictions on internal movement (C7)
 
@@ -4500,15 +3930,15 @@ In August all adults above the age of 18 have been offered the vaccine
 
 <b>Old policy:</b>
 
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Philippines (2G)
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Peru (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-3/8/2021  
-<img src="../images/down-arrow.png">
+9/8/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4516,21 +3946,19 @@ Philippines (2G)
 
 <b>New policy:</b>
 
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Philippines (1T)
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Peru (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-There are current restrictions on Interstate and Intercity travel with
-curfew being imposed in certain regions including Manila. However,
-individuals who fully vaccinated in the Philippines need not present a
-swab test result if they wish to travel within the Philippines, they
-will only need to present their domestic vaccination card for interzonal
-travel. Strict observance of minimum public health standards must still
-be observed. Archived:
-<https://web.archive.org/web/20210807213352/https://ph.usembassy.gov/covid-19-information/>
+according to the restrictions established by Peruvian Goverment.
+Transport between cities can be carried out at all levels with
+particularities in capacity (capacity between 50 - 100 %).according to
+the alert level . In extreme and very high there is also a ban of using
+private cars on Sundays. Link:
+<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
 
 </td>
 
@@ -4544,7 +3972,120 @@ be observed. Archived:
 
 </div>
 
-### San Marino (GRI: 49 ↓ 43)
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA Peru
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA Peru
+(1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Urgency decree (Nº 033-2021) that extens the deadline for accommodation
+to the COVID-19 guarantee program, created by law n 31050, law that
+establishes extraordinary provisions for the reprogramming and freezing
+of debts in order to relieve the economy people and the consequence of
+COVID-19. Link:
+<https://web.archive.org/web/20210501165442/https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-que-amplia-el-plazo-de-acogimiento-al-pr-decreto-de-urgencia-n-033-2021-1939913-1/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Peru (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Peru (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Health Directive No. 122-MINSA / 2020 / CDC ""Health Directive for the
+Epidemiological Surveillance of Coronavirus Disease (COVID-19) in Peru.
+Contact tracing is not done for all the persons positive to COVID-19,
+because not all the people contact to ministery of health. Link:
+<https://web.archive.org/web/20210501173049/https://www.gob.pe/institucion/minsa/normas-legales/1322786-905-2020-minsa>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Singapore (GRI: 72 ↓ 70)
 
@@ -4732,176 +4273,6 @@ August 9. source:
 
 </div>
 
-### South Sudan (GRI: 32 ↑ 35)
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No income support</b> is present across all of South Sudan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>all
-workers</b> in South Sudan (1A)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Cash assistance is provided to low-income households
-<http://web.archive.org/web/20210808072008/https://www.worldbank.org/en/news/feature/2021/05/12/planting-seeds-of-hope-in-south-sudan-through-direct-cash-assistance>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Uganda (GRI: 71 ↓ 66)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of Uganda (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Uganda (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport may operate at 50% capacity.
-<https://web.archive.org/web/20210806164040/https://ug.usembassy.gov/covid-19-information-page/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Uganda (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Uganda (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of June 11, all arrivals from Category 1 (India) and Category 2
-countries (USA, UK, UAE, Turkey, South Africa, Ethiopia, South Sudan,
-Kenya, and Tanzania) to Uganda will be subjected to PCR COVID-19 testing
-on arrival. Fully vaccinated, asymptomatic travelers from Category 2
-countries with proof of vaccination status will be exempted from the
-arrival PCR test. However, these procedures are not always uniformly
-implemented and we cannot guarantee that proof of vaccination will waive
-the required PCR test upon arrival.
-<https://web.archive.org/web/20210806164040/https://ug.usembassy.gov/covid-19-information-page/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### United Kingdom (GRI: 58 ↓ 55)
 
 #### Workplace closing (C2)
@@ -4945,98 +4316,6 @@ the required PCR test upon arrival.
 Scotland opens all sectors, meaning all four nations have no sector
 closures. Scotland- 9 August- all sectors reopen at full capacity
 <https://web.archive.org/web/20210811111705/https://news.sky.com/story/covid-19-scotland-will-lift-most-remaining-legal-coronavirus-restrictions-next-week-nicola-sturgeon-confirms-12371554>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United States (GRI: 59 ↑ 62)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-United States (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No debt relief</b> is present across all of United States (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On July 31st, the eviction moratorium expired and on August 1st, had no
-debt/contract relief at the federal level. See archive:
-<https://web.archive.org/web/20210726165916/https://www.cdc.gov/coronavirus/2019-ncov/more/pdf/CDC_Eviction_Extension_Order_Final_06242021.pdf>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No debt relief</b> is present across all of United States (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-United States (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On August 3rd, the CDC announced a new eviction moratorium that will
-expire October 3rd, 2021. See archive:
-<https://web.archive.org/web/20210805034852/https://www.cdc.gov/media/releases/2021/s0803-cdc-eviction-order.html>
 
 </td>
 
