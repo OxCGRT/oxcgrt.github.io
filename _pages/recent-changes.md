@@ -43,7 +43,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
 </div><div><a href="#canada-gri-57--59">Canada (GRI: 57 ↑ 59)</a> 
 </div><div><a href="#dominica-gri-43--65">Dominica (GRI: 43 ↑ 65)</a> 
-</div><div><a href="#france-gri-57--63">France (GRI: 57 ↑ 63)</a> 
+</div><div><a href="#france-gri-57--69">France (GRI: 57 ↑ 69)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
@@ -53,7 +53,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#south korea-gri-60--62">South Korea (GRI: 60 ↑ 62)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
+</div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
@@ -1490,6 +1491,73 @@ archived:
 
 </div>
 
+### Cyprus (GRI: 65 ↓ 63)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cyprus
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Cyprus (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travellers with proof of two COVID-19 vaccinations are not required to
+take a PCR test before departure or on arrival. If you have received two
+vaccinations you will still need to obtain a Cyprus flight pass. You
+should check the Cyprus Flight Pass website for information on which
+vaccinations are acceptable, and the length of time which should have
+elapsed between your final dose and date of travel. (See Demonstrating
+your COVID-19 vaccination status) Passengers coming from Red Category
+countries without proof of two COVID-19 vaccinations must undergo a PCR
+test within 72 hours prior to departure and provide proof of a negative
+result. You must then undergo another PCR test upon arrival at Larnaca
+or Paphos airports. Test results should be available within three hours
+through the online platform. The cost of both tests is borne by the
+passenger.
+<https://web.archive.org/web/20210816105506/https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Dominica (GRI: 43 ↑ 65)
 
 #### Workplace closing (C2)
@@ -1947,7 +2015,7 @@ ground.”"""
 
 </div>
 
-### France (GRI: 57 ↑ 63)
+### France (GRI: 57 ↑ 69)
 
 #### Close public transport (C5)
 
@@ -1982,6 +2050,61 @@ ground.”"""
 
 <b>Require closure</b> (or significant reduction in volume/routes) of
 public transport; across <b>all</b> of France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Use of the Health Pass is required to make use of long-distance
+inter-regional public transport (including domestic flights, TGV,
+Intercity and night trains, interregional buses) from 9 August -
+<https://web.archive.org/web/20210807000529/https://www.gouvernement.fr/info-coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of France (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+France (2G)
 
 </td>
 
@@ -2900,6 +3023,76 @@ during the weekends since August 2. <https://archive.vn/9YzIn>
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport does not function in Nur-Sultan and Mangystau region
+during the weekends since August 2. <https://archive.vn/9YzIn>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport does not function in Nur-Sultan and Mangystau region
+during the weekends since August 2. <https://archive.vn/9YzIn>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -3024,94 +3217,6 @@ type of vaccine (see also MISC note on 28th July 2021)
 </div>
 
 ### Kyrgyz Republic (GRI: 59 ↑ 60)
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Kyrgyz Republic (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No contact tracing</b> is present across all of Kyrgyz Republic (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No changes found.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No contact tracing</b> is present across all of Kyrgyz Republic (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Kyrgyz Republic (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No changes found - people leaving their accommodation need to carry a
-contact-tracing form.
-<https://web.archive.org/web/20210816072824/https://www.garda.com/crisis24/news-alerts/508121/kyrgyzstan-authorities-maintaining-covid-19-related-restrictions-as-of-july-30-update-21>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Vaccination policy (H7)
 
