@@ -47,10 +47,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
+</div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
-</div><div><a href="#south korea-gri-60--61">South Korea (GRI: 60 ↑ 61)</a> 
+</div><div><a href="#south korea-gri-60--62">South Korea (GRI: 60 ↑ 62)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
@@ -61,6 +62,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
 </div><div><a href="#peru-gri-75--71">Peru (GRI: 75 ↓ 71)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
+</div><div><a href="#sweden-gri-46--43">Sweden (GRI: 46 ↓ 43)</a> 
 </div><div><a href="#united kingdom-gri-58--55">United Kingdom (GRI: 58 ↓ 55)</a> 
 </div></div> <br/>
 -->
@@ -3021,6 +3023,152 @@ type of vaccine (see also MISC note on 28th July 2021)
 
 </div>
 
+### Kyrgyz Republic (GRI: 59 ↑ 60)
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Kyrgyz Republic (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No contact tracing</b> is present across all of Kyrgyz Republic (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No changes found.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No contact tracing</b> is present across all of Kyrgyz Republic (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Kyrgyz Republic (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No changes found - people leaving their accommodation need to carry a
+contact-tracing form.
+<https://web.archive.org/web/20210816072824/https://www.garda.com/crisis24/news-alerts/508121/kyrgyzstan-authorities-maintaining-covid-19-related-restrictions-as-of-july-30-update-21>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Kyrgyz Republic (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Kyrgyz Republic (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines: Sinopharm, SputnikV, AstraZeneca All vaccines are available at
+government clinics for everyone who wishes to receive a vaccination.
+<https://web.archive.org/web/20210814180804/https://kg.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Malta (GRI: 60 ↓ 58)
 
 #### Workplace closing (C2)
@@ -4159,7 +4307,7 @@ announced a two-step easing of COVID-19 measures.”" Link (2):
 
 </div>
 
-### South Korea (GRI: 60 ↑ 61)
+### South Korea (GRI: 60 ↑ 62)
 
 #### Workplace closing (C2)
 
@@ -4260,6 +4408,58 @@ to the individual (government funded or subsidised) South Korea (4S)
 Vaccines are being offered to all residents over age 18 from Monday
 August 9. source:
 <https://web.archive.org/web/20210814190003/https://www.straitstimes.com/asia/east-asia/south-korea-opens-covid-19-vaccine-reservations-for-all-adults>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Sweden (GRI: 46 ↓ 43)
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Sweden (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+11/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No contact tracing</b> is present across all of Sweden (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
 
 </td>
 
