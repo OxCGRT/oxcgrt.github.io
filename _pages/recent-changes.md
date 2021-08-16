@@ -48,12 +48,12 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
-</div><div><a href="#mexico-gri-63--66">Mexico (GRI: 63 ↑ 66)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#south korea-gri-60--62">South Korea (GRI: 60 ↑ 62)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#burkina faso-gri-35--31">Burkina Faso (GRI: 35 ↓ 31)</a> 
+</div><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
@@ -1114,6 +1114,172 @@ indoor or outdoor. 2. Face mask must cover the wearer’s nose and mouth.
 3. This directive is applicable to all individuals regardless of their
 vaccination status.”" See the Ministry of Health’s press release,
 archived at <https://archive.vn/C5fBL>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Burkina Faso (GRI: 35 ↓ 31)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Burkina Faso (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Burkina Faso (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No interstate or inter-city restrictions noted. Although there is a
+curfew present in some regions unrelated to Covid-19
+<https://web.archive.org/web/20210816185352/https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Burkina Faso (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Burkina Faso (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No specific contact tracing data noted so will code as limited.
+<https://web.archive.org/web/20210816185352/https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No availability</b> is present across all of Burkina Faso (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Burkina Faso (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines are available but limited information on the groups prioritized
+so will code as level 3
+<https://web.archive.org/web/20210816191730/https://www.sig.gov.bf/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1366&cHash=88e846b98d6f4a48ca3fc8e847fa7fb0>
+<https://web.archive.org/web/20210606151745/https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
@@ -3332,63 +3498,6 @@ given permission to reopen for fully vaccinated students. Source:
 
 </div>
 
-### Mexico (GRI: 63 ↑ 66)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Mexico (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Mexico (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Is public transportation operating? \[Yes\] Some states and
-municipalities have implemented additional transportation restrictions.
-<https://web.archive.org/web/20210809144153/https://mx.usembassy.gov/covid-19-information-for-u-s-citizens-in-mexico/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Namibia (GRI: 58 ↓ 50)
 
 #### School closing (C1)
@@ -3552,10 +3661,10 @@ to the individual (government funded or subsidised) Niger (4S)
 
 <td style="text-align:left;min-width: 4in; ">
 
-COVID-19 vaccines are available in all eight of Niger’s regions.  Two
+COVID-19 vaccines are available in all eight of Niger’s regions. Two
 vaccines are currently available in Niger: the Sinopharm vaccine and the
 AstraZeneca vaccine. Both vaccines require two doses and are available
-for individuals 18 years or older. 
+for individuals 18 years or older.
 <https://web.archive.org/web/20210812101646/https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
