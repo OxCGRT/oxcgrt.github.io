@@ -50,6 +50,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#south korea-gri-60--62">South Korea (GRI: 60 ↑ 62)</a> 
+</div><div><a href="#united states-gri-60--64">United States (GRI: 60 ↑ 64)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#burkina faso-gri-35--31">Burkina Faso (GRI: 35 ↓ 31)</a> 
 </div><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
@@ -57,6 +58,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
+</div><div><a href="#mongolia-gri-61--60">Mongolia (GRI: 61 ↓ 60)</a> 
 </div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
 </div><div><a href="#peru-gri-75--71">Peru (GRI: 75 ↓ 71)</a> 
@@ -2851,6 +2853,63 @@ given permission to reopen for fully vaccinated students. Source:
 
 </div>
 
+### Mongolia (GRI: 61 ↓ 60)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Mongolia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Mongolia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On June 30, 2021, the Government of Mongolia announced that the current
+status of “heightened emergency preparedness” is extended by two months.
+<https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Namibia (GRI: 52 ↓ 50)
 
 #### School closing (C1)
@@ -4083,6 +4142,181 @@ Sweden (1)
 Scotland opens all sectors, meaning all four nations have no sector
 closures. Scotland- 9 August- all sectors reopen at full capacity
 <https://web.archive.org/web/20210811111705/https://news.sky.com/story/covid-19-scotland-will-lift-most-remaining-legal-coronavirus-restrictions-next-week-nicola-sturgeon-confirms-12371554>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### United States (GRI: 60 ↑ 64)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of United
+States (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of United States (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Given that the mayor of DC is requiring that DC government employments
+are required to be vaccinated, this is coded as a closure of the public
+sector, with exemptions for those vaccinated (which is the strictest
+policy in place). See DC On August 10th, the mayor of DC announced that
+DC government employees would be required to be vaccinated for work. See
+archive:
+<https://web.archive.org/web/20210810173126/https://mayor.dc.gov/release/mayor-bowser-announces-all-dc-government-employees-will-be-required-get-vaccinated-against>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of United States (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of United States (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Hawaii changed their restrictions to gatherings: Governor Ige signed
+Executive Order 21-05 on August 10, setting statewide limits for social
+gatherings, restaurants, bars, and social establishments. Indoor social
+gatherings of more than ten persons and outdoor social gatherings of
+more than twenty-five persons are prohibited. The EO will remain in
+place until October 18.
+<https://web.archive.org/web/20210811214330/https://governor.hawaii.gov/wp-content/uploads/2021/08/2108048-ATG_Executive-Order-No.-21-05-distribution-signed.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of United States (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+3/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+United States (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 3rd, the CDC announced a new eviction moratorium that will
+expire October 3rd, 2021. See archive:
+<https://web.archive.org/web/20210805034852/https://www.cdc.gov/media/releases/2021/s0803-cdc-eviction-order.html>
 
 </td>
 
