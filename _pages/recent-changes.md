@@ -36,17 +36,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-16</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-17</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
-</div><div><a href="#belarus-gri-33--41">Belarus (GRI: 33 ↑ 41)</a> 
 </div><div><a href="#brunei-gri-47--72">Brunei (GRI: 47 ↑ 72)</a> 
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
 </div><div><a href="#canada-gri-57--59">Canada (GRI: 57 ↑ 59)</a> 
+</div><div><a href="#congo-gri-45--47">Congo (GRI: 45 ↑ 47)</a> 
 </div><div><a href="#dominica-gri-43--65">Dominica (GRI: 43 ↑ 65)</a> 
 </div><div><a href="#france-gri-57--69">France (GRI: 57 ↑ 69)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
-</div><div><a href="#kiribati-gri-30--33">Kiribati (GRI: 30 ↑ 33)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
@@ -55,11 +54,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#burkina faso-gri-35--31">Burkina Faso (GRI: 35 ↓ 31)</a> 
 </div><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
-</div><div><a href="#gambia-gri-48--40">Gambia (GRI: 48 ↓ 40)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
-</div><div><a href="#namibia-gri-58--50">Namibia (GRI: 58 ↓ 50)</a> 
+</div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
 </div><div><a href="#peru-gri-75--71">Peru (GRI: 75 ↓ 71)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
@@ -364,118 +362,6 @@ Oberlienz: Leaving the community areas - with a few exceptions - is only
 possible with a negative PCR test (not older than 72 hours), antigen
 test (no older than 48 hours) or full immunization. Source:
 <https://archive.vn/Fulk4> \[Tyrol specific measures\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Belarus (GRI: 33 ↑ 41)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>very large</b> gatherings (over 1000 people); across
-<b>all</b> of Belarus (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Belarus (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210803171840/https://minzdrav.gov.by/upload/dadvfiles/letter/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83%20%D0%B4%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E.pdf>
-Recommendations include "“restriction of holding any mass events with
-more than 5 participants”"
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Screening</b> arrivals coming into Belarus (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Belarus (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210809090701/https://www.gov.uk/foreign-travel-advice/belarus/entry-requirements>
-"“Entry into the Republic of Belarus through a land border for foreign
-citizens has been suspended. There is a narrow list of concessions,
-including for holders of permanent/temporary residency \[…\] Flights
-continue to operate in and out of Minsk National Airport as normal.”"
 
 </td>
 
@@ -1657,6 +1543,61 @@ archived:
 
 </div>
 
+### Congo (GRI: 45 ↑ 47)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Congo (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Congo (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Continued from before.
+<https://web.archive.org/web/20210802181109/https://cd.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Cyprus (GRI: 65 ↓ 63)
 
 #### International travel controls (C8)
@@ -2293,444 +2234,6 @@ Intercity and night trains, interregional buses) from 9 August -
 
 </div>
 
-### Gambia (GRI: 48 ↓ 40)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Gambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Gambia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All schools are open, with Covid 19 prevention measures in place
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Gambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Gambia
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-work places allowed to operate with covid 19 preventive regulations in
-place
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Gambia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Gambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-ovid-19-information/ there is no evidence that public events are
-recommended/required to be cancelled, however, social distancing and
-face masks are required in all public spaces
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Gambia (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Gambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Although there isn’t clear information on the number of people allowed
-to attend gatherings, most COVID 19 restrictions have been lifted and
-places like markets and cinemas are allowed to operate
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Gambia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Gambia (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Tests are available at a cost for all interested individuals.
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Gambia (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Gambia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Face masks are mandatory in all public spaces.
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Gambia (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Gambia (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccination has been extended beyond priority groups and is provided
-free of charge by the government.
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; across
-<b>all</b> of Gambia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Gambia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There was no information found particularly on the protection of the
-elderly from Covid 19, however, all general preventive measures apply to
-them. The elderly were a priority group at the onset of vaccination.
-<http://web.archive.org/web/20210808210246/https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Hong Kong (GRI: 74 ↓ 73)
 
 #### International travel controls (C8)
@@ -3125,41 +2628,6 @@ COVID-19 Contact-Confirming Application (COCOA).
 
 <b>Old policy:</b>
 
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not function in Nur-Sultan and Mangystau region
-during the weekends since August 2. <https://archive.vn/9YzIn>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>No measures</b> are present across all of Kazakhstan (0)
 
 </td>
@@ -3254,121 +2722,6 @@ public transport; in <b>some</b> parts of Kazakhstan (2T)
 
 Public transport does not function in Nur-Sultan and Mangystau region
 during the weekends since August 2. <https://archive.vn/9YzIn>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>formal
-workers only</b> in Kazakhstan (1F)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No income support</b> is present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Currently, no measures. The government announced that 42,500 KZT will be
-paid for those who lost their jobs during recent COVID-19 restrictions.
-However, this will be paid once and during a period of 20 July - 2
-August. <https://archive.vn/9jjPv>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Kiribati (GRI: 30 ↑ 33)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Kiribati (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Kiribati (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From MHMS Facebook page. Post dated 4th August
-<https://www.facebook.com/info.mhms.gov.ki/posts/1021427372001653?__tn__=-R>
-(cannot archive link) Announces arrival of vaccines and program of
-vaccination for those aged 18 and above. There are no references to the
-type of vaccine (see also MISC note on 28th July 2021)
 
 </td>
 
@@ -3498,7 +2851,7 @@ given permission to reopen for fully vaccinated students. Source:
 
 </div>
 
-### Namibia (GRI: 58 ↓ 50)
+### Namibia (GRI: 52 ↓ 50)
 
 #### School closing (C1)
 
@@ -4761,42 +4114,6 @@ closures. Scotland- 9 August- all sectors reopen at full capacity
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Venezuela (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Venezuela (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Venezuela is scaling back to their previous flexible 7+7 system
-<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
 parts of Venezuela (3T)
 
@@ -4815,60 +4132,6 @@ parts of Venezuela (3T)
 
 <b>Require</b> closure of <b>all</b> sectors of business; across
 <b>all</b> of Venezuela (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Venezuela is scaling back to their previous flexible 7+7 system
-<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of Venezuela (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Venezuela (1G)
 
 </td>
 
@@ -4905,44 +4168,6 @@ Venezuela is scaling back to their previous flexible 7+7 system
 
 <b>Old policy:</b>
 
-<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
-allowed to leave once a week, or only one person can leave at a time,
-etc); across <b>all</b> of Venezuela (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Venezuela is scaling back to their previous flexible 7+7 system
-<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Require</b> not leaving the house with exceptions for daily exercise,
 grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
 (2G)
@@ -4963,60 +4188,6 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
 <b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
 allowed to leave once a week, or only one person can leave at a time,
 etc); across <b>all</b> of Venezuela (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Venezuela is scaling back to their previous flexible 7+7 system
-<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Venezuela (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Venezuela (1G)
 
 </td>
 
