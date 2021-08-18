@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-17</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-18</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#brunei-gri-47--72">Brunei (GRI: 47 ↑ 72)</a> 
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
@@ -1401,82 +1401,6 @@ AstraZeneca and Sinopharm
 
 ### Canada (GRI: 57 ↑ 59)
 
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Canada (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Effective 3 August 2021, the province of Ontario is “permitting school
-boards to offer in-person summer school in August with strict health and
-safety measures in place” and continuing “efforts ahead of September to
-deliver a safe, and more normal in-person learning experience”. Ontario
-closed schools for in-class learning with teaching online over the last
-3 months of the regular school year ending in June and required that
-“School boards are delivering virtual summer programming in July.”
-Elementary and secondary schools throughout Canada are on the regular
-summer break. In most of the rest of Canada, schools finished the year
-open for in-class learning. Those provinces and territories that have
-announced plans for the school year starting in September 2021 intend to
-start with in-class learning. Many post-secondary institutions in Canada
-offered online classes during the past academic year and are continuing
-to do so for summer courses. For the most part, teachers or students
-starting classes at all levels in September will NOT be required to
-provide proof of vaccination, immunity or negative test to attend
-classes(with the exception of at least one faculty of medicine and one
-Ontario college). Vaccination proof will be required to live in student
-housing operated by some post-secondary education institutions. See
-government of Ontario as well as Global and Globe and Mail news
-websites, archived:
-<https://web.archive.org/web/20210630201644/https://news.ontario.ca/en/statement/1000403/in-person-summer-learning-to-support-student-success-and-a-strong-start-to-2021-22-school-year>
-<https://web.archive.org/web/20210730110910/https://www.theglobeandmail.com/canada/article-canadas-international-students-face-covid-19-vaccine-hurdles-as-they/>
-<https://web.archive.org/web/20210809194945/https://globalnews.ca/news/8091790/manitoba-back-to-school-plan-other-provinces/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Workplace closing (C2)
 
 <div id="table-div">
@@ -1875,67 +1799,6 @@ of public transport; across <b>all</b> of Dominica (1G)
 
 Public Transportation will be restricted to three individuals per row.
 <https://archive.ph/IFL5S>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Dominica
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Dominica
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Curfew is in place until 8.17. The measures are as follows a Curfew
-Order will be in effect from 6:00 pm to 5:00 am daily from Tuesday
-August 3, 2021 for the next seven days; however, in the case of the
-weekend the curfew will begin at 5:00 pm on Saturday, August 7, 2021 and
-will continue throughout the day on Sunday, August 8, 2021 and end on
-Monday, August 9, 2021 at 5:00 am. Curfew will then resume the night of
-Monday August 9, 2021 at 6:00 pm. <https://archive.ph/IFL5S>
-<https://web.archive.org/web/20210812031747/https://www.garda.com/crisis24/news-alerts/511581/dominica-authorities-extend-nightly-curfew-strict-business-restrictions-through-aug-17-due-to-covid-19-update-21>
 
 </td>
 
@@ -3109,47 +2972,6 @@ for individuals 18 years or older.
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Nigeria (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Nigeria (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Generally schools are open, but the University of Lagos shut down the
-school as a result of COVID 19 cases, but virtual classes are in
-progress. Basic services (i.e., grocery stores, gas stations,
-transportation etc.) are available in Nigeria, and schools have resumed.
-Link:
-<http://web.archive.org/web/20210805225002/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
-<http://web.archive.org/web/20210809202912/https://unilag.edu.ng/?p=6250>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Recommended closure</b> of schools or open with significant
 operational differences; across <b>all</b> of Nigeria (1G)
 
@@ -3252,45 +3074,6 @@ daily curfew in place.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Nigeria (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Nigeria (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Movement Restrictions Is a curfew in place? Yes The Government of
-Nigeria continues to have a 12:00 a.m. to 4:00 a.m. daily curfew in
-place. We urge U.S. citizens to check as individual states may have more
-restrictive curfews. Are there restrictions on intercity or interstate
-travel? No. Link:
-<http://web.archive.org/web/20210805225002/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -4263,60 +4046,6 @@ gatherings of more than ten persons and outdoor social gatherings of
 more than twenty-five persons are prohibited. The EO will remain in
 place until October 18.
 <https://web.archive.org/web/20210811214330/https://governor.hawaii.gov/wp-content/uploads/2021/08/2108048-ATG_Executive-Order-No.-21-05-distribution-signed.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No debt relief</b> is present across all of United States (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-3/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-United States (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On August 3rd, the CDC announced a new eviction moratorium that will
-expire October 3rd, 2021. See archive:
-<https://web.archive.org/web/20210805034852/https://www.cdc.gov/media/releases/2021/s0803-cdc-eviction-order.html>
 
 </td>
 
