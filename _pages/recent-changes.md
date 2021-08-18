@@ -63,6 +63,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
 </div><div><a href="#peru-gri-75--71">Peru (GRI: 75 ↓ 71)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
+</div><div><a href="#sri lanka-gri-80--77">Sri Lanka (GRI: 80 ↓ 77)</a> 
 </div><div><a href="#sweden-gri-46--43">Sweden (GRI: 46 ↓ 43)</a> 
 </div><div><a href="#united kingdom-gri-58--55">United Kingdom (GRI: 58 ↓ 55)</a> 
 </div></div> <br/>
@@ -3817,6 +3818,241 @@ to the individual (government funded or subsidised) South Korea (4S)
 Vaccines are being offered to all residents over age 18 from Monday
 August 9. source:
 <https://web.archive.org/web/20210814190003/https://www.straitstimes.com/asia/east-asia/south-korea-opens-covid-19-vaccine-reservations-for-all-adults>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Sri Lanka (GRI: 80 ↓ 77)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Sri Lanka (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Sri Lanka
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The President of Sri Lanka intended that State workers go back to work
+from August 6th, and allowed interstate travel to facilitate this.
+Within a few days, interstate travel had been banned. It is likely that
+this has a knock on effect on the original declaration \[
+<https://web.archive.org/web/20210818081302/https://www.wsws.org/en/articles/2021/08/05/slco-a05.html>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Sri Lanka (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Sri Lanka (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport may only be used by Government or hospital employees \[
+<https://web.archive.org/web/20210818082126/https://www.dailymirror.lk/latest_news/Workplace-ID-of-people-using-public-transport-to-be-verified-from-today-Dilum/342-217854>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Sri Lanka
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Sri Lanka
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Whilst staying at home is recommended, it is not required. However, the
+main opposition of the Sri Lankan Government is calling for a
+self-imposed citizen lockdown \[
+<https://web.archive.org/web/20210818081757/https://economynext.com/sri-lanka-opposition-calls-for-self-imposed-coronavirus-lockdown-84929/>
+\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Sri Lanka (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Sri Lanka (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Whilst it seems that there has been a far wider vaccination program for
+some time, A government update seems to suggest that in some parts of
+the country, eligibility currently only extends to over 60’s with
+chronic illness. This was not mentioned whatsoever in any other Sri
+Lankan Government press releases, which all suggested near universal
+availability \[
+<https://web.archive.org/web/20210818075034/https://news.lk/news/political-current-affairs/item/32703-vaccination-of-people-over-60-years-in-western-province-begins-tuesday>
+\]
 
 </td>
 
