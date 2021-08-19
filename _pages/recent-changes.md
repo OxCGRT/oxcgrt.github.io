@@ -36,20 +36,19 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-18</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-19</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
 </div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#brunei-gri-47--72">Brunei (GRI: 47 ↑ 72)</a> 
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
-</div><div><a href="#canada-gri-57--59">Canada (GRI: 57 ↑ 59)</a> 
 </div><div><a href="#congo-gri-45--47">Congo (GRI: 45 ↑ 47)</a> 
-</div><div><a href="#dominica-gri-43--65">Dominica (GRI: 43 ↑ 65)</a> 
 </div><div><a href="#france-gri-57--69">France (GRI: 57 ↑ 69)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
+</div><div><a href="#moldova-gri-53--57">Moldova (GRI: 53 ↑ 57)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
-</div><div><a href="#south korea-gri-60--62">South Korea (GRI: 60 ↑ 62)</a> 
+</div><div><a href="#south korea-gri-61--62">South Korea (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#united states-gri-60--64">United States (GRI: 60 ↑ 64)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#burkina faso-gri-35--31">Burkina Faso (GRI: 35 ↓ 31)</a> 
@@ -57,7 +56,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
-</div><div><a href="#malta-gri-60--58">Malta (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#mongolia-gri-61--60">Mongolia (GRI: 61 ↓ 60)</a> 
 </div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
@@ -1400,76 +1398,6 @@ AstraZeneca and Sinopharm
 
 </div>
 
-### Canada (GRI: 57 ↑ 59)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of Canada
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Effective 6 august 2021, in the central Okanagan region of British
-Columbia: “liquor service will be suspended at 10 p.m…Nightclubs and
-bars will be closed unless they serve food. High-intensity fitness gyms
-are also being temporarily closed”. Rules set by each province and
-territory vary. Some provinces – e.g., Alberta, Saskatchewan, New
-Brunswick – have revoked covid-related public health requirements for
-business operations. Manitoba is issuing “proof-of-immunization cards”
-and is restricting access to casinos and bingo halls to fully vaccinated
-patrons. (Manitoba will revoke its requirement that indoor dining,
-cinema and museum patrons be fully vaccinated effective 7 August.) See
-Retail Council of Canada, Global news and Province of Manitoba websites,
-archived:
-<https://web.archive.org/web/20210808152549/https://www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
-<https://web.archive.org/web/20210809113612/https://globalnews.ca/news/8092646/bc-covid-update-august-6-2021/>
-<https://web.archive.org/web/20210809111929/https://news.gov.mb.ca/news/?archive=&item=51998>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Congo (GRI: 45 ↑ 47)
 
 #### School closing (C1)
@@ -1579,337 +1507,6 @@ or Paphos airports. Test results should be available within three hours
 through the online platform. The cost of both tests is borne by the
 passenger.
 <https://web.archive.org/web/20210816105506/https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Dominica (GRI: 43 ↑ 65)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Dominica (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Dominica (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All nonessential businesses must remain closed. Essential businesses may
-open 06:00-16:00, ensuring social distancing measures, the use of
-facemasks and limiting the number of customers within their premises.
-Restaurants must remain closed for in-person dining, but may open for
-take-out services.
-<https://web.archive.org/web/20210812031747/https://www.garda.com/crisis24/news-alerts/511581/dominica-authorities-extend-nightly-curfew-strict-business-restrictions-through-aug-17-due-to-covid-19-update-21>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Dominica (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Dominica (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The following will NOT be permitted: private parties, recreational or
-sporting events, social events, meetings of fraternal societies or of
-clubs, group tours and loud music. <https://archive.ph/IFL5S>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Dominica (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Dominica (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Private gathering is prohibited. Weddings are to be limited to five
-people while funerals are to be no more than ten individuals.
-<https://archive.ph/IFL5S>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Dominica (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Dominica (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public Transportation will be restricted to three individuals per row.
-<https://archive.ph/IFL5S>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Dominica (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Dominica (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Under the new order, masks were mandatory in public.
-<https://web.archive.org/web/20210812034842/https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Dominica (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; across
-<b>all</b> of Dominica (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No special policies to protect the elderly but more extensive
-protections apply to all citizens. <https://archive.ph/IFL5S>
 
 </td>
 
@@ -2659,9 +2256,9 @@ government clinics for everyone who wishes to receive a vaccination.
 
 </div>
 
-### Malta (GRI: 60 ↓ 58)
+### Moldova (GRI: 53 ↑ 57)
 
-#### Workplace closing (C2)
+#### Stay at home requirements (C6)
 
 <div id="table-div">
 
@@ -2677,14 +2274,15 @@ government clinics for everyone who wishes to receive a vaccination.
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Malta (2G)
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Moldova
+(2T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-6/8/2021  
+12/8/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -2693,17 +2291,182 @@ government clinics for everyone who wishes to receive a vaccination.
 
 <b>New policy:</b>
 
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Malta
-(1G)
+<b>No measures</b> are present across all of Moldova (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-The closure of language schools was reversed as the \[22\] schools were
-given permission to reopen for fully vaccinated students. Source:
-<http://web.archive.org/web/20210809062056/https://timesofmalta.com/articles/view/22-language-schools-reopen-doors.891676>
+There is no curfew in place. <https://archive.ph/bcByH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Moldova (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Moldova
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travelers who have been in a “red zone” country in the previous 14 days
+will have to self-isolate for 14 days unless they meet one of the
+following exceptions: 1) children under age of 6; 2) children from age 6
+to 18 presenting a negative PCR test taken 72 hours before arrival; 3)
+transit passengers (24 hours transiting Moldova coming from red or green
+zone) the transit itinerary will be established by Border Police; 4)
+holders of COVID-19 vaccine certificates (valid 14 days after the second
+dose); 5) holders of COVID-19 antibodies certificate less than 90 days
+old. <https://archive.ph/bcByH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Moldova (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Moldova (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+COVID-19 testing is available at both public and private medical
+laboratories. <https://archive.ph/bcByH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Moldova (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of Moldova (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Face-masks are mandatory in all public indoor spaces. Chisinau has a
+mask mandate for open-air public events, as well as social-distancing
+rules. <https://archive.ph/bcByH>
 
 </td>
 
@@ -2775,64 +2538,6 @@ status of “heightened emergency preparedness” is extended by two months.
 </div>
 
 ### Namibia (GRI: 52 ↓ 50)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Namibia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-4/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Namibia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the Minister of Health Kalumbi Shangula in the 33rd Covid
-Public Briefing, schools will return to in-person instruction at full
-capacity with other safety measures in place. The government is
-encouraging vaccination.
-<https://web.archive.org/web/20210815035924/https://twitter.com/FirstLadyNam/status/1426118618463543300/photo/4>
-<https://web.archive.org/web/20210815041056/https://pbs.twimg.com/media/E8qXTtsWEAEfvyf?format=jpg&name=large>
-<https://web.archive.org/web/20210815041320/https://www.na.emb-japan.go.jp/files/100218201.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Workplace closing (C2)
 
@@ -3717,7 +3422,7 @@ announced a two-step easing of COVID-19 measures.”" Link (2):
 
 </div>
 
-### South Korea (GRI: 60 ↑ 62)
+### South Korea (GRI: 61 ↑ 62)
 
 #### Workplace closing (C2)
 
