@@ -36,18 +36,15 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-19</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#argentina-gri-69--71">Argentina (GRI: 69 ↑ 71)</a> 
-</div><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
-</div><div><a href="#brunei-gri-47--72">Brunei (GRI: 47 ↑ 72)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-20</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
+</div><div><a href="#brunei-gri-58--72">Brunei (GRI: 58 ↑ 72)</a> 
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
 </div><div><a href="#congo-gri-45--47">Congo (GRI: 45 ↑ 47)</a> 
 </div><div><a href="#france-gri-57--69">France (GRI: 57 ↑ 69)</a> 
 </div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
-</div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#moldova-gri-53--57">Moldova (GRI: 53 ↑ 57)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
-</div><div><a href="#norway-gri-53--54">Norway (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#south korea-gri-61--62">South Korea (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#united states-gri-60--64">United States (GRI: 60 ↑ 64)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
@@ -56,6 +53,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
+</div><div><a href="#kazakhstan-gri-48--44">Kazakhstan (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#mongolia-gri-61--60">Mongolia (GRI: 61 ↓ 60)</a> 
 </div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
@@ -70,184 +68,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
-
-### Argentina (GRI: 69 ↑ 71)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Argentina (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Argentina (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“Face-to-face classes and face-to-face non-school educational
-activities are maintained throughout the country, effectively complying
-with the parameters of evaluation, stratification, and determination of
-the level of epidemiological risk.”" These measures are valid until
-October 1.
-<https://web.archive.org/web/20210809213249/https://www.boletinoficial.gob.ar/detalleAviso/primera/247815/20210807>
-<https://web.archive.org/web/20210809213451/https://www.clarin.com/politica/publico-dnu-alberto-fernandez-comenzar-levantar-restricciones-pandemia_0_sPqJtfcFd.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Argentina (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Argentina (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-ARTICLE 4 of the decree - SUSPENDED ACTIVITIES THROUGHOUT THE NATIONAL
-TERRITORY. The following activities are suspended throughout the
-country: - Activities and social gatherings in public outdoor spaces for
-more than ONE HUNDRED (100) people. - Activities in discos, party halls,
-dances, or similar activities. - Massive events of more than THOUSAND
-(1000) people. These measures are valid until October 1.
-<https://web.archive.org/web/20210809213249/https://www.boletinoficial.gob.ar/detalleAviso/primera/247815/20210807>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Argentina (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Argentina (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Until the morning of August 5, 38,505,454 doses of vaccines were
-distributed throughout the country, while 33,432,831 were applied.
-Administering Sinopharm, Sputnik V, AstraZeneca-Oxford, Moderna.
-<https://web.archive.org/web/20210809215628/https://www.argentina.gob.ar/noticias/comenzo-la-distribucion-de-mas-de-15-millon-de-dosis-de-moderna-en-todo-el-pais>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 ### Austria (GRI: 68 ↑ 72)
 
@@ -376,7 +196,7 @@ test (no older than 48 hours) or full immunization. Source:
 
 </div>
 
-### Brunei (GRI: 47 ↑ 72)
+### Brunei (GRI: 58 ↑ 72)
 
 #### School closing (C1)
 
@@ -2073,7 +1893,7 @@ COVID-19 Contact-Confirming Application (COCOA).
 
 </div>
 
-### Kazakhstan (GRI: 44 ↑ 48)
+### Kazakhstan (GRI: 48 ↓ 44)
 
 #### Close public transport (C5)
 
@@ -2933,63 +2753,6 @@ Nigeria (1G)
 The Government of Nigeria continues to have a 12:00 a.m. to 4:00 a.m.
 daily curfew in place.
 <https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Norway (GRI: 53 ↑ 54)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Norway (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Norway (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In August all adults above the age of 18 have been offered the vaccine
-/web/20210813132031/<https://www.fhi.no/contentassets/71e97765e43c41ee8f059efbd4016ca8/vedlegg/2021.08.13-vaccination-calendar.pdf>
 
 </td>
 
