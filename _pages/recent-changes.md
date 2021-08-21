@@ -36,22 +36,21 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-20</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-21</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#brunei-gri-58--72">Brunei (GRI: 58 ↑ 72)</a> 
 </div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
 </div><div><a href="#congo-gri-45--47">Congo (GRI: 45 ↑ 47)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-57--69">France (GRI: 57 ↑ 69)</a> 
-</div><div><a href="#israel-gri-55--63">Israel (GRI: 55 ↑ 63)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#moldova-gri-53--57">Moldova (GRI: 53 ↑ 57)</a> 
 </div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
+</div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
 </div><div><a href="#south korea-gri-61--62">South Korea (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#united states-gri-60--64">United States (GRI: 60 ↑ 64)</a> 
 </div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#burkina faso-gri-35--31">Burkina Faso (GRI: 35 ↓ 31)</a> 
-</div><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
 </div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
 </div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
@@ -836,172 +835,6 @@ archived at <https://archive.vn/C5fBL>
 
 </div>
 
-### Burkina Faso (GRI: 35 ↓ 31)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Burkina Faso (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-8/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Burkina Faso (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No interstate or inter-city restrictions noted. Although there is a
-curfew present in some regions unrelated to Covid-19
-<https://web.archive.org/web/20210816185352/https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Comprehensive</b> contact tracing (done for all identified cases); NA
-Burkina Faso (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-8/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Burkina Faso (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No specific contact tracing data noted so will code as limited.
-<https://web.archive.org/web/20210816185352/https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No availability</b> is present across all of Burkina Faso (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-8/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Burkina Faso (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccines are available but limited information on the groups prioritized
-so will code as level 3
-<https://web.archive.org/web/20210816191730/https://www.sig.gov.bf/actualites/details?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=1366&cHash=88e846b98d6f4a48ca3fc8e847fa7fb0>
-<https://web.archive.org/web/20210606151745/https://bf.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Cameroon (GRI: 23 ↑ 34)
 
 #### School closing (C1)
@@ -1620,263 +1453,6 @@ Kong (2)
 Inbound travelers are subject to quarantine. For fully vaccinated
 travelers, a shortened period of quarantine applies.
 <https://web.archive.org/web/20210810224329/https://www.coronavirus.gov.hk/eng/inbound-travel.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Israel (GRI: 55 ↑ 63)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Israel
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-8/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Israel (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Although not yet reflected on the local councils traffic light site, the
-green pass system is now in place in a number of sectors. In addition,
-government buildings are reducing in-office work for public servants (to
-50 percent), with the private sector encouraged to allow employees to
-work from home "“Due to the significant increase in the infection rate
-and the attempts to curb the spread of the disease, the Coronavirus
-Cabinet has approved the expansion of the Green Pass
-system.”“Consequently, effective this Sunday, 8.8.2021, the Green
-Pass system, regardless of the number of participants, shall apply to
-event venues and gardens, conference halls, culture and sporting events,
-food establishments offering on premise dining, gyms and studios, hotels
-and movie theaters.”" Coding as level 2 to reflect these changes.
-Sources: <https://archive.vn/Nqpys>
-<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
-<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Israel (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-8/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Israel (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“Starting Sunday, gatherings of any size, indoors and out, are limited
-to those who have been vaccinated, recovered from the virus, or who
-present a negative COVID test, under the Green Pass system, which will
-also extend to hotels, restaurants and gyms.”" While the local council
-guidelines still mention other events going on as usual, this must only
-be possible where the green pass requirements aren’t being applied. The
-more stringent requirements are now limiting gatherings of any size, so
-coding now as a 2. Sources: <https://archive.vn/Nqpys>
-<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
-<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Israel (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-8/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Israel (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“Starting Sunday, gatherings of any size, indoors and out, are limited
-to those who have been vaccinated, recovered from the virus, or who
-present a negative COVID test, under the Green Pass system, which will
-also extend to hotels, restaurants and gyms.”" Gatherings are now being
-limited in specific venues operating the green pass and in places of
-worship where there are over 50 worshippers. As these requirements are
-restricting gatherings ‘defacto’, switching the coding level to 3.
-Sources: <https://archive.vn/Nqpys>
-<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
-<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-8/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Israel (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Testing is widely available to support the green pass programme, but at
-the individual’s expense for the non-vaccinated. "“Effective this
-Sunday, 8.8.2021, anyone who has not been vaccinated will only be
-admitted to complexes that comply with the Green Pass requirements upon
-presenting negative test results to a rapid test taken 24 hours before
-the time of admission.”“Rapid tests shall not be administered in HMO
-clinics but rather in task-specific testing complexes, at the test
-subject’s expense (once the Green Pass outline is applied to those aged
-1-12 years, rapid tests for children from this age range shall be free
-of charge).”“The Happy Pass scheme remains in effect and unchanged
-(children may be admitted upon presenting negative results to a PCR test
-taken in the HMO clinic or in a Home Front Command testing station,
-until 20.8.2021).”" Source:
-<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
 
 </td>
 
@@ -3350,6 +2926,64 @@ because not all the people contact to ministery of health. Link:
 
 </div>
 
+### Portugal (GRI: 65 ↑ 67)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Portugal (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Portugal (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Approximately 100 thousand adolescents aged 16-17 started being
+vaccinated this Saturday. Source:
+<https://web.archive.org/web/20210820222758/https://www.rtp.pt/noticias/pais/cerca-de-100-mil-jovens-de-16-e-17-anos-vacinados-este-sabado_v1342199>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Singapore (GRI: 72 ↓ 70)
 
 #### Workplace closing (C2)
@@ -3423,62 +3057,6 @@ announced a two-step easing of COVID-19 measures.”" Link (2):
 </div>
 
 ### South Korea (GRI: 61 ↑ 62)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of South
-Korea (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of South Korea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions in Greater Seoul were extended until August 22.
-Entertainment venues such as nightclubs and pubs are required to remain
-closed. source: <https://archive.vn/v7bBQ>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Vaccination policy (H7)
 
