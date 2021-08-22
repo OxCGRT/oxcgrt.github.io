@@ -37,6 +37,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-22</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
+</div><div><a href="#chad-gri-32--36">Chad (GRI: 32 ↑ 36)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-69--73">France (GRI: 69 ↑ 73)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
@@ -45,8 +46,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
+</div><div><a href="#russia-gri-55--59">Russia (GRI: 55 ↑ 59)</a> 
 </div><div><a href="#united states-gri-60--64">United States (GRI: 60 ↑ 64)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bangladesh-gri-71--59">Bangladesh (GRI: 71 ↓ 59)</a> 
+</div><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
 </div><div><a href="#india-gri-69--64">India (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#mongolia-gri-61--60">Mongolia (GRI: 61 ↓ 60)</a> 
@@ -177,6 +180,175 @@ Oberlienz: Leaving the community areas - with a few exceptions - is only
 possible with a negative PCR test (not older than 72 hours), antigen
 test (no older than 48 hours) or full immunization. Source:
 <https://archive.vn/Fulk4> \[Tyrol specific measures\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Bangladesh (GRI: 71 ↓ 59)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Bangladesh (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+11/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All offices and factories can open with protocols in place.
+<https://web.archive.org/web/20210822071535/https://www.garda.com/crisis24/news-alerts/511931/bangladesh-authorities-easing-restrictions-nationwide-from-aug-11-due-to-lower-covid-19-activity-update-57>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Bangladesh (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+11/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport can operate at full capacity, though road transport
+companies must limit their vehicles to running at half their schedule.
+<https://web.archive.org/web/20210822071535/https://www.garda.com/crisis24/news-alerts/511931/bangladesh-authorities-easing-restrictions-nationwide-from-aug-11-due-to-lower-covid-19-activity-update-57>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Chad (GRI: 32 ↑ 36)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Chad (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Chad (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines are now also available for foreign residents. Vaccines used are
+Pfizer and Sinopharm.
+<http://web.archive.org/web/20210822054650/https://td.usembassy.gov/covid-19-information/>
+<http://web.archive.org/web/20210822061117/https://www.gov.uk/foreign-travel-advice/chad/coronavirus>
 
 </td>
 
@@ -1754,6 +1926,114 @@ to the individual (government funded or subsidised) Portugal (4S)
 Approximately 100 thousand adolescents aged 16-17 started being
 vaccinated this Saturday. Source:
 <https://web.archive.org/web/20210820222758/https://www.rtp.pt/noticias/pais/cerca-de-100-mil-jovens-de-16-e-17-anos-vacinados-este-sabado_v1342199>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Russia (GRI: 55 ↑ 59)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Russia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Russia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No curfew in place.
+<http://web.archive.org/web/20210822062759/https://ru.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of Russia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Russia (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Tax relief support is extended to industries at risk, small and medium
+enterprises, as well as, general businesses.
+<http://web.archive.org/web/20210822064140/https://home.kpmg/xx/en/home/insights/2020/04/russia-tax-developments-in-response-to-covid-19.html>
 
 </td>
 
