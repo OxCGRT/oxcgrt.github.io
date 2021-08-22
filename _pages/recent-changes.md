@@ -36,32 +36,25 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-21</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
-</div><div><a href="#brunei-gri-58--72">Brunei (GRI: 58 ↑ 72)</a> 
-</div><div><a href="#cameroon-gri-23--34">Cameroon (GRI: 23 ↑ 34)</a> 
-</div><div><a href="#congo-gri-45--47">Congo (GRI: 45 ↑ 47)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-22</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
-</div><div><a href="#france-gri-57--69">France (GRI: 57 ↑ 69)</a> 
+</div><div><a href="#france-gri-69--73">France (GRI: 69 ↑ 73)</a> 
+</div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#moldova-gri-53--57">Moldova (GRI: 53 ↑ 57)</a> 
 </div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
-</div><div><a href="#south korea-gri-61--62">South Korea (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#united states-gri-60--64">United States (GRI: 60 ↑ 64)</a> 
-</div><div><a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
-</div><div><a href="#eswatini-gri-63--61">Eswatini (GRI: 63 ↓ 61)</a> 
-</div><div><a href="#hong kong-gri-74--73">Hong Kong (GRI: 74 ↓ 73)</a> 
+</div><div><a href="#india-gri-69--64">India (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
-</div><div><a href="#kazakhstan-gri-48--44">Kazakhstan (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#mongolia-gri-61--60">Mongolia (GRI: 61 ↓ 60)</a> 
 </div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
 </div><div><a href="#norway-gri-54--50">Norway (GRI: 54 ↓ 50)</a> 
-</div><div><a href="#peru-gri-75--71">Peru (GRI: 75 ↓ 71)</a> 
+</div><div><a href="#paraguay-gri-52--49">Paraguay (GRI: 52 ↓ 49)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
-</div><div><a href="#sri lanka-gri-80--77">Sri Lanka (GRI: 80 ↓ 77)</a> 
 </div><div><a href="#sweden-gri-46--43">Sweden (GRI: 46 ↓ 43)</a> 
 </div></div> <br/>
 -->
@@ -197,917 +190,6 @@ test (no older than 48 hours) or full immunization. Source:
 
 </div>
 
-### Brunei (GRI: 58 ↑ 72)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Brunei (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Brunei (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 07 August, Brunei detected its first local Covid-19 cases in over a
-year, all of which were unlinked to previously-known imported cases.
-Hence, Brunei has decided to tighten Covid measures, including
-instituting the closure of schools. Per the press release of 07 Aug by
-the Ministry of Health, "“With the consent of His Majesty the Sultan and
-Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that the
-following control measures are reinstated for two weeks with immediate
-effect: … 3. Online learning will commenced for schools, other
-educational institutions, tuition classes, music classes and special
-needs classes.”" Although it is initially unclear whether this directive
-applies to universities, Universiti Brunei Darussalam, the country’s
-largest university, only instituted Covid-19 shutdown measures on 9th
-August. See the Ministry of Health’s press release, archived at
-<https://archive.vn/C5fBL> See Universiti Brunei Darussalam (UBD)’s
-Covid-19 update page, archived at <https://archive.vn/MKajg>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Brunei (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Brunei (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 07 August, Brunei detected its first local Covid-19 cases in over a
-year, all of which were unlinked to previously-known imported cases.
-Hence, Brunei has decided to tighten Covid measures, including
-instituting the closure of schools. Per the press release of 07 Aug by
-the Ministry of Health, "“With the consent of His Majesty the Sultan and
-Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that the
-following control measures are reinstated for two weeks with immediate
-effect: … 3. Online learning will commenced for schools, other
-educational institutions, tuition classes, music classes and special
-needs classes.”" Although it is initially unclear whether this directive
-applies to universities, Universiti Brunei Darussalam, the country’s
-largest university, instituted Covid-19 shutdown measures on 9th August.
-See the Ministry of Health’s press release, archived at
-<https://archive.vn/C5fBL> See Universiti Brunei Darussalam (UBD)’s
-Covid-19 update page, archived at <https://archive.vn/MKajg>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Brunei
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Brunei (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 07 August, Brunei detected its first local Covid-19 cases in over a
-year, all of which were unlinked to previously-known imported cases.
-Hence, Brunei has decided to tighten Covid measures, including forcing
-the closure of workplaces. Per the press release of 07 Aug by the
-Ministry of Health, "“With the consent of His Majesty the Sultan and
-Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that the
-following control measures are reinstated for two weeks with immediate
-effect: … 4. Restaurants and other food premises including stalls are
-only allowed to sell food for take-away or delivery only; dine-in is not
-allowed. 5. Gyms, fitness centers, indoor and outdoor sports facilities,
-leisure centers, cinemas, internet cafes, children playgrounds, driving
-schools, museums, libraries, galleries, beauty salons and barbershops
-are closed. 6. Companies and offices to implement their respective
-business continuity plans including considering work-from-home methods;
-only essential workers are allowed to work in the office. 7. Other
-premises including markets, tamu, supermarkets and retail business
-premises are allowed to operate by ensuring physical distancing measures
-are implemented.”" See the Ministry of Health’s press release, archived
-at <https://archive.vn/C5fBL>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Brunei (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Brunei (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Measures were further tightened, after the discovery of more local cases
-on the 8th and 9th of August. Per the press release of 09 Aug by the
-Ministry of Health, written in Malay, "“ii) All officers and staff,
-whether government or private are required to do work-from-home. Only
-really needed staff are allowed to go out to work such as, frontline
-workers (health sector, security sector, hospitality sector, transport
-sector) daily necessities sector (food, retail business) facilities and
-utilities sector (electricity, water, telecommunications) officers at
-the borders and entrances to Brunei Darussalam oil and gas and
-downstream sectors development sector agri-food and forestry sectors”"
-See the Ministry of Health’s press release, archived at
-<https://archive.vn/jK4EU>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Brunei (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Brunei (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Measures were further tightened, after the discovery of more local cases
-on the 8th and 9th of August. Per the press release of 09 Aug by the
-Ministry of Health, written in Malay, "“i) Any public gathering is not
-allowed. However, exceptions are allowed as follows: A group of 15
-people for funeral management (not COVID-19). A group of 5 people for
-the marriage ceremony.”" Additionally, "“iii) Leaving the house without
-a significant purpose is not allowed. Only two people from one family
-are allowed out of the house to buy daily necessities.”" See the
-Ministry of Health’s press release, archived at
-<https://archive.vn/jK4EU>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Brunei (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Brunei (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 07 August, Brunei detected its first local Covid-19 cases in over a
-year, all of which were unlinked to previously-known imported cases.
-Hence, Brunei has decided to tighten Covid measures, including
-restricting mass gatherings sizes to 30. Per the press release of 07 Aug
-by the Ministry of Health, "“With the consent of His Majesty the Sultan
-and Yang Di-Pertuan of Brunei Darussalam, it is hereby announced that
-the following control measures are reinstated for two weeks with
-immediate effect: … 1. Mass gathering is limited to 30 people only. 2.
-Mosques, surau, musalla (balai ibadat) and other places of worship are
-closed. 8. All social gathering events must be postponed.”" See the
-Ministry of Health’s press release, archived at
-<https://archive.vn/C5fBL>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Brunei (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Brunei (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Measures were further tightened, after the discovery of more local cases
-on the 8th and 9th of August. All gatherings are restricted, except for
-non-Covid-19 funerals (max 15), and marriage ceremonies (max 5) Per the
-press release of 09 Aug by the Ministry of Health, written in Malay,
-"“i) Any public gathering is not allowed. However, exceptions are
-allowed as follows: A group of 15 people for funeral management (not
-COVID-19). A group of 5 people for the marriage ceremony.”"
-Additionally, "“iii) Leaving the house without a significant purpose is
-not allowed. Only two people from one family are allowed out of the
-house to buy daily necessities.”" See the Ministry of Health’s press
-release, archived at <https://archive.vn/jK4EU>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Brunei (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Brunei (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-After local transmission cases were found in Brunei on 07 Aug in over a
-year, public transport capacity was reduced effective from 09 Aug. Per
-the press release of 08 Aug by the Ministry of Transport and
-Infocommunications, written in Malay, "“1.3.1 Public transport operators
-are limited to 50 per cent seating capacity in public transport
-vehicles.”" See the Ministry of Transport and Infocommunications’s press
-release, archived at <https://archive.vn/dkRj1>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Brunei (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Brunei (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 07 August, Brunei detected its first local Covid-19 cases in over a
-year, all of which were unlinked to previously-known imported cases.
-Hence, Brunei has decided to tighten Covid measures, including
-recommending people not to go out. Per the press release of 07 Aug by
-the Ministry of Health, "“The public are advised to practice their
-social responsibility by maintaining personal hygiene, having proper
-sneeze etiquette, physical distancing and if feeling unwell, to abstain
-from going to public places and attend social gatherings. Avoid going to
-public places including shopping malls without purpose or essential
-need; it is safer to stay at home.”" See the Ministry of Health’s press
-release, archived at <https://archive.vn/C5fBL>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Brunei (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Brunei
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Measures were further tightened, after the discovery of more local cases
-on the 8th and 9th of August. People are required to stay at home,
-except for essential purposes (for example, going to work for essential
-workers, buying groceries, or attending funerals and weddings). Per the
-press release of 09 Aug by the Ministry of Health, written in Malay,
-"“i) Any public gathering is not allowed. However, exceptions are
-allowed as follows: A group of 15 people for funeral management (not
-COVID-19). A group of 5 people for the marriage ceremony.”"
-Additionally, "“iii) Leaving the house without a significant purpose is
-not allowed. Only two people from one family are allowed out of the
-house to buy daily necessities.”" See the Ministry of Health’s press
-release, archived at <https://archive.vn/jK4EU>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Brunei (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Brunei (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 07 August, Brunei detected its first local Covid-19 cases in over a
-year, all of which were unlinked to previously-known imported cases.
-Hence, Brunei has decided to tighten Covid measures, including
-instituting mandatory mask measures. Per the press release of 07 Aug by
-the Ministry of Health, "“Meanwhile, to address the concerns on the
-spread of Delta variant around the world, including in Brunei
-Darussalam, the Ministry of Health would also like to inform the public
-on the changes in the face mask guidelines: 1. Face masks are required
-be worn at all times, especially indoors or in crowded places either
-indoor or outdoor. 2. Face mask must cover the wearer’s nose and mouth.
-3. This directive is applicable to all individuals regardless of their
-vaccination status.”" See the Ministry of Health’s press release,
-archived at <https://archive.vn/C5fBL>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Cameroon (GRI: 23 ↑ 34)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; in <b>some</b> parts of Cameroon (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Schools are open and have resumed normal hours.
-<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Screening</b> arrivals coming into Cameroon (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cameroon
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Air passengers with positive Covid-19 test result will be required to
-enter isolation at home or in a government facility, depending on
-symptoms. All other passengers are encouraged to limit contact with
-others for 14 days after their trip.
-<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Cameroon (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Cameroon (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Mass testing had been expanded to flatten the curve, with designated
-screening and testing facilities.
-<http://web.archive.org/web/20210814140254/https://www.aa.com.tr/en/africa/cameroon-starts-mass-virus-screening-campaign/1925230>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No availability</b> is present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Cameroon (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-People aged 18 years old and over can be vaccinated. Vaccines used:
-AstraZeneca and Sinopharm
-<http://web.archive.org/web/20210814141349/https://reliefweb.int/report/cameroon/cameroon-covid-19-emergency-situation-report-no-17-1-31-may-2021>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Congo (GRI: 45 ↑ 47)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Congo (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Congo (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Continued from before.
-<https://web.archive.org/web/20210802181109/https://cd.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Cyprus (GRI: 65 ↓ 63)
 
 #### International travel controls (C8)
@@ -1162,71 +244,6 @@ or Paphos airports. Test results should be available within three hours
 through the online platform. The cost of both tests is borne by the
 passenger.
 <https://web.archive.org/web/20210816105506/https://www.gov.uk/foreign-travel-advice/cyprus/entry-requirements>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Eswatini (GRI: 63 ↓ 61)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Eswatini (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Eswatini (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“According to a statement from the Prime Minister on August 6, schools
-have been closed due to COVID and were set to reopen on August 9,
-however, only certain grades will reopen now.”""“This alarming rise in
-both infections and deaths has required us to reconsider our position on
-the opening of schools on Monday…It is in that regard that Government
-announces that only completing classes will be reopening on Monday, 9
-August 2021; that is Grade 2, 7, Form 3 and Form 5. All other classes
-will remain closed. The decision to close all other classes will be
-reviewed over the next two weeks while we monitor the situation on the
-ground.”"""
-<https://web.archive.org/web/20210810160745/http://www.gov.sz/images/CORONA/PM-Statement-6-August-2021-Schools.pdf>""
 
 </td>
 
@@ -1298,7 +315,205 @@ Archived:
 
 </div>
 
-### France (GRI: 57 ↑ 69)
+### France (GRI: 69 ↑ 73)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of France (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+It remains the case that “the “sanitary pass” is required to attend the
+following: “marquees, theaters, sporting or cultural performance venues,
+conference rooms; trade shows and exhibition fairs (by exhibition hall);
+outdoor establishments including zoological, amusement and theme parks;
+stadiums, sports establishments, swimming pools, sports halls; large
+casinos, arcades and bowling alleys; outdoor sit / stand festivals;
+cinemas and theaters; monuments, museums and exhibition halls;
+libraries, media libraries (excluding university and specialized
+libraries, BPI, BnF); sports competition ; other events, cultural,
+sporting, fun or festive, organized in public space or in a place open
+to the public and likely to give rise to control of the access of
+people. worship establishments for events not of a religious nature;
+ships and boats, cruise ship type in discotheques, dance clubs and bars.
+in fairgrounds, from a threshold of 30 stands or attractions.”
+“commercial catering activities (bars and restaurants, including the
+terraces), with the exception of catering or takeaway ready meals, road
+professional catering (based on a list approved by decree prefectural)
+and rail, room service in hotel restaurants and bars and non-commercial
+catering, in particular the free distribution of meals;” Source:
+<http://web.archive.org/web/20210820131059/https://www.gouvernement.fr/info-coronavirus/pass-sanitaire>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+France (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+It remains the case that “the “sanitary pass” is required to attend the
+following: “marquees, theaters, sporting or cultural performance venues,
+conference rooms; trade shows and exhibition fairs (by exhibition hall);
+outdoor establishments including zoological, amusement and theme parks;…
+outdoor sit / stand festivals;… sports competition; other events,
+cultural, sporting, fun or festive, organized in public space or in a
+place open to the public and likely to give rise to control of the
+access of people.” Source:
+<http://web.archive.org/web/20210820131059/https://www.gouvernement.fr/info-coronavirus/pass-sanitaire>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of France (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of France (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Across France, there are restrictions on gatherings of between 11 and
+100 people. “You must present a health pass to access leisure and
+culture venues and events bringing together more than 50 people.”
+Source:
+<http://web.archive.org/web/20210821101427/https://www.gouvernement.fr/en/coronavirus-covid-19>
+“The Landes prefecture” announced on “Wednesday August 4 that the
+restrictive measures in force in the department are extended until
+August 31. Gatherings on public roads or in places open to the public of
+more than 20 people are particularly prohibited.” There is no mention of
+an exemption for those with a health pass in Landes. Sources:
+<https://web.archive.org/web/20210808222504/https://www.francebleu.fr/infos/sante-sciences/covid-19-le-departement-des-landes-maintient-ses-restrictions-jusqu-au-31-aout-1628079973>
+&
+<http://web.archive.org/web/20210821100456/http://www.landes.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_sanitaire_dans_les_landes.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Close public transport (C5)
 
@@ -1410,61 +625,7 @@ Intercity and night trains, interregional buses) from 9 August -
 
 </div>
 
-### Hong Kong (GRI: 74 ↓ 73)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Hong Kong (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Hong
-Kong (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Inbound travelers are subject to quarantine. For fully vaccinated
-travelers, a shortened period of quarantine applies.
-<https://web.archive.org/web/20210810224329/https://www.coronavirus.gov.hk/eng/inbound-travel.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### India (GRI: 69 ↓ 64)
 
 ### Japan (GRI: 60 ↓ 57)
 
@@ -1529,7 +690,7 @@ COVID-19 Contact-Confirming Application (COCOA).
 
 </div>
 
-### Kazakhstan (GRI: 48 ↓ 44)
+### Kazakhstan (GRI: 44 ↑ 48)
 
 #### Close public transport (C5)
 
@@ -1540,41 +701,6 @@ COVID-19 Contact-Confirming Application (COCOA).
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not function in Nur-Sultan and Mangystau region
-during the weekends since August 2. <https://archive.vn/9YzIn>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -2524,7 +1650,9 @@ of guests.”" No policy change
 
 </div>
 
-#### Vaccination policy (H7)
+### Paraguay (GRI: 52 ↓ 49)
+
+#### Income support (E1)
 
 <div id="table-div">
 
@@ -2540,71 +1668,14 @@ of guests.”" No policy change
 
 <b>Old policy:</b>
 
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Norway (4S)
+Government is replacing <b>less than 50% income</b>; for <b>all
+workers</b> in Paraguay (1A)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-7/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Norway (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In August all adults above the age of 18 have been offered the vaccine
-/web/20210813132031/<https://www.fhi.no/contentassets/71e97765e43c41ee8f059efbd4016ca8/vedlegg/2021.08.13-vaccination-calendar.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Peru (GRI: 75 ↓ 71)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Peru (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
+19/8/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -2613,306 +1684,18 @@ In August all adults above the age of 18 have been offered the vaccine
 
 <b>New policy:</b>
 
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Peru (2T)
+<b>No income support</b> is present across all of Paraguay (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-The education minister reported 2581 schools in the rural areas of Peru
-started classes in blended learning ( 100 000 students and 7000
-teachers). link
-<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Peru (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Peru (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From 26 Jul, according to the Peruvian government’s restrictions to
-combat COVID-19, commercial have reduced capacity according to the alert
-level. For area with high level commercial establishments close 1 hours
-before curfew (00:00 - 4:00 am) and 2 hours before curfew to Lima , for
-areas with moderate level and high 1 hour before curfew . Clubs are
-banned. Link:
-<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Peru (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Peru (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From Jul 26 according to the Peruvian government restrictions, strict
-mandatory social immobilization is established from 22:00 pm to 4:00 am
-for areas with extreme alert and very high alert, high alert areas
-curfew from 00:00 to 4:00 am and moderate areas curfew from 00:00 to
-4:00 link:
-<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Peru (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Peru (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-according to the restrictions established by Peruvian Goverment.
-Transport between cities can be carried out at all levels with
-particularities in capacity (capacity between 50 - 100 %).according to
-the alert level . In extreme and very high there is also a ban of using
-private cars on Sundays. Link:
-<https://web.archive.org/web/20210815224410/https://www.gob.pe/12365-coronavirus-medidas-para-enfrentar-la-pandemia-segun-nivel-de-alerta-y-region>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA Peru
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA Peru
-(1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Urgency decree (Nº 033-2021) that extens the deadline for accommodation
-to the COVID-19 guarantee program, created by law n 31050, law that
-establishes extraordinary provisions for the reprogramming and freezing
-of debts in order to relieve the economy people and the consequence of
-COVID-19. Link:
-<https://web.archive.org/web/20210501165442/https://busquedas.elperuano.pe/normaslegales/decreto-de-urgencia-que-amplia-el-plazo-de-acogimiento-al-pr-decreto-de-urgencia-n-033-2021-1939913-1/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Comprehensive</b> contact tracing (done for all identified cases); NA
-Peru (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Peru (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Health Directive No. 122-MINSA / 2020 / CDC ""Health Directive for the
-Epidemiological Surveillance of Coronavirus Disease (COVID-19) in Peru.
-Contact tracing is not done for all the persons positive to COVID-19,
-because not all the people contact to ministery of health. Link:
-<https://web.archive.org/web/20210501173049/https://www.gob.pe/institucion/minsa/normas-legales/1322786-905-2020-minsa>
+The Pytyvo Programme ended with the payment of the fifth and sixth
+subsidies provided by the Paraguayan government for formal and informal
+workers in border cities. Government assistance to this sector will now
+be limited to other measures such as food kits through the SEN, credits
+and refinancing through public banks, among others. Source:
+<https://web.archive.org/web/20210821230049/https://www.hoy.com.py/nacionales/con-ultimo-pago-a-formales-finaliza-programa-pytyvo-frontera>
 
 </td>
 
@@ -3043,299 +1826,6 @@ household.”" Link (1):
 for fully vaccinated people in up to groups of five as Singapore
 announced a two-step easing of COVID-19 measures.”" Link (2):
 <http://web.archive.org/web/20210807102312/https://www.channelnewsasia.com/singapore/dining-vaccinated-people-covid-19-aug-10-hawkers-2096546>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### South Korea (GRI: 61 ↑ 62)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) South Korea (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) South Korea (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccines are being offered to all residents over age 18 from Monday
-August 9. source:
-<https://web.archive.org/web/20210814190003/https://www.straitstimes.com/asia/east-asia/south-korea-opens-covid-19-vaccine-reservations-for-all-adults>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Sri Lanka (GRI: 80 ↓ 77)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Sri Lanka (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Sri Lanka
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The President of Sri Lanka intended that State workers go back to work
-from August 6th, and allowed interstate travel to facilitate this.
-Within a few days, interstate travel had been banned. It is likely that
-this has a knock on effect on the original declaration \[
-<https://web.archive.org/web/20210818081302/https://www.wsws.org/en/articles/2021/08/05/slco-a05.html>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Sri Lanka (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of Sri Lanka (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport may only be used by Government or hospital employees \[
-<https://web.archive.org/web/20210818082126/https://www.dailymirror.lk/latest_news/Workplace-ID-of-people-using-public-transport-to-be-verified-from-today-Dilum/342-217854>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Sri Lanka
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Sri Lanka
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Whilst staying at home is recommended, it is not required. However, the
-main opposition of the Sri Lankan Government is calling for a
-self-imposed citizen lockdown \[
-<https://web.archive.org/web/20210818081757/https://economynext.com/sri-lanka-opposition-calls-for-self-imposed-coronavirus-lockdown-84929/>
-\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Sri Lanka (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Sri Lanka (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Whilst it seems that there has been a far wider vaccination program for
-some time, A government update seems to suggest that in some parts of
-the country, eligibility currently only extends to over 60’s with
-chronic illness. This was not mentioned whatsoever in any other Sri
-Lankan Government press releases, which all suggested near universal
-availability \[
-<https://web.archive.org/web/20210818075034/https://news.lk/news/political-current-affairs/item/32703-vaccination-of-people-over-60-years-in-western-province-begins-tuesday>
-\]
 
 </td>
 
@@ -3509,118 +1999,6 @@ gatherings of more than ten persons and outdoor social gatherings of
 more than twenty-five persons are prohibited. The EO will remain in
 place until October 18.
 <https://web.archive.org/web/20210811214330/https://governor.hawaii.gov/wp-content/uploads/2021/08/2108048-ATG_Executive-Order-No.-21-05-distribution-signed.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Venezuela (GRI: 75 ↑ 78)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Venezuela (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Venezuela (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Venezuela is scaling back to their previous flexible 7+7 system
-<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
-allowed to leave once a week, or only one person can leave at a time,
-etc); across <b>all</b> of Venezuela (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Venezuela is scaling back to their previous flexible 7+7 system
-<https://web.archive.org/web/20210802170811/http://www.mpps.gob.ve/index.php/sala-de-prensa/notnac/1235-del-2-al-8-de-agosto-nueva-semana-de-flexibilizacion-economica-y-segura-del-esquema-7-7-contra-la-covid19>
 
 </td>
 
