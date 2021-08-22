@@ -37,18 +37,22 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-22</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
+</div><div><a href="#botswana-gri-57--65">Botswana (GRI: 57 ↑ 65)</a> 
 </div><div><a href="#chad-gri-32--36">Chad (GRI: 32 ↑ 36)</a> 
+</div><div><a href="#colombia-gri-56--62">Colombia (GRI: 56 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-69--73">France (GRI: 69 ↑ 73)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#kyrgyz republic-gri-59--60">Kyrgyz Republic (GRI: 59 ↑ 60)</a> 
 </div><div><a href="#moldova-gri-53--57">Moldova (GRI: 53 ↑ 57)</a> 
 </div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
+</div><div><a href="#new zealand-gri-38--75">New Zealand (GRI: 38 ↑ 75)</a> 
 </div><div><a href="#niger-gri-31--35">Niger (GRI: 31 ↑ 35)</a> 
 </div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
 </div><div><a href="#russia-gri-55--59">Russia (GRI: 55 ↑ 59)</a> 
 </div><div><a href="#united states-gri-60--64">United States (GRI: 60 ↑ 64)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bangladesh-gri-71--59">Bangladesh (GRI: 71 ↓ 59)</a> 
+</div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#cyprus-gri-65--63">Cyprus (GRI: 65 ↓ 63)</a> 
 </div><div><a href="#india-gri-69--64">India (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
@@ -56,9 +60,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#nigeria-gri-48--35">Nigeria (GRI: 48 ↓ 35)</a> 
 </div><div><a href="#norway-gri-54--50">Norway (GRI: 54 ↓ 50)</a> 
-</div><div><a href="#paraguay-gri-52--49">Paraguay (GRI: 52 ↓ 49)</a> 
+</div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
 </div><div><a href="#singapore-gri-72--70">Singapore (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#sweden-gri-46--43">Sweden (GRI: 46 ↓ 43)</a> 
+</div><div><a href="#united arab emirates-gri-68--56">United Arab Emirates (GRI: 68 ↓ 56)</a> 
 </div></div> <br/>
 -->
 
@@ -302,6 +307,667 @@ companies must limit their vehicles to running at half their schedule.
 
 </div>
 
+### Botswana (GRI: 57 ↑ 65)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Botswana (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Botswana (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government of Botswana, on August 16, 2021, enacted the Emergency
+Powers Act in response to increasing Covid risk and declared the closure
+of all schools from August 16 to September 6, 2021.
+<https://archive.vn/layat>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Botswana
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Botswana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the U.S. Embassy in Botswana, most businesses are open but
+entertainment and sports industries are still not permitted.
+<https://web.archive.org/web/20210822070915/https://bw.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Botswana (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Botswana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the U.S. Embassy in Botswana, all gatherings are suspended
+with the exception of: Funerals – up to 50 and no more than 2 hours
+Religious services – up to 50 and no more than 2 hours Weddings – up to
+4 including administrators Cultural or traditional occasion – up to 16
+and no more than 2 hours Meetings or workshops – up to 50 and no more
+than 2 hours Restaurants may operate at half capacity and no more than
+50 guests at a time All sports and recreational activities are suspended
+except national team events with no spectators.
+<https://web.archive.org/web/20210822070915/https://bw.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Botswana (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Botswana (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the latest government gazette release on August 16, 2021,
+physical meetings and workshops not approved by the government are not
+permitted. Funerals/burials and religious services are exceptions,
+allowing up to 50 people for a maximum of 2 hours.
+<https://archive.vn/layat>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Botswana (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Botswana (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to IMF, there are no relief programs that appear to continue
+into August 2021.
+<https://web.archive.org/web/20210822054241/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Botswana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Botswana (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Masks are required in public spaces such as restaurants and on public
+transport.
+<https://web.archive.org/web/20210822070915/https://bw.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Botswana (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Botswana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to gov.uk, there is a nationwide curfew from 20:00 to 4:00.
+<https://web.archive.org/web/20210822173520/https://www.gov.uk/foreign-travel-advice/botswana/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Cameroon (GRI: 34 ↓ 33)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; in <b>some</b> parts of Cameroon (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools are open and have resumed normal hours.
+<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cameroon
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Air passengers with positive Covid-19 test result will be required to
+enter isolation at home or in a government facility, depending on
+symptoms. All other passengers are encouraged to limit contact with
+others for 14 days after their trip.
+<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cameroon
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Health screening procedures are in place at airports and other ports of
+entry. Government of Cameroon now requires all outbound passengers to
+present a negative COVID-19 PCR test result dated within 72 hours of
+boarding an international flight. Travelers must use a
+government-approved testing site and register their results in one of
+two databases depending on the point of departure (Yaoundé or Douala).
+Air passengers with a positive COVID-19 test result will be required to
+enter isolation at home or in a government facility at their own expense
+depending on their symptoms. Although quarantine is not required,
+travelers may have been exposed to COVID-19 during their travels and are
+encouraged to limit contact with others for 14 days after their trip.
+<https://web.archive.org/web/20210802174047/https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Cameroon (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Mass testing had been expanded to flatten the curve, with designated
+screening and testing facilities.
+<http://web.archive.org/web/20210814140254/https://www.aa.com.tr/en/africa/cameroon-starts-mass-virus-screening-campaign/1925230>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No availability</b> is present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Cameroon (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+People aged 18 years old and over can be vaccinated. Vaccines used:
+AstraZeneca and Sinopharm
+<http://web.archive.org/web/20210814141349/https://reliefweb.int/report/cameroon/cameroon-covid-19-emergency-situation-report-no-17-1-31-may-2021>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Chad (GRI: 32 ↑ 36)
 
 #### Vaccination policy (H7)
@@ -349,6 +1015,118 @@ Vaccines are now also available for foreign residents. Vaccines used are
 Pfizer and Sinopharm.
 <http://web.archive.org/web/20210822054650/https://td.usembassy.gov/covid-19-information/>
 <http://web.archive.org/web/20210822061117/https://www.gov.uk/foreign-travel-advice/chad/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Colombia (GRI: 56 ↑ 62)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Colombia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Colombia (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Although there’s a trend for fewer cases in Colombia, the government has
+urged the population to maintain the same restrictions and measures in
+order to avoid a 4th wave with the Delta variant
+<https://web.archive.org/web/20210821163916/https://elnuevosiglo.com.co/articulos/08-21-2021-hay-una-tendencia-la-baja-de-casos-covid-y-eso-plantea-desafios-minsalud>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Colombia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of Colombia (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Although there’s a trend for fewer cases in Colombia, the government has
+urged the population to maintain the same restrictions and measures in
+order to avoid a 4th wave with the Delta variant
+<https://web.archive.org/web/20210821163916/https://elnuevosiglo.com.co/articulos/08-21-2021-hay-una-tendencia-la-baja-de-casos-covid-y-eso-plantea-desafios-minsalud>
 
 </td>
 
@@ -1408,6 +2186,437 @@ People who are travelling can also get tested free of cost
 
 </div>
 
+### New Zealand (GRI: 38 ↑ 75)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of New Zealand (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“Education at Alert Level 4: All schools and early childhood education
+centres are closed.”"
+<https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of New Zealand (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“Work and business: Only certain businesses may remain open to the
+public at Alert Level 4. Some other businesses and services can operate
+at Alert Level 4 without customers on their premises. If a business is
+not sure if it provides Alert Level 4 services or products, it should
+close. If you are a business or worker in a non-Alert-Level-4 business,
+you may still work?— as long as this is from home. If you cannot work
+remotely, you must stay home.”"
+<https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of New
+Zealand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“Indoor and outdoor events cannot go ahead Events, including family and
+social gatherings cannot go ahead. This includes parties, funerals and
+tangihanga, and weddings.”"
+<https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of New Zealand (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“Meeting friends and whanau You can only have physical contact with
+your household bubble. You cannot invite friends and whanau to your
+home, and events and gatherings cannot go ahead.”"
+<https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of New
+Zealand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“Everyone must now stay home in their bubble. You can only leave home
+for essential personal movement, like to: shop for groceries access
+necessary healthcare get a COVID-19 test or vaccination exercise in your
+local area go to work if you are an Alert Level 4 worker and you cannot
+work from home.”"
+<https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+New Zealand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“At Alert Level 4, travel is strictly limited. Air travel will be used
+only to transport: people travelling home in the first 48 hours after
+the move to Alert Level 4 people undertaking Alert Level 4 services
+freight, or for other permitted reasons. Other permitted reasons
+include: to do necessary work as defined in the Public Health Response
+Order COVID-19 Public Health Response (Alert Level Requirements) Order
+(No 9) 2021(external link) to pick someone up from an airport to pick
+someone up from managed isolation or quarantine (MIQ) — to pick someone
+up, you must have a formal letter from MIQ to leave New Zealand to
+provide urgent care for a child or a person in a critical or terminally
+ill condition to attend a Court, tribunal, New Zealand Parole Board
+hearing or another judicial institution. Non-essential travel:
+Non-essential travel, like travel to a second home or holiday home, is
+not allowed. If you travelled to a second home or bach, you will not be
+told to return home, however you must stay where you are until
+restrictions on travel have lifted. The safest place for whanau to be is
+at home.”"
+<https://web.archive.org/web/20210822173352/https://covid19.govt.nz/travel/domestic-travel/regional-travel/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of New
+Zealand (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“People at higher risk in particular should stay at home and ask others
+to pick up supplies for them. You just need to ask them to leave
+supplies at the door, rather than come in.? You are at high risk if you
+are over 70, have a compromised immune system or have underlying health
+conditions.”"
+<https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Niger (GRI: 31 ↑ 35)
 
 #### Vaccination policy (H7)
@@ -1822,7 +3031,7 @@ of guests.”" No policy change
 
 </div>
 
-### Paraguay (GRI: 52 ↓ 49)
+### Paraguay (GRI: 54 ↓ 51)
 
 #### Income support (E1)
 
@@ -2158,6 +3367,360 @@ Sweden (1)
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### United Arab Emirates (GRI: 68 ↓ 56)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+United Arab Emirates (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+United Arab Emirates (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Concerts, sports spectator events and social and institutional events
+are permitted providing the audience, participants and staff are
+vaccinated against Covid-19. The maximum attendance for large public
+events that require permits is now 1,500 for indoors and 2,500 for
+outdoors.
+<https://web.archive.org/web/20210822162442/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of United Arab Emirates (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of United Arab Emirates (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Private gatherings held in homes, including weddings, are capped at 30
+guests.
+<https://web.archive.org/web/20210822162442/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of United Arab Emirates (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of United Arab Emirates (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A curfew is in place in Abu Dhabi Emirate that runs nightly from 00:01
+to 05:00. During these hours, the movement of traffic and the public is
+restricted, and public transportation services do not run.
+<https://web.archive.org/web/20210822152528/https://www.garda.com/crisis24/news-alerts/513941/uae-robust-covid-19-related-restrictions-particularly-on-foreign-travel-remain-in-effect-as-of-aug-16-update-69>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of United Arab Emirates (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of United Arab Emirates (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport will resume, and authorities have eased other
+restrictions that were in place during the curfew hours.
+<https://web.archive.org/web/20210822161242/https://www.garda.com/crisis24/news-alerts/515426/uae-abu-dhabi-ends-nightly-0001-0500-curfew-as-of-aug-19-update-71>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of United Arab
+Emirates (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of United
+Arab Emirates (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A curfew is in place in Abu Dhabi Emirate that runs nightly from 00:01
+to 05:00. During these hours, the movement of traffic and the public is
+restricted, and public transportation services do not run.
+<https://web.archive.org/web/20210822152528/https://www.garda.com/crisis24/news-alerts/513941/uae-robust-covid-19-related-restrictions-particularly-on-foreign-travel-remain-in-effect-as-of-aug-16-update-69>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of United
+Arab Emirates (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of United Arab Emirates (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Emirate of Abu Dhabi has announced plans to end the nightly 00:01 to
+05:00 curfew.
+<https://web.archive.org/web/20210822161242/https://www.garda.com/crisis24/news-alerts/515426/uae-abu-dhabi-ends-nightly-0001-0500-curfew-as-of-aug-19-update-71>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into United Arab
+Emirates (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into United Arab Emirates (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Regulations can vary significantly based on several factors, including
+the traveler’s vaccination status, country of origin, and the
+constituent.
+<https://web.archive.org/web/20210822161242/https://www.garda.com/crisis24/news-alerts/515426/uae-abu-dhabi-ends-nightly-0001-0500-curfew-as-of-aug-19-update-71>
 
 </td>
 
