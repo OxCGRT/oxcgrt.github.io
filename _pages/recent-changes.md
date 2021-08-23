@@ -37,29 +37,40 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-23</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
+</div><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
 </div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#chile-gri-73--76">Chile (GRI: 73 ↑ 76)</a> 
 </div><div><a href="#colombia-gri-56--62">Colombia (GRI: 56 ↑ 62)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-69--73">France (GRI: 69 ↑ 73)</a> 
+</div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
+</div><div><a href="#israel-gri-63--64">Israel (GRI: 63 ↑ 64)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#moldova-gri-53--57">Moldova (GRI: 53 ↑ 57)</a> 
+</div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
 </div><div><a href="#new zealand-gri-38--75">New Zealand (GRI: 38 ↑ 75)</a> 
+</div><div><a href="#philippines-gri-60--65">Philippines (GRI: 60 ↑ 65)</a> 
 </div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
+</div><div><a href="#uganda-gri-66--68">Uganda (GRI: 66 ↑ 68)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--66">Bahamas (GRI: 68 ↓ 66)</a> 
 </div><div><a href="#bangladesh-gri-71--59">Bangladesh (GRI: 71 ↓ 59)</a> 
 </div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
+</div><div><a href="#germany-gri-64--54">Germany (GRI: 64 ↓ 54)</a> 
 </div><div><a href="#india-gri-69--64">India (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#japan-gri-60--58">Japan (GRI: 60 ↓ 58)</a> 
+</div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
+</div><div><a href="#mexico-gri-63--58">Mexico (GRI: 63 ↓ 58)</a> 
 </div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
 </div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#norway-gri-54--50">Norway (GRI: 54 ↓ 50)</a> 
 </div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
+</div><div><a href="#poland-gri-53--41">Poland (GRI: 53 ↓ 41)</a> 
 </div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
+</div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#sweden-gri-46--43">Sweden (GRI: 46 ↓ 43)</a> 
 </div><div><a href="#united arab emirates-gri-68--56">United Arab Emirates (GRI: 68 ↓ 56)</a> 
 </div></div> <br/>
@@ -409,6 +420,231 @@ public transport; across <b>all</b> of Bangladesh (2G)
 Public transport can operate at full capacity, though road transport
 companies must limit their vehicles to running at half their schedule.
 <https://web.archive.org/web/20210822071535/https://www.garda.com/crisis24/news-alerts/511931/bangladesh-authorities-easing-restrictions-nationwide-from-aug-11-due-to-lower-covid-19-activity-update-57>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Benin (GRI: 46 ↑ 49)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of Benin
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Benin (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In the last communique, released on June 2020, public events like
+sports, political events and demonstrations were suspended. however,
+12000 spectators were authorised by the African Football Federation to
+attend the CAF Cup final at the Mathieu KEREKOU stadium in Cotonou on
+the July 10, 2021 at 8pm as a one time occurence. However, negative
+covid tests would be required from all attendees to show their covid
+status.
+<https://web.archive.org/web/20210719213553/https://www.gouv.bj/coronavirus/documents/>
+<https://web.archive.org/web/20210719213314/https://www.gouv.bj/actualite/1374/test-covid-obligatoire-assister-finale-coupe-stade-mathieu-kerekou-cotonou-samedi-10-juillet-2021/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Benin (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Benin (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+policy recommends staying at home for people with co-morbidities or over
+the age of 60 years.
+<https://web.archive.org/web/20210719222030/https://www.gouv.bj/coronavirus/faq/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Benin (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Benin (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Face masks are always required in public spaces.
+<https://web.archive.org/web/20210719222030/https://www.gouv.bj/coronavirus/faq/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Benin (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Benin (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+recommends staying at home for anyone above 60 years.
+<https://web.archive.org/web/20210719222030/https://www.gouv.bj/coronavirus/faq/>
 
 </td>
 
@@ -2308,7 +2544,567 @@ Intercity and night trains, interregional buses) from 9 August -
 
 </div>
 
+### Germany (GRI: 64 ↓ 54)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Germany (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Germany
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+23 Aug starts the "“3G Rule”" where certain public spaces are only open
+to those that are vaccinated, recovered, or tested - (geimpft, genesen,
+getestet). This rule enables more businesses to open or operate at
+higher capacity. There are still the basic rules of social distancing,
+observing hand hygiene, wearing face masks indoors and regular
+ventilation of indoor spaces Sources
+<https://web.archive.org/web/20210823181430/https://www.bundesregierung.de/breg-en/news/federal-regional-consultation-coronavirus-1949666>
+<https://web.archive.org/web/20210823182454/https://www.iamexpat.de/expat-info/german-expat-news/3g-rule-comes-force-across-germany-what-you-need-know>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Germany (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Germany (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+23 Aug starts the "“3G Rule”" where certain public spaces are only open
+to those that are vaccinated, recovered, or tested - (geimpft, genesen,
+getestet). There are still the basic rules of social distancing,
+observing hand hygiene, wearing face masks indoors and regular
+ventilation of indoor spaces Sources
+<https://web.archive.org/web/20210823181430/https://www.bundesregierung.de/breg-en/news/federal-regional-consultation-coronavirus-1949666>
+<https://web.archive.org/web/20210823182454/https://www.iamexpat.de/expat-info/german-expat-news/3g-rule-comes-force-across-germany-what-you-need-know>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Germany (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Germany (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+3 Aug starts the "“3G Rule”" where certain public spaces are only open
+to those that are vaccinated, recovered, or tested - (geimpft, genesen,
+getestet). There are still the basic rules of social distancing,
+observing hand hygiene, wearing face masks indoors and regular
+ventilation of indoor spaces PARTY AND EVENTS: Restrictions, such as a
+limited number of participants for clubs and parties, are still
+possible, hygiene concepts have to be presented. In football stadiums
+and sporting events with more than 5000 spectators, a maximum of half of
+the seats in the venue or stadium are to be occupied. The maximum number
+of spectators is to be 25,000. Sources
+<https://web.archive.org/web/20210823181430/https://www.bundesregierung.de/breg-en/news/federal-regional-consultation-coronavirus-1949666>
+<https://web.archive.org/web/20210823183314/https://www.deutschland.de/en/news/german-federal-government-informs-about-the-corona-crisis>
+<https://web.archive.org/web/20210823182454/https://www.iamexpat.de/expat-info/german-expat-news/3g-rule-comes-force-across-germany-what-you-need-know>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Ghana (GRI: 38 ↑ 45)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Ghana (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Ghana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Some sectors are still closed due to restrictions. Sports, political,
+festivals, nightclubs, bars, cinemas all closed.
+<https://web.archive.org/web/20210706043103/https://gh.usembassy.gov/ghana-covid-19-information/>
+<https://web.archive.org/web/20210706044234/https://www.gov.uk/foreign-travel-advice/ghana/coronavirus>
+<https://web.archive.org/web/20210706044453/https://www.ghanahealthservice.org/covid19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No contact tracing</b> is present across all of Ghana (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Ghana (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All results and information regarding testing are tracked online.
+<https://web.archive.org/web/20210706043103/https://gh.usembassy.gov/ghana-covid-19-information/>
+<https://web.archive.org/web/20210706044234/https://www.gov.uk/foreign-travel-advice/ghana/coronavirus>
+<https://web.archive.org/web/20210706044453/https://www.ghanahealthservice.org/covid19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### India (GRI: 69 ↓ 64)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of India (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of India (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.vn/Pgwbr> "“Days after the Maharashtra government
+modified the lockdown guidelines and allowed malls to reopen only with
+fully vaccinated staff, the Shopping Centres Association of India (SCAI)
+on Tuesday decided to shut operations across the state saying that they
+are not able to operate business with less staff”" .. "“It must be noted
+that the state government had allowed shopping malls to open up last
+week after months of closure to contain the spread of infections.
+However, the government had asked the malls to operate only with
+double-vaccinated employees and also admit only fully-vaccinated
+patrons.”"
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of India
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); in <b>some</b> parts of India (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.vn/8WBAZ> "“Tamil Nadu extends lockdown for another two
+weeks with more relaxations.”"
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Israel (GRI: 63 ↑ 64)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Israel (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Israel (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Regulations begin on 18 August restricting access to universities for
+those with green passes. New regulations introduced for schools. Source:
+<https://archive.vn/w6pFw>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Israel (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Israel (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Tests are widely available with nationwide testing - but with the
+exception of children who - access to venues on presentation of a test
+is at the expense of the non-vaccinated individual.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Japan (GRI: 60 ↓ 58)
 
@@ -2509,6 +3305,233 @@ public transport; in <b>some</b> parts of Kazakhstan (2T)
 
 Public transport does not function in Nur-Sultan and Mangystau region
 during the weekends since August 2. <https://archive.vn/9YzIn>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Liberia (GRI: 53 ↓ 47)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Liberia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Liberia (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Sporting events allow no spectators. Other gatherings limted up to 20
+people.
+<https://web.archive.org/web/20210823161304/https://www.gov.uk/foreign-travel-advice/liberia/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Liberia (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Liberia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There is no longer a quarantine or border closure in place. People can
+move freely about the country. Test results/screening required for all
+arrivals and departures.
+<https://web.archive.org/web/20210823160847/https://lr.usembassy.gov/covid-19-information/>
+INterestingly, the UK reports land borders are closed, but the US does
+not indicate such (whereas they have in the past.)
+<https://web.archive.org/web/20210823161304/https://www.gov.uk/foreign-travel-advice/liberia/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mexico (GRI: 63 ↓ 58)
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Mexico (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; in <b>some</b> parts of Mexico (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Dedicated site for coronavirus information.
+<https://web.archive.org/web/20210823163223/https://coronavirus.gob.mx/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Mexico (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Mexico (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Comprehensive contact tracing in areas deemed "“green”" or "“yellow”"
+according to the epidemiological traffic light. In areas "“orange”" or
+"“red”" it’s done according to municipal capacity and prioritising
+closed spaces like prisons, offices or schools.
+<https://web.archive.org/web/20210816184246/https://www.gob.mx/cms/uploads/attachment/file/656239/Lineamiento_VE_y_Lab_Enf_Viral.pdf>
 
 </td>
 
@@ -2958,6 +3981,61 @@ half capacity or up to a number not exceeding 50 at a time, subject to
 strict adherence to preventive measures, mandatory wearing of face masks
 and maintaining of physical distance of no less than 1.5 meters.
 <https://web.archive.org/web/20210815174304/https://www.na.emb-japan.go.jp/files/100222555.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Nepal (GRI: 66 ↑ 69)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Nepal (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Nepal (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No further restrictions on internal movement until August 24th
+<https://web.archive.org/web/20210823192007/https://kathmandupost.com/national/2021/08/20/even-experts-find-the-idea-of-smart-lockdown-puzzling>
 
 </td>
 
@@ -3700,6 +4778,504 @@ and refinancing through public banks, among others. Source:
 
 </div>
 
+### Philippines (GRI: 60 ↑ 65)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Philippines (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Philippines (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 5 the Inter Agency Task Force for the Management of Emerging
+Infectious Diseases resolved that as from August 6 all school levels
+should be closed, due to different types of Community Quarantine in
+regions. See Inter Agency Task Force for the Management of Emerging
+Infectious Diseases website. Archive:
+<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Philippines (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of Philippines (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 12 the Inter Agency Task Force for the Management of Emerging
+Infectious Diseases resolved that as from August 16 schools are to be
+closed due to Enhanced Community Quarantine in several regions. See
+Inter Agency Task Force for the Management of Emerging Infectious
+Diseases website. Archive:
+<http://web.archive.org/web/20210822163309/https://doh.gov.ph/sites/default/files/health-update/IATFResolution133-A.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Philippines (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Philippines (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 5 the Inter Agency Task Force for the Management of Emerging
+Infectious Diseases resolved that as from August 6 work places should be
+open only for some sectors , due to Enhanced Community Quarantine in
+some regions. See Inter Agency Task Force for the Management of Emerging
+Infectious Diseases website. Archive:
+<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Philippines (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Philippines (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 5 the Inter Agency Task Force for the Management of Emerging
+Infectious Diseases resolved that as from August 6 public transport is
+restricted, due to Enhanced Community Quarantine in some regions. See
+Inter Agency Task Force for the Management of Emerging Infectious
+Diseases website. Archive:
+<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Philippines (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); in <b>some</b> parts of Philippines (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 5 the Inter Agency Task Force for the Management of Emerging
+Infectious Diseases resolved that as from August 6 staying at home is
+required only with minimal exceptions for accesing essential goods and
+services, due to Enhanced Community Quarantine in some regions. See
+Inter Agency Task Force for the Management of Emerging Infectious
+Diseases website. Archive:
+<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Comprehensive</b> contact tracing (done for all identified cases); NA
+Philippines (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Philippines (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Contact tracing is limited due to lack of infrastructure and
+implementation capacity. See The Straits Times website. Archived:
+<http://web.archive.org/web/20210823142200/https://www.straitstimes.com/asia/se-asia/philippines-robredo-seeks-improvement-in-testing-contact-tracing-amid-soaring-covid-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Philippines (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Philippines (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the OMNIBUS GUIDELINES ON THE IMPLEMENTATION OF COMMUNITY
+QUARANTINE IN THE PHILIPPINES everyone should wear a facemask outside of
+their residencies. See Department of Health website. Archvied:
+<http://web.archive.org/web/20210823180742/https://www.officialgazette.gov.ph/downloads/2021/08aug/20210819-OMNIBUS-RRD.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
+parts of Philippines (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+12/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; in
+<b>some</b> parts of Philippines (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from August 12 people over 65 years of age are required to stay at
+their residencies at all times, with minimal exceptions to acces
+essential goods and services, due tu Enhanced Community Quarantine in
+several regions. See Department of Health website. Archived:
+<http://web.archive.org/web/20210822163309/https://doh.gov.ph/sites/default/files/health-update/IATFResolution133-A.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Poland (GRI: 53 ↓ 41)
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Poland (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Poland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Portugal (GRI: 65 ↑ 67)
 
 #### Vaccination policy (H7)
@@ -3951,6 +5527,119 @@ associated country or region before entering Singapore.”" Link (1):
 
 </div>
 
+### South Korea (GRI: 62 ↓ 60)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of South Korea (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of South Korea (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.is/pXhh2> Current social distancing extended for 2
+weeks (Aug. 23. \~ Sept. 5.) Level 4 for greater Seoul area, level 3 for
+non-greater Seoul areas
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) South Korea (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) South Korea (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines are being offered to all residents over age 18 from Monday
+August 9. source:
+<https://web.archive.org/web/20210814190003/https://www.straitstimes.com/asia/east-asia/south-korea-opens-covid-19-vaccine-reservations-for-all-adults>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Sweden (GRI: 46 ↓ 43)
 
 #### Contact tracing (H3)
@@ -3990,6 +5679,62 @@ Sweden (1)
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Uganda (GRI: 66 ↑ 68)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Uganda (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+11/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Uganda (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport may operate at 50% capacity.
+<https://web.archive.org/web/20210806164040/https://ug.usembassy.gov/covid-19-information-page/>
 
 </td>
 
