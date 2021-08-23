@@ -52,11 +52,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#bangladesh-gri-71--59">Bangladesh (GRI: 71 ↓ 59)</a> 
 </div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#india-gri-69--64">India (GRI: 69 ↓ 64)</a> 
-</div><div><a href="#japan-gri-60--57">Japan (GRI: 60 ↓ 57)</a> 
+</div><div><a href="#japan-gri-60--58">Japan (GRI: 60 ↓ 58)</a> 
+</div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
 </div><div><a href="#namibia-gri-52--50">Namibia (GRI: 52 ↓ 50)</a> 
 </div><div><a href="#norway-gri-54--50">Norway (GRI: 54 ↓ 50)</a> 
 </div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
+</div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#sweden-gri-46--43">Sweden (GRI: 46 ↓ 43)</a> 
 </div><div><a href="#united arab emirates-gri-68--56">United Arab Emirates (GRI: 68 ↓ 56)</a> 
 </div></div> <br/>
@@ -1887,7 +1889,7 @@ Intercity and night trains, interregional buses) from 9 August -
 
 ### India (GRI: 69 ↓ 64)
 
-### Japan (GRI: 60 ↓ 57)
+### Japan (GRI: 60 ↓ 58)
 
 #### School closing (C1)
 
@@ -2310,6 +2312,169 @@ distancing not possible; in <b>some</b> parts of Moldova (3T)
 Face-masks are mandatory in all public indoor spaces. Chisinau has a
 mask mandate for open-air public events, as well as social-distancing
 rules. <https://archive.ph/bcByH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Mongolia (GRI: 60 ↓ 51)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Mongolia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Mongolia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On June 30, 2021, the Government of Mongolia announced that the current
+status of “heightened emergency preparedness” is extended by two months.
+<https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Mongolia (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Mongolia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy update.
+<https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Mongolia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No contact tracing</b> is present across all of Mongolia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy update.
+<https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -3159,6 +3324,199 @@ to the individual (government funded or subsidised) Portugal (4S)
 Approximately 100 thousand adolescents aged 16-17 started being
 vaccinated this Saturday. Source:
 <https://web.archive.org/web/20210820222758/https://www.rtp.pt/noticias/pais/cerca-de-100-mil-jovens-de-16-e-17-anos-vacinados-este-sabado_v1342199>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Singapore (GRI: 70 ↓ 69)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Singapore (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Singapore
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+coding change from 10th August 2021 as restrictions are relaxed in the
+nation. Restaurants are not allowed to welcome diners as, however,
+differentiations between Vaccinated and unvaccinated individuals are now
+in-place. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Quote
+(1): "“I’M VACCINATED, WHAT CAN I DO? Vaccinated people can gather in
+groups of up to five people from Aug 10. They can also receive five
+distinct visitors at home each day. You can dine-in at food and beverage
+outlets, except hawker centres and coffee shops, in groups of up to five
+people who are all vaccinated. Children under 12 who are not vaccinated
+can be in the group of five, provided they are all from the same
+household.”" Link (1):
+<http://web.archive.org/web/20210810114929/https://www.channelnewsasia.com/singapore/covid-19-vaccinated-unvaccinated-dining-restrictions-aug-10-2097206>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Quote (2):
+"“SINGAPORE: Dining-in at F\&B outlets will resume from Aug 10, only
+for fully vaccinated people in up to groups of five as Singapore
+announced a two-step easing of COVID-19 measures.”" Link (2):
+<http://web.archive.org/web/20210807102312/https://www.channelnewsasia.com/singapore/dining-vaccinated-people-covid-19-aug-10-hawkers-2096546>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Singapore (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into
+Singapore (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of the 20th of August 2021, Singapore began opening up the borders,
+even to previously banned countries, and will be restructuring the
+framework for handling inbound travellers.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Quote (1): "“10. As a first step, we
+have reviewed the country/ region classifications for our border
+measures. Countries/ regions will be classified in one of four
+categories, each with differentiated border measures, premised on a
+traveller’s 21-day travel history prior to their entry into Singapore.
+If the traveller visits or transits through countries/ regions in
+different categories, the most stringent set of requirements among those
+countries/ regions will apply. The updated classification, together with
+the associated testing requirements, can be found in Annex B and on the
+SafeTravel website. a. Category I – Travellers from countries/ regions
+in this category can enter Singapore without having to serve a Stay-Home
+Notice (SHN). They will only be subject to an On-Arrival COVID-19 PCR2
+and if negative, will be allowed to go about their activities. This
+would include countries/regions such as Mainland China (excluding
+Jiangsu province), New Zealand and Taiwan today. i. We have reviewed the
+COVID-19 situation in Hong Kong and Macao, and will also add them to
+this category from 20 August 2021, 2359 hours. See Annex C for details.
+b. Category II – Travellers from countries/ regions in this category
+will be required to undergo a 7-day SHN, which can be served at their
+accommodation of choice. Singapore Citizens, Permanent Residents and
+Long-Term Pass Holders may serve their 7-day SHN at their place of
+residence, if conditions are suitable. Currently, only Mainland China
+(Jiangsu province) is in this category. i. We have reviewed the COVID-19
+situation in Australia, Canada, and Germany, and will add these
+countries/ regions to this category from 20 August 2021, 2359 hours. We
+have also reviewed the COVID-19 situation in Brunei, and will place them
+in this category from 20 August 2021, 2359 hours (see Annex C).
+c. Category III – Unvaccinated travellers from countries/ regions in
+this category will be required to undergo a 14-day SHN at dedicated SHN
+facilities. Travellers who are fully vaccinated3 may apply to opt out of
+dedicated SHN facilities and serve their 14-day SHN at a suitable
+accommodation of their choice, if they fulfil the criteria in Annex D.
+Currently, Austria, Italy, Norway, the Republic of Korea and Switzerland
+are in this category. i. We have reviewed the COVID-19 situation in
+Belgium, Denmark, Japan and Luxembourg, and will add these countries/
+regions to this category from 20 August 2021, 2359 hrs. d. Category IV –
+Travellers from all other countries/ regions (except Bangladesh, India,
+Myanmar, Nepal, Pakistan and Sri Lanka, where entry is currently not
+allowed4) will be required to undergo a 14-day Stay-Home Notice (SHN) at
+dedicated SHN facilities. Travellers will also be required to comply
+with the testing regime as indicated in Annex B. Starting Vaccinated
+Travel Lanes 11. Beyond the above framework, we will implement a new
+Vaccinated Travel Lane (VTL) to facilitate fully vaccinated persons to
+travel into Singapore under reduced border measures. We will start pilot
+VTL arrangements with Brunei and Germany. In lieu of SHN, these
+vaccinated travellers under the VTL will undergo multiple COVID-19 PCR
+tests, including a pre-departure PCR test within 48 hours of their
+scheduled departure for Singapore, an on-arrival PCR test upon arriving
+in Singapore, and two additional PCR tests on Days 3 and 7 of their stay
+in Singapore (if they have not left yet). 12. The number of VTL
+travellers will be limited by available flights dedicated to the scheme.
+VTL travellers must also travel on non-stop designated flights to
+Singapore. 13. Prior to travelling to Singapore, short-term visitors and
+Long-Term Pass holders who wish to travel under the VTL will need to
+apply for a Vaccinated Travel Pass between 7 and 30 days before their
+intended date of entry into Singapore. Applications for the VTP will
+start from 1 September 2021 for travel into Singapore from 8 September
+2021. Returning Singapore Citizens and Permanent Residents who are
+vaccinated will automatically qualify and will not need to apply for the
+VTP in order to travel under the VTL. The Civil Aviation Authority of
+Singapore will provide more details. 14. As the global situation
+evolves, we will continue to adjust our border measures in tandem with
+our roadmap to becoming a COVID resilient nation. Any changes to border
+measures will be updated on the SafeTravel website. Travellers are
+advised to visit the website to check the latest border measures for the
+associated country or region before entering Singapore.”" Link (1):
+<http://web.archive.org/web/20210823035218/https://www.moh.gov.sg/news-highlights/details/next-steps-in-our-transition-towards-covid-resilience>
 
 </td>
 
