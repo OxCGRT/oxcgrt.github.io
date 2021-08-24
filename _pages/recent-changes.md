@@ -36,11 +36,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-23</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-68--72">Austria (GRI: 68 ↑ 72)</a> 
-</div><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-24</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
 </div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#chile-gri-73--76">Chile (GRI: 73 ↑ 76)</a> 
 </div><div><a href="#colombia-gri-56--62">Colombia (GRI: 56 ↑ 62)</a> 
+</div><div><a href="#ecuador-gri-68--71">Ecuador (GRI: 68 ↑ 71)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-69--73">France (GRI: 69 ↑ 73)</a> 
@@ -51,15 +51,14 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
 </div><div><a href="#new zealand-gri-38--75">New Zealand (GRI: 38 ↑ 75)</a> 
+</div><div><a href="#nigeria-gri-35--37">Nigeria (GRI: 35 ↑ 37)</a> 
 </div><div><a href="#philippines-gri-60--65">Philippines (GRI: 60 ↑ 65)</a> 
 </div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
-</div><div><a href="#uganda-gri-66--68">Uganda (GRI: 66 ↑ 68)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--66">Bahamas (GRI: 68 ↓ 66)</a> 
-</div><div><a href="#bangladesh-gri-71--59">Bangladesh (GRI: 71 ↓ 59)</a> 
 </div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#germany-gri-64--54">Germany (GRI: 64 ↓ 54)</a> 
-</div><div><a href="#india-gri-69--64">India (GRI: 69 ↓ 64)</a> 
+</div><div><a href="#india-gri-69--67">India (GRI: 69 ↓ 67)</a> 
 </div><div><a href="#japan-gri-60--58">Japan (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
 </div><div><a href="#mexico-gri-63--58">Mexico (GRI: 63 ↓ 58)</a> 
@@ -71,7 +70,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#poland-gri-53--41">Poland (GRI: 53 ↓ 41)</a> 
 </div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
-</div><div><a href="#sweden-gri-46--43">Sweden (GRI: 46 ↓ 43)</a> 
 </div><div><a href="#united arab emirates-gri-68--56">United Arab Emirates (GRI: 68 ↓ 56)</a> 
 </div></div> <br/>
 -->
@@ -79,133 +77,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
-
-### Austria (GRI: 68 ↑ 72)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Austria (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people); in
-<b>some</b> parts of Austria (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Measures for individual districts - Lienz (Tyrol) "“From August 11, 2021
-(until September 1, 2021), the following applies to the entire Lienz
-district: Meetings of more than 100 people are not permitted. In any
-case, a mask (FFP2) must be worn at permissible gatherings, a 3G
-verification must be checked and a registration must be carried out. An
-FFP2 mask must also be worn in closed rooms in retail, in customer
-areas, when collecting food, in cultural institutions, at workplaces, in
-old people’s and nursing homes and hospitals, in public closed rooms and
-on public transport.”" Elsewhere in Austria "“Meetings of 100 people or
-more are notifiable. The participants have to show a 3G certificate,
-which has to be checked by those responsible. The latter must also
-develop and implement a prevention concept and appoint a COVID-19
-officer.”" Sources: <https://archive.vn/Fulk4> \[Tyrol specific
-measures\] <https://archive.vn/8fEMv> {Ordinance\]
-<https://archive.vn/ZBDCB> \[Nationwide measures\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Austria (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Austria (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Measures for individual districts - Municipalities of Innervillgraten
-and Oberlienz (Tyrol) From August 11, 2021 (until August 24, 2021) the
-following also applies to the communities of Innervillgraten and
-Oberlienz: Leaving the community areas - with a few exceptions - is only
-possible with a negative PCR test (not older than 72 hours), antigen
-test (no older than 48 hours) or full immunization. Source:
-<https://archive.vn/Fulk4> \[Tyrol specific measures\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 ### Bahamas (GRI: 68 ↓ 66)
 
@@ -311,115 +182,6 @@ virus: \* Stay home as much as possible. \* Consider ways of getting
 food brought to your house through family, social, or commercial
 networks Source:
 <https://web.archive.org/web/20210122033858/https://covid19.gov.bs/if-you-are-high-risk/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Bangladesh (GRI: 71 ↓ 59)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Bangladesh (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Bangladesh (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All offices and factories can open with protocols in place.
-<https://web.archive.org/web/20210822071535/https://www.garda.com/crisis24/news-alerts/511931/bangladesh-authorities-easing-restrictions-nationwide-from-aug-11-due-to-lower-covid-19-activity-update-57>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of Bangladesh (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Bangladesh (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport can operate at full capacity, though road transport
-companies must limit their vehicles to running at half their schedule.
-<https://web.archive.org/web/20210822071535/https://www.garda.com/crisis24/news-alerts/511931/bangladesh-authorities-easing-restrictions-nationwide-from-aug-11-due-to-lower-covid-19-activity-update-57>
 
 </td>
 
@@ -1058,59 +820,6 @@ According to gov.uk, there is a nationwide curfew from 20:00 to 4:00.
 
 ### Cameroon (GRI: 34 ↓ 33)
 
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; in <b>some</b> parts of Cameroon (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Schools are open and have resumed normal hours.
-<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### International travel controls (C8)
 
 <div id="table-div">
@@ -1120,44 +829,6 @@ Schools are open and have resumed normal hours.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Screening</b> arrivals coming into Cameroon (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cameroon
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Air passengers with positive Covid-19 test result will be required to
-enter isolation at home or in a government facility, depending on
-symptoms. All other passengers are encouraged to limit contact with
-others for 14 days after their trip.
-<http://web.archive.org/web/20210814132444/https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -1199,113 +870,6 @@ depending on their symptoms. Although quarantine is not required,
 travelers may have been exposed to COVID-19 during their travels and are
 encouraged to limit contact with others for 14 days after their trip.
 <https://web.archive.org/web/20210802174047/https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Cameroon (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Cameroon (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Mass testing had been expanded to flatten the curve, with designated
-screening and testing facilities.
-<http://web.archive.org/web/20210814140254/https://www.aa.com.tr/en/africa/cameroon-starts-mass-virus-screening-campaign/1925230>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No availability</b> is present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Cameroon (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-People aged 18 years old and over can be vaccinated. Vaccines used:
-AstraZeneca and Sinopharm
-<http://web.archive.org/web/20210814141349/https://reliefweb.int/report/cameroon/cameroon-covid-19-emergency-situation-report-no-17-1-31-may-2021>
 
 </td>
 
@@ -1554,41 +1118,6 @@ order to avoid a 4th wave with the Delta variant
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Congo (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Congo (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Continued from before.
-<https://web.archive.org/web/20210802181109/https://cd.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -1963,9 +1492,9 @@ for details and to request an appointment; source:
 
 </div>
 
-### Eswatini (GRI: 61 ↑ 62)
+### Ecuador (GRI: 68 ↑ 71)
 
-#### School closing (C1)
+#### Restrictions on internal movement (C7)
 
 <div id="table-div">
 
@@ -1981,15 +1510,15 @@ for details and to request an appointment; source:
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Eswatini (3G)
+<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
+parts of Ecuador (1T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-9/8/2021  
-<img src="../images/down-arrow.png">
+16/8/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -1997,28 +1526,40 @@ for details and to request an appointment; source:
 
 <b>New policy:</b>
 
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Eswatini (2G)
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Ecuador (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-"“According to a statement from the Prime Minister on August 6, schools
-have been closed due to COVID and were set to reopen on August 9,
-however, only certain grades will reopen now.”""“This alarming rise in
-both infections and deaths has required us to reconsider our position on
-the opening of schools on Monday…It is in that regard that Government
-announces that only completing classes will be reopening on Monday, 9
-August 2021; that is Grade 2, 7, Form 3 and Form 5. All other classes
-will remain closed. The decision to close all other classes will be
-reviewed over the next two weeks while we monitor the situation on the
-ground.”"""
-<https://web.archive.org/web/20210810160745/http://www.gov.sz/images/CORONA/PM-Statement-6-August-2021-Schools.pdf>""
+50% capacity for interstate transport from El Oro province and only
+fully vaccinated passengers
+<https://web.archive.org/web/20210823214933/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
 
 </td>
 
 </tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Eswatini (GRI: 61 ↑ 62)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
 
 <tr>
 
@@ -2434,116 +1975,6 @@ an exemption for those with a health pass in Landes. Sources:
 
 </div>
 
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of France (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of France (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Use of the Health Pass is required to make use of long-distance
-inter-regional public transport (including domestic flights, TGV,
-Intercity and night trains, interregional buses) from 9 August -
-<https://web.archive.org/web/20210807000529/https://www.gouvernement.fr/info-coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of France (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-France (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Use of the Health Pass is required to make use of long-distance
-inter-regional public transport (including domestic flights, TGV,
-Intercity and night trains, interregional buses) from 9 August -
-<https://web.archive.org/web/20210807000529/https://www.gouvernement.fr/info-coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Germany (GRI: 64 ↓ 54)
 
 #### Workplace closing (C2)
@@ -2845,7 +2276,7 @@ All results and information regarding testing are tracked online.
 
 </div>
 
-### India (GRI: 69 ↓ 64)
+### India (GRI: 69 ↓ 67)
 
 #### Workplace closing (C2)
 
@@ -2870,7 +2301,7 @@ parts of India (3T)
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/8/2021  
+16/8/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -2885,73 +2316,6 @@ parts of India (3T)
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
-
-<https://archive.vn/Pgwbr> "“Days after the Maharashtra government
-modified the lockdown guidelines and allowed malls to reopen only with
-fully vaccinated staff, the Shopping Centres Association of India (SCAI)
-on Tuesday decided to shut operations across the state saying that they
-are not able to operate business with less staff”" .. "“It must be noted
-that the state government had allowed shopping malls to open up last
-week after months of closure to contain the spread of infections.
-However, the government had asked the malls to operate only with
-double-vaccinated employees and also admit only fully-vaccinated
-patrons.”"
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of India
-(2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
-allowed to leave once a week, or only one person can leave at a time,
-etc); in <b>some</b> parts of India (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://archive.vn/8WBAZ> "“Tamil Nadu extends lockdown for another two
-weeks with more relaxations.”"
 
 </td>
 
@@ -3009,90 +2373,6 @@ parts of Israel (2T)
 Regulations begin on 18 August restricting access to universities for
 those with green passes. New regulations introduced for schools. Source:
 <https://archive.vn/w6pFw>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Israel (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Israel (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Israel (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Tests are widely available with nationwide testing - but with the
-exception of children who - access to venues on presentation of a test
-is at the expense of the non-vaccinated individual.
 
 </td>
 
@@ -3239,41 +2519,6 @@ COVID-19 Contact-Confirming Application (COCOA).
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not function in Nur-Sultan and Mangystau region
-during the weekends since August 2. <https://archive.vn/9YzIn>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -4535,6 +3780,337 @@ conditions.”"
 
 </div>
 
+### Nigeria (GRI: 35 ↑ 37)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Nigeria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools have resumed.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Nigeria
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Nigeria
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Government of Nigeria continues to have a 12:00 a.m. to 4:00 a.m.
+daily curfew in place.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Nigeria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No restrictions on intercity or interstate travel.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Nigeria (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Nigeria (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+While vaccines are now available in Nigeria, vaccines are only available
+for Nigerian citizens and legal residents who meet the above criteria.
+Nigeria has an eligibility list which does not prioritize non-Nigerians
+or tourists. Health workers (and other front line staff) will be
+prioritised in the first phase. This will be followed by phase 2 (people
+aged 50 and above) and phase 3 (people with co-morbidities). Phase 1
+ongoing. Vaccines: AstraZeneca with plans for Pfizer and Johnson and
+Johnson in the 3rd quarter of the year. All vaccines government funded
+(COVAX).
+<https://web.archive.org/web/20210810182751/https://mobile.twitter.com/NphcdaNG/status/1381587371032993796>
+<https://web.archive.org/web/20210810182142/https://www.unicef.org/nigeria/press-releases/covid-19-vaccines-shipped-covax-arrive-nigeria>
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Nigeria (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Nigeria (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+While vaccines are now available in Nigeria, vaccines are only available
+for Nigerian citizens and legal residents who meet the above criteria.
+Nigeria has an eligibility list which does not prioritise non-Nigerians
+or tourists. Health workers (and other front line staff) will be
+prioritised in the first phase. This will be followed by phase 2 (people
+aged 50 and above) and phase 3 (people with co-morbidities). Phase 2
+ongoing. Vaccines: AstraZeneca with plans for Pfizer and Johnson and
+Johnson in the 3rd quarter of the year. All vaccines government funded
+(COVAX). <https://archive.vn/rae26> <https://archive.vn/KeSjW>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Nigeria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Government of Nigeria continues to have a 12:00 a.m. to 4:00 a.m.
+daily curfew in place.
+<https://web.archive.org/web/20210814131920/https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Norway (GRI: 54 ↓ 50)
 
 #### Restrictions on gatherings (C4)
@@ -5571,170 +5147,6 @@ parts of South Korea (2T)
 <https://archive.is/pXhh2> Current social distancing extended for 2
 weeks (Aug. 23. \~ Sept. 5.) Level 4 for greater Seoul area, level 3 for
 non-greater Seoul areas
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) South Korea (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-9/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) South Korea (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccines are being offered to all residents over age 18 from Monday
-August 9. source:
-<https://web.archive.org/web/20210814190003/https://www.straitstimes.com/asia/east-asia/south-korea-opens-covid-19-vaccine-reservations-for-all-adults>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Sweden (GRI: 46 ↓ 43)
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Sweden (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No contact tracing</b> is present across all of Sweden (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Uganda (GRI: 66 ↑ 68)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Uganda (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-11/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of Uganda (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport may operate at 50% capacity.
-<https://web.archive.org/web/20210806164040/https://ug.usembassy.gov/covid-19-information-page/>
 
 </td>
 
