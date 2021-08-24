@@ -36,7 +36,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-24</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-24</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#aruba-gri-22--37">Aruba (GRI: 22 ↑ 37)</a> 
+</div><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
 </div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#chile-gri-73--76">Chile (GRI: 73 ↑ 76)</a> 
 </div><div><a href="#colombia-gri-56--62">Colombia (GRI: 56 ↑ 62)</a> 
@@ -45,7 +46,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-69--73">France (GRI: 69 ↑ 73)</a> 
 </div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
-</div><div><a href="#israel-gri-63--64">Israel (GRI: 63 ↑ 64)</a> 
+</div><div><a href="#israel-gri-61--62">Israel (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#moldova-gri-53--57">Moldova (GRI: 53 ↑ 57)</a> 
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
@@ -59,6 +60,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#germany-gri-64--54">Germany (GRI: 64 ↓ 54)</a> 
 </div><div><a href="#india-gri-69--67">India (GRI: 69 ↓ 67)</a> 
+</div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#japan-gri-60--58">Japan (GRI: 60 ↓ 58)</a> 
 </div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
 </div><div><a href="#mexico-gri-63--58">Mexico (GRI: 63 ↓ 58)</a> 
@@ -77,6 +79,224 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
+
+### Aruba (GRI: 22 ↑ 37)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Aruba (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Aruba (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 13 the government launched new measures
+<https://archive.fo/LeppW>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Aruba (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of Aruba
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 13 the government launched new measures
+<https://archive.fo/LeppW>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Aruba (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Aruba (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 13 the government launched new measures, private parties are
+not allowed <https://archive.fo/LeppW>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended</b> wearing of face masks; across <b>all</b> of Aruba
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Aruba (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 13 the government launched new measures
+<https://archive.fo/LeppW>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Bahamas (GRI: 68 ↓ 66)
 
@@ -2329,7 +2549,73 @@ parts of India (3T)
 
 </div>
 
-### Israel (GRI: 63 ↑ 64)
+### Ireland (GRI: 66 ↓ 64)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Ireland (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Ireland
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+International travel has resumed. Ireland is operating the EU Digital
+COVID Certificate for travel within the EU and EEA. If you are
+travelling to Ireland, you may have to quarantine on arrival. In some
+cases, you must pay in advance for mandatory hotel quarantine. If you do
+not have valid proof of vaccination or recovery, you will need to: Show
+evidence of a negative RT- PCR test result taken within 72 hours before
+your arrival Self-quarantine (also called home quarantine) Take a
+post-arrival test - this is provided through the HSE Exceptions to home
+quarantine: You do not have to complete mandatory home quarantine in
+some limited cases. For example, essential workers, may be able to leave
+their place of quarantine when necessary to do their essential job. This
+is only for as long as strictly required.
+<https://web.archive.org/web/20210824063709/https://www.citizensinformation.ie/en/travel_and_recreation/travel_to_ireland/travel_to_ireland_during_covid.html>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Israel (GRI: 61 ↑ 62)
 
 #### School closing (C1)
 
@@ -2373,6 +2659,64 @@ parts of Israel (2T)
 Regulations begin on 18 August restricting access to universities for
 those with green passes. New regulations introduced for schools. Source:
 <https://archive.vn/w6pFw>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Israel (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Israel (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+New regulations in place restricting numbers of people at gatherings.
+This requirement includes private homes and events. Crowd restrictions
+at private events or at homes Up to 100 people in an open space Up to 50
+people indoors Crowd restriction in halls and event gardens Up to 500
+people in an open space Up to 400 people indoors Source:
+<https://archive.vn/4NsGV>
 
 </td>
 
