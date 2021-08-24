@@ -2899,6 +2899,111 @@ during the weekends since August 2. <https://archive.vn/9YzIn>
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport does not function in Nur-Sultan and Mangystau region
+during the weekends since August 2. <https://archive.vn/9YzIn>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport does not function in Nur-Sultan and Mangystau region
+during the weekends since August 2. <https://archive.vn/9YzIn>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Kazakhstan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Kazakhstan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport does not function in Nur-Sultan and Mangystau region
+during the weekends since August 2. <https://archive.vn/9YzIn>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
