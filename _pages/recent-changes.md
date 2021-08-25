@@ -44,19 +44,19 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#ecuador-gri-68--71">Ecuador (GRI: 68 ↑ 71)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
-</div><div><a href="#france-gri-69--73">France (GRI: 69 ↑ 73)</a> 
+</div><div><a href="#france-gri-66--70">France (GRI: 66 ↑ 70)</a> 
 </div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
-</div><div><a href="#israel-gri-61--62">Israel (GRI: 61 ↑ 62)</a> 
+</div><div><a href="#israel-gri-62--64">Israel (GRI: 62 ↑ 64)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
-</div><div><a href="#new zealand-gri-38--75">New Zealand (GRI: 38 ↑ 75)</a> 
+</div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
 </div><div><a href="#nigeria-gri-35--37">Nigeria (GRI: 35 ↑ 37)</a> 
 </div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--66">Bahamas (GRI: 68 ↓ 66)</a> 
 </div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
-</div><div><a href="#germany-gri-64--54">Germany (GRI: 64 ↓ 54)</a> 
+</div><div><a href="#germany-gri-64--62">Germany (GRI: 64 ↓ 62)</a> 
 </div><div><a href="#india-gri-69--67">India (GRI: 69 ↓ 67)</a> 
 </div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#japan-gri-60--58">Japan (GRI: 60 ↓ 58)</a> 
@@ -71,7 +71,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#poland-gri-53--41">Poland (GRI: 53 ↓ 41)</a> 
 </div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
-</div><div><a href="#united arab emirates-gri-68--56">United Arab Emirates (GRI: 68 ↓ 56)</a> 
+</div><div><a href="#united arab emirates-gri-68--62">United Arab Emirates (GRI: 68 ↓ 62)</a> 
 </div><div><a href="#vietnam-gri-69--67">Vietnam (GRI: 69 ↓ 67)</a> 
 </div></div> <br/>
 -->
@@ -1712,7 +1712,7 @@ Archived:
 
 </div>
 
-### France (GRI: 69 ↑ 73)
+### France (GRI: 66 ↑ 70)
 
 #### Workplace closing (C2)
 
@@ -1912,7 +1912,66 @@ an exemption for those with a health pass in Landes. Sources:
 
 </div>
 
-### Germany (GRI: 64 ↓ 54)
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of France (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+It remains the case that a health pass is required “for long distance
+travel by interregional public transport, except in emergencies
+hindering obtaining proof. This therefore concerns domestic flights,
+TGV, Intercity and night trains journeys and interregional coaches not
+approved. The other modes of transport, in particular public transport,
+are excluded from the application of the pass;” Source:
+<http://web.archive.org/web/20210820131059/https://www.gouvernement.fr/info-coronavirus/pass-sanitaire>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Germany (GRI: 64 ↓ 62)
 
 #### Workplace closing (C2)
 
@@ -1949,6 +2008,49 @@ an exemption for those with a health pass in Landes. Sources:
 <b>Recommended closure </b> (or work from home) of businesses or open
 with significant operational differences; across <b>all</b> of Germany
 (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+23 Aug starts the "“3G Rule”" where certain public spaces are only open
+to those that are vaccinated, recovered, or tested - (geimpft, genesen,
+getestet). This rule enables more businesses to open or operate at
+higher capacity. There are still the basic rules of social distancing,
+observing hand hygiene, wearing face masks indoors and regular
+ventilation of indoor spaces Sources
+<https://web.archive.org/web/20210823181430/https://www.bundesregierung.de/breg-en/news/federal-regional-consultation-coronavirus-1949666>
+<https://web.archive.org/web/20210823182454/https://www.iamexpat.de/expat-info/german-expat-news/3g-rule-comes-force-across-germany-what-you-need-know>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Germany
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Germany (2G)
 
 </td>
 
@@ -2026,6 +2128,47 @@ ventilation of indoor spaces Sources
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Germany (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Germany (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+23 Aug starts the "“3G Rule”" where certain public spaces are only open
+to those that are vaccinated, recovered, or tested - (geimpft, genesen,
+getestet). There are still the basic rules of social distancing,
+observing hand hygiene, wearing face masks indoors and regular
+ventilation of indoor spaces Sources
+<https://web.archive.org/web/20210823181430/https://www.bundesregierung.de/breg-en/news/federal-regional-consultation-coronavirus-1949666>
+<https://web.archive.org/web/20210823182454/https://www.iamexpat.de/expat-info/german-expat-news/3g-rule-comes-force-across-germany-what-you-need-know>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -2052,6 +2195,47 @@ ventilation of indoor spaces Sources
 
 Restrictions on <b>small</b> gatherings (10 people or fewer); across
 <b>all</b> of Germany (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Germany (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In Berlin- Private meetings indoors are permitted without any limits on
+the amount of people attending. Outside gatherings are allowed for a
+maximum of 100 people. Your own children up to 14 years of age as well
+as vaccinated and recovered persons are not included. The permitted
+number of people at special celebrations is 50 persons indoors and 100
+persons outdoors.
+<https://web.archive.org/web/20210820042720/https://www.berlin.de/corona/en/measures/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Germany (3G)
 
 </td>
 
@@ -2332,7 +2516,7 @@ is only for as long as strictly required.
 
 </div>
 
-### Israel (GRI: 61 ↑ 62)
+### Israel (GRI: 62 ↑ 64)
 
 #### School closing (C1)
 
@@ -2376,6 +2560,67 @@ parts of Israel (2T)
 Regulations begin on 18 August restricting access to universities for
 those with green passes. New regulations introduced for schools. Source:
 <https://archive.vn/w6pFw>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Israel (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Israel (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Events National Guidance as published on the Local Councils Traffic
+Light Model website from the Ministry of Health. General Guidance •
+Events will be subject to the "“Happy Pass”" outline. All event
+participants must present a Green Pass or negative results to rapid test
+that is valid for 24 hours (not suitable to children under 12 years of
+age and people with a contraindication) • A breach of a Happy Pass
+restriction is subject to a fine • In all other event types, resume
+normal activities • Wear a mask indoors and in outdoor settings with
+more than 100 people
 
 </td>
 
@@ -3236,7 +3481,7 @@ People who are travelling can also get tested free of cost
 
 </div>
 
-### New Zealand (GRI: 38 ↑ 75)
+### New Zealand (GRI: 40 ↑ 90)
 
 #### School closing (C1)
 
@@ -3473,6 +3718,67 @@ home, and events and gatherings cannot go ahead.”"
 
 </div>
 
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of New Zealand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of New Zealand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“All of New Zealand moves to Alert Level 4 at 11:59pm, 17 August
+2021.”"
+<https://web.archive.org/web/20210822171909/https://covid19.govt.nz/alert-levels-and-updates/history-of-the-covid-19-alert-system/>
+"“At Alert Level 4, all types of transport and travel are restricted.
+Only travel for essential reasons, like to get food or medicine, to get
+tested or vaccinated, or to go to work if you are an Alert Level 4
+worker. Public transport, taxis, and ride-sharing services You can use
+public transport, taxis and ride-share services for transport for
+essential personal movement.”"
+<https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Stay at home requirements (C6)
 
 <div id="table-div">
@@ -3606,6 +3912,65 @@ at home.”"
 
 </div>
 
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of New
+Zealand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of New Zealand (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of 25 August, You legally must wear a face covering if you are a
+customer or an employee involving customer contact at a business or
+service operating at Alert Level 4. You also need to wear a face
+covering on public transport and at departure points.
+<https://web.archive.org/web/20210825100657/https://covid19.govt.nz/health-and-wellbeing/protect-yourself-and-others-from-covid-19/wear-a-face-covering/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Protection of elderly people (H8)
 
 <div id="table-div">
@@ -3637,9 +4002,8 @@ at home.”"
 
 <b>New policy:</b>
 
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of New
-Zealand (1G)
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of New Zealand (3G)
 
 </td>
 
@@ -4711,7 +5075,7 @@ non-greater Seoul areas
 
 </div>
 
-### United Arab Emirates (GRI: 68 ↓ 56)
+### United Arab Emirates (GRI: 68 ↓ 62)
 
 #### Cancel public events (C3)
 
