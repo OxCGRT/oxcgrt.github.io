@@ -72,6 +72,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#united arab emirates-gri-68--56">United Arab Emirates (GRI: 68 ↓ 56)</a> 
+</div><div><a href="#vietnam-gri-69--67">Vietnam (GRI: 69 ↓ 67)</a> 
 </div></div> <br/>
 -->
 
@@ -5051,6 +5052,318 @@ Regulations can vary significantly based on several factors, including
 the traveler’s vaccination status, country of origin, and the
 constituent.
 <https://web.archive.org/web/20210822161242/https://www.garda.com/crisis24/news-alerts/515426/uae-abu-dhabi-ends-nightly-0001-0500-curfew-as-of-aug-19-update-71>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Vietnam (GRI: 69 ↓ 67)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Vietnam (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Vietnam (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On August 15, the Ho Chi Minh City People’s Committee issued Document
+No. 2718 announcing city authorities will continue implementing social
+distancing measures until at least September 15 in an attempt to control
+the spread of COVID-19. Directive 16 continues to be applied in many
+southern provinces and cities of Vietnam. Directive 16 mandates closures
+of non-essential businesses, restaurants, bans public gatherings, and
+severely limits transportation services.
+<http://web.archive.org/web/20210816004437/https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Vietnam (4)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Vietnam (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Inbound commercial flights from abroad to Vietnam are still suspended.
+Currently two types of passenger flights are permitted to enter Vietnam:
+1) Vietnamese government-organized rescue flights on Vietnam Airlines
+repatriating Vietnamese citizens who have registered with the relevant
+Vietnamese Consulate or Embassy and 2) special flights operated by
+commercial airlines available to Vietnamese citizens and individuals in
+exempted categories
+<http://web.archive.org/web/20210816004437/https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of Vietnam (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+Vietnam (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“The SBV also issued guidelines to commercial banks to reschedule
+loans, reduce/exempt interest, and provide loan forbearance in March
+last year and revised this guideline to set a clear timeline of the
+policy until December 2021, and allow banks to gradually provision for
+loan forbearance until December 2023 while normalizing the loan
+classification in Jan 2024. As of end-May 2021, banks have registered a
+credit package totaling VND 300 trillion (about 3.8 percent of GDP) at
+lower interest rates, and supported nearly 1.42 million customers (with
+outstanding loans of about VND 3,300 trillion), by rescheduling
+repayment, exempting, and reducing interest on existing debts, and
+extending new loans. Recently the SBV also asked Credit Institutions to
+not only channel credit to 5 priority economic sectors, but also to
+accelerate consumer loans to meet legitimate demand of individuals and
+households. The SBV has delayed the phased reduction of the ratio of
+short-term funding to finance long term loans for one year, to help
+credit institutions reduce their cost of funding and maintain
+medium-long term loans outstanding. Financial institutions have been
+exempting and reducing payment fees until June 30, 2021. Several
+securities service fees have been cut and exemptions have been extended
+through December 30, 2021”"
+<https://web.archive.org/web/20210824033425/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Vietnam (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Vietnam (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Government of Vietnam has begun vaccinations for individuals living
+in Vietnam. Hanoi began a massive COVID-19 vaccination campaign on July
+28. Ho Chi Minh City authorities have announced efforts to vaccinate 70%
+of Ho Chi Minh City’s 18 and older population before the end of August.
+For more information please contact local health authorities. On June 24
+the Vietnamese government announced that there will be no discrimination
+between Vietnamese citizens and foreigners during the COVID-19
+vaccination campaign. Everyone will have access to COVID-19 vaccines as
+soon as more of these vaccines are available in Vietnam. The U.S.
+Mission will continue to ensure that American citizens living in Vietnam
+have equal access to the COVID-19 vaccine alongside Vietnamese citizens.
+Pfizer, Moderna, Janssen, AstraZeneca, Sputnik V, and Sinopharm, as well
+as NanoCovax.
+<http://web.archive.org/web/20210816004437/https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
+parts of Vietnam (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Vietnam (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No extra measures found to protect the elderly.
+<http://web.archive.org/web/20210816004437/https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
