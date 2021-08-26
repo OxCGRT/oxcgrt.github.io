@@ -38,6 +38,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-26</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
 </div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
+</div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#chile-gri-73--76">Chile (GRI: 73 ↑ 76)</a> 
 </div><div><a href="#colombia-gri-56--62">Colombia (GRI: 56 ↑ 62)</a> 
 </div><div><a href="#ecuador-gri-68--71">Ecuador (GRI: 68 ↑ 71)</a> 
@@ -585,6 +586,138 @@ depending on their symptoms. Although quarantine is not required,
 travelers may have been exposed to COVID-19 during their travels and are
 encouraged to limit contact with others for 14 days after their trip.
 <https://web.archive.org/web/20210802174047/https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Canada (GRI: 59 ↑ 65)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Canada (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Canada (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 25 august 2021, the government of Northwest Territories (NWT) orders
+in the town of Norman Wells: “Non-essential businesses and facilities
+must close to the public … Essential businesses and facilities may
+remain open to the public with no more than ten (10) persons … Physical
+distancing of at least 2 metres shall be maintained amongst persons from
+different households”. In Manitoba, businesses are open with guidelines,
+but access to casinos and bingo halls is restricted to fully vaccinated
+patrons with “proof-of-immunization cards”. Some provinces – e.g.,
+Alberta, Saskatchewan, New Brunswick – have revoked covid-related public
+health requirements for business operations. See government of NWT
+website, archived:
+<https://web.archive.org/web/20210826105622/https://www.gov.nt.ca/covid-19/sites/covid/files/resources/2021-08-25_norman_wells_containment_order_0.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Canada (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Canada (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 26 august 2021, in the Northwest Territories (NWT), the town of
+Norman Wells makes clear that the gathering prohibition applies across
+the board: “There are no gatherings allowed at this time either indoor
+or outdoor.” In some provinces and territories, public events are
+permitted with capacity limits, mask requirements and other guidelines.
+Some provinces – e.g., Alberta, Saskatchewan, New Brunswick – have
+revoked covid-related public health requirements for public events. In
+the province of Manitoba, professional sporting events, horse and auto
+racing, concert halls and outdoor performing arts events continue to be
+limited to vaccinated individuals. See government of NWT website, Retail
+Council of Canada and Province of Manitoba websites, archived:
+<https://web.archive.org/web/20210826193139/www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
+<https://web.archive.org/web/20210812112606/https://news.gov.mb.ca/asset_library/en/newslinks/2021/08/BG-PHO_Update_Aug_7-PR-CPPHO.pdf>
+<https://web.archive.org/web/20210826191535/normanwells.com/updates/community-update-august-26-2021/>
 
 </td>
 
@@ -1359,6 +1492,44 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); in
 
 Restrictions on <b>small</b> gatherings (10 people or fewer); across
 <b>all</b> of Finland (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions vary based on the region of the country, however, the
+strictest places have a maximum number of 10 for indoor gatherings.
+Archived:
+<https://web.archive.org/web/20210820135115/https://avi.fi/koronarajoitukset-selkokielella>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Finland (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Finland (4T)
 
 </td>
 
@@ -3807,6 +3978,62 @@ Poland (2)
 </div>
 
 ### Portugal (GRI: 65 ↑ 67)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Portugal (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Portugal (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Starting on August 23rd, public transport is no longer limited in its
+capacity and is now allowed to use the front seats in taxi transport and
+in the individual and paid transport of passengers in uncharacterised
+vehicles from an electronic platform. Sources:
+<https://archive.ph/8lEK5>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Vaccination policy (H7)
 
