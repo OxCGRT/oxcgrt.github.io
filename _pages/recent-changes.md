@@ -46,15 +46,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
-</div><div><a href="#israel-gri-62--64">Israel (GRI: 62 ↑ 64)</a> 
+</div><div><a href="#israel-gri-63--65">Israel (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
 </div><div><a href="#nigeria-gri-35--37">Nigeria (GRI: 35 ↑ 37)</a> 
 </div><div><a href="#poland-gri-41--47">Poland (GRI: 41 ↑ 47)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--66">Bahamas (GRI: 68 ↓ 66)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
 </div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
+</div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#germany-gri-64--62">Germany (GRI: 64 ↓ 62)</a> 
 </div><div><a href="#india-gri-69--67">India (GRI: 69 ↓ 67)</a> 
 </div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
@@ -208,7 +209,7 @@ carried out. Details can be found in the relevant ordinance.”" Source:
 
 </div>
 
-### Bahamas (GRI: 68 ↓ 66)
+### Bahamas (GRI: 68 ↓ 65)
 
 #### Restrictions on internal movement (C7)
 
@@ -244,6 +245,44 @@ of Bahamas (2T)
 
 <b>Internal travel restrictions</b> are in place; across <b>all</b> of
 Bahamas (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+RT PCR testing will now be required for travelers who are not fully
+vaccinated for travel from New Providence, Grand Bahama and North and
+South Eleuthera, including Harbour Island. Source:
+<https://web.archive.org/web/20210813001449/https://opm.gov.bs/covid19/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Bahamas (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Bahamas (2T)
 
 </td>
 
@@ -1587,6 +1626,69 @@ available to all residents, including non-Swati citizens.
 
 </div>
 
+### Ethiopia (GRI: 46 ↓ 44)
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Ethiopia (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Ethiopia (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccines are currently only available to priority groups, starting with
+front-line healthcare workers. Healthcare workers should register
+themselves with the local woreda or zonal level public health system.
+The Ethiopian national vaccination programme started in March 2021 and
+is using the AstraZeneca (Covishield) and Sinopharm vaccines. Source:
+<https://web.archive.org/web/20210825233023/https://et.usembassy.gov/covid-19-information/>
+<https://web.archive.org/web/20210322111639/https://www.gov.uk/foreign-travel-advice/ethiopia/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Finland (GRI: 53 ↑ 54)
 
 #### Restrictions on gatherings (C4)
@@ -1977,7 +2079,7 @@ is only for as long as strictly required.
 
 </div>
 
-### Israel (GRI: 62 ↑ 64)
+### Israel (GRI: 63 ↑ 65)
 
 #### School closing (C1)
 
@@ -2026,6 +2128,43 @@ those with green passes. New regulations introduced for schools. Source:
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Israel (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Israel (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Regulations begin on 18 August restricting access to universities for
+those with green passes. New regulations introduced for schools. Source:
+<https://archive.vn/w6pFw>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -2050,6 +2189,51 @@ those with green passes. New regulations introduced for schools. Source:
 
 <b>Old policy:</b>
 
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Israel (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Israel (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+General guidance • Events will be subject to the "“Happy Pass”" outline.
+All event participants must present a Green Pass or negative results to
+rapid test that is valid for 24 hours (not suitable to children under 12
+years of age and people with a contraindication) • A breach of a Happy
+Pass restriction is subject to a fine • In all other event types, resume
+normal activities • Wear a mask indoors and in outdoor settings with
+more than 100 people \[24/8 - coding changed to T to better reflect the
+nature of guidelines being dependent on venue (Green Pass or not).\]
+Sources:
+<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
+<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
 Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
 parts of Israel (3T)
 
@@ -2057,7 +2241,7 @@ parts of Israel (3T)
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/8/2021  
+13/8/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -2073,12 +2257,16 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 
 <td style="text-align:left;min-width: 4in; ">
 
-New regulations in place restricting numbers of people at gatherings.
-This requirement includes private homes and events. Crowd restrictions
-at private events or at homes Up to 100 people in an open space Up to 50
-people indoors Crowd restriction in halls and event gardens Up to 500
-people in an open space Up to 400 people indoors Source:
-<https://archive.vn/4NsGV>
+General guidance • Events will be subject to the "“Happy Pass”" outline.
+All event participants must present a Green Pass or negative results to
+rapid test that is valid for 24 hours (not suitable to children under 12
+years of age and people with a contraindication) • A breach of a Happy
+Pass restriction is subject to a fine • In all other event types, resume
+normal activities • Wear a mask indoors and in outdoor settings with
+more than 100 people \[27/8 note added to better reflect the nature of
+guidelines being dependent on venue (Green Pass or not).\] Sources:
+<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
+<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
 
 </td>
 
@@ -2133,12 +2321,12 @@ parts of Japan (2T)
 
 <td style="text-align:left;min-width: 4in; ">
 
-On August 21, Yokohama City has announced it will temporarily close
-elementary and junior high schools even after the summer vacation is
-over past August 29. A further announcement will be made beginning next
-week with details on the closure. In Kanagawa Prefecture, Sagamihara
-City and Kawasaki City have also decided to temporarily close municipal
-elementary and junior high schools throughout the month of August.
+Yokohama City has announced it will temporarily close elementary and
+junior high schools to delay reopening after summer vacation past August
+29. A further announcement will be made beginning next week with details
+on the closure. In Kanagawa Prefecture, Sagamihara City and Kawasaki
+City have also decided to temporarily close municipal elementary and
+junior high schools throughout the month of August.
 <https://web.archive.org/web/20210822072727/https://www3.nhk.or.jp/news/html/20210821/k10013215561000.html>
 
 </td>
