@@ -51,6 +51,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
 </div><div><a href="#nigeria-gri-35--37">Nigeria (GRI: 35 ↑ 37)</a> 
+</div><div><a href="#poland-gri-41--47">Poland (GRI: 41 ↑ 47)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--66">Bahamas (GRI: 68 ↓ 66)</a> 
 </div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
@@ -3601,6 +3602,58 @@ closed due to Enhanced Community Quarantine in several regions. See
 Inter Agency Task Force for the Management of Emerging Infectious
 Diseases website. Archive:
 <http://web.archive.org/web/20210822163309/https://doh.gov.ph/sites/default/files/health-update/IATFResolution133-A.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Poland (GRI: 41 ↑ 47)
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Poland (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Poland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
 
 </td>
 
