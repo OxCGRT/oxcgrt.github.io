@@ -36,7 +36,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-26</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-27</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--73">Austria (GRI: 72 ↑ 73)</a> 
+</div><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
 </div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#chile-gri-73--76">Chile (GRI: 73 ↑ 76)</a> 
@@ -46,26 +47,24 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
 </div><div><a href="#israel-gri-62--64">Israel (GRI: 62 ↑ 64)</a> 
-</div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
+</div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
-</div><div><a href="#netherlands-gri-48--51">Netherlands (GRI: 48 ↑ 51)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
 </div><div><a href="#nigeria-gri-35--37">Nigeria (GRI: 35 ↑ 37)</a> 
-</div><div><a href="#portugal-gri-65--67">Portugal (GRI: 65 ↑ 67)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--66">Bahamas (GRI: 68 ↓ 66)</a> 
 </div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#germany-gri-64--62">Germany (GRI: 64 ↓ 62)</a> 
 </div><div><a href="#india-gri-69--67">India (GRI: 69 ↓ 67)</a> 
 </div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
-</div><div><a href="#japan-gri-60--58">Japan (GRI: 60 ↓ 58)</a> 
+</div><div><a href="#kazakhstan-gri-48--44">Kazakhstan (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
 </div><div><a href="#mexico-gri-63--58">Mexico (GRI: 63 ↓ 58)</a> 
 </div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
 </div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
 </div><div><a href="#philippines-gri-67--65">Philippines (GRI: 67 ↓ 65)</a> 
-</div><div><a href="#poland-gri-53--41">Poland (GRI: 53 ↓ 41)</a> 
+</div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
 </div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#united arab emirates-gri-68--62">United Arab Emirates (GRI: 68 ↓ 62)</a> 
@@ -76,6 +75,137 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
+
+### Austria (GRI: 72 ↑ 73)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Austria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Austria (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A number of sectors are only open to those who are able to show 3G
+proof. These workplaces are in effect restricted to the unvaccinated.
+The 3-G rule applies in the following areas: • Gastronomy • Body-hugging
+services • Hotel and lodging • Leisure facilities ( e.g. dance schools,
+zoos) • Cultural establishments (with the exception of museums,
+libraries, libraries and archives) • Non-public sports facilities •
+Meetings (from one participant: more than 100 people) • Trade and
+consumer fairs, congresses • Coaches and excursion boats In addition,
+the 3G rule continues to apply in the following areas and for the
+following people: • In the provision of mobile care and support services
+• For visitors and employees of retirement and nursing homes as well as
+inpatient residential facilities for the disabled • For residents for
+new admission in old people’s and nursing homes as well as inpatient
+residential facilities for the disabled • For visitors and employees of
+hospitals or health resorts • For employees from other locations where
+health services are provided. Sources: <https://archive.vn/R0DuP>
+\[Coronavirus - Current Measures\]
+<https://web.archive.org/web/20210813214438/https://corona-ampel.gv.at/aktuelle-massnahmen/bundesweite-massnahmen/>
+\[Nationwide measures\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people); in
+<b>some</b> parts of Austria (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Austria (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“Furthermore, from August 25, 2021 (until September 1, 2021) for the
+municipality of Innervillgraten, meetings are only permitted with up to
+50 people. In any case, a mask (FFP2) must be worn at permissible
+gatherings, a 3G verification must be checked and a registration must be
+carried out. Details can be found in the relevant ordinance.”" Source:
+<https://archive.vn/VwD0y#selection-835.0-857.3>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Bahamas (GRI: 68 ↓ 66)
 
@@ -1961,7 +2091,7 @@ people in an open space Up to 400 people indoors Source:
 
 </div>
 
-### Japan (GRI: 60 ↓ 58)
+### Japan (GRI: 57 ↑ 58)
 
 #### School closing (C1)
 
@@ -2083,7 +2213,7 @@ COVID-19 Contact-Confirming Application (COCOA).
 
 </div>
 
-### Kazakhstan (GRI: 44 ↑ 48)
+### Kazakhstan (GRI: 48 ↓ 44)
 
 #### Close public transport (C5)
 
@@ -2620,61 +2750,6 @@ of Nepal (1G)
 
 No further restrictions on internal movement until August 24th
 <https://web.archive.org/web/20210823192007/https://kathmandupost.com/national/2021/08/20/even-experts-find-the-idea-of-smart-lockdown-puzzling>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Netherlands (GRI: 48 ↑ 51)
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Netherlands (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Netherlands
-(3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-People who are travelling can also get tested free of cost
-<https://web.archive.org/web/20210819093329/https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands/travel-and-holidays/free-coronavirus-test-for-travellers>
 
 </td>
 
@@ -3497,46 +3572,6 @@ and refinancing through public banks, among others. Source:
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Philippines (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Philippines (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On August 5 the Inter Agency Task Force for the Management of Emerging
-Infectious Diseases resolved that as from August 6 all school levels
-should be closed, due to different types of Community Quarantine in
-regions. See Inter Agency Task Force for the Management of Emerging
-Infectious Diseases website. Archive:
-<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Require</b> closure of <b>all</b> levels of schools; across
 <b>all</b> of Philippines (3G)
 
@@ -3579,405 +3614,7 @@ Diseases website. Archive:
 
 </div>
 
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Philippines (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Philippines (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On August 5 the Inter Agency Task Force for the Management of Emerging
-Infectious Diseases resolved that as from August 6 work places should be
-open only for some sectors , due to Enhanced Community Quarantine in
-some regions. See Inter Agency Task Force for the Management of Emerging
-Infectious Diseases website. Archive:
-<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Philippines (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Philippines (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On August 5 the Inter Agency Task Force for the Management of Emerging
-Infectious Diseases resolved that as from August 6 public transport is
-restricted, due to Enhanced Community Quarantine in some regions. See
-Inter Agency Task Force for the Management of Emerging Infectious
-Diseases website. Archive:
-<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Philippines (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
-allowed to leave once a week, or only one person can leave at a time,
-etc); in <b>some</b> parts of Philippines (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On August 5 the Inter Agency Task Force for the Management of Emerging
-Infectious Diseases resolved that as from August 6 staying at home is
-required only with minimal exceptions for accesing essential goods and
-services, due to Enhanced Community Quarantine in some regions. See
-Inter Agency Task Force for the Management of Emerging Infectious
-Diseases website. Archive:
-<http://web.archive.org/web/20210822171113/https://doh.gov.ph/sites/default/files/health-update/IATFResolution131.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Comprehensive</b> contact tracing (done for all identified cases); NA
-Philippines (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Philippines (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Contact tracing is limited due to lack of infrastructure and
-implementation capacity. See The Straits Times website. Archived:
-<http://web.archive.org/web/20210823142200/https://www.straitstimes.com/asia/se-asia/philippines-robredo-seeks-improvement-in-testing-contact-tracing-amid-soaring-covid-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Philippines (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Philippines (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the OMNIBUS GUIDELINES ON THE IMPLEMENTATION OF COMMUNITY
-QUARANTINE IN THE PHILIPPINES everyone should wear a facemask outside of
-their residencies. See Department of Health website. Archvied:
-<http://web.archive.org/web/20210823180742/https://www.officialgazette.gov.ph/downloads/2021/08aug/20210819-OMNIBUS-RRD.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of Philippines (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-12/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; in
-<b>some</b> parts of Philippines (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As from August 12 people over 65 years of age are required to stay at
-their residencies at all times, with minimal exceptions to acces
-essential goods and services, due tu Enhanced Community Quarantine in
-several regions. See Department of Health website. Archived:
-<http://web.archive.org/web/20210822163309/https://doh.gov.ph/sites/default/files/health-update/IATFResolution133-A.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Poland (GRI: 53 ↓ 41)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA
-Poland (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No debt relief</b> is present across all of Poland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Portugal (GRI: 65 ↑ 67)
+### Portugal (GRI: 67 ↓ 64)
 
 #### Close public transport (C5)
 
