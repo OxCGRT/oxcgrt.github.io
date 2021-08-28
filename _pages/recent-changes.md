@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-27</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--73">Austria (GRI: 72 ↑ 73)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-28</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
 </div><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
 </div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
@@ -45,18 +45,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#ecuador-gri-68--71">Ecuador (GRI: 68 ↑ 71)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
+</div><div><a href="#germany-gri-64--67">Germany (GRI: 64 ↑ 67)</a> 
 </div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
 </div><div><a href="#israel-gri-63--65">Israel (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
-</div><div><a href="#nigeria-gri-35--37">Nigeria (GRI: 35 ↑ 37)</a> 
 </div><div><a href="#poland-gri-41--47">Poland (GRI: 41 ↑ 47)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
-</div><div><a href="#cameroon-gri-34--33">Cameroon (GRI: 34 ↓ 33)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
-</div><div><a href="#germany-gri-64--62">Germany (GRI: 64 ↓ 62)</a> 
 </div><div><a href="#india-gri-69--67">India (GRI: 69 ↓ 67)</a> 
 </div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#kazakhstan-gri-48--44">Kazakhstan (GRI: 48 ↓ 44)</a> 
@@ -78,78 +76,7 @@ Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
 
-### Austria (GRI: 72 ↑ 73)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Austria (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Austria (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-A number of sectors are only open to those who are able to show 3G
-proof. These workplaces are in effect restricted to the unvaccinated.
-The 3-G rule applies in the following areas: • Gastronomy • Body-hugging
-services • Hotel and lodging • Leisure facilities ( e.g. dance schools,
-zoos) • Cultural establishments (with the exception of museums,
-libraries, libraries and archives) • Non-public sports facilities •
-Meetings (from one participant: more than 100 people) • Trade and
-consumer fairs, congresses • Coaches and excursion boats In addition,
-the 3G rule continues to apply in the following areas and for the
-following people: • In the provision of mobile care and support services
-• For visitors and employees of retirement and nursing homes as well as
-inpatient residential facilities for the disabled • For residents for
-new admission in old people’s and nursing homes as well as inpatient
-residential facilities for the disabled • For visitors and employees of
-hospitals or health resorts • For employees from other locations where
-health services are provided. Sources: <https://archive.vn/R0DuP>
-\[Coronavirus - Current Measures\]
-<https://web.archive.org/web/20210813214438/https://corona-ampel.gv.at/aktuelle-massnahmen/bundesweite-massnahmen/>
-\[Nationwide measures\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Austria (GRI: 72 ↑ 74)
 
 #### Restrictions on gatherings (C4)
 
@@ -210,100 +137,6 @@ carried out. Details can be found in the relevant ordinance.”" Source:
 </div>
 
 ### Bahamas (GRI: 68 ↓ 65)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Bahamas (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Bahamas (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-RT PCR testing will now be required for travelers who are not fully
-vaccinated for travel from New Providence, Grand Bahama and North and
-South Eleuthera, including Harbour Island. Source:
-<https://web.archive.org/web/20210813001449/https://opm.gov.bs/covid19/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Bahamas (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Bahamas (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-RT PCR testing will now be required for travelers who are not fully
-vaccinated for travel from New Providence, Grand Bahama and North and
-South Eleuthera, including Harbour Island. Source:
-<https://web.archive.org/web/20210813001449/https://opm.gov.bs/covid19/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Protection of elderly people (H8)
 
@@ -691,71 +524,6 @@ physical meetings and workshops not approved by the government are not
 permitted. Funerals/burials and religious services are exceptions,
 allowing up to 50 people for a maximum of 2 hours.
 <https://archive.vn/layat>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Cameroon (GRI: 34 ↓ 33)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cameroon
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-15/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Cameroon (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Health screening procedures are in place at airports and other ports of
-entry. Government of Cameroon now requires all outbound passengers to
-present a negative COVID-19 PCR test result dated within 72 hours of
-boarding an international flight. Travelers must use a
-government-approved testing site and register their results in one of
-two databases depending on the point of departure (Yaoundé or Douala).
-Air passengers with a positive COVID-19 test result will be required to
-enter isolation at home or in a government facility at their own expense
-depending on their symptoms. Although quarantine is not required,
-travelers may have been exposed to COVID-19 during their travels and are
-encouraged to limit contact with others for 14 days after their trip.
-<https://web.archive.org/web/20210802174047/https://cm.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -1785,7 +1553,63 @@ Archived:
 
 </div>
 
-### Germany (GRI: 64 ↓ 62)
+### Germany (GRI: 64 ↑ 67)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Germany (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of Germany (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the nationwide emergency brake, there can be no in-person
+teaching if 7-day incidence \> 165. There are some states with 7-day
+incidence \> 165. Source: <https://archive.fo/OCyn8>
+<https://web.archive.org/web/20210823172205/https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Restrictions on gatherings (C4)
 
@@ -1833,6 +1657,67 @@ as vaccinated and recovered persons are not included. The permitted
 number of people at special celebrations is 50 persons indoors and 100
 persons outdoors.
 <https://web.archive.org/web/20210820042720/https://www.berlin.de/corona/en/measures/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Germany
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Germany
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Curfews put in place if 7-day incidence \> 100: Between 22:00 (10pm) and
+5:00 (5am) people will only be permitted to leave their homes if they
+have a good reason, such as going to or from work, seeking medical
+assistance or taking a dog for a walk. Until midnight it will be
+permissible to go for a walk or a jog alone. Some states with 7-day
+incidence \> 100, hence coded as 2T. Source:
+<http://web.archive.org/web/20210424104907/https://www.bundesregierung.de/breg-en/news/nationwide-emergency-brake-1889136>
+<https://archive.fo/OCyn8>
 
 </td>
 
@@ -2113,43 +1998,6 @@ operational differences; across <b>all</b> of Israel (1G)
 
 <b>New policy:</b>
 
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Israel (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Regulations begin on 18 August restricting access to universities for
-those with green passes. New regulations introduced for schools. Source:
-<https://archive.vn/w6pFw>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Israel (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
 <b>Require</b> closure of <b>some</b> levels of schools; across
 <b>all</b> of Israel (2G)
 
@@ -2160,113 +2008,6 @@ parts of Israel (2T)
 Regulations begin on 18 August restricting access to universities for
 those with green passes. New regulations introduced for schools. Source:
 <https://archive.vn/w6pFw>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Israel (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Israel (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-General guidance • Events will be subject to the "“Happy Pass”" outline.
-All event participants must present a Green Pass or negative results to
-rapid test that is valid for 24 hours (not suitable to children under 12
-years of age and people with a contraindication) • A breach of a Happy
-Pass restriction is subject to a fine • In all other event types, resume
-normal activities • Wear a mask indoors and in outdoor settings with
-more than 100 people \[24/8 - coding changed to T to better reflect the
-nature of guidelines being dependent on venue (Green Pass or not).\]
-Sources:
-<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
-<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Israel (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Israel (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-General guidance • Events will be subject to the "“Happy Pass”" outline.
-All event participants must present a Green Pass or negative results to
-rapid test that is valid for 24 hours (not suitable to children under 12
-years of age and people with a contraindication) • A breach of a Happy
-Pass restriction is subject to a fine • In all other event types, resume
-normal activities • Wear a mask indoors and in outdoor settings with
-more than 100 people \[27/8 note added to better reflect the nature of
-guidelines being dependent on venue (Green Pass or not).\] Sources:
-<https://web.archive.org/web/20210809203734/https://www.gov.il/en/departments/news/05082021-04>
-<https://web.archive.org/web/20210809203959/https://www.timesofisrael.com/new-covid-curbs-to-take-effect-as-serious-cases-climb-over-300-26-die-in-2-days/>
 
 </td>
 
@@ -3489,71 +3230,6 @@ supplies at the door, rather than come in.? You are at high risk if you
 are over 70, have a compromised immune system or have underlying health
 conditions.”"
 <https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Nigeria (GRI: 35 ↑ 37)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ONE</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Nigeria (1S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-15/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Nigeria (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-While vaccines are now available in Nigeria, vaccines are only available
-for Nigerian citizens and legal residents who meet the above criteria.
-Nigeria has an eligibility list which does not prioritise non-Nigerians
-or tourists. Health workers (and other front line staff) will be
-prioritised in the first phase. This will be followed by phase 2 (people
-aged 50 and above) and phase 3 (people with co-morbidities). Phase 2
-ongoing. Vaccines: AstraZeneca with plans for Pfizer and Johnson and
-Johnson in the 3rd quarter of the year. All vaccines government funded
-(COVAX). <https://archive.vn/rae26> <https://archive.vn/KeSjW>
 
 </td>
 
