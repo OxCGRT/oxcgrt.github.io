@@ -37,6 +37,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-28</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
+</div><div><a href="#barbados-gri-57--58">Barbados (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
 </div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
@@ -52,8 +53,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
+</div><div><a href="#norway-gri-50--57">Norway (GRI: 50 ↑ 57)</a> 
 </div><div><a href="#poland-gri-41--47">Poland (GRI: 41 ↑ 47)</a> 
+</div><div><a href="#sri lanka-gri-77--82">Sri Lanka (GRI: 77 ↑ 82)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
+</div><div><a href="#togo-gri-59--61">Togo (GRI: 59 ↑ 61)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
@@ -186,6 +190,180 @@ virus: \* Stay home as much as possible. \* Consider ways of getting
 food brought to your house through family, social, or commercial
 networks Source:
 <https://web.archive.org/web/20210122033858/https://covid19.gov.bs/if-you-are-high-risk/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Barbados (GRI: 57 ↑ 58)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Barbados (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Barbados (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Meetings may resume provided they comply with health protocols. Such
+gatherings are limited to 100 people.
+<https://web.archive.org/web/20210828125157/https://www.garda.com/crisis24/news-alerts/517646/barbados-authorities-extend-covid-19-related-curfew-and-most-restrictions-through-at-least-sept-5-update-35>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Barbados (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Barbados
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Unvaccinated persons with a valid negative COVID-19 PCR test result will
+be quarantined at a designated holding hotel or approved villa at their
+own expense and will be monitored daily for the onset of symptoms.
+Persons will be required to take a second COVID-19 PCR test 5 days after
+arrival (at least 120 hours after arrival) in Barbados. Persons will
+typically be released once the test result is negative. Vaccinated
+persons will take a COVID-19 PCR test upon arrival and must remain in
+quarantine until a negative test result is received. Due to limited
+capacity, the government quarantine facilities which are provided free
+of cost and used for accommodation prior to 2nd tests will be reserved
+for Barbadians and permanent residents arriving in Barbados.
+\*<https://web.archive.org/web/20210819011448/https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Barbados (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Barbados (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://web.archive.org/web/20210819011448/https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
@@ -3302,6 +3480,185 @@ conditions.”"
 
 </div>
 
+### Norway (GRI: 50 ↑ 57)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Norway (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Norway (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy change. Continued from 13 Aug, the recommendation is not to
+exceed a maximum of 20 guests, and people are encouraged to meet
+outdoors. Protected persons (persons who have been fully vaccinated,
+received the first dose of the vaccine three weeks or longer ago and
+persons who have had Covid-19 in the past six months) do not count
+against this number, but it must still be possible to maintain social
+distancing.
+<https://web.archive.org/web/20210828083843/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Norway (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Norway (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy change. The Norwegian Institute of Public Health (NIPH / FHI)
+recommends that anyone who suspects they might be infected by the
+coronavirus is given the opportunity to be tested.
+<https://web.archive.org/web/20210817075815/https://www.helsenorge.no/en/coronavirus/testing-symptoms-and-close-contacts/#testing>
+<https://web.archive.org/web/20210828083843/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; in <b>some</b> parts of
+Norway (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Norway (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy change. Continued from 13 Aug, the recommendation is not to
+exceed a maximum of 20 guests, and people are encouraged to meet
+outdoors. Travel is not recommended unless necessary. Face coverings are
+recommended on public transit. Wearing a face covering is mandatory when
+recommended social distancing cannot be maintained. If taking a taxi,
+passengers are advised to wear a mask and avoid sitting in the front
+passenger seat.
+<https://web.archive.org/web/20210828083843/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
+<https://web.archive.org/web/20210828083837/https://no.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Pakistan (GRI: 69 ↓ 64)
 
 #### School closing (C1)
@@ -3884,6 +4241,184 @@ non-greater Seoul areas
 
 </div>
 
+### Sri Lanka (GRI: 77 ↑ 82)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Sri Lanka
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Sri Lanka
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Only one person from each household can leave the house, except for
+individuals working in permitted industries or seeking medical help.
+<http://web.archive.org/web/20210828144450/https://www.garda.com/crisis24/news-alerts/515291/sri-lanka-officials-further-tighten-restrictions-nationwide-through-aug-31-due-to-covid-19-update-70>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Sri
+Lanka (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Sri Lanka (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Entry remains suspended for most individuals with travel history in the
+past 14 days to Angola, Botswana, Eswatini (Swaziland), Lesotho,
+Mozambique, Namibia, South Africa, Zambia, Zimbabwe, and all South
+American countries and territories. However, exceptions are in place for
+flights with fully-vaccinated passengers and people arriving via the Sri
+Lanka Tourism Bio Bubble program. Permitted arrivals from most other
+countries must provide a negative result from a PCR test taken within 72
+hours before departure and a completed health declaration form,
+regardless of vaccination status. They must also undergo another PCR
+test upon arrival. International arrivals who have not been fully
+vaccinated must quarantine for 14 days at designated facilities while
+fully vaccinated arrivals are only required to quarantine for one day.
+<http://web.archive.org/web/20210828144450/https://www.garda.com/crisis24/news-alerts/515291/sri-lanka-officials-further-tighten-restrictions-nationwide-through-aug-31-due-to-covid-19-update-70>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Sri Lanka (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+19/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Sri Lanka (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Sri Lanka administers Covishield, Sinopharm, Sputnik-V, Pfizer and
+Moderna as part of their vaccination program.
+<http://web.archive.org/web/20210808151624/https://www.epid.gov.lk/web/index.php?option=com_content&view=article&id=231&lang=en>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Taiwan (GRI: 56 ↑ 60)
 
 #### Testing policy (H2)
@@ -4008,6 +4543,63 @@ get vaccinated with the Medigen vaccine. Vaccination is scheduled to
 take place between August 27 and August 29 for individuals included in
 this round of bookings.
 <https://web.archive.org/web/20210828042810/https://www.cdc.gov.tw/En/Bulletin/Detail/tMo5u53H3-OG32ZF22oPDA?typeid=158>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Togo (GRI: 59 ↑ 61)
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>formal
+workers only</b> in Togo (1F)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>all
+workers</b> in Togo (1A)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Togolese government provides cash support for the poorest and most
+vulnerable communities.
+<http://web.archive.org/web/20210828093426/https://www.worldbank.org/en/news/press-release/2021/06/23/togo-un-soutien-supplementaire-pour-accompagner-les-personnes-les-plus-touchees-par-la-pandemie-de-covid-19>
 
 </td>
 
