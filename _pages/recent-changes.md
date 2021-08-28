@@ -54,7 +54,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
 </div><div><a href="#norway-gri-50--57">Norway (GRI: 50 ↑ 57)</a> 
-</div><div><a href="#poland-gri-41--47">Poland (GRI: 41 ↑ 47)</a> 
+</div><div><a href="#south africa-gri-60--63">South Africa (GRI: 60 ↑ 63)</a> 
 </div><div><a href="#sri lanka-gri-77--82">Sri Lanka (GRI: 77 ↑ 82)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#togo-gri-59--61">Togo (GRI: 59 ↑ 61)</a> 
@@ -69,7 +69,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
 </div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
-</div><div><a href="#philippines-gri-67--65">Philippines (GRI: 67 ↓ 65)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
 </div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
@@ -3835,118 +3834,6 @@ and refinancing through public banks, among others. Source:
 
 </div>
 
-### Philippines (GRI: 67 ↓ 65)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Philippines (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Philippines (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On August 12 the Inter Agency Task Force for the Management of Emerging
-Infectious Diseases resolved that as from August 16 schools are to be
-closed due to Enhanced Community Quarantine in several regions. See
-Inter Agency Task Force for the Management of Emerging Infectious
-Diseases website. Archive:
-<http://web.archive.org/web/20210822163309/https://doh.gov.ph/sites/default/files/health-update/IATFResolution133-A.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Poland (GRI: 41 ↑ 47)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA
-Poland (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No debt relief</b> is present across all of Poland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Portugal (GRI: 67 ↓ 64)
 
 #### Close public transport (C5)
@@ -4171,6 +4058,119 @@ measures will be updated on the SafeTravel website. Travellers are
 advised to visit the website to check the latest border measures for the
 associated country or region before entering Singapore.”" Link (1):
 <http://web.archive.org/web/20210823035218/https://www.moh.gov.sg/news-highlights/details/next-steps-in-our-transition-towards-covid-resilience>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### South Africa (GRI: 60 ↑ 63)
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA South Africa (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA South Africa
+(3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No changes. PCR testing is widely available. There are some private
+enterprises running COVID-19 testing with a price around $80-100 USD.
+Hospitals will generally only conduct COVID-19 tests for incoming
+patients in possession of a doctor’s letter.
+<https://web.archive.org/web/20210828202809/https://za.usembassy.gov/covid-19-information-2/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) South Africa (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) South Africa (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From August 20, 2021, 18-34 year olds will be able to be vaccinated.
+<https://web.archive.org/web/20210828203506/https://sacoronavirus.co.za/vaccine-updates/#81a491f32b2c269c8>
 
 </td>
 
