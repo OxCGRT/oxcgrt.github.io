@@ -45,6 +45,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#ecuador-gri-68--71">Ecuador (GRI: 68 ↑ 71)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
+</div><div><a href="#france-gri-70--73">France (GRI: 70 ↑ 73)</a> 
 </div><div><a href="#germany-gri-64--67">Germany (GRI: 64 ↑ 67)</a> 
 </div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
 </div><div><a href="#israel-gri-63--65">Israel (GRI: 63 ↑ 65)</a> 
@@ -52,6 +53,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
 </div><div><a href="#poland-gri-41--47">Poland (GRI: 41 ↑ 47)</a> 
+</div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
@@ -1540,6 +1542,63 @@ Restrictions vary based on the region of the country, however, the
 strictest places have a maximum number of 10 for indoor gatherings.
 Archived:
 <https://web.archive.org/web/20210820135115/https://avi.fi/koronarajoitukset-selkokielella>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### France (GRI: 70 ↑ 73)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of France (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of France (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+“From early August, you will need a health pass for long-distance trips
+by plane, train and coach.” Source:
+<http://web.archive.org/web/20210820131059/https://www.gouvernement.fr/info-coronavirus/pass-sanitaire>
 
 </td>
 
@@ -3812,6 +3871,143 @@ parts of South Korea (2T)
 <https://archive.is/pXhh2> Current social distancing extended for 2
 weeks (Aug. 23. \~ Sept. 5.) Level 4 for greater Seoul area, level 3 for
 non-greater Seoul areas
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Taiwan (GRI: 56 ↑ 60)
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Taiwan (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Taiwan (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Self-pay COVID-19 test is widely available at hospitals throughout
+Taiwan. On August 23, the Central Epidemic Command Center (CECC) pointed
+out that it has formulated strengthened COVID-19 surveillance programs
+listed below to reduce the risk of the Delta variant entering
+communities in Taiwan. A. To enhance community surveillance, the CECC
+will distribute government-funded COVID-19 home test kits to contracted
+clinics in cities and counties on August 30. Based on their diagnosis,
+doctors can provide the home test kits to high-risk individuals who will
+use the test kits to test themselves and report back their test result.
+B. To monitor the health of certain high-risk personnel at international
+airports, certain high-risk personnel at Taoyuan International Airport,
+Taipei Songshan Airport, Taichung International Airport, and Kaohsiung
+International Airport will be tested for COVID-19 using
+government-funded home test kits every seven days starting August 30. C.
+Expanding wastewater surveillance. D. Conducting surveys on the
+seroprevalence of SARS-CoV-2 antibodies among blood donors. E.
+Continuing surveillance on imported frozen foods and their packaging.
+<https://web.archive.org/web/20210828043629/https://www.cdc.gov.tw/En/Bulletin/Detail/8fleo-ogpnOqpMFcC_83jw?typeid=158>
+<https://web.archive.org/web/20210828043707/https://www.ait.org.tw/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Taiwan (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Taiwan (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Oxford-AstraZeneca, Moderna, Medigen Biologics On August 21, the Central
+Epidemic Command Center (CECC) pointed out that the COVID-19 vaccination
+registration and appointment reservation system started the process of
+counting registrants at 12 p.m. on August 21, and the system will be
+open from 10 a.m. on August 23 to 6 p.m. on August 24 to people who
+newly registered their willingness to be vaccinated with the Medigen
+vaccine or edited and added the vaccine as a vaccine preference after 2
+p.m. on August 16, allowing such individuals to schedule appointments to
+get vaccinated with the Medigen vaccine. Vaccination is scheduled to
+take place between August 27 and August 29 for individuals included in
+this round of bookings.
+<https://web.archive.org/web/20210828042810/https://www.cdc.gov.tw/En/Bulletin/Detail/tMo5u53H3-OG32ZF22oPDA?typeid=158>
 
 </td>
 
