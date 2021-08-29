@@ -36,44 +36,38 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-28</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-29</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
 </div><div><a href="#barbados-gri-57--58">Barbados (GRI: 57 ↑ 58)</a> 
-</div><div><a href="#benin-gri-46--49">Benin (GRI: 46 ↑ 49)</a> 
-</div><div><a href="#botswana-gri-59--65">Botswana (GRI: 59 ↑ 65)</a> 
+</div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
-</div><div><a href="#chile-gri-73--76">Chile (GRI: 73 ↑ 76)</a> 
 </div><div><a href="#colombia-gri-56--62">Colombia (GRI: 56 ↑ 62)</a> 
-</div><div><a href="#ecuador-gri-68--71">Ecuador (GRI: 68 ↑ 71)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-70--73">France (GRI: 70 ↑ 73)</a> 
 </div><div><a href="#germany-gri-64--67">Germany (GRI: 64 ↑ 67)</a> 
-</div><div><a href="#ghana-gri-38--45">Ghana (GRI: 38 ↑ 45)</a> 
 </div><div><a href="#israel-gri-63--65">Israel (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
-</div><div><a href="#nepal-gri-66--69">Nepal (GRI: 66 ↑ 69)</a> 
+</div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
 </div><div><a href="#norway-gri-50--57">Norway (GRI: 50 ↑ 57)</a> 
-</div><div><a href="#south africa-gri-60--63">South Africa (GRI: 60 ↑ 63)</a> 
+</div><div><a href="#south africa-gri-62--63">South Africa (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#sri lanka-gri-77--82">Sri Lanka (GRI: 77 ↑ 82)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#togo-gri-59--61">Togo (GRI: 59 ↑ 61)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
-</div><div><a href="#india-gri-69--67">India (GRI: 69 ↓ 67)</a> 
 </div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
-</div><div><a href="#kazakhstan-gri-48--44">Kazakhstan (GRI: 48 ↓ 44)</a> 
 </div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
-</div><div><a href="#mexico-gri-63--58">Mexico (GRI: 63 ↓ 58)</a> 
 </div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
 </div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
 </div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
+</div><div><a href="#trinidad and tobago-gri-72--70">Trinidad and Tobago (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#united arab emirates-gri-68--62">United Arab Emirates (GRI: 68 ↓ 62)</a> 
-</div><div><a href="#vietnam-gri-69--67">Vietnam (GRI: 69 ↓ 67)</a> 
+</div><div><a href="#vietnam-gri-69--63">Vietnam (GRI: 69 ↓ 63)</a> 
 </div></div> <br/>
 -->
 
@@ -376,232 +370,7 @@ home; across <b>all</b> of Barbados (4G)
 
 </div>
 
-### Benin (GRI: 46 ↑ 49)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of Benin
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Benin (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In the last communique, released on June 2020, public events like
-sports, political events and demonstrations were suspended. however,
-12000 spectators were authorised by the African Football Federation to
-attend the CAF Cup final at the Mathieu KEREKOU stadium in Cotonou on
-the July 10, 2021 at 8pm as a one time occurence. However, negative
-covid tests would be required from all attendees to show their covid
-status.
-<https://web.archive.org/web/20210719213553/https://www.gouv.bj/coronavirus/documents/>
-<https://web.archive.org/web/20210719213314/https://www.gouv.bj/actualite/1374/test-covid-obligatoire-assister-finale-coupe-stade-mathieu-kerekou-cotonou-samedi-10-juillet-2021/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Benin (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Benin (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-policy recommends staying at home for people with co-morbidities or over
-the age of 60 years.
-<https://web.archive.org/web/20210719222030/https://www.gouv.bj/coronavirus/faq/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Benin (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Benin (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Face masks are always required in public spaces.
-<https://web.archive.org/web/20210719222030/https://www.gouv.bj/coronavirus/faq/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Benin (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Benin (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-recommends staying at home for anyone above 60 years.
-<https://web.archive.org/web/20210719222030/https://www.gouv.bj/coronavirus/faq/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Botswana (GRI: 59 ↑ 65)
+### Botswana (GRI: 65 ↑ 66)
 
 #### School closing (C1)
 
@@ -703,6 +472,67 @@ physical meetings and workshops not approved by the government are not
 permitted. Funerals/burials and religious services are exceptions,
 allowing up to 50 people for a maximum of 2 hours.
 <https://archive.vn/layat>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>TWO</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Botswana (2S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Botswana (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Botswana is now prioritizing those 45 years and older, although those
+over 30 are also eligible for the vaccine. Johnson and Johnson and
+AstraZeneca vaccines are primarily in use. Vaccine supply is low due to
+demand.
+<https://web.archive.org/web/20210828214719/https://pbs.twimg.com/media/E9PoA4OWUAY-3Zv?format=jpg&name=large>
+<https://web.archive.org/web/20210828214420/https://pbs.twimg.com/media/E8-7Hi7WYA0I1T-?format=jpg&name=large>
+<https://web.archive.org/web/20210825233003/https://bw.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -835,118 +665,6 @@ Council of Canada and Province of Manitoba websites, archived:
 <https://web.archive.org/web/20210826193139/www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
 <https://web.archive.org/web/20210812112606/https://news.gov.mb.ca/asset_library/en/newslinks/2021/08/BG-PHO_Update_Aug_7-PR-CPPHO.pdf>
 <https://web.archive.org/web/20210826191535/normanwells.com/updates/community-update-august-26-2021/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Chile (GRI: 73 ↑ 76)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Chile (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Chile (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There are not changes. Depend on the situation of the commune. Available
-at:
-<https://web.archive.org/web/20210816203121/https://s3.amazonaws.com/gobcl-prod/public_files/Campa%C3%B1as/Corona-Virus/documentos/paso-a-paso/200721_Documento_actualizaci%C3%B3n_Paso_a_Paso.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Chile (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of Chile
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There are not changes. Available at:
-<https://web.archive.org/web/20210816203121/https://s3.amazonaws.com/gobcl-prod/public_files/Campa%C3%B1as/Corona-Virus/documentos/paso-a-paso/200721_Documento_actualizaci%C3%B3n_Paso_a_Paso.pdf>
-Available at: <https://archive.vn/QOGgB#selection-809.0-809.190>
 
 </td>
 
@@ -1457,63 +1175,6 @@ for details and to request an appointment; source:
 
 </div>
 
-### Ecuador (GRI: 68 ↑ 71)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Ecuador (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Ecuador (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-50% capacity for interstate transport from El Oro province and only
-fully vaccinated passengers
-<https://web.archive.org/web/20210823214933/https://www.gov.uk/foreign-travel-advice/ecuador/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Eswatini (GRI: 61 ↑ 62)
 
 #### Vaccination policy (H7)
@@ -1967,173 +1628,6 @@ incidence \> 100, hence coded as 2T. Source:
 
 </div>
 
-### Ghana (GRI: 38 ↑ 45)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Ghana (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Ghana (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Some sectors are still closed due to restrictions. Sports, political,
-festivals, nightclubs, bars, cinemas all closed.
-<https://web.archive.org/web/20210706043103/https://gh.usembassy.gov/ghana-covid-19-information/>
-<https://web.archive.org/web/20210706044234/https://www.gov.uk/foreign-travel-advice/ghana/coronavirus>
-<https://web.archive.org/web/20210706044453/https://www.ghanahealthservice.org/covid19/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No contact tracing</b> is present across all of Ghana (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Comprehensive</b> contact tracing (done for all identified cases); NA
-Ghana (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All results and information regarding testing are tracked online.
-<https://web.archive.org/web/20210706043103/https://gh.usembassy.gov/ghana-covid-19-information/>
-<https://web.archive.org/web/20210706044234/https://www.gov.uk/foreign-travel-advice/ghana/coronavirus>
-<https://web.archive.org/web/20210706044453/https://www.ghanahealthservice.org/covid19/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### India (GRI: 69 ↓ 67)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of India (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of India (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Ireland (GRI: 66 ↓ 64)
 
 #### International travel controls (C8)
@@ -2318,68 +1812,7 @@ junior high schools throughout the month of August.
 
 </div>
 
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Comprehensive</b> contact tracing (done for all identified cases); NA
-Japan (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Japan (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to reports and interviews from prefectures of Tokyo and
-Saitama, due to the high number of infections, close contact tracing has
-been overwhelmed and efforts have shifted to targeted/priority settings
-such as schools or elderly facilities. For other prefectures,
-small-cluster contact tracing continues to be manually and
-comprehensively conducted, in addition to the utilization of the
-COVID-19 Contact-Confirming Application (COCOA).
-<https://web.archive.org/web/20210814022625/https://www3.nhk.or.jp/news/html/20210814/k10013201711000.html>
-<https://web.archive.org/web/20210814030232/https://www.mhlw.go.jp/stf/covid-19/kansenkakudaiboushi-iryouteikyou.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Kazakhstan (GRI: 48 ↓ 44)
+### Kazakhstan (GRI: 44 ↑ 48)
 
 #### Close public transport (C5)
 
@@ -2390,41 +1823,6 @@ COVID-19 Contact-Confirming Application (COCOA).
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not function in Nur-Sultan and Mangystau region
-during the weekends since August 2. <https://archive.vn/9YzIn>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -2653,119 +2051,6 @@ not indicate such (whereas they have in the past.)
 
 </div>
 
-### Mexico (GRI: 63 ↓ 58)
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Mexico (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; in <b>some</b> parts of Mexico (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Dedicated site for coronavirus information.
-<https://web.archive.org/web/20210823163223/https://coronavirus.gob.mx/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Comprehensive</b> contact tracing (done for all identified cases); NA
-Mexico (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Mexico (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Comprehensive contact tracing in areas deemed "“green”" or "“yellow”"
-according to the epidemiological traffic light. In areas "“orange”" or
-"“red”" it’s done according to municipal capacity and prioritising
-closed spaces like prisons, offices or schools.
-<https://web.archive.org/web/20210816184246/https://www.gob.mx/cms/uploads/attachment/file/656239/Lineamiento_VE_y_Lab_Enf_Viral.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Mongolia (GRI: 60 ↓ 51)
 
 #### Debt/contract relief (E2)
@@ -2861,61 +2146,6 @@ Mongolia (1)
 
 No policy update.
 <https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Nepal (GRI: 66 ↑ 69)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Nepal (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Nepal (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No further restrictions on internal movement until August 24th
-<https://web.archive.org/web/20210823192007/https://kathmandupost.com/national/2021/08/20/even-experts-find-the-idea-of-smart-lockdown-puzzling>
 
 </td>
 
@@ -3892,62 +3122,6 @@ vehicles from an electronic platform. Sources:
 
 </div>
 
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Portugal (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-14/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Portugal (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Approximately 100 thousand adolescents aged 16-17 started being
-vaccinated this Saturday. Source:
-<https://web.archive.org/web/20210820222758/https://www.rtp.pt/noticias/pais/cerca-de-100-mil-jovens-de-16-e-17-anos-vacinados-este-sabado_v1342199>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Singapore (GRI: 70 ↓ 69)
 
 #### International travel controls (C8)
@@ -4071,7 +3245,7 @@ associated country or region before entering Singapore.”" Link (1):
 
 </div>
 
-### South Africa (GRI: 60 ↑ 63)
+### South Africa (GRI: 62 ↑ 63)
 
 #### Testing policy (H2)
 
@@ -4613,6 +3787,59 @@ vulnerable communities.
 
 </div>
 
+### Trinidad and Tobago (GRI: 72 ↓ 70)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Trinidad and Tobago (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Trinidad and Tobago (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### United Arab Emirates (GRI: 68 ↓ 62)
 
 #### Restrictions on gatherings (C4)
@@ -4854,7 +4081,7 @@ The Emirate of Abu Dhabi has announced plans to end the nightly 00:01 to
 
 </div>
 
-### Vietnam (GRI: 69 ↓ 67)
+### Vietnam (GRI: 69 ↓ 63)
 
 #### Workplace closing (C2)
 
