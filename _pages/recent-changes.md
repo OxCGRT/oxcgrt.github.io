@@ -40,7 +40,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#barbados-gri-57--58">Barbados (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
-</div><div><a href="#colombia-gri-56--62">Colombia (GRI: 56 ↑ 62)</a> 
+</div><div><a href="#colombia-gri-56--60">Colombia (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
 </div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-70--73">France (GRI: 70 ↑ 73)</a> 
@@ -57,8 +57,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
 </div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
+</div><div><a href="#iran-gri-67--63">Iran (GRI: 67 ↓ 63)</a> 
 </div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
+</div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
 </div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
 </div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
@@ -678,7 +680,7 @@ Council of Canada and Province of Manitoba websites, archived:
 
 </div>
 
-### Colombia (GRI: 56 ↑ 62)
+### Colombia (GRI: 56 ↑ 60)
 
 #### Restrictions on gatherings (C4)
 
@@ -722,6 +724,58 @@ Although there’s a trend for fewer cases in Colombia, the government has
 urged the population to maintain the same restrictions and measures in
 order to avoid a 4th wave with the Delta variant
 <https://web.archive.org/web/20210821163916/https://elnuevosiglo.com.co/articulos/08-21-2021-hay-una-tendencia-la-baja-de-casos-covid-y-eso-plantea-desafios-minsalud>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Colombia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of Colombia
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
 
 </td>
 
@@ -1628,6 +1682,360 @@ incidence \> 100, hence coded as 2T. Source:
 
 </div>
 
+### Iran (GRI: 67 ↓ 63)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Iran (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Iran (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Iran’s Covid-19 taskforce has announced a six-day nationwide lockdown
+from Monday 16 Aug, with closure of all non-essential government offices
+and businesses.
+<https://web.archive.org/web/20210829085835/https://www.aljazeera.com/news/2021/8/14/iran-announces-6-day-lockdown-amid-surge-in-covid-cases>
+All offices, markets, restaurants, and nonessential businesses must
+close during this period. Facemasks are mandatory in enclosed public
+spaces and on public transportation.
+<https://web.archive.org/web/20210829085314/https://www.garda.com/crisis24/news-alerts/513716/iran-authorities-impose-nationwide-lockdown-through-aug-21-update-45>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Iran (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Iran (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The six-day nation-wide measures ended on 21 August. There is no clear
+evidence that all the localized restrictions in the red, yellow and
+orange zones have also been lifted, as of 29 August.
+<https://web.archive.org/web/20210829130500/https://www.theguardian.com/world/2021/aug/22/iran-coronavirus-deaths-new-daily-record-curbs-lifted>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Iran
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Iran (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Iran’s Covid-19 taskforce has announced a six-day nationwide lockdown
+from Monday 16 Aug, with closure of all non-essential government offices
+and businesses.
+<https://web.archive.org/web/20210829085835/https://www.aljazeera.com/news/2021/8/14/iran-announces-6-day-lockdown-amid-surge-in-covid-cases>
+All offices, markets, restaurants, and nonessential businesses must
+close during this period. Facemasks are mandatory in enclosed public
+spaces and on public transportation.
+<https://web.archive.org/web/20210829085314/https://www.garda.com/crisis24/news-alerts/513716/iran-authorities-impose-nationwide-lockdown-through-aug-21-update-45>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Iran (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Iran
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The six-day nation-wide measures ended on 21 August. There is no clear
+evidence that all the localized restrictions in the red, yellow and
+orange zones have also been lifted, as of 29
+Aug. <https://web.archive.org/web/20210829130500/https://www.theguardian.com/world/2021/aug/22/iran-coronavirus-deaths-new-daily-record-curbs-lifted>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Iran (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Iran (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Alireza Raisi, the spokesman for the Covid task force, said travelling
+by car between provinces would be prohibited starting at noon on Sunday
+15 August (0730 GMT) and lasting until August 27.
+<https://web.archive.org/web/20210829084439/https://www.wionews.com/world/iran-tightens-covid-restrictions-as-coronavirus-cases-and-deaths-surge-405437>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
+parts of Iran (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Iran (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Carrying over C6. Iran’s Covid-19 taskforce has announced a six-day
+nationwide lockdown from Monday 16 Aug, with closure of all
+non-essential government offices and businesses.
+<https://web.archive.org/web/20210829085835/https://www.aljazeera.com/news/2021/8/14/iran-announces-6-day-lockdown-amid-surge-in-covid-cases>
+All offices, markets, restaurants, and nonessential businesses must
+close during this period. Facemasks are mandatory in enclosed public
+spaces and on public transportation.
+<https://web.archive.org/web/20210829085314/https://www.garda.com/crisis24/news-alerts/513716/iran-authorities-impose-nationwide-lockdown-through-aug-21-update-45>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Iran (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
+parts of Iran (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Carrying forward C6. The six-day nation-wide measures ended on 21
+August. There is no clear evidence that all the localized restrictions
+in the red, yellow and orange zones have also been lifted, as of 29
+Aug. <https://web.archive.org/web/20210829130500/https://www.theguardian.com/world/2021/aug/22/iran-coronavirus-deaths-new-daily-record-curbs-lifted>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Ireland (GRI: 66 ↓ 64)
 
 #### International travel controls (C8)
@@ -2038,6 +2446,222 @@ arrivals and departures.
 INterestingly, the UK reports land borders are closed, but the US does
 not indicate such (whereas they have in the past.)
 <https://web.archive.org/web/20210823161304/https://www.gov.uk/foreign-travel-advice/liberia/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Lithuania (GRI: 55 ↑ 55)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Lithuania (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Lithuania (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Contact education can be resumed.
+<https://web.archive.org/web/20210823193648/https://koronastop.lrv.lt/en/covid-19-related-restrictions-1>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Lithuania
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Lithuania (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All public and private sector employees can return to workplace.
+<https://web.archive.org/web/20210823193648/https://koronastop.lrv.lt/en/covid-19-related-restrictions-1>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Lithuania (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Lithuania (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No restriction on the number of participants for outdoor events and 75%
+seating capacity for indoor events.
+<https://web.archive.org/web/20210823193648/https://koronastop.lrv.lt/en/covid-19-related-restrictions-1>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Lithuania (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Lithuania (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Ministry of Health provides a list of private clinics offering PCR and
+antigen tests.
+<https://web.archive.org/web/20210829135114/https://www.gov.uk/foreign-travel-advice/lithuania/coronavirus>
 
 </td>
 
