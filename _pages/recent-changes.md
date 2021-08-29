@@ -42,7 +42,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#colombia-gri-56--60">Colombia (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
-</div><div><a href="#finland-gri-53--54">Finland (GRI: 53 ↑ 54)</a> 
 </div><div><a href="#france-gri-70--73">France (GRI: 70 ↑ 73)</a> 
 </div><div><a href="#germany-gri-64--67">Germany (GRI: 64 ↑ 67)</a> 
 </div><div><a href="#israel-gri-63--65">Israel (GRI: 63 ↑ 65)</a> 
@@ -55,13 +54,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#togo-gri-59--61">Togo (GRI: 59 ↑ 61)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
-</div><div><a href="#congo-gri-47--29">Congo (GRI: 47 ↓ 29)</a> 
+</div><div><a href="#congo-gri-47--37">Congo (GRI: 47 ↓ 37)</a> 
+</div><div><a href="#czech republic-gri-52--51">Czech Republic (GRI: 52 ↓ 51)</a> 
+</div><div><a href="#eritrea-gri-51--45">Eritrea (GRI: 51 ↓ 45)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#iran-gri-67--63">Iran (GRI: 67 ↓ 63)</a> 
 </div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
 </div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
+</div><div><a href="#niger-gri-35--29">Niger (GRI: 35 ↓ 29)</a> 
 </div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
@@ -844,7 +846,7 @@ order to avoid a 4th wave with the Delta variant
 
 </div>
 
-### Congo (GRI: 47 ↓ 29)
+### Congo (GRI: 47 ↓ 37)
 
 #### School closing (C1)
 
@@ -1054,6 +1056,45 @@ operating; source:
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Congo (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Congo (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are no restrictions on intercity or interstate travel. Domestic
+travelers age 11 and older are required to present a negative COVID-19
+test for travel between the provinces when departing from Kinshasa,
+Lubumbashi, Bukavu, Goma, and Kisangani. Where possible, the test must
+be taken within 7 days of travel. Source
+<https://web.archive.org/web/20210824015546/https://cd.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -1164,6 +1205,45 @@ for details and to request an appointment; source:
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ONE</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Congo (1S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Congo (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Government of DRC approved a COVID-19 vaccine; Astrazeneca; People
+interested in receiving the vaccine should contact a location directly
+for details and to request an appointment; source:
+<https://web.archive.org/web/20210824015546/https://cd.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -1216,6 +1296,294 @@ Government of DRC approved a COVID-19 vaccine; Astrazeneca; People
 interested in receiving the vaccine should contact a location directly
 for details and to request an appointment; source:
 /web/20210823084756/<https://cd.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Czech Republic (GRI: 52 ↓ 51)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Czech Republic (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Czech Republic (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools are back to usual teaching, with some advice regarding mask
+wearing Currently the students are on holiday, with anticipated
+clarification of rules in the coming weeks
+<https://web.archive.org/web/20210829095759/https://covid.gov.cz/en/situations/education/primary-schools>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Czech Republic (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Czech Republic (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Events can continue as usual, with restrictions on gatherings, hygiene
+measures and testing requirements in place ‘Cultural events’ require at
+least an FFP2/KN95 mask
+<https://web.archive.org/web/20210829103915/https://covid.gov.cz/en/situations/culture/social-events>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Czech Republic
+(3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Czech
+Republic (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Stratified by green-orange-red-dark red Dark red is most restictive with
+PCR test between 5-14 days after arrival and quarantine until results
+<https://web.archive.org/web/20210829114326/https://covid.gov.cz/en/situations/foreigners/possibilities-and-obligations-foreigners-when-entering-cz>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Czech Republic (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+16/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Czech Republic (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+"“In places with a high concentration of people and in all indoor areas
+where it is not possible to keep a distance of at least 1.5m from
+others, it is necessary to have a respirator or other protective
+equipment without an exhalation valve with a filtration efficiency of at
+least 94% (class FFP2 / KN 95).”" Exemptions: at home or other
+accommodation, pre-school children, within the same household, serious
+mental illness intellectual impairment or health issue certified by a
+doctor Masks are not compulsory outdoors except on public transport and
+at events (see events guidance)
+<https://web.archive.org/web/20210829173517/https://covid.gov.cz/en/situations/face-masks-and-respirators/indoors>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Eritrea (GRI: 51 ↓ 45)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Eritrea (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Eritrea (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No restrictions on internal movement. please visit the following site
+under movement restrictions.
+<https://web.archive.org/web/20210823110921/https://er.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -1338,102 +1706,6 @@ The Ethiopian national vaccination programme started in March 2021 and
 is using the AstraZeneca (Covishield) and Sinopharm vaccines. Source:
 <https://web.archive.org/web/20210825233023/https://et.usembassy.gov/covid-19-information/>
 <https://web.archive.org/web/20210322111639/https://www.gov.uk/foreign-travel-advice/ethiopia/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Finland (GRI: 53 ↑ 54)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Finland (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Finland (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions vary based on the region of the country, however, the
-strictest places have a maximum number of 10 for indoor gatherings.
-Archived:
-<https://web.archive.org/web/20210820135115/https://avi.fi/koronarajoitukset-selkokielella>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Finland (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Finland (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions vary based on the region of the country, however, the
-strictest places have a maximum number of 10 for indoor gatherings.
-Archived:
-<https://web.archive.org/web/20210820135115/https://avi.fi/koronarajoitukset-selkokielella>
 
 </td>
 
@@ -3320,6 +3592,60 @@ supplies at the door, rather than come in.? You are at high risk if you
 are over 70, have a compromised immune system or have underlying health
 conditions.”"
 <https://web.archive.org/web/20210822173310/https://covid19.govt.nz/alert-levels-and-updates/alert-level-4/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Niger (GRI: 35 ↓ 29)
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA Niger
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Niger (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There is no specific information on debt/contract relief in Niger.
 
 </td>
 
