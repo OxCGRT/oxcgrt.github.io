@@ -3828,6 +3828,10 @@ vulnerable communities.
 
 <td style="text-align:left;min-width: 4in; ">
 
+Retail and personal service sectors (spas and hairdressers) have
+reopened. Source:
+<https://web.archive.org/web/20210829024358/https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/coronavirus>
+
 </td>
 
 </tr>
