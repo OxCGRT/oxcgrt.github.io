@@ -40,13 +40,12 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
-</div><div><a href="#france-gri-70--73">France (GRI: 70 ↑ 73)</a> 
 </div><div><a href="#germany-gri-64--67">Germany (GRI: 64 ↑ 67)</a> 
 </div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
 </div><div><a href="#new zealand-gri-88--90">New Zealand (GRI: 88 ↑ 90)</a> 
-</div><div><a href="#norway-gri-50--57">Norway (GRI: 50 ↑ 57)</a> 
+</div><div><a href="#norway-gri-50--53">Norway (GRI: 50 ↑ 53)</a> 
 </div><div><a href="#south africa-gri-62--63">South Africa (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#sri lanka-gri-77--82">Sri Lanka (GRI: 77 ↑ 82)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
@@ -60,8 +59,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
-</div><div><a href="#singapore-gri-70--66">Singapore (GRI: 70 ↓ 66)</a> 
-</div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#trinidad and tobago-gri-72--70">Trinidad and Tobago (GRI: 72 ↓ 70)</a> 
 </div><div><a href="#united arab emirates-gri-69--62">United Arab Emirates (GRI: 69 ↓ 62)</a> 
 </div></div> <br/>
@@ -1312,63 +1309,6 @@ is using the AstraZeneca (Covishield) and Sinopharm vaccines. Source:
 
 </div>
 
-### France (GRI: 70 ↑ 73)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of France (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; across <b>all</b> of France (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-“From early August, you will need a health pass for long-distance trips
-by plane, train and coach.” Source:
-<http://web.archive.org/web/20210820131059/https://www.gouvernement.fr/info-coronavirus/pass-sanitaire>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Germany (GRI: 64 ↑ 67)
 
 #### School closing (C1)
@@ -2394,94 +2334,6 @@ No policy update.
 
 </div>
 
-#### Contact tracing (H3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Mongolia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No contact tracing</b> is present across all of Mongolia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy update.
-<https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No contact tracing</b> is present across all of Mongolia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Mongolia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy update.
-<https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### New Zealand (GRI: 88 ↑ 90)
 
 #### School closing (C1)
@@ -3032,66 +2884,7 @@ conditions.”"
 
 </div>
 
-### Norway (GRI: 50 ↑ 57)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Norway (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Norway (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy change. Continued from 13 Aug, the recommendation is not to
-exceed a maximum of 20 guests, and people are encouraged to meet
-outdoors. Protected persons (persons who have been fully vaccinated,
-received the first dose of the vaccine three weeks or longer ago and
-persons who have had Covid-19 in the past six months) do not count
-against this number, but it must still be possible to maintain social
-distancing.
-<https://web.archive.org/web/20210828083843/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Norway (GRI: 50 ↑ 53)
 
 #### Testing policy (H2)
 
@@ -3328,129 +3121,6 @@ vehicles from an electronic platform. Sources:
 
 </div>
 
-### Singapore (GRI: 70 ↓ 66)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Singapore (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into
-Singapore (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of the 20th of August 2021, Singapore began opening up the borders,
-even to previously banned countries, and will be restructuring the
-framework for handling inbound travellers.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Quote (1): "“10. As a first step, we
-have reviewed the country/ region classifications for our border
-measures. Countries/ regions will be classified in one of four
-categories, each with differentiated border measures, premised on a
-traveller’s 21-day travel history prior to their entry into Singapore.
-If the traveller visits or transits through countries/ regions in
-different categories, the most stringent set of requirements among those
-countries/ regions will apply. The updated classification, together with
-the associated testing requirements, can be found in Annex B and on the
-SafeTravel website. a. Category I – Travellers from countries/ regions
-in this category can enter Singapore without having to serve a Stay-Home
-Notice (SHN). They will only be subject to an On-Arrival COVID-19 PCR2
-and if negative, will be allowed to go about their activities. This
-would include countries/regions such as Mainland China (excluding
-Jiangsu province), New Zealand and Taiwan today. i. We have reviewed the
-COVID-19 situation in Hong Kong and Macao, and will also add them to
-this category from 20 August 2021, 2359 hours. See Annex C for details.
-b. Category II – Travellers from countries/ regions in this category
-will be required to undergo a 7-day SHN, which can be served at their
-accommodation of choice. Singapore Citizens, Permanent Residents and
-Long-Term Pass Holders may serve their 7-day SHN at their place of
-residence, if conditions are suitable. Currently, only Mainland China
-(Jiangsu province) is in this category. i. We have reviewed the COVID-19
-situation in Australia, Canada, and Germany, and will add these
-countries/ regions to this category from 20 August 2021, 2359 hours. We
-have also reviewed the COVID-19 situation in Brunei, and will place them
-in this category from 20 August 2021, 2359 hours (see Annex C).
-c. Category III – Unvaccinated travellers from countries/ regions in
-this category will be required to undergo a 14-day SHN at dedicated SHN
-facilities. Travellers who are fully vaccinated3 may apply to opt out of
-dedicated SHN facilities and serve their 14-day SHN at a suitable
-accommodation of their choice, if they fulfil the criteria in Annex D.
-Currently, Austria, Italy, Norway, the Republic of Korea and Switzerland
-are in this category. i. We have reviewed the COVID-19 situation in
-Belgium, Denmark, Japan and Luxembourg, and will add these countries/
-regions to this category from 20 August 2021, 2359 hrs. d. Category IV –
-Travellers from all other countries/ regions (except Bangladesh, India,
-Myanmar, Nepal, Pakistan and Sri Lanka, where entry is currently not
-allowed4) will be required to undergo a 14-day Stay-Home Notice (SHN) at
-dedicated SHN facilities. Travellers will also be required to comply
-with the testing regime as indicated in Annex B. Starting Vaccinated
-Travel Lanes 11. Beyond the above framework, we will implement a new
-Vaccinated Travel Lane (VTL) to facilitate fully vaccinated persons to
-travel into Singapore under reduced border measures. We will start pilot
-VTL arrangements with Brunei and Germany. In lieu of SHN, these
-vaccinated travellers under the VTL will undergo multiple COVID-19 PCR
-tests, including a pre-departure PCR test within 48 hours of their
-scheduled departure for Singapore, an on-arrival PCR test upon arriving
-in Singapore, and two additional PCR tests on Days 3 and 7 of their stay
-in Singapore (if they have not left yet). 12. The number of VTL
-travellers will be limited by available flights dedicated to the scheme.
-VTL travellers must also travel on non-stop designated flights to
-Singapore. 13. Prior to travelling to Singapore, short-term visitors and
-Long-Term Pass holders who wish to travel under the VTL will need to
-apply for a Vaccinated Travel Pass between 7 and 30 days before their
-intended date of entry into Singapore. Applications for the VTP will
-start from 1 September 2021 for travel into Singapore from 8 September
-2021. Returning Singapore Citizens and Permanent Residents who are
-vaccinated will automatically qualify and will not need to apply for the
-VTP in order to travel under the VTL. The Civil Aviation Authority of
-Singapore will provide more details. 14. As the global situation
-evolves, we will continue to adjust our border measures in tandem with
-our roadmap to becoming a COVID resilient nation. Any changes to border
-measures will be updated on the SafeTravel website. Travellers are
-advised to visit the website to check the latest border measures for the
-associated country or region before entering Singapore.”" Link (1):
-<http://web.archive.org/web/20210823035218/https://www.moh.gov.sg/news-highlights/details/next-steps-in-our-transition-towards-covid-resilience>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### South Africa (GRI: 62 ↑ 63)
 
 #### Testing policy (H2)
@@ -3551,63 +3221,6 @@ to the individual (government funded or subsidised) South Africa (4S)
 
 From August 20, 2021, 18-34 year olds will be able to be vaccinated.
 <https://web.archive.org/web/20210828203506/https://sacoronavirus.co.za/vaccine-updates/#81a491f32b2c269c8>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### South Korea (GRI: 62 ↓ 60)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of South Korea (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of South Korea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://archive.is/pXhh2> Current social distancing extended for 2
-weeks (Aug. 23. \~ Sept. 5.) Level 4 for greater Seoul area, level 3 for
-non-greater Seoul areas
 
 </td>
 
