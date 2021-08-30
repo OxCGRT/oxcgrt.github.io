@@ -36,42 +36,34 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-29</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
-</div><div><a href="#barbados-gri-57--58">Barbados (GRI: 57 ↑ 58)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-08-30</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
 </div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
-</div><div><a href="#colombia-gri-56--60">Colombia (GRI: 56 ↑ 60)</a> 
-</div><div><a href="#eswatini-gri-61--62">Eswatini (GRI: 61 ↑ 62)</a> 
+</div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
 </div><div><a href="#france-gri-70--73">France (GRI: 70 ↑ 73)</a> 
 </div><div><a href="#germany-gri-64--67">Germany (GRI: 64 ↑ 67)</a> 
-</div><div><a href="#israel-gri-63--65">Israel (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#kazakhstan-gri-44--48">Kazakhstan (GRI: 44 ↑ 48)</a> 
-</div><div><a href="#new zealand-gri-40--90">New Zealand (GRI: 40 ↑ 90)</a> 
+</div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
+</div><div><a href="#new zealand-gri-88--90">New Zealand (GRI: 88 ↑ 90)</a> 
 </div><div><a href="#norway-gri-50--57">Norway (GRI: 50 ↑ 57)</a> 
 </div><div><a href="#south africa-gri-62--63">South Africa (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#sri lanka-gri-77--82">Sri Lanka (GRI: 77 ↑ 82)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
-</div><div><a href="#togo-gri-59--61">Togo (GRI: 59 ↑ 61)</a> 
+</div><div><a href="#vietnam-gri-67--72">Vietnam (GRI: 67 ↑ 72)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-68--65">Bahamas (GRI: 68 ↓ 65)</a> 
-</div><div><a href="#congo-gri-47--37">Congo (GRI: 47 ↓ 37)</a> 
+</div><div><a href="#colombia-gri-62--60">Colombia (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#czech republic-gri-52--51">Czech Republic (GRI: 52 ↓ 51)</a> 
-</div><div><a href="#eritrea-gri-51--45">Eritrea (GRI: 51 ↓ 45)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#iran-gri-67--63">Iran (GRI: 67 ↓ 63)</a> 
-</div><div><a href="#ireland-gri-66--64">Ireland (GRI: 66 ↓ 64)</a> 
-</div><div><a href="#liberia-gri-53--47">Liberia (GRI: 53 ↓ 47)</a> 
+</div><div><a href="#israel-gri-63--59">Israel (GRI: 63 ↓ 59)</a> 
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
-</div><div><a href="#mongolia-gri-60--51">Mongolia (GRI: 60 ↓ 51)</a> 
-</div><div><a href="#niger-gri-35--29">Niger (GRI: 35 ↓ 29)</a> 
-</div><div><a href="#pakistan-gri-69--64">Pakistan (GRI: 69 ↓ 64)</a> 
 </div><div><a href="#paraguay-gri-54--51">Paraguay (GRI: 54 ↓ 51)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
-</div><div><a href="#singapore-gri-70--69">Singapore (GRI: 70 ↓ 69)</a> 
+</div><div><a href="#singapore-gri-70--66">Singapore (GRI: 70 ↓ 66)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#trinidad and tobago-gri-72--70">Trinidad and Tobago (GRI: 72 ↓ 70)</a> 
-</div><div><a href="#united arab emirates-gri-68--62">United Arab Emirates (GRI: 68 ↓ 62)</a> 
-</div><div><a href="#vietnam-gri-69--63">Vietnam (GRI: 69 ↓ 63)</a> 
+</div><div><a href="#united arab emirates-gri-69--62">United Arab Emirates (GRI: 69 ↓ 62)</a> 
 </div></div> <br/>
 -->
 
@@ -187,180 +179,6 @@ virus: \* Stay home as much as possible. \* Consider ways of getting
 food brought to your house through family, social, or commercial
 networks Source:
 <https://web.archive.org/web/20210122033858/https://covid19.gov.bs/if-you-are-high-risk/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Barbados (GRI: 57 ↑ 58)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Barbados (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Barbados (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Meetings may resume provided they comply with health protocols. Such
-gatherings are limited to 100 people.
-<https://web.archive.org/web/20210828125157/https://www.garda.com/crisis24/news-alerts/517646/barbados-authorities-extend-covid-19-related-curfew-and-most-restrictions-through-at-least-sept-5-update-35>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Screening</b> arrivals coming into Barbados (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Barbados
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Unvaccinated persons with a valid negative COVID-19 PCR test result will
-be quarantined at a designated holding hotel or approved villa at their
-own expense and will be monitored daily for the onset of symptoms.
-Persons will be required to take a second COVID-19 PCR test 5 days after
-arrival (at least 120 hours after arrival) in Barbados. Persons will
-typically be released once the test result is negative. Vaccinated
-persons will take a COVID-19 PCR test upon arrival and must remain in
-quarantine until a negative test result is received. Due to limited
-capacity, the government quarantine facilities which are provided free
-of cost and used for accommodation prior to 2nd tests will be reserved
-for Barbadians and permanent residents arriving in Barbados.
-\*<https://web.archive.org/web/20210819011448/https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Barbados (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Barbados (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<https://web.archive.org/web/20210819011448/https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
@@ -682,7 +500,7 @@ Council of Canada and Province of Manitoba websites, archived:
 
 </div>
 
-### Colombia (GRI: 56 ↑ 60)
+### Colombia (GRI: 62 ↓ 60)
 
 #### Restrictions on gatherings (C4)
 
@@ -846,7 +664,7 @@ order to avoid a 4th wave with the Delta variant
 
 </div>
 
-### Congo (GRI: 47 ↓ 37)
+### Congo (GRI: 29 ↑ 37)
 
 #### School closing (C1)
 
@@ -1367,116 +1185,6 @@ clarification of rules in the coming weeks
 
 </div>
 
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Czech Republic (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-15/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Czech Republic (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Events can continue as usual, with restrictions on gatherings, hygiene
-measures and testing requirements in place ‘Cultural events’ require at
-least an FFP2/KN95 mask
-<https://web.archive.org/web/20210829103915/https://covid.gov.cz/en/situations/culture/social-events>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Czech Republic
-(3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-15/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Czech
-Republic (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Stratified by green-orange-red-dark red Dark red is most restictive with
-PCR test between 5-14 days after arrival and quarantine until results
-<https://web.archive.org/web/20210829114326/https://covid.gov.cz/en/situations/foreigners/possibilities-and-obligations-foreigners-when-entering-cz>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Facial Coverings (H6)
 
 <div id="table-div">
@@ -1528,121 +1236,6 @@ mental illness intellectual impairment or health issue certified by a
 doctor Masks are not compulsory outdoors except on public transport and
 at events (see events guidance)
 <https://web.archive.org/web/20210829173517/https://covid.gov.cz/en/situations/face-masks-and-respirators/indoors>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Eritrea (GRI: 51 ↓ 45)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Eritrea (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Eritrea (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No restrictions on internal movement. please visit the following site
-under movement restrictions.
-<https://web.archive.org/web/20210823110921/https://er.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Eswatini (GRI: 61 ↑ 62)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Eswatini (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Eswatini (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the U.S. Embassy in Eswatini, as of August 17, 2021,
-according to Eswatini authorities, the Astra-Zeneca shot is now
-available to all residents, including non-Swati citizens.
-<https://web.archive.org/web/20210822205517/https://sz.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -2154,62 +1747,6 @@ Aug. <https://web.archive.org/web/20210829130500/https://www.theguardian.com/wo
 
 </div>
 
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Iran (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-15/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Iran (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Alireza Raisi, the spokesman for the Covid task force, said travelling
-by car between provinces would be prohibited starting at noon on Sunday
-15 August (0730 GMT) and lasting until August 27.
-<https://web.archive.org/web/20210829084439/https://www.wionews.com/world/iran-tightens-covid-restrictions-as-coronavirus-cases-and-deaths-surge-405437>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Protection of elderly people (H8)
 
 <div id="table-div">
@@ -2308,73 +1845,7 @@ Aug. <https://web.archive.org/web/20210829130500/https://www.theguardian.com/wo
 
 </div>
 
-### Ireland (GRI: 66 ↓ 64)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Ireland (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Ireland
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-International travel has resumed. Ireland is operating the EU Digital
-COVID Certificate for travel within the EU and EEA. If you are
-travelling to Ireland, you may have to quarantine on arrival. In some
-cases, you must pay in advance for mandatory hotel quarantine. If you do
-not have valid proof of vaccination or recovery, you will need to: Show
-evidence of a negative RT- PCR test result taken within 72 hours before
-your arrival Self-quarantine (also called home quarantine) Take a
-post-arrival test - this is provided through the HSE Exceptions to home
-quarantine: You do not have to complete mandatory home quarantine in
-some limited cases. For example, essential workers, may be able to leave
-their place of quarantine when necessary to do their essential job. This
-is only for as long as strictly required.
-<https://web.archive.org/web/20210824063709/https://www.citizensinformation.ie/en/travel_and_recreation/travel_to_ireland/travel_to_ireland_during_covid.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Israel (GRI: 63 ↑ 65)
+### Israel (GRI: 63 ↓ 59)
 
 #### School closing (C1)
 
@@ -2617,120 +2088,6 @@ during the weekends since August 2. <https://archive.vn/9YzIn>
 
 </div>
 
-### Liberia (GRI: 53 ↓ 47)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Liberia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
-Liberia (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Sporting events allow no spectators. Other gatherings limted up to 20
-people.
-<https://web.archive.org/web/20210823161304/https://www.gov.uk/foreign-travel-advice/liberia/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Liberia (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Liberia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There is no longer a quarantine or border closure in place. People can
-move freely about the country. Test results/screening required for all
-arrivals and departures.
-<https://web.archive.org/web/20210823160847/https://lr.usembassy.gov/covid-19-information/>
-INterestingly, the UK reports land borders are closed, but the US does
-not indicate such (whereas they have in the past.)
-<https://web.archive.org/web/20210823161304/https://www.gov.uk/foreign-travel-advice/liberia/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Lithuania (GRI: 55 ↑ 55)
 
 #### School closing (C1)
@@ -2947,7 +2304,7 @@ antigen tests.
 
 </div>
 
-### Mongolia (GRI: 60 ↓ 51)
+### Mongolia (GRI: 54 ↑ 60)
 
 #### Debt/contract relief (E2)
 
@@ -2989,6 +2346,41 @@ Mongolia (2)
 
 No policy update.
 <https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of Mongolia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Mongolia (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy update.
+<https://web.archive.org/web/20210830022528/https://mn.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -3047,6 +2439,41 @@ No policy update.
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No contact tracing</b> is present across all of Mongolia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+17/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Mongolia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy update.
+<https://web.archive.org/web/20210817033057/https://mn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -3055,7 +2482,7 @@ No policy update.
 
 </div>
 
-### New Zealand (GRI: 40 ↑ 90)
+### New Zealand (GRI: 88 ↑ 90)
 
 #### School closing (C1)
 
@@ -3605,60 +3032,6 @@ conditions.”"
 
 </div>
 
-### Niger (GRI: 35 ↓ 29)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA Niger
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No debt relief</b> is present across all of Niger (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There is no specific information on debt/contract relief in Niger.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Norway (GRI: 50 ↑ 57)
 
 #### Restrictions on gatherings (C4)
@@ -3838,123 +3211,6 @@ passenger seat.
 
 </div>
 
-### Pakistan (GRI: 69 ↓ 64)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Pakistan (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Pakistan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Sindh Education Minister Syed Sardar Ali Shah said on Tuesday that
-schools across the province will open from August 23 (Monday).
-Announcing the decision after a meeting of the steering committee, the
-education minister said: "“The decision has been taken to open schools
-from Monday to continue the education journey of children.”" He said
-schools would be opened with 50 per cent attendance and subject to
-strict compliance with Covid-19 standard operating procedures.
-<https://web.archive.org/web/20210821113540/https://www.dawn.com/news/1641197>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Pakistan (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> wearing of face masks; across <b>all</b> of Pakistan
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Masks continue to be mandatory in all public spaces.
-<https://web.archive.org/web/20210817002555/https://covid.gov.pk/prevention>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Paraguay (GRI: 54 ↓ 51)
 
 #### Income support (E1)
@@ -4072,7 +3328,7 @@ vehicles from an electronic platform. Sources:
 
 </div>
 
-### Singapore (GRI: 70 ↓ 69)
+### Singapore (GRI: 70 ↓ 66)
 
 #### International travel controls (C8)
 
@@ -4680,63 +3936,6 @@ this round of bookings.
 
 </div>
 
-### Togo (GRI: 59 ↑ 61)
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>formal
-workers only</b> in Togo (1F)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>all
-workers</b> in Togo (1A)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Togolese government provides cash support for the poorest and most
-vulnerable communities.
-<http://web.archive.org/web/20210828093426/https://www.worldbank.org/en/news/press-release/2021/06/23/togo-un-soutien-supplementaire-pour-accompagner-les-personnes-les-plus-touchees-par-la-pandemie-de-covid-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Trinidad and Tobago (GRI: 72 ↓ 70)
 
 #### Workplace closing (C2)
@@ -4794,7 +3993,7 @@ reopened. Source:
 
 </div>
 
-### United Arab Emirates (GRI: 68 ↓ 62)
+### United Arab Emirates (GRI: 69 ↓ 62)
 
 #### Restrictions on gatherings (C4)
 
@@ -5035,7 +4234,7 @@ The Emirate of Abu Dhabi has announced plans to end the nightly 00:01 to
 
 </div>
 
-### Vietnam (GRI: 69 ↓ 63)
+### Vietnam (GRI: 67 ↑ 72)
 
 #### Workplace closing (C2)
 
@@ -5334,6 +4533,43 @@ parts of Vietnam (2T)
 
 No extra measures found to protect the elderly.
 <http://web.archive.org/web/20210816004437/https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Vietnam (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Vietnam (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No extra measures found to protect the elderly.
+<http://web.archive.org/web/20210816004437/https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/>
+No protections beyond those mandated for the general public. link:
+<https://archive.ph/xnsGE>
 
 </td>
 
