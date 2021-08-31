@@ -49,6 +49,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
 </div><div><a href="#new zealand-gri-88--90">New Zealand (GRI: 88 ↑ 90)</a> 
 </div><div><a href="#norway-gri-50--53">Norway (GRI: 50 ↑ 53)</a> 
+</div><div><a href="#oman-gri-53--62">Oman (GRI: 53 ↑ 62)</a> 
 </div><div><a href="#south africa-gri-62--63">South Africa (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#sri lanka-gri-77--82">Sri Lanka (GRI: 77 ↑ 82)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
@@ -58,6 +59,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-65--64">Bahamas (GRI: 65 ↓ 64)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
 </div><div><a href="#cambodia-gri-61--60">Cambodia (GRI: 61 ↓ 60)</a> 
+</div><div><a href="#cote d'ivoire-gri-41--39">Cote d'Ivoire (GRI: 41 ↓ 39)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
 </div><div><a href="#hungary-gri-42--38">Hungary (GRI: 42 ↓ 38)</a> 
@@ -1356,6 +1358,66 @@ Government of DRC approved a COVID-19 vaccine; Astrazeneca; People
 interested in receiving the vaccine should contact a location directly
 for details and to request an appointment; source:
 /web/20210823084756/<https://cd.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Cote d’Ivoire (GRI: 41 ↓ 39)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cote
+d’Ivoire (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Cote d’Ivoire (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travellers arriving the country are screened and those with a positive
+result are asked to quarantine
+<https://web.archive.org/web/20210627175820/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+<https://web.archive.org/web/20210627075106/https://ci.usembassy.gov/covid-19-information/>
+<https://web.archive.org/web/20210627182756/https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/coronavirus>
+<https://web.archive.org/web/20210627182739/https://www.smartraveller.gov.au/destinations/africa/cote-divoire-ivory-coast>
+<https://web.archive.org/web/20210413144234/https://www.garda.com/crisis24/news-alerts/466451/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-april-13-update-22>
 
 </td>
 
@@ -4449,6 +4511,133 @@ passengers are advised to wear a mask and avoid sitting in the front
 passenger seat.
 <https://web.archive.org/web/20210828083843/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
 <https://web.archive.org/web/20210828083837/https://no.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Oman (GRI: 53 ↑ 62)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Oman (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Oman (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All travelers arriving to Oman must undergo a COVID-19 PCR test before
+their arrival in Oman – for shorter flights, the test must be within 72
+hours and with longer international flights (i.e. with a period of no
+less than 8 hours) within 96 hours On August 16, 2021 the Supreme
+Committee announced that starting on August 17, 2021, all travelers
+coming from Iran and Iraq, including Omani citizens, must complete
+institutional quarantine. Omani citizens, residents with valid residency
+permits, and travelers with a valid visa are allowed to enter the
+Sultanate without prior approval. SOURCE:
+<http://web.archive.org/web/20210829182527/https://om.usembassy.gov/u-s-citizen-services/covid-19-information/>
+<http://web.archive.org/web/20210829183239/https://www.garda.com/crisis24/news-alerts/515536/oman-authorities-to-ease-some-covid-19-restrictions-from-aug-21-update-58>
+<http://web.archive.org/web/20210829183744/https://www.omanairports.co.om/news/en/update-on-travel-restrictions-related-to-covid-19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Oman (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Oman (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+3.8.21 The Ministry of Health (MOH) started today (Tuesday) COVID-19
+immunization service for school students from the age group of 12 and
+above across the Sultanate’s Governorates, noting that the Oman
+Convention & Exhibition Centre witnessed a large turnout from the target
+group since the early morning. Source:
+<http://web.archive.org/web/20210829185028/https://www.moh.gov.om/en/-/--44>
+Oman has administered at least 3,379,862 doses of COVID vaccines so far.
+Assuming every person needs 2 doses, that’s enough to have vaccinated
+about 34% of the country’s population. Source:
+<http://web.archive.org/web/20210829185830/https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/oman/>
 
 </td>
 
