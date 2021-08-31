@@ -52,14 +52,15 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#south africa-gri-62--63">South Africa (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#sri lanka-gri-77--82">Sri Lanka (GRI: 77 ↑ 82)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
+</div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#vietnam-gri-67--72">Vietnam (GRI: 67 ↑ 72)</a> 
 </div><div><a href="#zimbabwe-gri-60--62">Zimbabwe (GRI: 60 ↑ 62)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-65--64">Bahamas (GRI: 65 ↓ 64)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
 </div><div><a href="#cambodia-gri-61--60">Cambodia (GRI: 61 ↓ 60)</a> 
-</div><div><a href="#colombia-gri-62--60">Colombia (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
+</div><div><a href="#hungary-gri-42--38">Hungary (GRI: 42 ↓ 38)</a> 
 </div><div><a href="#iran-gri-67--63">Iran (GRI: 67 ↓ 63)</a> 
 </div><div><a href="#israel-gri-65--59">Israel (GRI: 65 ↓ 59)</a> 
 </div><div><a href="#jamaica-gri-66--65">Jamaica (GRI: 66 ↓ 65)</a> 
@@ -892,170 +893,6 @@ Council of Canada and Province of Manitoba websites, archived:
 <https://web.archive.org/web/20210826193139/www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
 <https://web.archive.org/web/20210812112606/https://news.gov.mb.ca/asset_library/en/newslinks/2021/08/BG-PHO_Update_Aug_7-PR-CPPHO.pdf>
 <https://web.archive.org/web/20210826191535/normanwells.com/updates/community-update-august-26-2021/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Colombia (GRI: 62 ↓ 60)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Colombia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Colombia (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Although there’s a trend for fewer cases in Colombia, the government has
-urged the population to maintain the same restrictions and measures in
-order to avoid a 4th wave with the Delta variant
-<https://web.archive.org/web/20210821163916/https://elnuevosiglo.com.co/articulos/08-21-2021-hay-una-tendencia-la-baja-de-casos-covid-y-eso-plantea-desafios-minsalud>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Colombia (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; in <b>some</b> parts of Colombia
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Colombia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Colombia (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Although there’s a trend for fewer cases in Colombia, the government has
-urged the population to maintain the same restrictions and measures in
-order to avoid a 4th wave with the Delta variant
-<https://web.archive.org/web/20210821163916/https://elnuevosiglo.com.co/articulos/08-21-2021-hay-una-tendencia-la-baja-de-casos-covid-y-eso-plantea-desafios-minsalud>
 
 </td>
 
@@ -2833,6 +2670,243 @@ Guinea (1G)
 H8 0 There is no information available on the direct protection of the
 elderly from Covid 19, however, all general preventive measures apply to
 them. <https://archive.vn/WIv2g>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Hungary (GRI: 42 ↓ 38)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Hungary (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Hungary (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+For sporting, dance and other indoor events, as well as outdoor events
+with more than 500 people attendance, limits remain in force and entry
+is only allowed to holders of Immunity Certificates. Children aged under
+18 may only attend if a holder of an Immunity Certificate or under the
+supervision of an adult holding an Immunity Certificate.
+<https://web.archive.org/web/20210831085324/https://www.gov.uk/foreign-travel-advice/hungary/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Hungary (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Hungary (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+For sporting, dance and other indoor events, as well as outdoor events
+with more than 500 people attendance, limits remain in force and entry
+is only allowed to holders of Immunity Certificates. Children aged under
+18 may only attend if a holder of an Immunity Certificate or under the
+supervision of an adult holding an Immunity Certificate.
+<https://web.archive.org/web/20210831085324/https://www.gov.uk/foreign-travel-advice/hungary/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Hungary (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Hungary (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+You can enter Hungary by road, rail and waterway from all the countries
+neighbouring Hungary (Croatia, Austria, Romania, Serbia, Slovakia,
+Slovenia and Ukraine) without any epidemiological restrictions,
+regardless of your nationality and coronavirus immunity. Foreign
+(including UK) nationals may also enter Hungary without any
+epidemiological restrictions if they hold a negative PCR test conducted
+in the previous 72 hours in one of the following places: all EU member
+states and candidate countries; all OECD member states; all NATO member
+states, member states of the Turkic Council and Bahrain, China, Georgia,
+India, Indonesia, Russia; Singapore, Ukraine, and the UAE. If you do not
+possess a Hungary issued Immunity certificate, a negative PCR test or
+meet one of the exemptions, you will be required to quarantine upon
+arrival.
+<https://web.archive.org/web/20210831090347/https://www.gov.uk/foreign-travel-advice/hungary/entry-requirements>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Hungary (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Hungary (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Visits to hospitals and social care facilities are allowed for all types
+of visitor, but it is mandatory to wear face masks.
+<https://web.archive.org/web/20210831085324/https://www.gov.uk/foreign-travel-advice/hungary/coronavirus>
 
 </td>
 
@@ -5677,6 +5751,130 @@ Arab Emirates (1T)
 The Emirate of Abu Dhabi has announced plans to end the nightly 00:01 to
 05:00 curfew.
 <https://web.archive.org/web/20210822161242/https://www.garda.com/crisis24/news-alerts/515426/uae-abu-dhabi-ends-nightly-0001-0500-curfew-as-of-aug-19-update-71>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### United States (GRI: 60 ↑ 61)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of United States (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of United
+States (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Some states or cities are requiring certain workers to be vaccinated or
+tested daily for work. See New Orleans in Louisiana: Vaccination or
+regular testing is now required for city employees in New Orleans. New
+Orleans guidance:
+<https://web.archive.org/web/20210830134430/https://ready.nola.gov/incident/coronavirus/safe-reopening/>
+//
+<https://web.archive.org/web/20210830134520/https://ready.nola.gov/NOLAReady/media/Documents/Coronavirus/NOHD-Guidelines-for-reopening-August-13-Vaccine-Requirement-final.pdf//>
+<https://web.archive.org/web/20210830134704/https://ready.nola.gov/incident/coronavirus/update/opsb-adopts-vaccination-resolution-for-schools-pas/>
+//
+<https://web.archive.org/web/20210830134808/https://www.nola.gov/mayor/executive-orders/executive-orders/lc-21-05-safety-practices-of-city-employees-and-public-gacing-contracted-personnel-during-the-covid/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+United States (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+United States (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Some areas (counties/cities within states) have started cancelling
+events. See Georgia: According to a news article published in Savannah
+Now on 24 August 2021, "“Savannah Mayor Van Johnson on Tuesday placed a
+moratorium on issuing permits for events in public spaces and revoked
+permits for events planned through Sept. 30, including the Savannah Jazz
+Festival.”"
+<https://web.archive.org/web/20210831035045/https://www.savannahnow.com/story/news/2021/08/24/city-savannah-announces-new-covid-19-restrictions-events-permits/5569843001/>
 
 </td>
 
