@@ -55,10 +55,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#vietnam-gri-67--72">Vietnam (GRI: 67 ↑ 72)</a> 
 </div><div><a href="#zimbabwe-gri-60--62">Zimbabwe (GRI: 60 ↑ 62)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-65--64">Bahamas (GRI: 65 ↓ 64)</a> 
+</div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
 </div><div><a href="#cambodia-gri-61--60">Cambodia (GRI: 61 ↓ 60)</a> 
 </div><div><a href="#cote d'ivoire-gri-41--39">Cote d'Ivoire (GRI: 41 ↓ 39)</a> 
+</div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
+</div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
 </div><div><a href="#iran-gri-67--63">Iran (GRI: 67 ↓ 63)</a> 
 </div><div><a href="#israel-gri-65--59">Israel (GRI: 65 ↓ 59)</a> 
@@ -295,6 +298,126 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); in
 Restricted to five people provided that all persons are fully
 vaccinated.
 <https://web.archive.org/web/20210829111101/https://opm.gov.bs/covid19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Belgium (GRI: 64 ↓ 61)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Belgium (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
+Belgium (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On September 1, certain restrictions were relaxed in Belgium, with the
+exception of Brussels. Wearing a mask will no longer be compulsory at
+indoor events gathering up to 200 people, unless local authorities
+decide to maintain rules to the contrary. Outdoor events gathering up to
+400 people can also be organized without the need for a mask or safe
+distancing. Larger events can still be organized, however, these
+requires the Covid Safe Ticket, which indicates proof of full
+vaccination, a recent negative test result or the presence of antibodies
+following a recent coronavirus infection. Archived:
+<https://web.archive.org/web/20210902145654/https://www.garda.com/crisis24/news-alerts/517516/belgium-authorities-to-ease-covid-19-related-domestic-restrictions-from-sept-1-update-41>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Belgium (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Belgium (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Although the restrictions on internal gathering has been completely
+removed in most regions of the country, areas as Brussels are still
+under these restrictions due to lagging vaccination rates. Archived:
+<https://web.archive.org/web/20210902145654/https://www.garda.com/crisis24/news-alerts/517516/belgium-authorities-to-ease-covid-19-related-domestic-restrictions-from-sept-1-update-41>
 
 </td>
 
@@ -1247,6 +1370,182 @@ Therefore, it is not universally available.
 
 </div>
 
+### Denmark (GRI: 54 ↓ 47)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Denmark
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Workplaces are open. However, workers who are not vaccinated or
+previously infected are to get tested – preferably once per week – at
+one of the many test centres. Archived:
+<https://web.archive.org/web/20210902151624/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_qqi.7WZkFEIuFmAC5kEQ9N2Hlopwipmq4eqAI1Scd8w-1630595706-0-gqNtZGzNA5CjcnBszQsl>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Denmark (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are no restrictions on gatherings in Denmark Archived:
+<https://web.archive.org/web/20210902152717/https://www.ece-copenhagen2021.eu/covid-19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Denmark (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+In Denmark, a face mask or shield is required at the airport. A face
+mask or shield is not required when using public transportation. People
+are advised to wear a face mask or shield at test centres or when they
+visit the hospital. However, some groups are exempt from the required
+use of face mask or shield. These include, children up to the age of 12,
+people with a decreased level of consciousness, or people with physical
+or mental impairments that make it impossible for them to remove the
+face mask or shield themselves. Face masks may be removed if the wearer
+experience a severe discomfort, such as difficulty breathing. Archived:
+<https://web.archive.org/web/20210902151624/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_qqi.7WZkFEIuFmAC5kEQ9N2Hlopwipmq4eqAI1Scd8w-1630595706-0-gqNtZGzNA5CjcnBszQsl>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Ethiopia (GRI: 46 ↓ 44)
 
 #### Vaccination policy (H7)
@@ -1297,6 +1596,66 @@ The Ethiopian national vaccination programme started in March 2021 and
 is using the AstraZeneca (Covishield) and Sinopharm vaccines. Source:
 <https://web.archive.org/web/20210825233023/https://et.usembassy.gov/covid-19-information/>
 <https://web.archive.org/web/20210322111639/https://www.gov.uk/foreign-travel-advice/ethiopia/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Finland (GRI: 53 ↓ 52)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Finland
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of
+Finland (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The authorities recommend extensive remote work in both the public and
+private sectors in all areas where the epidemic is in the acceleration
+or community transmission phase. Archived:
+<https://web.archive.org/web/20210902155803/https://valtioneuvosto.fi/tietoa-koronaviruksesta/rajoitukset-ja-suositukset>
 
 </td>
 
