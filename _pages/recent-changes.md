@@ -36,12 +36,12 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-01</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-02</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
 </div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
 </div><div><a href="#cuba-gri-77--79">Cuba (GRI: 77 ↑ 79)</a> 
-</div><div><a href="#germany-gri-64--67">Germany (GRI: 64 ↑ 67)</a> 
+</div><div><a href="#germany-gri-62--67">Germany (GRI: 62 ↑ 67)</a> 
 </div><div><a href="#greece-gri-66--70">Greece (GRI: 66 ↑ 70)</a> 
 </div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
 </div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
@@ -50,7 +50,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#new zealand-gri-88--90">New Zealand (GRI: 88 ↑ 90)</a> 
 </div><div><a href="#norway-gri-50--53">Norway (GRI: 50 ↑ 53)</a> 
 </div><div><a href="#oman-gri-53--62">Oman (GRI: 53 ↑ 62)</a> 
-</div><div><a href="#south africa-gri-62--63">South Africa (GRI: 62 ↑ 63)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#vietnam-gri-67--72">Vietnam (GRI: 67 ↑ 72)</a> 
@@ -61,7 +60,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#cote d'ivoire-gri-41--39">Cote d'Ivoire (GRI: 41 ↓ 39)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
-</div><div><a href="#hungary-gri-42--38">Hungary (GRI: 42 ↓ 38)</a> 
 </div><div><a href="#iran-gri-67--63">Iran (GRI: 67 ↓ 63)</a> 
 </div><div><a href="#israel-gri-65--59">Israel (GRI: 65 ↓ 59)</a> 
 </div><div><a href="#jamaica-gri-66--65">Jamaica (GRI: 66 ↓ 65)</a> 
@@ -70,7 +68,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#russia-gri-59--58">Russia (GRI: 59 ↓ 58)</a> 
 </div><div><a href="#saudi arabia-gri-56--54">Saudi Arabia (GRI: 56 ↓ 54)</a> 
 </div><div><a href="#trinidad and tobago-gri-72--70">Trinidad and Tobago (GRI: 72 ↓ 70)</a> 
-</div><div><a href="#united arab emirates-gri-63--62">United Arab Emirates (GRI: 63 ↓ 62)</a> 
 </div><div><a href="#uruguay-gri-60--58">Uruguay (GRI: 60 ↓ 58)</a> 
 </div></div> <br/>
 -->
@@ -298,65 +295,6 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); in
 Restricted to five people provided that all persons are fully
 vaccinated.
 <https://web.archive.org/web/20210829111101/https://opm.gov.bs/covid19/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; in
-<b>some</b> parts of Bahamas (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Bahamas (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Recomend taking extra measures to put distance between yourself and
-other people to further reduce your risk of being exposed to this new
-virus: \* Stay home as much as possible. \* Consider ways of getting
-food brought to your house through family, social, or commercial
-networks Source:
-<https://web.archive.org/web/20210122033858/https://covid19.gov.bs/if-you-are-high-risk/>
 
 </td>
 
@@ -1372,7 +1310,7 @@ is using the AstraZeneca (Covishield) and Sinopharm vaccines. Source:
 
 </div>
 
-### Germany (GRI: 64 ↑ 67)
+### Germany (GRI: 62 ↑ 67)
 
 #### School closing (C1)
 
@@ -2396,243 +2334,6 @@ them. <https://archive.vn/WIv2g>
 
 </div>
 
-### Hungary (GRI: 42 ↓ 38)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Hungary (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Hungary (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-For sporting, dance and other indoor events, as well as outdoor events
-with more than 500 people attendance, limits remain in force and entry
-is only allowed to holders of Immunity Certificates. Children aged under
-18 may only attend if a holder of an Immunity Certificate or under the
-supervision of an adult holding an Immunity Certificate.
-<https://web.archive.org/web/20210831085324/https://www.gov.uk/foreign-travel-advice/hungary/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Hungary (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Hungary (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-For sporting, dance and other indoor events, as well as outdoor events
-with more than 500 people attendance, limits remain in force and entry
-is only allowed to holders of Immunity Certificates. Children aged under
-18 may only attend if a holder of an Immunity Certificate or under the
-supervision of an adult holding an Immunity Certificate.
-<https://web.archive.org/web/20210831085324/https://www.gov.uk/foreign-travel-advice/hungary/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Hungary (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Hungary (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-You can enter Hungary by road, rail and waterway from all the countries
-neighbouring Hungary (Croatia, Austria, Romania, Serbia, Slovakia,
-Slovenia and Ukraine) without any epidemiological restrictions,
-regardless of your nationality and coronavirus immunity. Foreign
-(including UK) nationals may also enter Hungary without any
-epidemiological restrictions if they hold a negative PCR test conducted
-in the previous 72 hours in one of the following places: all EU member
-states and candidate countries; all OECD member states; all NATO member
-states, member states of the Turkic Council and Bahrain, China, Georgia,
-India, Indonesia, Russia; Singapore, Ukraine, and the UAE. If you do not
-possess a Hungary issued Immunity certificate, a negative PCR test or
-meet one of the exemptions, you will be required to quarantine upon
-arrival.
-<https://web.archive.org/web/20210831090347/https://www.gov.uk/foreign-travel-advice/hungary/entry-requirements>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Hungary (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Hungary (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Visits to hospitals and social care facilities are allowed for all types
-of visitor, but it is mandatory to wear face masks.
-<https://web.archive.org/web/20210831085324/https://www.gov.uk/foreign-travel-advice/hungary/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Iran (GRI: 67 ↓ 63)
 
 #### Workplace closing (C2)
@@ -2805,61 +2506,6 @@ Aug. <https://web.archive.org/web/20210829130500/https://www.theguardian.com/wo
 </div>
 
 ### Israel (GRI: 65 ↓ 59)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Israel (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Israel (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Regulations begin on 18 August restricting access to universities for
-those with green passes. New regulations introduced for schools. Source:
-<https://archive.vn/w6pFw>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 ### Jamaica (GRI: 66 ↓ 65)
 
@@ -4351,63 +3997,6 @@ asymptomatic). Link:
 
 </div>
 
-### South Africa (GRI: 62 ↑ 63)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) South Africa (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) South Africa (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From August 20, 2021, 18-34 year olds will be able to be vaccinated.
-<https://web.archive.org/web/20210828203506/https://sacoronavirus.co.za/vaccine-updates/#81a491f32b2c269c8>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Taiwan (GRI: 56 ↑ 60)
 
 #### Testing policy (H2)
@@ -4589,171 +4178,6 @@ this round of bookings.
 Retail and personal service sectors (spas and hairdressers) have
 reopened. Source:
 <https://web.archive.org/web/20210829024358/https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United Arab Emirates (GRI: 63 ↓ 62)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of United Arab Emirates (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of United Arab Emirates (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Private gatherings held in homes, including weddings, are capped at 30
-guests.
-<https://web.archive.org/web/20210822162442/https://www.thenationalnews.com/uae/latest-covid-19-rules-in-dubai-and-abu-dhabi-what-you-need-to-know-1.1155777>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of United Arab Emirates (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of United Arab Emirates (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport will resume, and authorities have eased other
-restrictions that were in place during the curfew hours.
-<https://web.archive.org/web/20210822161242/https://www.garda.com/crisis24/news-alerts/515426/uae-abu-dhabi-ends-nightly-0001-0500-curfew-as-of-aug-19-update-71>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; in <b>some</b> parts of United
-Arab Emirates (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of United Arab Emirates (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Emirate of Abu Dhabi has announced plans to end the nightly 00:01 to
-05:00 curfew.
-<https://web.archive.org/web/20210822161242/https://www.garda.com/crisis24/news-alerts/515426/uae-abu-dhabi-ends-nightly-0001-0500-curfew-as-of-aug-19-update-71>
 
 </td>
 
