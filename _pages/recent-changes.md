@@ -36,19 +36,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-02</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-03</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
 </div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
 </div><div><a href="#cuba-gri-77--79">Cuba (GRI: 77 ↑ 79)</a> 
 </div><div><a href="#germany-gri-62--67">Germany (GRI: 62 ↑ 67)</a> 
 </div><div><a href="#greece-gri-66--70">Greece (GRI: 66 ↑ 70)</a> 
-</div><div><a href="#japan-gri-57--58">Japan (GRI: 57 ↑ 58)</a> 
-</div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
 </div><div><a href="#mexico-gri-58--60">Mexico (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
 </div><div><a href="#new zealand-gri-88--90">New Zealand (GRI: 88 ↑ 90)</a> 
-</div><div><a href="#norway-gri-50--53">Norway (GRI: 50 ↑ 53)</a> 
 </div><div><a href="#oman-gri-53--62">Oman (GRI: 53 ↑ 62)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
@@ -63,9 +60,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
-</div><div><a href="#iran-gri-67--63">Iran (GRI: 67 ↓ 63)</a> 
+</div><div><a href="#iran-gri-67--57">Iran (GRI: 67 ↓ 57)</a> 
 </div><div><a href="#israel-gri-65--59">Israel (GRI: 65 ↓ 59)</a> 
 </div><div><a href="#jamaica-gri-66--65">Jamaica (GRI: 66 ↓ 65)</a> 
+</div><div><a href="#kazakhstan-gri-50--45">Kazakhstan (GRI: 50 ↓ 45)</a> 
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
 </div><div><a href="#russia-gri-59--58">Russia (GRI: 59 ↓ 58)</a> 
@@ -2693,7 +2691,7 @@ them. <https://archive.vn/WIv2g>
 
 </div>
 
-### Iran (GRI: 67 ↓ 63)
+### Iran (GRI: 67 ↓ 57)
 
 #### Workplace closing (C2)
 
@@ -2925,68 +2923,7 @@ Source:
 
 </div>
 
-### Japan (GRI: 57 ↑ 58)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Japan (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Japan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Yokohama City has announced it will temporarily close elementary and
-junior high schools to delay reopening after summer vacation past August
-29. A further announcement will be made beginning next week with details
-on the closure. In Kanagawa Prefecture, Sagamihara City and Kawasaki
-City have also decided to temporarily close municipal elementary and
-junior high schools throughout the month of August.
-<https://web.archive.org/web/20210822072727/https://www3.nhk.or.jp/news/html/20210821/k10013215561000.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Kazakhstan (GRI: 45 ↑ 50)
+### Kazakhstan (GRI: 50 ↓ 45)
 
 #### Close public transport (C5)
 
@@ -3523,126 +3460,6 @@ customer or an employee involving customer contact at a business or
 service operating at Alert Level 4. You also need to wear a face
 covering on public transport and at departure points.
 <https://web.archive.org/web/20210825100657/https://covid19.govt.nz/health-and-wellbeing/protect-yourself-and-others-from-covid-19/wear-a-face-covering/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Norway (GRI: 50 ↑ 53)
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Norway (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Norway (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy change. The Norwegian Institute of Public Health (NIPH / FHI)
-recommends that anyone who suspects they might be infected by the
-coronavirus is given the opportunity to be tested.
-<https://web.archive.org/web/20210817075815/https://www.helsenorge.no/en/coronavirus/testing-symptoms-and-close-contacts/#testing>
-<https://web.archive.org/web/20210828083843/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; in <b>some</b> parts of
-Norway (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Norway (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy change. Continued from 13 Aug, the recommendation is not to
-exceed a maximum of 20 guests, and people are encouraged to meet
-outdoors. Travel is not recommended unless necessary. Face coverings are
-recommended on public transit. Wearing a face covering is mandatory when
-recommended social distancing cannot be maintained. If taking a taxi,
-passengers are advised to wear a mask and avoid sitting in the front
-passenger seat.
-<https://web.archive.org/web/20210828083843/https://www.regjeringen.no/en/topics/koronavirus-covid-19/national-measures-from-16-april-2021/id2826828/>
-<https://web.archive.org/web/20210828083837/https://no.usembassy.gov/covid-19-information/>
 
 </td>
 
