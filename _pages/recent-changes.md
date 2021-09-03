@@ -46,6 +46,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#mexico-gri-58--60">Mexico (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
 </div><div><a href="#new zealand-gri-88--90">New Zealand (GRI: 88 ↑ 90)</a> 
+</div><div><a href="#nigeria-gri-37--48">Nigeria (GRI: 37 ↑ 48)</a> 
 </div><div><a href="#oman-gri-53--62">Oman (GRI: 53 ↑ 62)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
@@ -55,6 +56,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
 </div><div><a href="#cambodia-gri-61--60">Cambodia (GRI: 61 ↓ 60)</a> 
+</div><div><a href="#cameroon-gri-33--22">Cameroon (GRI: 33 ↓ 22)</a> 
 </div><div><a href="#cote d'ivoire-gri-41--39">Cote d'Ivoire (GRI: 41 ↓ 39)</a> 
 </div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
@@ -65,6 +67,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#jamaica-gri-66--65">Jamaica (GRI: 66 ↓ 65)</a> 
 </div><div><a href="#kazakhstan-gri-50--45">Kazakhstan (GRI: 50 ↓ 45)</a> 
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
+</div><div><a href="#madagascar-gri-52--48">Madagascar (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
 </div><div><a href="#russia-gri-59--58">Russia (GRI: 59 ↓ 58)</a> 
 </div><div><a href="#saudi arabia-gri-56--54">Saudi Arabia (GRI: 56 ↓ 54)</a> 
@@ -820,6 +823,286 @@ parts of Cambodia (3T)
 
 Certain sectors such as gyms, casinos, karaoke rooms and nightclubs
 remain closed. <https://archive.vn/YIxEm>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Cameroon (GRI: 33 ↓ 22)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Academic break, meaning most schools across the country are on scheduled
+academic breaks, all study during this period is suspended; source:
+/web/20210903072151/<https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No curfew in place; businesses, churches, government offices, and most
+schools are open and maintain normal hours; source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Cameroon (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No curfew in place; businesses, churches, government offices, and most
+schools are open and maintain normal hours; source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Commercial flights are operating; Cameroonian borders remain officially
+closed, however, several airlines have been given permission to operate
+international flights from Douala and Yaoundé; air passengers with a
+positive COVID-19 test result will be required to enter isolation at
+home or in a government facility at their own expense depending on their
+symptoms; although quarantine is not required, travelers may have been
+exposed to COVID-19 during their travels and are encouraged to limit
+contact with others for 14 days after their trip.source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Cameroon (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Cameroon’s Ministry of Public Health has been responding to the COVID-19
+outbreak through active surveillance, screening at points of entry,
+laboratory testing, and case management at designated isolation and
+treatment centers; source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -3301,6 +3584,381 @@ antigen tests.
 
 </div>
 
+### Madagascar (GRI: 52 ↓ 48)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Madagascar (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Madagascar (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to UNESCO, schools are on academic break.
+<https://web.archive.org/web/20210903034908/https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Madagascar (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Madagascar (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to UNESCO, schools are fully open.
+<https://web.archive.org/web/20210903034908/https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Madagascar (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Madagascar (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to gov.uk, indoor gatherings are restricted to 400 people,
+although there is no restriction on outdoor gatherings.
+<https://web.archive.org/web/20210903035327/https://www.gov.uk/foreign-travel-advice/madagascar/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
+Madagascar (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Madagascar
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the U.S. Embassy in Madagascar, a curfew applies from
+Midnight to 4 AM.
+<https://web.archive.org/web/20210903040857/https://mg.usembassy.gov/u-s-citizen-services/security-and-travel-information/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Madagascar (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Madagascar (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to gov.uk, it is mandatory to wear a face mask in all public
+places, including in shops, parks and streets.
+<https://web.archive.org/web/20210903035327/https://www.gov.uk/foreign-travel-advice/madagascar/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Madagascar (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Madagascar (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to gov.uk, Madagascar is using AstraZeneca and John and
+Johnson vaccines. The second dose programme is now available in
+Antananarivo and other regions of the country in many different medical
+centres (hospitals and CSB). Single dose Janssen (Johnson & Johnson)
+single dose vaccination is open to health workers, social workers, law
+enforcement, persons with a chronic illness, and persons with a proven
+need to travel overseas for work or study.
+<https://web.archive.org/web/20210903035327/https://www.gov.uk/foreign-travel-advice/madagascar/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
+parts of Madagascar (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Madagascar (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+According to the U.S. Embassy in Madagascar, a curfew applies from
+Midnight to 4 AM.
+<https://web.archive.org/web/20210903040857/https://mg.usembassy.gov/u-s-citizen-services/security-and-travel-information/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Mexico (GRI: 58 ↑ 60)
 
 #### Public information campaigns (H1)
@@ -3460,6 +4118,458 @@ customer or an employee involving customer contact at a business or
 service operating at Alert Level 4. You also need to wear a face
 covering on public transport and at departure points.
 <https://web.archive.org/web/20210825100657/https://covid19.govt.nz/health-and-wellbeing/protect-yourself-and-others-from-covid-19/wear-a-face-covering/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Nigeria (GRI: 37 ↑ 48)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Nigeria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Academic break, meaning most schools across the country are on scheduled
+academic breaks, all study during this period is suspended; source:
+/web/20210903072151/<https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Nigeria
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Nigeria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Basic services (i.e., grocery stores, gas stations, transportation etc.)
+are available; source:
+/web/20210903081236/<https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Nigeria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Gatherings of more than 50 people are prohibited. Religious events are
+limited to 50% of the capacity of the facility. Social distancing and
+mask wearing are required. source:
+/web/20210903081236/<https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Nigeria
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Nigeria
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A curfew is in place; the Government of Nigeria continues to have a
+12:00 a.m. to 4:00 a.m. daily curfew in place; individual states may
+have more restrictive curfews; source:
+/web/20210903081236/<https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Nigeria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Nigeria (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Nigeria is still identifying COVID-19 cases and, due to an increasing
+number of cases in several countries, surveillance is being intensified
+and travel protocols are strictly enforced. source:
+/web/20210903081236/<https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Nigeria (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Nigeria (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+PCR and/or antigen tests are available; test results are reliably
+available within 72 hours; rapid antigen testing is not widely used in
+Nigeria, and it is not recognized by the Nigerian government for travel
+purposes; free COVID testing for those with symptoms is available from
+the Nigerian CDC; source:
+/web/20210903081236/<https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Nigeria (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Nigeria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Passengers must wear face masks when taking public transportation and
+public transportation is limited to 50% capacity. source:
+/web/20210903081236/<https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Nigeria (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Nigeria (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government of Nigeria has approved a COVID-19 vaccine for use;
+AstraZeneca is approved with plans for Pfizer and Johnson and Johnson in
+the 3rd quarter of the year; Nigeria has an eligibility list which does
+not prioritize non-Nigerians or tourists. source:
+/web/20210903081236/<https://ng.usembassy.gov/u-s-citizen-services/covid-19-information/>
 
 </td>
 
