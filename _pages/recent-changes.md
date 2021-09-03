@@ -43,6 +43,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#cuba-gri-77--79">Cuba (GRI: 77 ↑ 79)</a> 
 </div><div><a href="#germany-gri-62--67">Germany (GRI: 62 ↑ 67)</a> 
 </div><div><a href="#greece-gri-66--70">Greece (GRI: 66 ↑ 70)</a> 
+</div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
+</div><div><a href="#italy-gri-66--75">Italy (GRI: 66 ↑ 75)</a> 
 </div><div><a href="#mexico-gri-58--60">Mexico (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
 </div><div><a href="#new zealand-gri-88--91">New Zealand (GRI: 88 ↑ 91)</a> 
@@ -3150,6 +3152,443 @@ them. <https://archive.vn/WIv2g>
 
 </div>
 
+### Guyana (GRI: 56 ↑ 65)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Guyana (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Guyana (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+schools are to be opened by the ministry of education
+<https://web.archive.org/web/20210903193102/https://officialgazette.gov.gy/images/gazette2021/aug/Extra_Notice_Covid-19_Aug_30_2021.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Guyana
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Guyana (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+  - gyms can operate at 50% of their capacity, casinos at 40%, cinemas
+    at 60%, restaurants at 60%, in these cases everyone entering
+    establishments should be vaccinated. The only ones allowed to enter
+    without a vaccination certificate are people under 18. - public
+    administration and public sector employees must work on rotation
+    unless they are instructed to work from home
+    <https://web.archive.org/web/20210903193102/https://officialgazette.gov.gy/images/gazette2021/aug/Extra_Notice_Covid-19_Aug_30_2021.pdf>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+    #### Restrictions on gatherings (C4)
+    <div id="table-div">
+    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+    <table class="table" style="margin-left: auto; margin-right: auto;">
+    <tbody>
+    <tr>
+    <td style="text-align:left;min-width: 2in; ">
+    <b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Guyana (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Guyana (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No person shall attend a privat pary, banquet, ball, reception, wake,
+vigil, club, discotheque, private social club meeting or any other
+social activity
+<https://web.archive.org/web/20210903193102/https://officialgazette.gov.gy/images/gazette2021/aug/Extra_Notice_Covid-19_Aug_30_2021.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Guyana (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Guyana (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Internal transport is limited as of the quantity of passengers every
+vehicle can carry. Operators need to ve vaccinated.
+<https://web.archive.org/web/20210903193102/https://officialgazette.gov.gy/images/gazette2021/aug/Extra_Notice_Covid-19_Aug_30_2021.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Guyana (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Guyana (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All adult passengers traveling to Guyana must show proof of vaccination
+( at least one dose) and a negative molecular biological PCR test.
+<https://web.archive.org/web/20210820052046/https://gy.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Guyana (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Guyana (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+no policy changes
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Guyana (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+NA; NA Guyana (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public testing is only for people showing symptoms or who have been in
+contact with someone with COVID-19; not available for travelers.
+<https://web.archive.org/web/20210820052046/https://gy.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Guyana (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Guyana (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://web.archive.org/web/20210903193102/https://officialgazette.gov.gy/images/gazette2021/aug/Extra_Notice_Covid-19_Aug_30_2021.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Guyana (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+20/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Guyana (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+no policy changes
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Iran (GRI: 67 ↓ 57)
 
 #### Workplace closing (C2)
@@ -3322,6 +3761,290 @@ Aug. <https://web.archive.org/web/20210829130500/https://www.theguardian.com/wo
 </div>
 
 ### Israel (GRI: 65 ↓ 59)
+
+### Italy (GRI: 66 ↑ 75)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of Italy
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Starting August 6th, people can attend public events only with a green
+pass, hence assuming the event is generally cancelled for those who
+don’t have a green pass, but exemptions apply
+<https://web.archive.org/web/20210816180138/https://www.qualitytravel.it/green-pass-per-fiere-e-sagre-locali-allaperto-quando-e-obbligatorio-e-quando-no/98996>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people); in
+<b>some</b> parts of Italy (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+a limit of 1000 participants for indoor activities is in place in yellow
+zones
+<https://web.archive.org/web/20210903170438/https://unioneaddamartesana.it/ordinanze-e-decreti/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Italy (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Italy
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+throughout the month of August several local red zones have been
+established,
+<https://web.archive.org/web/20210825011559/https://tg24.sky.it/cronaca/2021/08/24/covid-restrizioni-locali-comuni>
+<https://web.archive.org/web/20210809092647/https://tg24.sky.it/cronaca/2021/08/09/colori-regioni-covid>
+currently there are still some local red zones where curfews have been
+established
+<https://web.archive.org/web/20210903172034/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Italy (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+for those local red zones it is prohibited to move outside the zone
+those with green passes can exit the zone but have to respect the curfew
+<https://web.archive.org/web/20210903172034/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Italy (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; in <b>some</b> parts of Italy (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+in yellow zones mask must be worn in all public spaces even if social
+distancing is possible
+<https://web.archive.org/web/20210903054422/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638#>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Jamaica (GRI: 66 ↓ 65)
 
