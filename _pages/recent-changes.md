@@ -45,9 +45,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#greece-gri-66--70">Greece (GRI: 66 ↑ 70)</a> 
 </div><div><a href="#mexico-gri-58--60">Mexico (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
-</div><div><a href="#new zealand-gri-88--90">New Zealand (GRI: 88 ↑ 90)</a> 
+</div><div><a href="#new zealand-gri-88--91">New Zealand (GRI: 88 ↑ 91)</a> 
 </div><div><a href="#nigeria-gri-37--48">Nigeria (GRI: 37 ↑ 48)</a> 
 </div><div><a href="#oman-gri-53--62">Oman (GRI: 53 ↑ 62)</a> 
+</div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#vietnam-gri-67--72">Vietnam (GRI: 67 ↑ 72)</a> 
@@ -59,6 +60,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#cameroon-gri-33--22">Cameroon (GRI: 33 ↓ 22)</a> 
 </div><div><a href="#cote d'ivoire-gri-41--39">Cote d'Ivoire (GRI: 41 ↓ 39)</a> 
 </div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
+</div><div><a href="#dominican republic-gri-62--59">Dominican Republic (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
@@ -1814,6 +1816,180 @@ or mental impairments that make it impossible for them to remove the
 face mask or shield themselves. Face masks may be removed if the wearer
 experience a severe discomfort, such as difficulty breathing. Archived:
 <https://web.archive.org/web/20210902151624/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_qqi.7WZkFEIuFmAC5kEQ9N2Hlopwipmq4eqAI1Scd8w-1630595706-0-gqNtZGzNA5CjcnBszQsl>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Dominican Republic (GRI: 62 ↓ 59)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Dominican Republic (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Dominican Republic (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Academic break. Source:
+<https://web.archive.org/web/20210903072151/https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Dominican
+Republic (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of
+Dominican Republic (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From Monday 9 August 2021, the province of La Altagracia (including
+Punta Cana) and Distrito Nacional will no longer have a curfew, because
+of their high vaccination rates. Under the modified restrictions, for
+the rest of the country a 22:00-05:00 curfew is in effect Monday-Friday.
+Curfew hours are 19:00-05:00 on weekends. Other requirements remain the
+same. Source:
+<https://web.archive.org/web/20210712125328/https://www.gov.uk/foreign-travel-advice/dominican-republic/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Dominican Republic (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Dominican Republic (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The province of LaAltagracia not required curfrew anymore. For the rest
+of the country Events have been suspended, including sports fixtures,
+cultural and artistic events, conventions and fairs, and any other
+events which could lead to concentrations of people. Source:
+<https://web.archive.org/web/20210712125328/https://www.gov.uk/foreign-travel-advice/dominican-republic/coronavirus>
 
 </td>
 
@@ -4070,7 +4246,7 @@ No policy update.
 
 </div>
 
-### New Zealand (GRI: 88 ↑ 90)
+### New Zealand (GRI: 88 ↑ 91)
 
 #### Facial Coverings (H6)
 
@@ -4118,6 +4294,63 @@ customer or an employee involving customer contact at a business or
 service operating at Alert Level 4. You also need to wear a face
 covering on public transport and at departure points.
 <https://web.archive.org/web/20210825100657/https://covid19.govt.nz/health-and-wellbeing/protect-yourself-and-others-from-covid-19/wear-a-face-covering/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) New Zealand (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) New Zealand (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Everyone in Aotearoa New Zealand aged 12 years and over can book their
+free COVID-19 vaccination now. You can book your vaccination online or
+by phone.
+<https://web.archive.org/web/20210903113454/https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-how-book-your-vaccination>
 
 </td>
 
@@ -5282,6 +5515,8 @@ asymptomatic). Link:
 </div>
 
 </div>
+
+### Suriname (GRI: 71 ↑ 75)
 
 ### Taiwan (GRI: 56 ↑ 60)
 
