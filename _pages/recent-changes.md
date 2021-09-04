@@ -50,6 +50,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#new zealand-gri-88--91">New Zealand (GRI: 88 ↑ 91)</a> 
 </div><div><a href="#nigeria-gri-37--48">Nigeria (GRI: 37 ↑ 48)</a> 
 </div><div><a href="#oman-gri-53--62">Oman (GRI: 53 ↑ 62)</a> 
+</div><div><a href="#russia-gri-59--64">Russia (GRI: 59 ↑ 64)</a> 
 </div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
@@ -72,9 +73,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
 </div><div><a href="#madagascar-gri-52--48">Madagascar (GRI: 52 ↓ 48)</a> 
 </div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
-</div><div><a href="#russia-gri-59--58">Russia (GRI: 59 ↓ 58)</a> 
 </div><div><a href="#saudi arabia-gri-56--54">Saudi Arabia (GRI: 56 ↓ 54)</a> 
 </div><div><a href="#trinidad and tobago-gri-72--70">Trinidad and Tobago (GRI: 72 ↓ 70)</a> 
+</div><div><a href="#united arab emirates-gri-62--58">United Arab Emirates (GRI: 62 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--58">Uruguay (GRI: 60 ↓ 58)</a> 
 </div></div> <br/>
 -->
@@ -5484,7 +5485,7 @@ vehicles from an electronic platform. Sources:
 
 </div>
 
-### Russia (GRI: 59 ↓ 58)
+### Russia (GRI: 59 ↑ 64)
 
 #### School closing (C1)
 
@@ -5526,6 +5527,41 @@ vehicles from an electronic platform. Sources:
 
 Most schools closed for academic break. Link:
 <https://web.archive.org/web/20210830110145/https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Russia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Russia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+School in Russia remain open as per last update Archive Link
+<http://web.archive.org/web/20210904191414/https://en.unesco.org/covid19/educationresponse>
 
 </td>
 
@@ -5593,6 +5629,53 @@ place. St. Petersburg has implemented similar measures. Link:
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of Russia
+(1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Russia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Quote: "" nonessential businesses, retailers, theaters and cinemas,
+leisure facilities, educational institutions, and cultural venues have
+resumed operations in many regions, subject to social distancing
+mandates. Public transportation is also operating in most cities, though
+with reduced services. Public sector offices are open. In Saint
+Petersburg, gatherings of more than 75 people are banned. Restrictions
+on public events, catering establishments, contact businesses, and
+cultural venues in Saint Petersburg and the wider Leningrad Oblast can
+be lifted provided all employees and participants can present
+vaccination certificates or a negative result from a PCR test taken
+within the previous 72 hours."" Archive Link
+<http://web.archive.org/web/20210904185616/https://www.garda.com/crisis24/news-alerts/520786/russia-authorities-to-ease-covid-19-related-entry-restrictions-for-travelers-from-the-uk-starting-sept-4-update-56>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -5646,6 +5729,108 @@ on businesses and workplaces may vary between regions. Public events in
 Moscow and St. Petersburg remain prohibited. Link:
 <https://web.archive.org/web/20210830102531/https://www.sobyanin.ru/vozvraschenie-k-normalnoi-zhizni-resheniya-13-08-21>
 <https://web.archive.org/web/20210526033139/https://www.gov.spb.ru/covid-19/mery-kontrolya/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Russia (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Russia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Quote: "“Mass events and public gatherings remain suspended.”" Archive
+Link
+<http://web.archive.org/web/20210904185616/https://www.garda.com/crisis24/news-alerts/520786/russia-authorities-to-ease-covid-19-related-entry-restrictions-for-travelers-from-the-uk-starting-sept-4-update-56>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Quote: "“Measures and restrictions to prevent the spread of COVID-19
+vary widely, as individual regions and cities set their own policies.
+Travelers should check with the local government in their region for
+current restrictions. These measures may include curfews for restaurants
+and bars, attendance limits on large gatherings,”" Archive Link
+<http://web.archive.org/web/20210904185316/https://ru.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Russia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Russia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Quote: "“Movement Restrictions: Is a curfew in place? No”" Archive link
+<http://web.archive.org/web/20210904185316/https://ru.usembassy.gov/covid-19-information/>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Quote: "“Citizens over the age of 65 and those suffering from chronic
+diseases are strongly advised to avoid public places and temporarily
+suspend personal contact with any persons outside their immediate
+households.”" Archive link
+<http://web.archive.org/web/20210904185616/https://www.garda.com/crisis24/news-alerts/520786/russia-authorities-to-ease-covid-19-related-entry-restrictions-for-travelers-from-the-uk-starting-sept-4-update-56>
 
 </td>
 
@@ -5716,6 +5901,65 @@ hubs. Link:
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Russia (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Russia
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Quote: "“Returning Russian citizens must present proof of a negative
+COVID-19 test within 72 hours after their arrival. Citizens must
+self-isolate until their results are known. COVID-19 test results must
+be uploaded to the Public Services website within four days after
+arrival. Those testing positive for COVID-19 must self-isolate until a
+negative result is returned. Vaccinated citizens and those who have
+recovered from COVID-19 in the past six months are exempt from this
+requirement. Citizens of Eurasian Economic Union (EAEU) member states or
+the Commonwealth of Independent States (CIS) are required to submit
+their COVID-19 vaccination certificates and/or test results to
+authorities using the”“Traveling without COVID-19”" mobile application.
+The EAEU and CIS include Armenia, Azerbaijan, Belarus, Kazakhstan,
+Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, and Uzbekistan. Russia
+has resumed international flights with more than 30 countries, including
+the US, Turkey, France, Belgium, Austria, China, Azerbaijan, Germany,
+Bulgaria, Ireland, Italy, Czech Republic, South Korea, Jordan, Israel,
+Portugal, Saudi Arabia, Mexico, Finland, Kazakhstan, Kyrgyzstan, Serbia,
+Switzerland, the UAE, and the UK. However, the availability of flights
+is still dependent on COVID-19 restrictions in destination countries.
+Additionally, flights with low demand could be canceled or merged with
+other scheduled services with little warning. Some special restrictions
+apply to individuals arriving from certain countries. All travelers from
+India must self-isolate upon arrival until they test negative for the
+virus, at which point they may exit quarantine. Aircrews are exempt from
+this restriction."" Archive Link
+<http://web.archive.org/web/20210904185616/https://www.garda.com/crisis24/news-alerts/520786/russia-authorities-to-ease-covid-19-related-entry-restrictions-for-travelers-from-the-uk-starting-sept-4-update-56>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -5764,6 +6008,65 @@ Russia (2)
 
 No debt/contract relief for private households, only businesses. Link:
 <https://web.archive.org/web/20210830100218/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of Russia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Russia (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Quote: "“sole proprietors got a partial refund on their social
+contributions; (xii) deferrals on rent payments to all levels of
+government until the end of 2020 plus zero rent to the federal
+government for three months for SMEs in affected sectors; (xiii) budget
+grants for SMEs in affected industries to cover salaries at the rate of
+one minimum salary per employee for two months plus subsidized and
+forgivable (under condition of preserved employment) loans for all
+enterprises in affected industries to pay minimum wages for 6 months; in
+2021, enterprises in selected affected industries, like restaurants,
+hotels and entertainment, will get subsidized (but not forgivable) loans
+to pay minimum wages for 12 months, again under condition of preserved
+employment; (xiv) zero import duties for pharmaceuticals and medical
+supplies and equipment; budget grants will be extended in 2021 to firms
+hiring people who lost jobs in 2020 to cover their salaries at the rate
+of one minimum salary per employee for three months; (xv) guaranteed
+loans to SMEs and affected industries; (xvi) subsidies to airlines,
+airports, automakers, and others; (xvii) state-owned bank, airlines and
+development institution re-capitalization and (xviii) expanded
+eligibility for subsidized mortgage lending. The total cost of the 2020
+fiscal package is estimated at about 3½ percent of GDP— 4½ percent if
+debt guarantees and capital injections are also included. In 2021, the
+anti-crisis fiscal package is expected to be much less at around 1½
+percent of GDP. The cost of social spending announced in the Presidents
+State of the Nation Address in April 2021 are estimated at 0.3 percent
+of GDP over two years.”" Archive Link
+<http://web.archive.org/web/20210904193752/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
 
 </td>
 
@@ -6182,6 +6485,122 @@ this round of bookings.
 Retail and personal service sectors (spas and hairdressers) have
 reopened. Source:
 <https://web.archive.org/web/20210829024358/https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### United Arab Emirates (GRI: 62 ↓ 58)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+United Arab Emirates (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+United Arab Emirates (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Announced 8th August, "“the operating capacity for events is set to 60
+percent, provided that social distancing, face masks and regular
+sanitisation guidelines are still observed”".
+<http://web.archive.org/web/20210902144335/https://wam.ae/en/details/1395302958759>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into United Arab
+Emirates (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into United
+Arab Emirates (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+From August 30, fully vaccinated tourists from any country may travel
+into the UAE with a PCR test done before departure and on arrival.
+Non-vaccinated may travel but must quarantine for 7 days with a negative
+test, or 10 days with no or a positive test.
+<http://web.archive.org/web/20210902154032/https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/travelling-amid-covid-19/travelling-to-the-uae>
+<http://web.archive.org/web/20210902154134/https://wwwnc.cdc.gov/travel/notices/covid-4/coronavirus-united-arab-emirates>
 
 </td>
 
