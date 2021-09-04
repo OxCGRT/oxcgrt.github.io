@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-03</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-04</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
 </div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
@@ -58,7 +58,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-65--64">Bahamas (GRI: 65 ↓ 64)</a> 
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
-</div><div><a href="#cambodia-gri-61--60">Cambodia (GRI: 61 ↓ 60)</a> 
 </div><div><a href="#cameroon-gri-33--22">Cameroon (GRI: 33 ↓ 22)</a> 
 </div><div><a href="#cote d'ivoire-gri-41--39">Cote d'Ivoire (GRI: 41 ↓ 39)</a> 
 </div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
@@ -66,7 +65,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
-</div><div><a href="#iran-gri-67--57">Iran (GRI: 67 ↓ 57)</a> 
+</div><div><a href="#iran-gri-63--57">Iran (GRI: 63 ↓ 57)</a> 
 </div><div><a href="#israel-gri-65--59">Israel (GRI: 65 ↓ 59)</a> 
 </div><div><a href="#jamaica-gri-66--65">Jamaica (GRI: 66 ↓ 65)</a> 
 </div><div><a href="#kazakhstan-gri-50--45">Kazakhstan (GRI: 50 ↓ 45)</a> 
@@ -771,62 +770,6 @@ demand.
 <https://web.archive.org/web/20210828214719/https://pbs.twimg.com/media/E9PoA4OWUAY-3Zv?format=jpg&name=large>
 <https://web.archive.org/web/20210828214420/https://pbs.twimg.com/media/E8-7Hi7WYA0I1T-?format=jpg&name=large>
 <https://web.archive.org/web/20210825233003/https://bw.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Cambodia (GRI: 61 ↓ 60)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Cambodia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Cambodia (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Certain sectors such as gyms, casinos, karaoke rooms and nightclubs
-remain closed. <https://archive.vn/YIxEm>
 
 </td>
 
@@ -2186,65 +2129,6 @@ incidence \> 165. Source: <https://archive.fo/OCyn8>
 
 </div>
 
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Germany (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Germany (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In Berlin- Private meetings indoors are permitted without any limits on
-the amount of people attending. Outside gatherings are allowed for a
-maximum of 100 people. Your own children up to 14 years of age as well
-as vaccinated and recovered persons are not included. The permitted
-number of people at special celebrations is 50 persons indoors and 100
-persons outdoors.
-<https://web.archive.org/web/20210820042720/https://www.berlin.de/corona/en/measures/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Stay at home requirements (C6)
 
 <div id="table-div">
@@ -3379,41 +3263,6 @@ vehicle can carry. Operators need to ve vaccinated.
 
 <b>Old policy:</b>
 
-<b>Ban</b> arrivals from <b>some</b> regions coming into Guyana (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Guyana (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All adult passengers traveling to Guyana must show proof of vaccination
-( at least one dose) and a negative molecular biological PCR test.
-<https://web.archive.org/web/20210820052046/https://gy.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Screening</b> arrivals coming into Guyana (1)
 
 </td>
@@ -3465,41 +3314,6 @@ no policy changes
 
 <b>Old policy:</b>
 
-Anyone <b>symptomatic</b> can be tested; NA Guyana (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-NA; NA Guyana (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public testing is only for people showing symptoms or who have been in
-contact with someone with COVID-19; not available for travelers.
-<https://web.archive.org/web/20210820052046/https://gy.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 NA; NA Guyana (1)
 
 </td>
@@ -3535,61 +3349,7 @@ NA; NA Guyana (1)
 
 </div>
 
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Guyana (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Guyana (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-no policy changes
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Iran (GRI: 67 ↓ 57)
+### Iran (GRI: 63 ↓ 57)
 
 #### Workplace closing (C2)
 
