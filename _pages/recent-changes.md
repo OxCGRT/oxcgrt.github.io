@@ -37,8 +37,10 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-05</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
+</div><div><a href="#cameroon-gri-22--32">Cameroon (GRI: 22 ↑ 32)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
+</div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
 </div><div><a href="#cuba-gri-77--79">Cuba (GRI: 77 ↑ 79)</a> 
 </div><div><a href="#germany-gri-62--67">Germany (GRI: 62 ↑ 67)</a> 
 </div><div><a href="#greece-gri-66--70">Greece (GRI: 66 ↑ 70)</a> 
@@ -540,6 +542,394 @@ Bolivia, mandatory transit restrictions and a curfew are in place.
 
 </div>
 
+### Cameroon (GRI: 22 ↑ 32)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Academic break, meaning most schools across the country are on scheduled
+academic breaks, all study during this period is suspended; source:
+/web/20210903072151/<https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No curfew in place; businesses, churches, government offices, and most
+schools are open and maintain normal hours; source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Gatherings of over 50 people are prohibited. Source:
+<https://archive.vn/https://www.gov.uk/foreign-travel-advice/cameroon/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Cameroon (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No curfew in place; businesses, churches, government offices, and most
+schools are open and maintain normal hours; source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Cameroon (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Gatherings of over 50 people are prohibited. Source:
+<https://archive.vn/https://www.gov.uk/foreign-travel-advice/cameroon/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Commercial flights are operating; Cameroonian borders remain officially
+closed, however, several airlines have been given permission to operate
+international flights from Douala and Yaoundé; air passengers with a
+positive COVID-19 test result will be required to enter isolation at
+home or in a government facility at their own expense depending on their
+symptoms; although quarantine is not required, travelers may have been
+exposed to COVID-19 during their travels and are encouraged to limit
+contact with others for 14 days after their trip.source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Cameroon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Government of Cameroon now requires all outbound passengers to
+present a negative COVID-19 PCR test result dated within 72 hours of
+boarding an international flight. A negative test result within 72 hours
+prior to arrival is required. Passengers not meeting this requirement
+will undergo testing on arrival at the airport. Source:
+<https://archive.vn/XUXas>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Cameroon (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Cameroon’s Ministry of Public Health has been responding to the COVID-19
+outbreak through active surveillance, screening at points of entry,
+laboratory testing, and case management at designated isolation and
+treatment centers; source:
+/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Canada (GRI: 59 ↑ 65)
 
 #### Workplace closing (C2)
@@ -775,6 +1165,264 @@ Government of DRC approved a COVID-19 vaccine; Astrazeneca; People
 interested in receiving the vaccine should contact a location directly
 for details and to request an appointment; source:
 <https://web.archive.org/web/20210824015546/https://cd.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Cote d’Ivoire (GRI: 39 ↑ 42)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Cote
+d’Ivoire (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cote d’Ivoire (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Most COVID-19 related restrictions have been lifted; however, you need
+to wear face masks in public places.
+<https://web.archive.org/web/20210905040547/https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cote
+d’Ivoire (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Cote d’Ivoire (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travellers arriving the country are screened and those with a positive
+result are asked to quarantine
+<https://web.archive.org/web/20210627175820/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+<https://web.archive.org/web/20210627075106/https://ci.usembassy.gov/covid-19-information/>
+<https://web.archive.org/web/20210627182756/https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/coronavirus>
+<https://web.archive.org/web/20210627182739/https://www.smartraveller.gov.au/destinations/africa/cote-divoire-ivory-coast>
+<https://web.archive.org/web/20210413144234/https://www.garda.com/crisis24/news-alerts/466451/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-april-13-update-22>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Cote d’Ivoire (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Cote d’Ivoire (4)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+International Travel are reportedly closed to regular commercial
+passenger travel, but cargo and freight transport are still operating.
+<https://web.archive.org/web/20210822215315/https://www.garda.com/crisis24/news-alerts/512866/cote-divoire-authorities-maintaining-covid-19-related-measures-nationwide-as-of-aug-13-update-27>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Anyone <b>symptomatic</b> can be tested; NA Cote d’Ivoire (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Cote d’Ivoire
+(3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+COVID-19 testing is available at testing centres in Abidjan and around
+the country.
+<https://web.archive.org/web/20210905040547/https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Cote d’Ivoire (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Cote d’Ivoire (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The use of face masks in public spaces and on public transport.
+<https://web.archive.org/web/20210822215315/https://www.garda.com/crisis24/news-alerts/512866/cote-divoire-authorities-maintaining-covid-19-related-measures-nationwide-as-of-aug-13-update-27>
 
 </td>
 
