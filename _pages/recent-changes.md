@@ -37,6 +37,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 <!-- ## Changes in Policy over the last two weeks
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-05</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
+</div><div><a href="#bangladesh-gri-58--64">Bangladesh (GRI: 58 ↑ 64)</a> 
+</div><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#cameroon-gri-22--32">Cameroon (GRI: 22 ↑ 32)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
@@ -47,6 +49,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
 </div><div><a href="#italy-gri-66--75">Italy (GRI: 66 ↑ 75)</a> 
 </div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
+</div><div><a href="#mexico-gri-60--61">Mexico (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
 </div><div><a href="#new zealand-gri-88--91">New Zealand (GRI: 88 ↑ 91)</a> 
 </div><div><a href="#nigeria-gri-37--48">Nigeria (GRI: 37 ↑ 48)</a> 
@@ -56,7 +59,8 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#zimbabwe-gri-60--62">Zimbabwe (GRI: 60 ↑ 62)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#azerbaijan-gri-56--55">Azerbaijan (GRI: 56 ↓ 55)</a> 
+</div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
 </div><div><a href="#benin-gri-49--45">Benin (GRI: 49 ↓ 45)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
 </div><div><a href="#chile-gri-76--64">Chile (GRI: 76 ↓ 64)</a> 
@@ -70,6 +74,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
 </div><div><a href="#saudi arabia-gri-56--54">Saudi Arabia (GRI: 56 ↓ 54)</a> 
+</div><div><a href="#thailand-gri-72--64">Thailand (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#united arab emirates-gri-59--58">United Arab Emirates (GRI: 59 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--58">Uruguay (GRI: 60 ↓ 58)</a> 
 </div></div> <br/>
@@ -126,6 +131,422 @@ municipality of Innervillgraten, meetings are only permitted with up to
 gatherings, a 3G verification must be checked and a registration must be
 carried out. Details can be found in the relevant ordinance.”" Source:
 <https://archive.vn/VwD0y#selection-835.0-857.3>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Azerbaijan (GRI: 56 ↓ 55)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Azerbaijan (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Azerbaijan (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Everyone 18 years or older attending certain types of organised private
+gatherings of up to 150 people (incl. events having 50 or fewer
+attendees) must be able to provide a COVID passport or a certificate of
+recovery from the virus. Protective face coverings are not mandatory.
+Gatherings of more than 150 persons remain prohibited.
+<https://web.archive.org/web/20210905172026/https://www.garda.com/crisis24/news-alerts/519591/azerbaijan-government-extends-special-quarantine-regime-through-at-least-nov-1-update-37>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Bangladesh (GRI: 58 ↑ 64)
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No debt relief</b> is present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Bangladesh (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Bangladesh Bank: borrowers will be able to avoid default zone by
+repaying 25 per cent of their loan instalments until December this year.
+The rest of the funds of the instalments will have to be paid within the
+next year.
+<https://web.archive.org/web/20210905162026/https://www.thedailystar.net/business/banking/news/bangladesh-bank-extends-relaxation-loan-classification-policy-further-2162906>
+<https://web.archive.org/web/20210905161125/https://www.dhakatribune.com/business/2021/09/02/bb-loan-repayment-time-relaxed-for-nbfi-borrowers>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of Bangladesh (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Bangladesh (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No specific policies for protecting elderly people in Long Term Care
+Facilities and/or the community and home setting
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Barbados (GRI: 58 ↑ 61)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Barbados (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; across
+<b>all</b> of Barbados (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools are closed for recess. Minister of Education, Technological and
+Vocational Training, Santia Bradshaw, has announced that classes at all
+public and private schools will be held online when the new school year
+begins on September 20. In a statement on the re-opening of school,
+Minister Bradshaw explained that the decision to do so was taken
+following consultation with all stakeholders, as Government works to
+manage the surge in COVID-19 cases. The Education Minister pointed out
+that authorities were concerned about the spread of the highly
+contagious Delta variant among the younger demographic, revealing that
+“we now have over 100 children in isolation across the various sites”.
+She indicated that a number of schools may be transformed into isolation
+facilities, as more capacity was needed to deal with the increasing
+numbers.
+<https://web.archive.org/web/20210905150502/https://gisbarbados.gov.bb/blog/school-to-go-fully-virtual-from-september-20/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Barbados (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Barbados (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Meeting of a fraternal society, private or social club or civic
+association or organization is permitted and may be attended by no more
+than 25 persons. Religious services and meetings may be attended by such
+number of persons as the place of religious worship can accommodate
+where at least 6 feet of space in every direction is maintained among
+all persons, but in no case shall more than 25 persons attend such
+services or meetings.
+<https://web.archive.org/web/20210905153417/https://gisbarbados.gov.bb/covid-19-protocols/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Barbados (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Barbados (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The wearing of masks is mandatory in all public spaces.
+<https://web.archive.org/web/20210905152845/https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Barbados (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Barbados (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Vaccinations for students and adults continue at a number of designated
+sites this week. The Unit advises all students who wish to be vaccinated
+against COVID-19 that they are required to present their identification
+cards. Additionally, parents who are not yet vaccinated, and wish to be,
+may do so with their children, while on site. The AstraZeneca, Sinopharm
+and Pfizer vaccines will be available at all of the vaccination centres.
+Persons may walk into the sites to receive the vaccine of their choice.
+<https://web.archive.org/web/20210905162030/https://gisbarbados.gov.bb/blog/vaccination-schedule-for-september-4-to-11/>
 
 </td>
 
@@ -5305,6 +5726,118 @@ Midnight to 4 AM.
 
 </div>
 
+### Mexico (GRI: 60 ↑ 61)
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; in <b>some</b> parts of Mexico (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Mexico (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Dedicated site for coronavirus information.
+<https://web.archive.org/web/20210829212143/https://coronavirus.gob.mx/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; in <b>some</b> parts of Mexico (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Mexico (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Several states and municipalities have imposed curfews and movement
+restrictions on non-essential activities and have required citizens to
+wear masks when outside the home.
+<https://web.archive.org/web/20210905163555/https://mx.usembassy.gov/covid-19-information-for-u-s-citizens-in-mexico/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Mongolia (GRI: 54 ↑ 60)
 
 #### Debt/contract relief (E2)
@@ -7000,6 +7533,331 @@ get vaccinated with the Medigen vaccine. Vaccination is scheduled to
 take place between August 27 and August 29 for individuals included in
 this round of bookings.
 <https://web.archive.org/web/20210828042810/https://www.cdc.gov.tw/En/Bulletin/Detail/tMo5u53H3-OG32ZF22oPDA?typeid=158>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Thailand (GRI: 72 ↓ 64)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Thailand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Thailand (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public and private organisations as well as people are asked to avoid
+any activities prone to the spread of disease where the number of
+attendees exceeds 25 people. In red zone, gathering is not allowed.
+<http://web.archive.org/web/20210831051234/https://www.tatnews.org/2021/08/bangkok-eases-covid-19-controls-throughout-september-2021/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Thailand (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Thailand (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public and private organisations as well as people are asked to avoid
+any activities prone to the spread of disease where the number of
+attendees exceeds 25 people. In red zone, gathering is not allowed.
+<http://web.archive.org/web/20210831051234/https://www.tatnews.org/2021/08/bangkok-eases-covid-19-controls-throughout-september-2021/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Thailand (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Thailand (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Public transport is operating.
+<http://web.archive.org/web/20210828153848/https://th.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Thailand (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Thailand
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Foreigners must go under a 2-week quarantine after entry.
+<http://web.archive.org/web/20210424171212/https://konzuliszolgalat.kormany.hu/azsia?thaifold>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Thailand (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Thailand (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<http://web.archive.org/web/20210904053633/https://thailand.prd.go.th/main.php?filename=index>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+NA; NA Thailand (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Thailand (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Foreigners in the quarantine are also tested at least 3 times.
+<http://web.archive.org/web/20210424171212/https://konzuliszolgalat.kormany.hu/azsia?thaifold>
 
 </td>
 
