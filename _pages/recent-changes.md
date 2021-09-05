@@ -36,8 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-04</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
-</div><div><a href="#botswana-gri-65--66">Botswana (GRI: 65 ↑ 66)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-05</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-72--74">Austria (GRI: 72 ↑ 74)</a> 
 </div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
 </div><div><a href="#congo-gri-29--37">Congo (GRI: 29 ↑ 37)</a> 
 </div><div><a href="#cuba-gri-77--79">Cuba (GRI: 77 ↑ 79)</a> 
@@ -45,37 +44,29 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#greece-gri-66--70">Greece (GRI: 66 ↑ 70)</a> 
 </div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
 </div><div><a href="#italy-gri-66--75">Italy (GRI: 66 ↑ 75)</a> 
-</div><div><a href="#mexico-gri-58--60">Mexico (GRI: 58 ↑ 60)</a> 
+</div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
 </div><div><a href="#mongolia-gri-54--60">Mongolia (GRI: 54 ↑ 60)</a> 
 </div><div><a href="#new zealand-gri-88--91">New Zealand (GRI: 88 ↑ 91)</a> 
 </div><div><a href="#nigeria-gri-37--48">Nigeria (GRI: 37 ↑ 48)</a> 
 </div><div><a href="#oman-gri-53--62">Oman (GRI: 53 ↑ 62)</a> 
-</div><div><a href="#russia-gri-59--64">Russia (GRI: 59 ↑ 64)</a> 
+</div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
 </div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div><div><a href="#taiwan-gri-56--60">Taiwan (GRI: 56 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
-</div><div><a href="#vietnam-gri-67--72">Vietnam (GRI: 67 ↑ 72)</a> 
 </div><div><a href="#zimbabwe-gri-60--62">Zimbabwe (GRI: 60 ↑ 62)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bahamas-gri-65--64">Bahamas (GRI: 65 ↓ 64)</a> 
-</div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
-</div><div><a href="#cameroon-gri-33--22">Cameroon (GRI: 33 ↓ 22)</a> 
-</div><div><a href="#cote d'ivoire-gri-41--39">Cote d'Ivoire (GRI: 41 ↓ 39)</a> 
 </div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
 </div><div><a href="#dominican republic-gri-62--59">Dominican Republic (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
 </div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#guinea-gri-64--48">Guinea (GRI: 64 ↓ 48)</a> 
-</div><div><a href="#iran-gri-63--57">Iran (GRI: 63 ↓ 57)</a> 
 </div><div><a href="#israel-gri-65--59">Israel (GRI: 65 ↓ 59)</a> 
 </div><div><a href="#jamaica-gri-66--65">Jamaica (GRI: 66 ↓ 65)</a> 
-</div><div><a href="#kazakhstan-gri-50--45">Kazakhstan (GRI: 50 ↓ 45)</a> 
 </div><div><a href="#lithuania-gri-55--55">Lithuania (GRI: 55 ↓ 55)</a> 
-</div><div><a href="#madagascar-gri-52--48">Madagascar (GRI: 52 ↓ 48)</a> 
-</div><div><a href="#portugal-gri-67--64">Portugal (GRI: 67 ↓ 64)</a> 
+</div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
 </div><div><a href="#saudi arabia-gri-56--54">Saudi Arabia (GRI: 56 ↓ 54)</a> 
-</div><div><a href="#trinidad and tobago-gri-72--70">Trinidad and Tobago (GRI: 72 ↓ 70)</a> 
-</div><div><a href="#united arab emirates-gri-62--58">United Arab Emirates (GRI: 62 ↓ 58)</a> 
+</div><div><a href="#united arab emirates-gri-59--58">United Arab Emirates (GRI: 59 ↓ 58)</a> 
 </div><div><a href="#uruguay-gri-60--58">Uruguay (GRI: 60 ↓ 58)</a> 
 </div></div> <br/>
 -->
@@ -131,178 +122,6 @@ municipality of Innervillgraten, meetings are only permitted with up to
 gatherings, a 3G verification must be checked and a registration must be
 carried out. Details can be found in the relevant ordinance.”" Source:
 <https://archive.vn/VwD0y#selection-835.0-857.3>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Bahamas (GRI: 65 ↓ 64)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Bahamas (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Bahamas (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Schools are partially open.
-<https://web.archive.org/web/20210830150807/https://en.unesco.org/covid19/educationresponse#schoolclosures>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Bahamas (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Bahamas (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Outdoor dining and takeaway services may continue at restaurants. Indoor
-dining may continue provided that all persons are fully vaccinated, and
-capacity of indoor area is limited to 33 percent; loitering in groups
-outside of restaurants and Fish Frys will be prohibited. These
-restrictions do not apply to hotel properties. • Spas will not be
-permitted to operate, including for massages, waxing, threading and
-facials. the operation of a bar, night club and any cultural or
-entertainment facility remains prohibited.
-<https://web.archive.org/web/20210829111101/https://opm.gov.bs/covid19/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Bahamas (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Bahamas (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restricted to five people provided that all persons are fully
-vaccinated.
-<https://web.archive.org/web/20210829111101/https://opm.gov.bs/covid19/>
 
 </td>
 
@@ -721,349 +540,6 @@ Bolivia, mandatory transit restrictions and a curfew are in place.
 
 </div>
 
-### Botswana (GRI: 65 ↑ 66)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>TWO</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Botswana (2S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Botswana (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Botswana is now prioritizing those 45 years and older, although those
-over 30 are also eligible for the vaccine. Johnson and Johnson and
-AstraZeneca vaccines are primarily in use. Vaccine supply is low due to
-demand.
-<https://web.archive.org/web/20210828214719/https://pbs.twimg.com/media/E9PoA4OWUAY-3Zv?format=jpg&name=large>
-<https://web.archive.org/web/20210828214420/https://pbs.twimg.com/media/E8-7Hi7WYA0I1T-?format=jpg&name=large>
-<https://web.archive.org/web/20210825233003/https://bw.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Cameroon (GRI: 33 ↓ 22)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Cameroon (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Academic break, meaning most schools across the country are on scheduled
-academic breaks, all study during this period is suspended; source:
-/web/20210903072151/<https://en.unesco.org/covid19/educationresponse>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Cameroon (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No curfew in place; businesses, churches, government offices, and most
-schools are open and maintain normal hours; source:
-/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Cameroon (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No curfew in place; businesses, churches, government offices, and most
-schools are open and maintain normal hours; source:
-/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Screening</b> arrivals coming into Cameroon (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Commercial flights are operating; Cameroonian borders remain officially
-closed, however, several airlines have been given permission to operate
-international flights from Douala and Yaoundé; air passengers with a
-positive COVID-19 test result will be required to enter isolation at
-home or in a government facility at their own expense depending on their
-symptoms; although quarantine is not required, travelers may have been
-exposed to COVID-19 during their travels and are encouraged to limit
-contact with others for 14 days after their trip.source:
-/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Cameroon (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials <b>urge caution</b> about COVID-19 in; across
-<b>all</b> of Cameroon (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Cameroon’s Ministry of Public Health has been responding to the COVID-19
-outbreak through active surveillance, screening at points of entry,
-laboratory testing, and case management at designated isolation and
-treatment centers; source:
-/web/20210903073300/<https://cm.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Canada (GRI: 59 ↑ 65)
 
 #### Workplace closing (C2)
@@ -1299,66 +775,6 @@ Government of DRC approved a COVID-19 vaccine; Astrazeneca; People
 interested in receiving the vaccine should contact a location directly
 for details and to request an appointment; source:
 <https://web.archive.org/web/20210824015546/https://cd.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Cote d’Ivoire (GRI: 41 ↓ 39)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Cote
-d’Ivoire (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Cote d’Ivoire (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Travellers arriving the country are screened and those with a positive
-result are asked to quarantine
-<https://web.archive.org/web/20210627175820/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-<https://web.archive.org/web/20210627075106/https://ci.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210627182756/https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/coronavirus>
-<https://web.archive.org/web/20210627182739/https://www.smartraveller.gov.au/destinations/africa/cote-divoire-ivory-coast>
-<https://web.archive.org/web/20210413144234/https://www.garda.com/crisis24/news-alerts/466451/cote-divoire-covid-19-related-nationwide-measures-unchanged-as-of-april-13-update-22>
 
 </td>
 
@@ -3866,7 +3282,7 @@ Source:
 
 </div>
 
-### Kazakhstan (GRI: 50 ↓ 45)
+### Kazakhstan (GRI: 45 ↑ 50)
 
 #### Close public transport (C5)
 
@@ -3877,41 +3293,6 @@ Source:
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport does not function in Nur-Sultan and Mangystau region
-during the weekends since August 2. <https://archive.vn/9YzIn>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -4244,7 +3625,7 @@ antigen tests.
 
 </div>
 
-### Madagascar (GRI: 52 ↓ 48)
+### Madagascar (GRI: 54 ↓ 48)
 
 #### School closing (C1)
 
@@ -4606,62 +3987,6 @@ parts of Madagascar (2T)
 According to the U.S. Embassy in Madagascar, a curfew applies from
 Midnight to 4 AM.
 <https://web.archive.org/web/20210903040857/https://mg.usembassy.gov/u-s-citizen-services/security-and-travel-information/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Mexico (GRI: 58 ↑ 60)
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; in <b>some</b> parts of Mexico (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Mexico (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Dedicated site for coronavirus information.
-<https://web.archive.org/web/20210829212143/https://coronavirus.gob.mx/>
 
 </td>
 
@@ -5427,65 +4752,7 @@ about 34% of the country’s population. Source:
 
 </div>
 
-### Portugal (GRI: 67 ↓ 64)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Portugal (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Portugal (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting on August 23rd, public transport is no longer limited in its
-capacity and is now allowed to use the front seats in taxi transport and
-in the individual and paid transport of passengers in uncharacterised
-vehicles from an electronic platform. Sources:
-<https://archive.ph/8lEK5>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Russia (GRI: 59 ↑ 64)
+### Russia (GRI: 58 ↑ 64)
 
 #### School closing (C1)
 
@@ -6441,64 +5708,7 @@ this round of bookings.
 
 </div>
 
-### Trinidad and Tobago (GRI: 72 ↓ 70)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Trinidad and Tobago (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Trinidad and Tobago (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Retail and personal service sectors (spas and hairdressers) have
-reopened. Source:
-<https://web.archive.org/web/20210829024358/https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United Arab Emirates (GRI: 62 ↓ 58)
+### United Arab Emirates (GRI: 59 ↓ 58)
 
 #### Cancel public events (C3)
 
@@ -6787,63 +5997,6 @@ people in open spaces. The maximum number of meetings with full
 vaccination is 200 people in closed spaces and 300 people in open
 spaces.
 <https://web.archive.org/web/20210830225849/https://www.gub.uy/ministerio-salud-publica/sites/ministerio-salud-publica/files/documentos/noticias/FINAL%20-%20Recomendaciones%20Salones%20de%20Fiestas%20y%20Eventos%20%20-%2012-8-21.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Vietnam (GRI: 67 ↑ 72)
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Vietnam (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Vietnam (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No extra measures found to protect the elderly.
-<http://web.archive.org/web/20210816004437/https://vn.usembassy.gov/u-s-citizen-services/covid-19-information/>
-No protections beyond those mandated for the general public. link:
-<https://archive.ph/xnsGE>
 
 </td>
 
