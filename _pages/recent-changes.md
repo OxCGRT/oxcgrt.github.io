@@ -57,7 +57,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#zimbabwe-gri-60--62">Zimbabwe (GRI: 60 ↑ 62)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
+</div><div><a href="#benin-gri-49--45">Benin (GRI: 49 ↓ 45)</a> 
 </div><div><a href="#bolivia-gri-64--57">Bolivia (GRI: 64 ↓ 57)</a> 
+</div><div><a href="#chile-gri-76--64">Chile (GRI: 76 ↓ 64)</a> 
 </div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
 </div><div><a href="#dominican republic-gri-62--59">Dominican Republic (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#ethiopia-gri-46--44">Ethiopia (GRI: 46 ↓ 44)</a> 
@@ -244,6 +246,223 @@ Although the restrictions on internal gathering has been completely
 removed in most regions of the country, areas as Brussels are still
 under these restrictions due to lagging vaccination rates. Archived:
 <https://web.archive.org/web/20210902145654/https://www.garda.com/crisis24/news-alerts/517516/belgium-authorities-to-ease-covid-19-related-domestic-restrictions-from-sept-1-update-41>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Benin (GRI: 49 ↓ 45)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Benin (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Benin (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Sporting and cultural events have been allowed to resume.
+<https://web.archive.org/web/20210905140427/https://www.garda.com/crisis24/news-alerts/512571/benin-covid-19-restrictions-remain-unchanged-nationwide-as-of-aug-12-update-17>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Benin (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Benin (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Local public transport services are operating at 50 percent capacity.
+<https://web.archive.org/web/20210905140427/https://www.garda.com/crisis24/news-alerts/512571/benin-covid-19-restrictions-remain-unchanged-nationwide-as-of-aug-12-update-17>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Benin (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Benin (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All individuals must wear protective face masks in public settings.
+<https://web.archive.org/web/20210905140427/https://www.garda.com/crisis24/news-alerts/512571/benin-covid-19-restrictions-remain-unchanged-nationwide-as-of-aug-12-update-17>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Benin (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Benin (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No specific protection for elderly people.
+<https://web.archive.org/web/20210905141905/https://www.gouv.bj/coronavirus/>
 
 </td>
 
@@ -1049,6 +1268,444 @@ Council of Canada and Province of Manitoba websites, archived:
 <https://web.archive.org/web/20210826193139/www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
 <https://web.archive.org/web/20210812112606/https://news.gov.mb.ca/asset_library/en/newslinks/2021/08/BG-PHO_Update_Aug_7-PR-CPPHO.pdf>
 <https://web.archive.org/web/20210826191535/normanwells.com/updates/community-update-august-26-2021/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Chile (GRI: 76 ↓ 64)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Chile (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Chile (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are not changes. Depend on the situation of the commune. Available
+at:
+<https://web.archive.org/web/20210816203121/https://s3.amazonaws.com/gobcl-prod/public_files/Campa%C3%B1as/Corona-Virus/documentos/paso-a-paso/200721_Documento_actualizaci%C3%B3n_Paso_a_Paso.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Chile (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Chile (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are not changes. Depend on the situation of the commune. I add
+"“exemption apply”" because if the number of contiguous is lower it
+could be open the workplaces. Available at:
+<https://web.archive.org/web/20210816203121/https://s3.amazonaws.com/gobcl-prod/public_files/Campa%C3%B1as/Corona-Virus/documentos/paso-a-paso/200721_Documento_actualizaci%C3%B3n_Paso_a_Paso.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of Chile
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> cancellation of public events; in <b>some</b> parts of
+Chile (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are not changes. Depend on the situation of the commune. Available
+at:
+<https://web.archive.org/web/20210816203121/https://s3.amazonaws.com/gobcl-prod/public_files/Campa%C3%B1as/Corona-Virus/documentos/paso-a-paso/200721_Documento_actualizaci%C3%B3n_Paso_a_Paso.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Chile (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Chile (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are not changes. Available at:
+<https://archive.vn/QOGgB#selection-809.0-809.190>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Chile (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Chile (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are not changes. Available:
+<https://web.archive.org/web/20210526190043/https://www.gov.uk/foreign-travel-advice/chile/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Chile (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Chile
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are not changes. Available:
+<https://web.archive.org/web/20210526190043/https://www.gov.uk/foreign-travel-advice/chile/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Chile (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Chile (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are not changes. Available:
+<https://archive.vn/QOGgB#selection-809.0-809.20>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>all
+workers</b> in Chile (1A)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No income support</b> is present across all of Chile (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The program for giving income support has finished in August according
+to the link below. <https://archive.vn/VK1IO>
 
 </td>
 
