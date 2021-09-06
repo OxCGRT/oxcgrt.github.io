@@ -40,13 +40,15 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#bangladesh-gri-58--64">Bangladesh (GRI: 58 ↑ 64)</a> 
 </div><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#cameroon-gri-22--32">Cameroon (GRI: 22 ↑ 32)</a> 
-</div><div><a href="#canada-gri-59--65">Canada (GRI: 59 ↑ 65)</a> 
+</div><div><a href="#canada-gri-59--68">Canada (GRI: 59 ↑ 68)</a> 
 </div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
+</div><div><a href="#eswatini-gri-63--65">Eswatini (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
 </div><div><a href="#italy-gri-66--75">Italy (GRI: 66 ↑ 75)</a> 
 </div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
 </div><div><a href="#mexico-gri-60--61">Mexico (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#new zealand-gri-88--91">New Zealand (GRI: 88 ↑ 91)</a> 
+</div><div><a href="#niger-gri-29--32">Niger (GRI: 29 ↑ 32)</a> 
 </div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
 </div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div><div><a href="#taiwan-gri-58--60">Taiwan (GRI: 58 ↑ 60)</a> 
@@ -61,9 +63,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
 </div><div><a href="#mongolia-gri-60--57">Mongolia (GRI: 60 ↓ 57)</a> 
+</div><div><a href="#oman-gri-62--60">Oman (GRI: 62 ↓ 60)</a> 
+</div><div><a href="#panama-gri-85--69">Panama (GRI: 85 ↓ 69)</a> 
+</div><div><a href="#philippines-gri-67--59">Philippines (GRI: 67 ↓ 59)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#thailand-gri-72--64">Thailand (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#tunisia-gri-77--74">Tunisia (GRI: 77 ↓ 74)</a> 
+</div><div><a href="#ukraine-gri-50--44">Ukraine (GRI: 50 ↓ 44)</a> 
 </div><div><a href="#united arab emirates-gri-59--58">United Arab Emirates (GRI: 59 ↓ 58)</a> 
 </div></div> <br/>
 -->
@@ -1056,7 +1062,7 @@ treatment centers; source:
 
 </div>
 
-### Canada (GRI: 59 ↑ 65)
+### Canada (GRI: 59 ↑ 68)
 
 #### School closing (C1)
 
@@ -1307,95 +1313,6 @@ COVID-19.” See Government of Canada and Town of Norman Wells websites,
 archived:
 <https://web.archive.org/web/20210905192033/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html>
 <https://web.archive.org/web/20210905192429/https://normanwells.com/updates/curfew-notice-september-1-2021/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Canada (4)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Canada
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Canada
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Canada (4)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 6 september 2021, Canada continues to allow entry to fully vaccinated
-Americans. The border remains closed to all non-essential, non-American
-visitors until 7 September and to less-than-fully vaccinated,
-non-essential American visitors until further notice. See Government of
-Canada website, archived:
-<https://web.archive.org/web/20210905193733/https://travel.gc.ca/travel-covid>
 
 </td>
 
@@ -2442,6 +2359,157 @@ of the country Events have been suspended, including sports fixtures,
 cultural and artistic events, conventions and fairs, and any other
 events which could lead to concentrations of people. Source:
 <https://web.archive.org/web/20210712125328/https://www.gov.uk/foreign-travel-advice/dominican-republic/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Eswatini (GRI: 63 ↑ 65)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Eswatini (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Eswatini (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government of Eswatini announced on Twitter that all classes will
+reopen on 8 September. Until then only the completing classes are open.
+<https://web.archive.org/web/20210906153145/https://twitter.com/eswatinigovern1/status/1423598848455417859?s=21>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Eswatini (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Eswatini (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government opened vaccination to those over 40 on the 3rd of August.
+Johnson & Johnson is the administered vaccine.
+<https://web.archive.org/web/20210906144135/https://www.aa.com.tr/en/africa/eswatini-launches-nationwide-covid-vaccination-rollout/2323800>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Eswatini (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Eswatini (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The government opened vaccination for all people above 18 on the 28th of
+August.
+<https://web.archive.org/web/20210902095748/http://www.gov.sz/images/August-2021-Review.pdf>
 
 </td>
 
@@ -4071,6 +4139,872 @@ by phone.
 
 </div>
 
+### Niger (GRI: 29 ↑ 32)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Niger (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Niger (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Large gatherings for weddings, funerals, and baptisms are totally
+banned. Link:
+<http://web.archive.org/web/20210906160032/https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Oman (GRI: 62 ↓ 60)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Oman (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Oman (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All travelers arriving to Oman must undergo a COVID-19 PCR test before
+their arrival in Oman – for shorter flights, the test must be within 72
+hours and with longer international flights (i.e. with a period of no
+less than 8 hours) within 96 hours On August 16, 2021 the Supreme
+Committee announced that starting on August 17, 2021, all travelers
+coming from Iran and Iraq, including Omani citizens, must complete
+institutional quarantine. Omani citizens, residents with valid residency
+permits, and travelers with a valid visa are allowed to enter the
+Sultanate without prior approval. SOURCE:
+<http://web.archive.org/web/20210829182527/https://om.usembassy.gov/u-s-citizen-services/covid-19-information/>
+<http://web.archive.org/web/20210829183239/https://www.garda.com/crisis24/news-alerts/515536/oman-authorities-to-ease-some-covid-19-restrictions-from-aug-21-update-58>
+<http://web.archive.org/web/20210829183744/https://www.omanairports.co.om/news/en/update-on-travel-restrictions-related-to-covid-19/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Oman (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Oman (2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+ll travelers arriving to Oman must undergo a COVID-19 PCR test before
+their arrival in Oman – for shorter flights, the test must be within 72
+hours and with longer international flights (i.e. with a period of no
+less than 8 hours) within 96 hours On August 16, 2021 the Supreme
+Committee announced that starting on August 17, 2021, all travelers
+coming from Iran and Iraq, including Omani citizens, must complete
+institutional quarantine. Omani citizens, residents with valid residency
+permits, and travelers with a valid visa are allowed to enter the
+Sultanate without prior approval. <https://archive.vn/XPfpD>
+<https://archive.vn/JXVcg>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Oman (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Oman (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+3.8.21 The Ministry of Health (MOH) started today (Tuesday) COVID-19
+immunization service for school students from the age group of 12 and
+above across the Sultanate’s Governorates, noting that the Oman
+Convention & Exhibition Centre witnessed a large turnout from the target
+group since the early morning. Source:
+<http://web.archive.org/web/20210829185028/https://www.moh.gov.om/en/-/--44>
+Oman has administered at least 3,379,862 doses of COVID vaccines so far.
+Assuming every person needs 2 doses, that’s enough to have vaccinated
+about 34% of the country’s population. Source:
+<http://web.archive.org/web/20210829185830/https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/oman/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Panama (GRI: 85 ↓ 69)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of Panama (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Panama (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Since June, primary and secondary schools are reopening with a semi
+face-to-face dyanmic. See Ministry of Education website. Web.archive.org
+could not properly archive link.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Panama (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Panama (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from the 23rd of August, all workplaces are closed during curfew
+hours (which vary across regions) except essential ones. See Ministry of
+Health twitter. Archived:
+<http://web.archive.org/web/20210906181723/https://twitter.com/MINSAPma/status/1427804486936956938>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Panama (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
+parts of Panama (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from August 30, workplaces are required to closeduring curfew hours
+in some regions. See Ministry of Health twitter:
+<http://web.archive.org/web/20210906183443/https://twitter.com/MINSAPma/status/1430310149860757513>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Panama (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Panama (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+During curfew hours no one is allowed to leave their homes except for
+essential workers, therefore no gatherings are allowed. See Ministry of
+Health twitter. Archived:
+<http://web.archive.org/web/20210906181723/https://twitter.com/MINSAPma/status/1427804486936956938>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Panama (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Panama (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from August 30, gatherings are restricted during curfew hours in some
+regions. See Ministry of Health twitter:
+<http://web.archive.org/web/20210906183443/https://twitter.com/MINSAPma/status/1430310149860757513>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Panama (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Panama (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+During curfew hours no one is allowed to leave their homes except for
+essential workers, who therefore are the only ones who can use public
+transport. See Ministry of Health twitter. Archvied:
+<http://web.archive.org/web/20210906181723/https://twitter.com/MINSAPma/status/1427804486936956938>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Panama (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Panama (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from August 30, public transport is only for essential workers during
+curfew hours in some regions. See Ministry of Health twitter:
+<http://web.archive.org/web/20210906183443/https://twitter.com/MINSAPma/status/1430310149860757513>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); in <b>some</b> parts of Panama (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); across <b>all</b> of Panama (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+During curfew hours no one is allowed out of their homes. See Ministry
+of Health twitter. Archived:
+<http://web.archive.org/web/20210906181723/https://twitter.com/MINSAPma/status/1427804486936956938>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); across <b>all</b> of Panama (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); in <b>some</b> parts of Panama (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from August 30, everyone is required to stay at home during curfew
+hours in some regions. See Ministry of Health twitter:
+<http://web.archive.org/web/20210906183443/https://twitter.com/MINSAPma/status/1430310149860757513>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Panama (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Panama (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+During curfew hours internal movement is not allowed. See Ministry of
+Health twitter. Archived:
+<http://web.archive.org/web/20210906181723/https://twitter.com/MINSAPma/status/1427804486936956938>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Panama (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Panama (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As from August 30, internal movement is not allowed during curfew hours
+in some regions. See Ministry of Health twitter:
+<http://web.archive.org/web/20210906183443/https://twitter.com/MINSAPma/status/1430310149860757513>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Panama (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Panama (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Tax Amnesty plan no longer continues. See National Government
+website. Archived:
+<http://web.archive.org/web/20210906184127/https://www.mef.gob.pa/2021/08/el-31-de-agosto-vence-la-amnistia-tributaria/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Philippines (GRI: 67 ↓ 59)
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; in
+<b>some</b> parts of Philippines (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Philippines (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+no policy change Vaccines are available for A- key workers, B-
+clinically vulnerable groups (non elderly), C- elderly groups. The
+vaccines administered are Moderna, Pfizer/BioNTech, Sputnik V, Janssen
+(Johnson & Johnson), Oxford/AstraZeneca, Bahan Biotech, Sinopharm
+(Beijing) and Sinovac. See Department of Health website. Archived:
+<http://web.archive.org/web/20210823183032/https://doh.gov.ph/vaccines/when-will-the-COVID-19-available-to-me>.
+See Covdi 19 Vaccine Tracker. Archived:
+<http://web.archive.org/web/20210823183145/https://covid19.trackvaccines.org/country/philippines/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Russia (GRI: 58 ↑ 64)
 
 #### School closing (C1)
@@ -5188,6 +6122,174 @@ Foreigners in the quarantine are also tested at least 3 times.
 </div>
 
 ### Tunisia (GRI: 77 ↓ 74)
+
+### Ukraine (GRI: 50 ↓ 44)
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>narrow debt relief</b> across all of; NA
+Ukraine (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Ukraine (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Since the spring lockdown is passed in early may, there is no
+dept/contract relieve currently applicable.
+<http://web.archive.org/web/20210906170516/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Ukraine (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Ukraine (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Wearing masks is mandatory in public transportation and indoor public
+places. Individuals and establishments can be fined for not complying.
+://web.archive.org/web/20210906191743/<https://ua.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Ukraine (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+30/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Ukraine (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<http://web.archive.org/web/20210906194045/https://vaccination.covid19.gov.ua/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### United Arab Emirates (GRI: 59 ↓ 58)
 
