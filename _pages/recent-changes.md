@@ -58,6 +58,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#dominican republic-gri-62--59">Dominican Republic (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
 </div><div><a href="#jamaica-gri-66--65">Jamaica (GRI: 66 ↓ 65)</a> 
+</div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
 </div><div><a href="#mongolia-gri-60--57">Mongolia (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
@@ -3065,6 +3066,63 @@ public transport; in <b>some</b> parts of Kazakhstan (2T)
 Public transport operation is suspended in red zones only Sundays. From
 28 August, authorities allowed public transport to operate on Saturdays.
 <https://archive.vn/xJmEO>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Latvia (GRI: 40 ↓ 38)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Latvia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Latvia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools and universities all began studies in person, but only
+vaccinated, recovered or negatively tested persons are allowed.
+<https://web.archive.org/web/20210906073621/https://covid19.gov.lv/en/support-society/how-behave-safely/covid-19-control-measures>
 
 </td>
 
