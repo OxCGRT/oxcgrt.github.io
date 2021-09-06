@@ -1058,6 +1058,71 @@ treatment centers; source:
 
 ### Canada (GRI: 59 ↑ 65)
 
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Canada (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of Canada (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 1 September 2021, elementary and secondary schools started a new
+academic year in some parts of Canada. In Northwest Territories (NWT):
+“Most of the schools in the Sahtu are pivoting to remote learning”. In
+Quebec, schools are open, but “proof of vaccination is needed for sports
+indoors”. “New Brunswick has … required vaccination for all school staff
+(or regular testing)” when schools open next week. Many universities
+across Canada are requiring students and staff to be vaccinated when
+classes start this month. See CBC, NWT, University Affairs and Globe and
+Mail newspaper websites, archived:
+<https://web.archive.org/web/20210905125106/https://www.universityaffairs.ca/news/news-article/covid-19-updates-for-canadas-universities/>
+<https://web.archive.org/web/20210905124006/https://www.cbc.ca/news/canada/back-to-school-canada-2021-comparison-1.6155723>
+<https://web.archive.org/web/20210905124215/https://www.gov.nt.ca/covid-19/en/services/updates>
+<https://web.archive.org/web/20210905181637/https://www.theglobeandmail.com/canada/article-coronavirus-rules-by-province-physical-distancing-open-closed/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Workplace closing (C2)
 
 <div id="table-div">
@@ -1175,6 +1240,162 @@ Council of Canada and Province of Manitoba websites, archived:
 <https://web.archive.org/web/20210826193139/www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
 <https://web.archive.org/web/20210812112606/https://news.gov.mb.ca/asset_library/en/newslinks/2021/08/BG-PHO_Update_Aug_7-PR-CPPHO.pdf>
 <https://web.archive.org/web/20210826191535/normanwells.com/updates/community-update-august-26-2021/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Canada (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+2/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Canada
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+2 September 2021 is the first effective date in the Northwest
+Territories (NWT) that the town of Norman Wells “has instated a curfew
+between the times of 12am and 6am” to all persons regardless of
+vaccination status. The Government of Canada continues to advise: “As
+efforts continue across Canada to increase overall vaccine coverage and
+lower community transmission, public health measures remain the
+foundation of the pandemic response… new variants of concern have been
+identified and are circulating. This is why it’s even more important to
+consistently use multiple personal preventive practices at once,
+regardless of your vaccination status… Stay at home as much as possible,
+especially if you’re at risk of more severe disease or outcomes from
+COVID-19.” See Government of Canada and Town of Norman Wells websites,
+archived:
+<https://web.archive.org/web/20210905192033/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html>
+<https://web.archive.org/web/20210905192429/https://normanwells.com/updates/curfew-notice-september-1-2021/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Canada (4)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Canada
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Canada
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Canada (4)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 6 september 2021, Canada continues to allow entry to fully vaccinated
+Americans. The border remains closed to all non-essential, non-American
+visitors until 7 September and to less-than-fully vaccinated,
+non-essential American visitors until further notice. See Government of
+Canada website, archived:
+<https://web.archive.org/web/20210905193733/https://travel.gc.ca/travel-covid>
 
 </td>
 
