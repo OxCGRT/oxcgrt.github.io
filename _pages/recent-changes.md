@@ -38,7 +38,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-07</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bangladesh-gri-58--64">Bangladesh (GRI: 58 ↑ 64)</a> 
 </div><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
-</div><div><a href="#cameroon-gri-22--32">Cameroon (GRI: 22 ↑ 32)</a> 
+</div><div><a href="#cameroon-gri-22--30">Cameroon (GRI: 22 ↑ 30)</a> 
 </div><div><a href="#canada-gri-61--68">Canada (GRI: 61 ↑ 68)</a> 
 </div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
 </div><div><a href="#eswatini-gri-63--65">Eswatini (GRI: 63 ↑ 65)</a> 
@@ -54,13 +54,14 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div><div><a href="#taiwan-gri-58--60">Taiwan (GRI: 58 ↑ 60)</a> 
 </div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--35">Aruba (GRI: 37 ↓ 35)</a> 
+</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--34">Aruba (GRI: 37 ↓ 34)</a> 
 </div><div><a href="#azerbaijan-gri-56--55">Azerbaijan (GRI: 56 ↓ 55)</a> 
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
 </div><div><a href="#chile-gri-76--64">Chile (GRI: 76 ↓ 64)</a> 
 </div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
 </div><div><a href="#dominican republic-gri-62--59">Dominican Republic (GRI: 62 ↓ 59)</a> 
 </div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
+</div><div><a href="#gabon-gri-59--55">Gabon (GRI: 59 ↓ 55)</a> 
 </div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
 </div><div><a href="#mongolia-gri-60--57">Mongolia (GRI: 60 ↓ 57)</a> 
@@ -80,7 +81,7 @@ Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
 
-### Aruba (GRI: 37 ↓ 35)
+### Aruba (GRI: 37 ↓ 34)
 
 #### Cancel public events (C3)
 
@@ -123,60 +124,6 @@ Aruba (1G)
 
 Social Activity Max. people: 90 indoors, 125 outdoors.
 <https://archive.fo/EWi4A>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Aruba (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-2/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Aruba (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Masks Obligatory (indoors) <https://archive.fo/EWi4A>
 
 </td>
 
@@ -673,7 +620,63 @@ under these restrictions due to lagging vaccination rates. Archived:
 
 </div>
 
-### Cameroon (GRI: 22 ↑ 32)
+### Cameroon (GRI: 22 ↑ 30)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Cameroon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Cameroon (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+An order jointly signed by the Ministers of Basic and Secondary
+Education outlines that the school calendar for 2021/22 is to commence
+on the 6th of September, 2021 and will end on Friday July 29, 2022.
+Pupils and students will attend classes both in classroom and online
+because of of COVID19 pandemic. Source: <https://archive.vn/Qzfkw>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Cancel public events (C3)
 
@@ -2321,6 +2324,243 @@ The authorities recommend extensive remote work in both the public and
 private sectors in all areas where the epidemic is in the acceleration
 or community transmission phase. Archived:
 <https://web.archive.org/web/20210902155803/https://valtioneuvosto.fi/tietoa-koronaviruksesta/rajoitukset-ja-suositukset>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Gabon (GRI: 59 ↓ 55)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Gabon
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Gabon (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Markets have reopened as normal. Restaurants with a terrace have
+reopened. Bars and motels have reopened until 8:30pm. Access to
+restaurants and places of worship is subject to presentation of negative
+PCR test or a valid COVID-19 vaccination certificate.
+<https://web.archive.org/web/20210907085811/https://www.gov.uk/foreign-travel-advice/gabon/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of Gabon
+(2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Gabon (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Gatherings of more than 30 people are banned, however, parliament and
+educational institutions are exempt from this limit. All place of
+worship can only open one day a week. Places of worship with a maximum
+of 30 people have to observe the ‘sanitary protocol’ which includes
+compulsory wearing of masks, hand sanitisation, and social distancing.
+<https://web.archive.org/web/20210907085811/https://www.gov.uk/foreign-travel-advice/gabon/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Gabon (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Gabon (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Grand (Greater) Libreville area comprising of the 4 municipalities
+of Libreville, Owendo, Akanda and Ntoum is in confinement or lockdown.
+Travel in and out of the Grand Libreville area is restricted.
+<https://web.archive.org/web/20210907085811/https://www.gov.uk/foreign-travel-advice/gabon/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Gabon
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Gabon (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All passengers travelling to Gabon must present a valid negative
+polymerase chain reaction (PCR) test no older than 3 days or a valid
+COVID-19 vaccination certificate for entry into Gabon. On arrival, all
+passengers must take a compulsory test for COVID-19 at Libreville
+Airport. Passengers are then required to self-isolate for 24 hours in
+designated hotels at their own expense whilst the COVID-19 test is being
+processed. If the COVID-19 test is negative, passengers will be issued a
+test certificate, which is valid for 14 days and can be renewed at the
+end of this period after another test is undertaken. Holders of
+vaccination certificates are exempt from the compulsory testing and
+self-isolation.
+<https://web.archive.org/web/20210907085811/https://www.gov.uk/foreign-travel-advice/gabon/entry-requirements>
 
 </td>
 
