@@ -53,7 +53,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
 </div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div><div><a href="#taiwan-gri-58--60">Taiwan (GRI: 58 ↑ 60)</a> 
-</div><div><a href="#united states-gri-60--61">United States (GRI: 60 ↑ 61)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--34">Aruba (GRI: 37 ↓ 34)</a> 
 </div><div><a href="#azerbaijan-gri-56--55">Azerbaijan (GRI: 56 ↓ 55)</a> 
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
@@ -74,6 +73,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#tunisia-gri-77--74">Tunisia (GRI: 77 ↓ 74)</a> 
 </div><div><a href="#ukraine-gri-50--44">Ukraine (GRI: 50 ↓ 44)</a> 
 </div><div><a href="#united arab emirates-gri-59--58">United Arab Emirates (GRI: 59 ↓ 58)</a> 
+</div><div><a href="#united states-gri-60--58">United States (GRI: 60 ↓ 58)</a> 
 </div></div> <br/>
 -->
 
@@ -6246,7 +6246,7 @@ test, or 10 days with no or a positive test.
 
 </div>
 
-### United States (GRI: 60 ↑ 61)
+### United States (GRI: 60 ↓ 58)
 
 #### Workplace closing (C2)
 
@@ -6357,6 +6357,61 @@ moratorium on issuing permits for events in public spaces and revoked
 permits for events planned through Sept. 30, including the Savannah Jazz
 Festival.”"
 <https://web.archive.org/web/20210831035045/https://www.savannahnow.com/story/news/2021/08/24/city-savannah-announces-new-covid-19-restrictions-events-permits/5569843001/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>all
+workers</b> in United States (1A)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+5/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No income support</b> is present across all of United States (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The expanded unemployment benefits lasted until September 4th, ending on
+September 5th. See archive:
+<https://web.archive.org/web/20210904010849/https://dwd.wisconsin.gov/uiben/fpuc/>
+<https://web.archive.org/web/20210905192207/https://www.forbes.com/sites/zackfriedman/2021/09/05/unemployment-benefits-end-tomorrow-for-millions-of-americans>
 
 </td>
 
