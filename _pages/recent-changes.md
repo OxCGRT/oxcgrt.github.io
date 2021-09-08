@@ -62,6 +62,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#gabon-gri-59--55">Gabon (GRI: 59 ↓ 55)</a> 
 </div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
+</div><div><a href="#moldova-gri-48--46">Moldova (GRI: 48 ↓ 46)</a> 
 </div><div><a href="#mongolia-gri-60--57">Mongolia (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#nepal-gri-69--59">Nepal (GRI: 69 ↓ 59)</a> 
 </div><div><a href="#oman-gri-62--60">Oman (GRI: 62 ↓ 60)</a> 
@@ -69,7 +70,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#philippines-gri-67--59">Philippines (GRI: 67 ↓ 59)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div><div><a href="#thailand-gri-72--64">Thailand (GRI: 72 ↓ 64)</a> 
-</div><div><a href="#tunisia-gri-77--74">Tunisia (GRI: 77 ↓ 74)</a> 
+</div><div><a href="#tunisia-gri-77--39">Tunisia (GRI: 77 ↓ 39)</a> 
 </div><div><a href="#ukraine-gri-50--44">Ukraine (GRI: 50 ↓ 44)</a> 
 </div><div><a href="#united arab emirates-gri-59--58">United Arab Emirates (GRI: 59 ↓ 58)</a> 
 </div><div><a href="#united states-gri-60--58">United States (GRI: 60 ↓ 58)</a> 
@@ -3869,6 +3870,64 @@ wear masks when outside the home.
 
 </div>
 
+### Moldova (GRI: 48 ↓ 46)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Moldova (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Moldova (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Starting from 1 September 2021, the National Extraordinary Public Health
+Commission (CNESP) stated that all schools open in country wide, in
+conditions of the observance of the prevention measure of COVID 19.
+<https://web.archive.org/web/20210908121112/https://www.moldpres.md/en/news/2021/08/24/21006199>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Mongolia (GRI: 60 ↓ 57)
 
 #### School closing (C1)
@@ -5629,7 +5688,7 @@ Foreigners in the quarantine are also tested at least 3 times.
 
 </div>
 
-### Tunisia (GRI: 77 ↓ 74)
+### Tunisia (GRI: 77 ↓ 39)
 
 #### School closing (C1)
 
@@ -5673,6 +5732,563 @@ operational differences; across <b>all</b> of Tunisia (1G)
 Academic break, thus most schools across the country are on scheduled
 academic breaks, all study during this period is suspended; source:
 /web/20210908084539/<https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Tunisia (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>very large</b> gatherings (over 1000 people); across
+<b>all</b> of Tunisia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Gatherings and festivities including cultural, family, and sports
+gatherings are banned in closed spaces; a nationwide curfew will be in
+effect each day from midnight to 05:00 AM; source:
+/web/20210908085025/<https://tn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Tunisia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Tunisia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of August 1, 2021 a curfew is in place from midnight to 05:00 daily;
+during curfew hours, all non-emergency movements are prohibited;
+currently no restrictions on intercity or interstate travel in place
+within Tunisia; source:
+/web/20210908085025/<https://tn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Tunisia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Tunisia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of August 1, 2021 a curfew is in place from midnight to 05:00 daily;
+during curfew hours, all non-emergency movements are prohibited;
+currently no restrictions on intercity or interstate travel in place
+within Tunisia; source:
+/web/20210908085025/<https://tn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>less than 50% income</b>; for <b>all
+workers</b> in Tunisia (1A)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No income support</b> is present across all of Tunisia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No suitable source found
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Debt/contract relief (E2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA
+Tunisia (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No debt relief</b> is present across all of Tunisia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No suitable source found
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Tunisia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+There is <b>no official</b> public information campaign across all of
+Tunisia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No adequate source found
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Tunisia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No contact tracing</b> is present across all of Tunisia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No suitable source found.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Tunisia (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Tunisia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Face masks are required in all forms of public transportation, including
+private taxis; source:
+/web/20210908085025/<https://tn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Tunisia (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Available to <b>ALL</b> key group (key workers, elderly, clinically
+vulnerable); at no / minimal cost to the individual (government funded
+or subsidised) Tunisia (3S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of April 21, 2021, the Government of Tunisia is reportedly
+administering a number of vaccines, which includes Pfizer, Sinovac,
+Sputnik V, and Astra Zeneca; the government of Tunisia began their
+vaccination campaign in March 2021; the Ministry of Health developed a
+vaccine eligibility plan that will make appointments available using a
+phased approach which prioritizes vaccines based on age, employment
+category, and medical history; source:
+/web/20210908085025/<https://tn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Tunisia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Tunisia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of April 21, 2021, the Government of Tunisia is reportedly
+administering a number of vaccines, which includes Pfizer, Sinovac,
+Sputnik V, and Astra Zeneca; the government of Tunisia began their
+vaccination campaign in March 2021; the Ministry of Health developed a
+vaccine eligibility plan that will make appointments available using a
+phased approach which prioritizes vaccines based on age, employment
+category, and medical history; source:
+/web/20210908085025/<https://tn.usembassy.gov/covid-19-information/>
 
 </td>
 
