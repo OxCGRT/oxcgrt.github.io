@@ -36,10 +36,9 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-07</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#bangladesh-gri-58--64">Bangladesh (GRI: 58 ↑ 64)</a> 
-</div><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-08</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#cameroon-gri-22--30">Cameroon (GRI: 22 ↑ 30)</a> 
-</div><div><a href="#canada-gri-61--68">Canada (GRI: 61 ↑ 68)</a> 
+</div><div><a href="#canada-gri-65--68">Canada (GRI: 65 ↑ 68)</a> 
 </div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
 </div><div><a href="#eswatini-gri-63--65">Eswatini (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#ethiopia-gri-44--46">Ethiopia (GRI: 44 ↑ 46)</a> 
@@ -184,65 +183,6 @@ attendees) must be able to provide a COVID passport or a certificate of
 recovery from the virus. Protective face coverings are not mandatory.
 Gatherings of more than 150 persons remain prohibited.
 <https://web.archive.org/web/20210905172026/https://www.garda.com/crisis24/news-alerts/519591/azerbaijan-government-extends-special-quarantine-regime-through-at-least-nov-1-update-37>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Bangladesh (GRI: 58 ↑ 64)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No debt relief</b> is present across all of Bangladesh (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA
-Bangladesh (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Bangladesh Bank: borrowers will be able to avoid default zone by
-repaying 25 per cent of their loan instalments until December this year.
-The rest of the funds of the instalments will have to be paid within the
-next year.
-<https://web.archive.org/web/20210905162026/https://www.thedailystar.net/business/banking/news/bangladesh-bank-extends-relaxation-loan-classification-policy-further-2162906>
-<https://web.archive.org/web/20210905161125/https://www.dhakatribune.com/business/2021/09/02/bb-loan-repayment-time-relaxed-for-nbfi-borrowers>
 
 </td>
 
@@ -840,7 +780,7 @@ will undergo testing on arrival at the airport. Source:
 
 </div>
 
-### Canada (GRI: 61 ↑ 68)
+### Canada (GRI: 65 ↑ 68)
 
 #### School closing (C1)
 
@@ -2179,49 +2119,6 @@ August.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Ethiopia (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Ethiopia (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccines are currently only available to priority groups, starting with
-front-line healthcare workers. Healthcare workers should register
-themselves with the local woreda or zonal level public health system.
-The Ethiopian national vaccination programme started in March 2021 and
-is using the AstraZeneca (Covishield) and Sinopharm vaccines. Source:
-<https://web.archive.org/web/20210825233023/https://et.usembassy.gov/covid-19-information/>
-<https://web.archive.org/web/20210322111639/https://www.gov.uk/foreign-travel-advice/ethiopia/coronavirus>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -4028,59 +3925,6 @@ Secondary schools have partially opened. Universities are still closed.
 
 </div>
 
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No debt relief</b> is present across all of Mongolia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA
-Mongolia (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No policy update.
-<https://web.archive.org/web/20210830022528/https://mn.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Nepal (GRI: 69 ↓ 59)
 
 #### School closing (C1)
@@ -4500,50 +4344,6 @@ banned. Link:
 
 <b>Old policy:</b>
 
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Oman (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Oman (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All travelers arriving to Oman must undergo a COVID-19 PCR test before
-their arrival in Oman – for shorter flights, the test must be within 72
-hours and with longer international flights (i.e. with a period of no
-less than 8 hours) within 96 hours On August 16, 2021 the Supreme
-Committee announced that starting on August 17, 2021, all travelers
-coming from Iran and Iraq, including Omani citizens, must complete
-institutional quarantine. Omani citizens, residents with valid residency
-permits, and travelers with a valid visa are allowed to enter the
-Sultanate without prior approval. SOURCE:
-<http://web.archive.org/web/20210829182527/https://om.usembassy.gov/u-s-citizen-services/covid-19-information/>
-<http://web.archive.org/web/20210829183239/https://www.garda.com/crisis24/news-alerts/515536/oman-authorities-to-ease-some-covid-19-restrictions-from-aug-21-update-58>
-<http://web.archive.org/web/20210829183744/https://www.omanairports.co.om/news/en/update-on-travel-restrictions-related-to-covid-19/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Ban</b> arrivals from <b>some</b> regions coming into Oman (3)
 
 </td>
@@ -4588,125 +4388,7 @@ Sultanate without prior approval. <https://archive.vn/XPfpD>
 
 </div>
 
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Oman (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Oman (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-3.8.21 The Ministry of Health (MOH) started today (Tuesday) COVID-19
-immunization service for school students from the age group of 12 and
-above across the Sultanate’s Governorates, noting that the Oman
-Convention & Exhibition Centre witnessed a large turnout from the target
-group since the early morning. Source:
-<http://web.archive.org/web/20210829185028/https://www.moh.gov.om/en/-/--44>
-Oman has administered at least 3,379,862 doses of COVID vaccines so far.
-Assuming every person needs 2 doses, that’s enough to have vaccinated
-about 34% of the country’s population. Source:
-<http://web.archive.org/web/20210829185830/https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/oman/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Panama (GRI: 85 ↓ 69)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Panama (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Panama (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Since June, primary and secondary schools are reopening with a semi
-face-to-face dyanmic. See Ministry of Education website. Web.archive.org
-could not properly archive link.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Workplace closing (C2)
 
@@ -5555,75 +5237,6 @@ most stringent set of rules, as planned. <https://archive.is/cJrur>
 ### Suriname (GRI: 71 ↑ 75)
 
 ### Taiwan (GRI: 58 ↑ 60)
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Taiwan (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Taiwan (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Self-pay COVID-19 test is widely available at hospitals throughout
-Taiwan. On August 23, the Central Epidemic Command Center (CECC) pointed
-out that it has formulated strengthened COVID-19 surveillance programs
-listed below to reduce the risk of the Delta variant entering
-communities in Taiwan. A. To enhance community surveillance, the CECC
-will distribute government-funded COVID-19 home test kits to contracted
-clinics in cities and counties on August 30. Based on their diagnosis,
-doctors can provide the home test kits to high-risk individuals who will
-use the test kits to test themselves and report back their test result.
-B. To monitor the health of certain high-risk personnel at international
-airports, certain high-risk personnel at Taoyuan International Airport,
-Taipei Songshan Airport, Taichung International Airport, and Kaohsiung
-International Airport will be tested for COVID-19 using
-government-funded home test kits every seven days starting August 30. C.
-Expanding wastewater surveillance. D. Conducting surveys on the
-seroprevalence of SARS-CoV-2 antibodies among blood donors. E.
-Continuing surveillance on imported frozen foods and their packaging.
-<https://web.archive.org/web/20210828043629/https://www.cdc.gov.tw/En/Bulletin/Detail/8fleo-ogpnOqpMFcC_83jw?typeid=158>
-<https://web.archive.org/web/20210828043707/https://www.ait.org.tw/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Vaccination policy (H7)
 
