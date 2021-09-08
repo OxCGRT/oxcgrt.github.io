@@ -62,7 +62,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#gabon-gri-59--55">Gabon (GRI: 59 ↓ 55)</a> 
 </div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
-</div><div><a href="#moldova-gri-48--46">Moldova (GRI: 48 ↓ 46)</a> 
+</div><div><a href="#moldova-gri-48--41">Moldova (GRI: 48 ↓ 41)</a> 
 </div><div><a href="#mongolia-gri-60--57">Mongolia (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#nepal-gri-69--59">Nepal (GRI: 69 ↓ 59)</a> 
 </div><div><a href="#oman-gri-62--60">Oman (GRI: 62 ↓ 60)</a> 
@@ -3870,7 +3870,7 @@ wear masks when outside the home.
 
 </div>
 
-### Moldova (GRI: 48 ↓ 46)
+### Moldova (GRI: 48 ↓ 41)
 
 #### School closing (C1)
 
@@ -3915,6 +3915,63 @@ Starting from 1 September 2021, the National Extraordinary Public Health
 Commission (CNESP) stated that all schools open in country wide, in
 conditions of the observance of the prevention measure of COVID 19.
 <https://web.archive.org/web/20210908121112/https://www.moldpres.md/en/news/2021/08/24/21006199>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of Moldova (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+6/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Moldova (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The Extraordinary National Commission for Public Health from 29 April
+2021. It is recommended to avoid people over the age of 63 years away
+from home and in public spaces without some exception.
+<https://web.archive.org/web/20210908120730/https://ambchisinau.esteri.it/Ambasciata_Chisinau/resource/doc/2021/05/cnesp_decision_no54_29aril21_unofficial_eng.pdf>
 
 </td>
 
