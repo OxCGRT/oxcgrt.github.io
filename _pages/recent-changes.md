@@ -5631,6 +5631,61 @@ Foreigners in the quarantine are also tested at least 3 times.
 
 ### Tunisia (GRI: 77 ↓ 74)
 
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Tunisia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Tunisia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Academic break, thus most schools across the country are on scheduled
+academic breaks, all study during this period is suspended; source:
+/web/20210908084539/<https://en.unesco.org/covid19/educationresponse>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Ukraine (GRI: 50 ↓ 44)
 
 #### Debt/contract relief (E2)
