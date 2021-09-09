@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-08</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#cameroon-gri-22--30">Cameroon (GRI: 22 ↑ 30)</a> 
 </div><div><a href="#canada-gri-65--68">Canada (GRI: 65 ↑ 68)</a> 
 </div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
@@ -44,14 +44,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#ethiopia-gri-44--46">Ethiopia (GRI: 44 ↑ 46)</a> 
 </div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
 </div><div><a href="#italy-gri-66--75">Italy (GRI: 66 ↑ 75)</a> 
-</div><div><a href="#jamaica-gri-66--69">Jamaica (GRI: 66 ↑ 69)</a> 
+</div><div><a href="#jamaica-gri-65--69">Jamaica (GRI: 65 ↑ 69)</a> 
 </div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
 </div><div><a href="#mexico-gri-60--61">Mexico (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#new zealand-gri-90--91">New Zealand (GRI: 90 ↑ 91)</a> 
 </div><div><a href="#niger-gri-29--32">Niger (GRI: 29 ↑ 32)</a> 
 </div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
 </div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
-</div><div><a href="#taiwan-gri-58--60">Taiwan (GRI: 58 ↑ 60)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--34">Aruba (GRI: 37 ↓ 34)</a> 
 </div><div><a href="#azerbaijan-gri-56--55">Azerbaijan (GRI: 56 ↓ 55)</a> 
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
@@ -835,70 +834,6 @@ Mail newspaper websites, archived:
 <https://web.archive.org/web/20210905124006/https://www.cbc.ca/news/canada/back-to-school-canada-2021-comparison-1.6155723>
 <https://web.archive.org/web/20210905124215/https://www.gov.nt.ca/covid-19/en/services/updates>
 <https://web.archive.org/web/20210905181637/https://www.theglobeandmail.com/canada/article-coronavirus-rules-by-province-physical-distancing-open-closed/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Canada (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 25 august 2021, the government of Northwest Territories (NWT) orders
-in the town of Norman Wells: “Non-essential businesses and facilities
-must close to the public … Essential businesses and facilities may
-remain open to the public with no more than ten (10) persons … Physical
-distancing of at least 2 metres shall be maintained amongst persons from
-different households”. In Manitoba, businesses are open with guidelines,
-but access to casinos and bingo halls is restricted to fully vaccinated
-patrons with “proof-of-immunization cards”. Some provinces – e.g.,
-Alberta, Saskatchewan, New Brunswick – have revoked covid-related public
-health requirements for business operations. See government of NWT
-website, archived:
-<https://web.archive.org/web/20210826105622/https://www.gov.nt.ca/covid-19/sites/covid/files/resources/2021-08-25_norman_wells_containment_order_0.pdf>
 
 </td>
 
@@ -3071,7 +3006,7 @@ distancing is possible
 
 </div>
 
-### Jamaica (GRI: 66 ↑ 69)
+### Jamaica (GRI: 65 ↑ 69)
 
 #### Workplace closing (C2)
 
@@ -3515,290 +3450,6 @@ vaccinated, recovered or negatively tested persons are allowed.
 
 According to UNESCO, schools are fully open.
 <https://web.archive.org/web/20210903034908/https://en.unesco.org/covid19/educationresponse>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Madagascar (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Madagascar (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to gov.uk, indoor gatherings are restricted to 400 people,
-although there is no restriction on outdoor gatherings.
-<https://web.archive.org/web/20210903035327/https://www.gov.uk/foreign-travel-advice/madagascar/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Madagascar (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Madagascar
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the U.S. Embassy in Madagascar, a curfew applies from
-Midnight to 4 AM.
-<https://web.archive.org/web/20210903040857/https://mg.usembassy.gov/u-s-citizen-services/security-and-travel-information/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Madagascar (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Madagascar (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to gov.uk, it is mandatory to wear a face mask in all public
-places, including in shops, parks and streets.
-<https://web.archive.org/web/20210903035327/https://www.gov.uk/foreign-travel-advice/madagascar/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Madagascar (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Madagascar (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to gov.uk, Madagascar is using AstraZeneca and John and
-Johnson vaccines. The second dose programme is now available in
-Antananarivo and other regions of the country in many different medical
-centres (hospitals and CSB). Single dose Janssen (Johnson & Johnson)
-single dose vaccination is open to health workers, social workers, law
-enforcement, persons with a chronic illness, and persons with a proven
-need to travel overseas for work or study.
-<https://web.archive.org/web/20210903035327/https://www.gov.uk/foreign-travel-advice/madagascar/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of Madagascar (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Madagascar (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the U.S. Embassy in Madagascar, a curfew applies from
-Midnight to 4 AM.
-<https://web.archive.org/web/20210903040857/https://mg.usembassy.gov/u-s-citizen-services/security-and-travel-information/covid-19-information/>
 
 </td>
 
@@ -4268,65 +3919,6 @@ restaurants to reopen at 50 per cent capacity.
 </div>
 
 ### New Zealand (GRI: 90 ↑ 91)
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of New
-Zealand (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of New Zealand (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of 25 August, You legally must wear a face covering if you are a
-customer or an employee involving customer contact at a business or
-service operating at Alert Level 4. You also need to wear a face
-covering on public transport and at departure points.
-<https://web.archive.org/web/20210825100657/https://covid19.govt.nz/health-and-wellbeing/protect-yourself-and-others-from-covid-19/wear-a-face-covering/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Vaccination policy (H7)
 
@@ -5351,74 +4943,6 @@ most stringent set of rules, as planned. <https://archive.is/cJrur>
 </div>
 
 ### Suriname (GRI: 71 ↑ 75)
-
-### Taiwan (GRI: 58 ↑ 60)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Taiwan (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-27/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Taiwan (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Oxford-AstraZeneca, Moderna, Medigen Biologics On August 21, the Central
-Epidemic Command Center (CECC) pointed out that the COVID-19 vaccination
-registration and appointment reservation system started the process of
-counting registrants at 12 p.m. on August 21, and the system will be
-open from 10 a.m. on August 23 to 6 p.m. on August 24 to people who
-newly registered their willingness to be vaccinated with the Medigen
-vaccine or edited and added the vaccine as a vaccine preference after 2
-p.m. on August 16, allowing such individuals to schedule appointments to
-get vaccinated with the Medigen vaccine. Vaccination is scheduled to
-take place between August 27 and August 29 for individuals included in
-this round of bookings.
-<https://web.archive.org/web/20210828042810/https://www.cdc.gov.tw/En/Bulletin/Detail/tMo5u53H3-OG32ZF22oPDA?typeid=158>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 ### Thailand (GRI: 72 ↓ 64)
 
