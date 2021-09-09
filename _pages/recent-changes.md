@@ -38,7 +38,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#cameroon-gri-22--30">Cameroon (GRI: 22 ↑ 30)</a> 
-</div><div><a href="#canada-gri-65--68">Canada (GRI: 65 ↑ 68)</a> 
 </div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
 </div><div><a href="#eswatini-gri-63--65">Eswatini (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#ethiopia-gri-44--46">Ethiopia (GRI: 44 ↑ 46)</a> 
@@ -54,6 +53,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--34">Aruba (GRI: 37 ↓ 34)</a> 
 </div><div><a href="#azerbaijan-gri-56--55">Azerbaijan (GRI: 56 ↓ 55)</a> 
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
+</div><div><a href="#canada-gri-65--64">Canada (GRI: 65 ↓ 64)</a> 
 </div><div><a href="#chile-gri-76--64">Chile (GRI: 76 ↓ 64)</a> 
 </div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
 </div><div><a href="#dominican republic-gri-62--59">Dominican Republic (GRI: 62 ↓ 59)</a> 
@@ -780,72 +780,7 @@ will undergo testing on arrival at the airport. Source:
 
 </div>
 
-### Canada (GRI: 65 ↑ 68)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Canada (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 1 September 2021, elementary and secondary schools started a new
-academic year in some parts of Canada. In Northwest Territories (NWT):
-“Most of the schools in the Sahtu are pivoting to remote learning”. In
-Quebec, schools are open, but “proof of vaccination is needed for sports
-indoors”. “New Brunswick has … required vaccination for all school staff
-(or regular testing)” when schools open next week. Many universities
-across Canada are requiring students and staff to be vaccinated when
-classes start this month. See CBC, NWT, University Affairs and Globe and
-Mail newspaper websites, archived:
-<https://web.archive.org/web/20210905125106/https://www.universityaffairs.ca/news/news-article/covid-19-updates-for-canadas-universities/>
-<https://web.archive.org/web/20210905124006/https://www.cbc.ca/news/canada/back-to-school-canada-2021-comparison-1.6155723>
-<https://web.archive.org/web/20210905124215/https://www.gov.nt.ca/covid-19/en/services/updates>
-<https://web.archive.org/web/20210905181637/https://www.theglobeandmail.com/canada/article-coronavirus-rules-by-province-physical-distancing-open-closed/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Canada (GRI: 65 ↓ 64)
 
 #### Cancel public events (C3)
 
@@ -967,6 +902,65 @@ COVID-19.” See Government of Canada and Town of Norman Wells websites,
 archived:
 <https://web.archive.org/web/20210905192033/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html>
 <https://web.archive.org/web/20210905192429/https://normanwells.com/updates/curfew-notice-september-1-2021/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Border closure</b> (ban on all regions) in Canada (4)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Canada (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 7 september 2021, Canada opens the border to fully vaccinated,
+non-essential, non-American visitors. The border opened to fully
+vaccinated, non-essential American visitors on 9 August. “Direct flights
+from India and Morocco will remain suspended until at least later this
+month. Travellers from either country who take an indirect route to
+Canada will be required to produce a recent negative molecular test
+taken in a third country.” See Globe and Mail newspaper website,
+archived:
+<https://web.archive.org/web/20210909162716/https://www.theglobeandmail.com/canada/article-federal-government-eases-travel-restrictions-for-fully-vaccinated/>
 
 </td>
 
