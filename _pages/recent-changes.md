@@ -36,13 +36,13 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-09</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-10</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#barbados-gri-58--61">Barbados (GRI: 58 ↑ 61)</a> 
 </div><div><a href="#cameroon-gri-22--30">Cameroon (GRI: 22 ↑ 30)</a> 
 </div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
-</div><div><a href="#eswatini-gri-63--65">Eswatini (GRI: 63 ↑ 65)</a> 
 </div><div><a href="#ethiopia-gri-44--46">Ethiopia (GRI: 44 ↑ 46)</a> 
+</div><div><a href="#finland-gri-53--55">Finland (GRI: 53 ↑ 55)</a> 
 </div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
-</div><div><a href="#italy-gri-66--75">Italy (GRI: 66 ↑ 75)</a> 
+</div><div><a href="#italy-gri-73--75">Italy (GRI: 73 ↑ 75)</a> 
 </div><div><a href="#jamaica-gri-65--69">Jamaica (GRI: 65 ↑ 69)</a> 
 </div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
 </div><div><a href="#mexico-gri-60--61">Mexico (GRI: 60 ↑ 61)</a> 
@@ -51,13 +51,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
 </div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--34">Aruba (GRI: 37 ↓ 34)</a> 
-</div><div><a href="#azerbaijan-gri-56--55">Azerbaijan (GRI: 56 ↓ 55)</a> 
+</div><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
 </div><div><a href="#canada-gri-65--64">Canada (GRI: 65 ↓ 64)</a> 
 </div><div><a href="#chile-gri-76--64">Chile (GRI: 76 ↓ 64)</a> 
-</div><div><a href="#denmark-gri-54--47">Denmark (GRI: 54 ↓ 47)</a> 
-</div><div><a href="#dominican republic-gri-62--59">Dominican Republic (GRI: 62 ↓ 59)</a> 
-</div><div><a href="#finland-gri-53--52">Finland (GRI: 53 ↓ 52)</a> 
+</div><div><a href="#denmark-gri-54--43">Denmark (GRI: 54 ↓ 43)</a> 
 </div><div><a href="#gabon-gri-59--55">Gabon (GRI: 59 ↓ 55)</a> 
 </div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
@@ -136,7 +134,7 @@ Social Activity Max. people: 90 indoors, 125 outdoors.
 
 </div>
 
-### Azerbaijan (GRI: 56 ↓ 55)
+### Austria (GRI: 74 ↓ 68)
 
 #### Restrictions on gatherings (C4)
 
@@ -154,14 +152,14 @@ Social Activity Max. people: 90 indoors, 125 outdoors.
 
 <b>Old policy:</b>
 
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Azerbaijan (3G)
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Austria (3T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/8/2021  
+9/9/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -171,18 +169,78 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 <b>New policy:</b>
 
 Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Azerbaijan (2G)
+across <b>all</b> of Austria (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Everyone 18 years or older attending certain types of organised private
-gatherings of up to 150 people (incl. events having 50 or fewer
-attendees) must be able to provide a COVID passport or a certificate of
-recovery from the virus. Protective face coverings are not mandatory.
-Gatherings of more than 150 persons remain prohibited.
-<https://web.archive.org/web/20210905172026/https://www.garda.com/crisis24/news-alerts/519591/azerbaijan-government-extends-special-quarantine-regime-through-at-least-nov-1-update-37>
+Gathering guidelines • In principle, there are no longer any maximum
+limits and capacity restrictions. • There is no longer a mask
+requirement at events. • Meetings of 100 people or more are notifiable.
+The participants have to show a 3G certificate, which has to be checked
+by the person responsible. He must also develop and implement a
+prevention concept and appoint a COVID-19 officer. • Meetings of 500
+people or more must be approved. The 3-G rule also applies here. A
+prevention concept and the appointment of a COVID-19 officer is
+required. *Extracurricular youth education and youth work* • For events
+in the context of extracurricular youth education and youth work, the
+same conditions apply as for get-togethers. Source:
+<https://archive.vn/eHzkb> \[Overview of current measures nationwide\]
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Austria (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Austria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No internal exit restrictions currently in force. Source:
+<https://archive.vn/eHzkb#selection-865.0-865.29> \[Compulsory test when
+leaving high incidence areas\]
 
 </td>
 
@@ -781,72 +839,6 @@ will undergo testing on arrival at the airport. Source:
 </div>
 
 ### Canada (GRI: 65 ↓ 64)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
-Canada (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 26 august 2021, in the Northwest Territories (NWT), the town of
-Norman Wells makes clear that the gathering prohibition applies across
-the board: “There are no gatherings allowed at this time either indoor
-or outdoor.” In some provinces and territories, public events are
-permitted with capacity limits, mask requirements and other guidelines.
-Some provinces – e.g., Alberta, Saskatchewan, New Brunswick – have
-revoked covid-related public health requirements for public events. In
-the province of Manitoba, professional sporting events, horse and auto
-racing, concert halls and outdoor performing arts events continue to be
-limited to vaccinated individuals. See government of NWT website, Retail
-Council of Canada and Province of Manitoba websites, archived:
-<https://web.archive.org/web/20210826193139/www.retailcouncil.org/coronavirus-info-for-retailers/provincial-reopening-frameworks/>
-<https://web.archive.org/web/20210812112606/https://news.gov.mb.ca/asset_library/en/newslinks/2021/08/BG-PHO_Update_Aug_7-PR-CPPHO.pdf>
-<https://web.archive.org/web/20210826191535/normanwells.com/updates/community-update-august-26-2021/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Stay at home requirements (C6)
 
@@ -1630,7 +1622,7 @@ The use of face masks in public spaces and on public transport.
 
 </div>
 
-### Denmark (GRI: 54 ↓ 47)
+### Denmark (GRI: 54 ↓ 43)
 
 #### Workplace closing (C2)
 
@@ -1742,6 +1734,63 @@ There are no restrictions on gatherings in Denmark Archived:
 
 </div>
 
+#### Income support (E1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Government is replacing <b>more than 50% income</b>; for <b>formal
+workers only</b> in Denmark (2F)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No income support</b> is present across all of Denmark (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The previous economic support for employees at companies that have been
+banned from being open ended on September 7, and there’s no new
+information on any upcoming government support. Archived:
+<https://web.archive.org/web/20210820133248/https://virk.dk/myndigheder/stat/ERST/selvbetjening/Midlertidig_loenkompensation_til_virksomheder_med_forbud_mod_at_holde_aabent_som_foelge_af_coronaviruscovid-19_for_perioden_fra_den_6_november>
+Archived: Archived:
+<https://web.archive.org/web/20210820133248/https://virk.dk/myndigheder/stat/ERST/selvbetjening/Midlertidig_loenkompensation_til_virksomheder_med_forbud_mod_at_holde_aabent_som_foelge_af_coronaviruscovid-19_for_perioden_fra_den_6_november>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Facial Coverings (H6)
 
 <div id="table-div">
@@ -1793,238 +1842,6 @@ or mental impairments that make it impossible for them to remove the
 face mask or shield themselves. Face masks may be removed if the wearer
 experience a severe discomfort, such as difficulty breathing. Archived:
 <https://web.archive.org/web/20210902151624/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_qqi.7WZkFEIuFmAC5kEQ9N2Hlopwipmq4eqAI1Scd8w-1630595706-0-gqNtZGzNA5CjcnBszQsl>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Dominican Republic (GRI: 62 ↓ 59)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Dominican Republic (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Dominican Republic (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Academic break. Source:
-<https://web.archive.org/web/20210903072151/https://en.unesco.org/covid19/educationresponse>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Dominican
-Republic (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of
-Dominican Republic (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From Monday 9 August 2021, the province of La Altagracia (including
-Punta Cana) and Distrito Nacional will no longer have a curfew, because
-of their high vaccination rates. Under the modified restrictions, for
-the rest of the country a 22:00-05:00 curfew is in effect Monday-Friday.
-Curfew hours are 19:00-05:00 on weekends. Other requirements remain the
-same. Source:
-<https://web.archive.org/web/20210712125328/https://www.gov.uk/foreign-travel-advice/dominican-republic/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Dominican Republic (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Dominican Republic (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The province of LaAltagracia not required curfrew anymore. For the rest
-of the country Events have been suspended, including sports fixtures,
-cultural and artistic events, conventions and fairs, and any other
-events which could lead to concentrations of people. Source:
-<https://web.archive.org/web/20210712125328/https://www.gov.uk/foreign-travel-advice/dominican-republic/coronavirus>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Eswatini (GRI: 63 ↑ 65)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Eswatini (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Eswatini (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The government opened vaccination for all people above 18 on the 28th of
-August.
-<https://web.archive.org/web/20210902095748/http://www.gov.sz/images/August-2021-Review.pdf>
 
 </td>
 
@@ -2104,7 +1921,7 @@ details
 
 </div>
 
-### Finland (GRI: 53 ↓ 52)
+### Finland (GRI: 53 ↑ 55)
 
 #### Workplace closing (C2)
 
@@ -2151,6 +1968,60 @@ The authorities recommend extensive remote work in both the public and
 private sectors in all areas where the epidemic is in the acceleration
 or community transmission phase. Archived:
 <https://web.archive.org/web/20210902155803/https://valtioneuvosto.fi/tietoa-koronaviruksesta/rajoitukset-ja-suositukset>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Finland (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Finland (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No restrictions in place, however, the use of facemask is compulsory
+Archived:
+<https://web.archive.org/web/20210909221950/https://fi.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -2714,9 +2585,7 @@ NA; NA Guyana (1)
 
 </div>
 
-### Iran (GRI: 63 ↓ 57)
-
-### Italy (GRI: 66 ↑ 75)
+### Italy (GRI: 73 ↑ 75)
 
 #### Cancel public events (C3)
 
