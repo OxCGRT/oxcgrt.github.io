@@ -42,10 +42,11 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#ethiopia-gri-44--46">Ethiopia (GRI: 44 ↑ 46)</a> 
 </div><div><a href="#finland-gri-53--55">Finland (GRI: 53 ↑ 55)</a> 
 </div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
-</div><div><a href="#italy-gri-73--75">Italy (GRI: 73 ↑ 75)</a> 
+</div><div><a href="#italy-gri-73--77">Italy (GRI: 73 ↑ 77)</a> 
 </div><div><a href="#jamaica-gri-65--69">Jamaica (GRI: 65 ↑ 69)</a> 
 </div><div><a href="#kazakhstan-gri-45--50">Kazakhstan (GRI: 45 ↑ 50)</a> 
 </div><div><a href="#mexico-gri-60--61">Mexico (GRI: 60 ↑ 61)</a> 
+</div><div><a href="#netherlands-gri-54--56">Netherlands (GRI: 54 ↑ 56)</a> 
 </div><div><a href="#new zealand-gri-90--91">New Zealand (GRI: 90 ↑ 91)</a> 
 </div><div><a href="#niger-gri-29--32">Niger (GRI: 29 ↑ 32)</a> 
 </div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
@@ -56,6 +57,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#chile-gri-76--64">Chile (GRI: 76 ↓ 64)</a> 
 </div><div><a href="#denmark-gri-54--43">Denmark (GRI: 54 ↓ 43)</a> 
 </div><div><a href="#gabon-gri-59--55">Gabon (GRI: 59 ↓ 55)</a> 
+</div><div><a href="#japan-gri-58--57">Japan (GRI: 58 ↓ 57)</a> 
 </div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
 </div><div><a href="#moldova-gri-48--41">Moldova (GRI: 48 ↓ 41)</a> 
@@ -175,18 +177,15 @@ across <b>all</b> of Austria (2G)
 
 <td style="text-align:left;min-width: 4in; ">
 
-Gathering guidelines • In principle, there are no longer any maximum
-limits and capacity restrictions. • There is no longer a mask
-requirement at events. • Meetings of 100 people or more are notifiable.
-The participants have to show a 3G certificate, which has to be checked
-by the person responsible. He must also develop and implement a
-prevention concept and appoint a COVID-19 officer. • Meetings of 500
-people or more must be approved. The 3-G rule also applies here. A
-prevention concept and the appointment of a COVID-19 officer is
-required. *Extracurricular youth education and youth work* • For events
-in the context of extracurricular youth education and youth work, the
-same conditions apply as for get-togethers. Source:
-<https://archive.vn/eHzkb> \[Overview of current measures nationwide\]
+In general • In principle, there are no longer any maximum limits and
+capacity restrictions. • There is no longer a mask requirement at
+events. • Meetings of 100 people or more are notifiable. The
+participants have to show a 3G certificate, which has to be checked by
+the person responsible. He must also develop and implement a prevention
+concept and appoint a COVID-19 officer. • Meetings of 500 people or more
+must be approved. The 3-G rule also applies here. A prevention concept
+and the appointment of a COVID-19 officer is required. Source:
+<https://archive.vn/eHzkb> \[Corona Ampel Nationwide Measures\]
 
 </td>
 
@@ -2585,7 +2584,64 @@ NA; NA Guyana (1)
 
 </div>
 
-### Italy (GRI: 73 ↑ 75)
+### Italy (GRI: 73 ↑ 77)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Italy (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Italy (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+starting September 1st green passes are required for School Personnel
+only. All students are exempted from this requirement for the time being
+until and including high school. University students though need to have
+green passes in order to access the facilities of their university.
+<https://web.archive.org/web/20210901143859/https://www.adnkronos.com/green-pass-italia-da-domani-nuovi-obblighi-e-regole_285rKxdwhmrW71k2Fr4QdS>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Cancel public events (C3)
 
@@ -3109,6 +3165,72 @@ or subsidised) Jamaica (3S)
 A,B,C. Pfizer vaccine, the Johnson and Johnson, the AstraZeneca vaccine.
 Source:
 <https://web.archive.org/web/20210828153858/https://vaccination.moh.gov.jm/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Japan (GRI: 58 ↓ 57)
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Japan (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
+parts of Japan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change to previous policy. The following preventative measures for
+the elderly continue to be conducted: - Recommendations and
+communications for active/healthy living and staying indoors targeted
+towards senior citizens. - Monthly evaluation of preventive and
+infection control measures within long-term care homes. - Comprehensive
+information and training material for LTC staff and ownership including
+donning/doffing of PPE, systematic area zoning within facilities, and
+procedures involving admissions, discharge, hygiene and garbage.
+<https://web.archive.org/web/20210910194814/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index.html>
+<https://web.archive.org/web/20210910194934/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/taisakumatome_13635.html>
+<https://web.archive.org/web/20210910195004/http://kayoinoba.mhlw.go.jp/>
+<https://web.archive.org/web/20210906202053/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00252.html>
 
 </td>
 
@@ -3768,6 +3890,63 @@ gatherings of people, remain banned in Kathmandu Valley until further
 notification. Kathmandu has allowed movie halls, nightclubs, dohori
 restaurants to reopen at 50 per cent capacity.
 <https://web.archive.org/web/20210903111134/https://thehimalayantimes.com/opinion/editorial-no-more-lockdown>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Netherlands (GRI: 54 ↑ 56)
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Netherlands (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+7/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Narrow restrictions</b> for protecting elderly people; across
+<b>all</b> of Netherlands (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No policy change
+<https://web.archive.org/web/20210818114749/https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands/coronavirus-measures-in-brief>
 
 </td>
 
