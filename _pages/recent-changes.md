@@ -49,7 +49,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#new zealand-gri-90--91">New Zealand (GRI: 90 ↑ 91)</a> 
 </div><div><a href="#niger-gri-29--32">Niger (GRI: 29 ↑ 32)</a> 
 </div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
-</div><div><a href="#suriname-gri-71--75">Suriname (GRI: 71 ↑ 75)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--34">Aruba (GRI: 37 ↓ 34)</a> 
 </div><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
 </div><div><a href="#belgium-gri-64--61">Belgium (GRI: 64 ↓ 61)</a> 
@@ -66,6 +65,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#panama-gri-85--69">Panama (GRI: 85 ↓ 69)</a> 
 </div><div><a href="#philippines-gri-67--59">Philippines (GRI: 67 ↓ 59)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
+</div><div><a href="#suriname-gri-71--67">Suriname (GRI: 71 ↓ 67)</a> 
 </div><div><a href="#thailand-gri-72--64">Thailand (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#tunisia-gri-77--39">Tunisia (GRI: 77 ↓ 39)</a> 
 </div><div><a href="#ukraine-gri-50--44">Ukraine (GRI: 50 ↓ 44)</a> 
@@ -4805,7 +4805,60 @@ most stringent set of rules, as planned. <https://archive.is/cJrur>
 
 </div>
 
-### Suriname (GRI: 71 ↑ 75)
+### Suriname (GRI: 71 ↓ 67)
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Suriname (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+31/8/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Suriname (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://web.archive.org/web/20210910135455/https://covidcontrols.co/restrictions/suriname>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 ### Thailand (GRI: 72 ↓ 64)
 
