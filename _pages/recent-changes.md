@@ -36,17 +36,16 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-11</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#cameroon-gri-22--30">Cameroon (GRI: 22 ↑ 30)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-12</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#cameroon-gri-22--30">Cameroon (GRI: 22 ↑ 30)</a> 
 </div><div><a href="#cote d'ivoire-gri-39--42">Cote d'Ivoire (GRI: 39 ↑ 42)</a> 
 </div><div><a href="#ethiopia-gri-44--46">Ethiopia (GRI: 44 ↑ 46)</a> 
 </div><div><a href="#finland-gri-53--55">Finland (GRI: 53 ↑ 55)</a> 
 </div><div><a href="#guyana-gri-56--65">Guyana (GRI: 56 ↑ 65)</a> 
-</div><div><a href="#italy-gri-73--77">Italy (GRI: 73 ↑ 77)</a> 
+</div><div><a href="#italy-gri-75--77">Italy (GRI: 75 ↑ 77)</a> 
 </div><div><a href="#jamaica-gri-65--69">Jamaica (GRI: 65 ↑ 69)</a> 
 </div><div><a href="#mexico-gri-60--61">Mexico (GRI: 60 ↑ 61)</a> 
 </div><div><a href="#netherlands-gri-54--56">Netherlands (GRI: 54 ↑ 56)</a> 
 </div><div><a href="#new zealand-gri-90--91">New Zealand (GRI: 90 ↑ 91)</a> 
-</div><div><a href="#niger-gri-29--32">Niger (GRI: 29 ↑ 32)</a> 
 </div><div><a href="#russia-gri-58--64">Russia (GRI: 58 ↑ 64)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#aruba-gri-37--34">Aruba (GRI: 37 ↓ 34)</a> 
 </div><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
@@ -55,22 +54,18 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#denmark-gri-54--43">Denmark (GRI: 54 ↓ 43)</a> 
 </div><div><a href="#gabon-gri-59--55">Gabon (GRI: 59 ↓ 55)</a> 
 </div><div><a href="#japan-gri-58--57">Japan (GRI: 58 ↓ 57)</a> 
-</div><div><a href="#kazakhstan-gri-50--45">Kazakhstan (GRI: 50 ↓ 45)</a> 
 </div><div><a href="#latvia-gri-40--38">Latvia (GRI: 40 ↓ 38)</a> 
 </div><div><a href="#madagascar-gri-54--48">Madagascar (GRI: 54 ↓ 48)</a> 
 </div><div><a href="#moldova-gri-48--41">Moldova (GRI: 48 ↓ 41)</a> 
 </div><div><a href="#mongolia-gri-60--57">Mongolia (GRI: 60 ↓ 57)</a> 
 </div><div><a href="#nepal-gri-69--59">Nepal (GRI: 69 ↓ 59)</a> 
-</div><div><a href="#oman-gri-62--60">Oman (GRI: 62 ↓ 60)</a> 
-</div><div><a href="#panama-gri-85--69">Panama (GRI: 85 ↓ 69)</a> 
+</div><div><a href="#panama-gri-79--69">Panama (GRI: 79 ↓ 69)</a> 
 </div><div><a href="#philippines-gri-67--59">Philippines (GRI: 67 ↓ 59)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
-</div><div><a href="#suriname-gri-71--67">Suriname (GRI: 71 ↓ 67)</a> 
+</div><div><a href="#suriname-gri-75--67">Suriname (GRI: 75 ↓ 67)</a> 
 </div><div><a href="#thailand-gri-72--64">Thailand (GRI: 72 ↓ 64)</a> 
 </div><div><a href="#tunisia-gri-77--39">Tunisia (GRI: 77 ↓ 39)</a> 
-</div><div><a href="#ukraine-gri-50--44">Ukraine (GRI: 50 ↓ 44)</a> 
-</div><div><a href="#united arab emirates-gri-59--58">United Arab Emirates (GRI: 59 ↓ 58)</a> 
-</div><div><a href="#united states-gri-60--58">United States (GRI: 60 ↓ 58)</a> 
+</div><div><a href="#united states-gri-61--58">United States (GRI: 61 ↓ 58)</a> 
 </div></div> <br/>
 -->
 
@@ -1900,7 +1895,7 @@ NA; NA Guyana (1)
 
 </div>
 
-### Italy (GRI: 73 ↑ 77)
+### Italy (GRI: 75 ↑ 77)
 
 #### School closing (C1)
 
@@ -1959,62 +1954,6 @@ green passes in order to access the facilities of their university.
 
 </div>
 
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Italy (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of Italy
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting August 6th, people can attend public events only with a green
-pass, hence assuming the event is generally cancelled for those who
-don’t have a green pass, but exemptions apply
-<https://web.archive.org/web/20210816180138/https://www.qualitytravel.it/green-pass-per-fiere-e-sagre-locali-allaperto-quando-e-obbligatorio-e-quando-no/98996>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Restrictions on gatherings (C4)
 
 <div id="table-div">
@@ -2057,120 +1996,6 @@ Restrictions on <b>large</b> gatherings (between 101-1000 people); in
 a limit of 1000 participants for indoor activities is in place in yellow
 zones
 <https://web.archive.org/web/20210903170438/https://unioneaddamartesana.it/ordinanze-e-decreti/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Italy (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Italy
-(2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-throughout the month of August several local red zones have been
-established,
-<https://web.archive.org/web/20210825011559/https://tg24.sky.it/cronaca/2021/08/24/covid-restrizioni-locali-comuni>
-<https://web.archive.org/web/20210809092647/https://tg24.sky.it/cronaca/2021/08/09/colori-regioni-covid>
-currently there are still some local red zones where curfews have been
-established
-<https://web.archive.org/web/20210903172034/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Italy (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Italy (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-for those local red zones it is prohibited to move outside the zone
-those with green passes can exit the zone but have to respect the curfew
-<https://web.archive.org/web/20210903172034/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843>
 
 </td>
 
@@ -2489,98 +2314,6 @@ procedures involving admissions, discharge, hygiene and garbage.
 <https://web.archive.org/web/20210910194934/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/taisakumatome_13635.html>
 <https://web.archive.org/web/20210910195004/http://kayoinoba.mhlw.go.jp/>
 <https://web.archive.org/web/20210906202053/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00252.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Kazakhstan (GRI: 50 ↓ 45)
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-29/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport operation is suspended in red zones only Sundays. From
-28 August, authorities allowed public transport to operate on Saturdays.
-<https://archive.vn/xJmEO>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Kazakhstan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kazakhstan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Public transport operation is suspended in red zones only Sundays. From
-28 August, authorities allowed public transport to operate on Saturdays.
-<https://archive.vn/xJmEO>
 
 </td>
 
@@ -3277,126 +3010,7 @@ by phone.
 
 </div>
 
-### Niger (GRI: 29 ↑ 32)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>very large</b> gatherings (over 1000 people); across
-<b>all</b> of Niger (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/8/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Niger (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Large gatherings for weddings, funerals, and baptisms are totally
-banned. Link:
-<http://web.archive.org/web/20210906160032/https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Oman (GRI: 62 ↓ 60)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Oman (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Oman (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-ll travelers arriving to Oman must undergo a COVID-19 PCR test before
-their arrival in Oman – for shorter flights, the test must be within 72
-hours and with longer international flights (i.e. with a period of no
-less than 8 hours) within 96 hours On August 16, 2021 the Supreme
-Committee announced that starting on August 17, 2021, all travelers
-coming from Iran and Iraq, including Omani citizens, must complete
-institutional quarantine. Omani citizens, residents with valid residency
-permits, and travelers with a valid visa are allowed to enter the
-Sultanate without prior approval. <https://archive.vn/XPfpD>
-<https://archive.vn/JXVcg>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Panama (GRI: 85 ↓ 69)
+### Panama (GRI: 79 ↓ 69)
 
 #### Workplace closing (C2)
 
@@ -4242,7 +3856,7 @@ most stringent set of rules, as planned. <https://archive.is/cJrur>
 
 </div>
 
-### Suriname (GRI: 71 ↓ 67)
+### Suriname (GRI: 75 ↓ 67)
 
 #### Restrictions on gatherings (C4)
 
@@ -5236,235 +4850,7 @@ category, and medical history; source:
 
 </div>
 
-### Ukraine (GRI: 50 ↓ 44)
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Ukraine (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No debt relief</b> is present across all of Ukraine (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Since the spring lockdown is passed in early may, there is no
-dept/contract relieve currently applicable.
-<http://web.archive.org/web/20210906170516/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Ukraine (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Ukraine (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Wearing masks is mandatory in public transportation and indoor public
-places. Individuals and establishments can be fined for not complying.
-://web.archive.org/web/20210906191743/<https://ua.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to ALL key group (key workers, elderly, clinically vulnerable)
-plus additional availability to wider population; at no / minimal cost
-to the individual (government funded or subsidised) Ukraine (4S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Ukraine (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<http://web.archive.org/web/20210906194045/https://vaccination.covid19.gov.ua/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United Arab Emirates (GRI: 59 ↓ 58)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into United Arab
-Emirates (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into United
-Arab Emirates (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From August 30, fully vaccinated tourists from any country may travel
-into the UAE with a PCR test done before departure and on arrival.
-Non-vaccinated may travel but must quarantine for 7 days with a negative
-test, or 10 days with no or a positive test.
-<http://web.archive.org/web/20210902154032/https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/travelling-amid-covid-19/travelling-to-the-uae>
-<http://web.archive.org/web/20210902154134/https://wwwnc.cdc.gov/travel/notices/covid-4/coronavirus-united-arab-emirates>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United States (GRI: 60 ↓ 58)
+### United States (GRI: 61 ↓ 58)
 
 #### Workplace closing (C2)
 
