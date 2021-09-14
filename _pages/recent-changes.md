@@ -450,6 +450,68 @@ will undergo testing on arrival at the airport. Source:
 
 ### Canada (GRI: 65 ↓ 64)
 
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Canada (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+9/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Canada (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On 9 september 2021, in Corner Brook, Newfoundland and Labrador (NL),
+bus transit seating is no longer restricted below capacity. In Canada,
+public transit measures do not extend beyond general recommendations to
+exercise caution – e.g., St. John’s, NL: “When possible, consider social
+distancing (ideally 2 metres apart)”; Winnipeg, Manitoba: “Consider
+riding in off-peak hours if possible … Don’t board buses that don’t have
+enough room for you to keep a distance between yourself and others.” See
+St. John’s and Corner Brook, NL and Winnipeg Transit websites, archived:
+<https://web.archive.org/web/20210909161639/https://www.cornerbrook.com/bus-transit/>
+<https://web.archive.org/web/20210909161612/https://www.metrobus.com/covid19/>
+<https://web.archive.org/web/20210909161758/https://winnipegtransit.com/en/rider-guide/news/winnipeg-transit-response-to-covid-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Stay at home requirements (C6)
 
 <div id="table-div">
@@ -578,116 +640,6 @@ archived:
 
 ### Denmark (GRI: 47 ↓ 43)
 
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Denmark (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-31/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Denmark
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Workplaces are open. However, workers who are not vaccinated or
-previously infected are to get tested – preferably once per week – at
-one of the many test centres. Archived:
-<https://web.archive.org/web/20210902151624/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_qqi.7WZkFEIuFmAC5kEQ9N2Hlopwipmq4eqAI1Scd8w-1630595706-0-gqNtZGzNA5CjcnBszQsl>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Denmark (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-31/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Denmark (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There are no restrictions on gatherings in Denmark Archived:
-<https://web.archive.org/web/20210902152717/https://www.ece-copenhagen2021.eu/covid-19/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Income support (E1)
 
 <div id="table-div">
@@ -732,70 +684,6 @@ information on any upcoming government support. Archived:
 <https://web.archive.org/web/20210820133248/https://virk.dk/myndigheder/stat/ERST/selvbetjening/Midlertidig_loenkompensation_til_virksomheder_med_forbud_mod_at_holde_aabent_som_foelge_af_coronaviruscovid-19_for_perioden_fra_den_6_november>
 Archived: Archived:
 <https://web.archive.org/web/20210820133248/https://virk.dk/myndigheder/stat/ERST/selvbetjening/Midlertidig_loenkompensation_til_virksomheder_med_forbud_mod_at_holde_aabent_som_foelge_af_coronaviruscovid-19_for_perioden_fra_den_6_november>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Denmark (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-31/8/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Denmark (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In Denmark, a face mask or shield is required at the airport. A face
-mask or shield is not required when using public transportation. People
-are advised to wear a face mask or shield at test centres or when they
-visit the hospital. However, some groups are exempt from the required
-use of face mask or shield. These include, children up to the age of 12,
-people with a decreased level of consciousness, or people with physical
-or mental impairments that make it impossible for them to remove the
-face mask or shield themselves. Face masks may be removed if the wearer
-experience a severe discomfort, such as difficulty breathing. Archived:
-<https://web.archive.org/web/20210902151624/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_qqi.7WZkFEIuFmAC5kEQ9N2Hlopwipmq4eqAI1Scd8w-1630595706-0-gqNtZGzNA5CjcnBszQsl>
 
 </td>
 
@@ -869,125 +757,7 @@ or community transmission phase. Archived:
 
 </div>
 
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Finland (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Finland (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No restrictions in place, however, the use of facemask is compulsory
-Archived:
-<https://web.archive.org/web/20210909221950/https://fi.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Japan (GRI: 58 ↓ 57)
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Japan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-7/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of Japan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No change to previous policy. The following preventative measures for
-the elderly continue to be conducted: - Recommendations and
-communications for active/healthy living and staying indoors targeted
-towards senior citizens. - Monthly evaluation of preventive and
-infection control measures within long-term care homes. - Comprehensive
-information and training material for LTC staff and ownership including
-donning/doffing of PPE, systematic area zoning within facilities, and
-procedures involving admissions, discharge, hygiene and garbage.
-<https://web.archive.org/web/20210910194814/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index.html>
-<https://web.archive.org/web/20210910194934/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/taisakumatome_13635.html>
-<https://web.archive.org/web/20210910195004/http://kayoinoba.mhlw.go.jp/>
-<https://web.archive.org/web/20210906202053/https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000121431_00252.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 ### Moldova (GRI: 45 ↓ 41)
 
