@@ -57,6 +57,118 @@ for a full description of the policies we track.
 
 ### Aruba (GRI: 37 ↓ 34)
 
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; across
+<b>all</b> of Aruba (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Aruba (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No measures were found <https://archive.md/hOYBH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Aruba (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Aruba (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+All establishments are currently required to close by 12:00 am at the
+latest. This is not applicable for establishments at hotel properties,
+Closing times per hotel may differ, please check with your hotel for
+more information. Casinos must close at 1:00 am at the latest. All
+establishments are currently required to close by 12:00 am at the
+latest. This is not applicable for establishments at hotel properties,
+Closing times per hotel may differ, please check with your hotel for
+more information. Casinos must close at 1:00 am at the latest.
+<https://archive.md/hOYBH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Cancel public events (C3)
 
 <div id="table-div">
@@ -98,6 +210,270 @@ Aruba (1G)
 
 Social Activity Max. people: 90 indoors, 125 outdoors.
 <https://archive.fo/EWi4A>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Aruba (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>small</b> gatherings (10 people or fewer); in
+<b>some</b> parts of Aruba (4T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No groups over six people are allowed to form in public spaces unless
+the group consists of a family from the same household. This includes
+gatherings on the beach. Dancing in restaurants and nightlife
+establishments is prohibited. Seating at restaurants is at a maximum of
+six per table (excluding children under the age of 12), both indoors and
+outdoors. Tables must be at least 1.5 m apart See
+<https://archive.fo/EWi4A> or <https://archive.md/hOYBH>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Aruba (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Aruba (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+  - With the exception of Venezuela. Prior to the pandemic, a border
+    closure with Venezuela was already in effect and shall remain so for
+    the time being. See <https://archive.fo/EWi4A>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+    #### Testing policy (H2)
+    <div id="table-div">
+    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+    <table class="table" style="margin-left: auto; margin-right: auto;">
+    <tbody>
+    <tr>
+    <td style="text-align:left;min-width: 2in; ">
+    <b>Old policy:</b>
+
+<b>No testing policy</b> are present across all of Aruba (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+NA; NA Aruba (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Only people who meet the criteria are tested, the symptoms include
+fever, cough, shortness of breath and breathing difficulties. All
+visitors will be required to comply with the Government of Aruba
+procedures and protocols if showing symptoms and/or testing positive for
+COVID-19 while in Aruba.
+<https://archive.md/hOYBH#selection-3021.0-3021.166>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Contact tracing (H3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No contact tracing</b> is present across all of Aruba (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Limited</b> contact tracing (not done for all identified cases); NA
+Aruba (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Suspected case must stay in isolation and companions must stay in
+quarantine pending test results of the suspected case.
+<https://archive.md/hOYBH#selection-3163.0-3163.127>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Aruba (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+8/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Aruba (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The use of masks is obligatory in the interior of any location.
+<https://archive.md/hOYBH>
 
 </td>
 
