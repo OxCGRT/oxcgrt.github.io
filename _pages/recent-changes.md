@@ -1016,6 +1016,170 @@ archived:
 
 ### Denmark (GRI: 47 ↓ 43)
 
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Denmark
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Workers may do a weekly test who are not vaccinated, however, are
+generally allowed to go to work.
+<https://web.archive.org/web/20210914150249/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_9rxk6szrOIvl4dTsHtOp2XtUIWE7C_CUgoF5O3V3QDQ-1631630143-0-gqNtZGzNAxCjcnBszQeR>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Denmark (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+10/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Denmark (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+COVID-19 passes are no longer required to be shown when going to public
+events.
+<https://web.archive.org/web/20210914150249/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_9rxk6szrOIvl4dTsHtOp2XtUIWE7C_CUgoF5O3V3QDQ-1631630143-0-gqNtZGzNAxCjcnBszQeR>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on gatherings (C4)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Denmark (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Denmark (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Restrictions on gatherings have been lifted as of 1 September. No
+exemptions for vaccinated/ unvaccinated people.
+<https://web.archive.org/web/20210914150249/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_9rxk6szrOIvl4dTsHtOp2XtUIWE7C_CUgoF5O3V3QDQ-1631630143-0-gqNtZGzNAxCjcnBszQeR>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Income support (E1)
 
 <div id="table-div">
@@ -1979,6 +2143,89 @@ category, and medical history; source:
 </div>
 
 ### United States (GRI: 61 ↓ 58)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; in <b>some</b> parts of United
+States (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of United States (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Few states are at the "“2T”" level. See Kansas: On August 24,In response
+to the continued spread of the Delta variant of the COVID-19 virus,
+Governor Laura Kelly today released new guidance directing state
+agencies under the jurisdiction of the Executive Branch to resume remote
+work operations where possible. “Since the start of the pandemic, my
+administration has followed the best public health guidance to keep our
+communities safe, mitigate the spread of the virus, and reduce strain on
+hospitals,” Governor Kelly said. “The decision to return to remote work
+was not made lightly – but we know that this is a necessary step to
+prevent COVID-19 infections. I am confident that our state employees
+will continue to provide quality services to all Kansans who need them.”
+The remote work model will remain in place through October 4th. At that
+time, a re-assessment of current COVID-19 infection rates will determine
+when state employees can return to fully on-site work. At the outset of
+the COVID-19 pandemic, state agency operations shifted to remote work
+for employees whose job functions could be performed remotely. In June,
+after a significant reduction in daily COVID-19 infections, state
+employees began returning to state office buildings. As infection
+numbers began to rise again throughout the summer, a transition to
+remote work will help control the spread of the virus among state
+employees. Onsite staffing will be limited to only those necessary to
+safely conduct agency operations. Mask requirements, social distancing
+and other mitigation measures will remain in place for employees whose
+jobs must be performed on-site. Public offices serving customers will be
+encouraged to re-institute mitigation measures that were previously
+utilized during the pandemic, such as scheduling “by appointment only”
+or making allowances for virtual as opposed to in-person interactions.
+All such measures will be carried out in a way as to have as minimal an
+impact or inconvenience on customers. View the new guidance here.
+<https://archive.fo/WkDls>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Income support (E1)
 
