@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-15</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#finland-gri-52--55">Finland (GRI: 52 ↑ 55)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-16</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#finland-gri-52--55">Finland (GRI: 52 ↑ 55)</a> 
 </div><div><a href="#netherlands-gri-54--56">Netherlands (GRI: 54 ↑ 56)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
 </div><div><a href="#cameroon-gri-32--30">Cameroon (GRI: 32 ↓ 30)</a> 
@@ -421,62 +421,6 @@ archived:
 
 ### Denmark (GRI: 47 ↓ 43)
 
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Denmark (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Denmark
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Workers may do a weekly test who are not vaccinated, however, are
-generally allowed to go to work.
-<https://web.archive.org/web/20210914150249/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_9rxk6szrOIvl4dTsHtOp2XtUIWE7C_CUgoF5O3V3QDQ-1631630143-0-gqNtZGzNAxCjcnBszQeR>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Cancel public events (C3)
 
 <div id="table-div">
@@ -517,60 +461,6 @@ Denmark (1G)
 
 COVID-19 passes are no longer required to be shown when going to public
 events.
-<https://web.archive.org/web/20210914150249/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_9rxk6szrOIvl4dTsHtOp2XtUIWE7C_CUgoF5O3V3QDQ-1631630143-0-gqNtZGzNAxCjcnBszQeR>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Denmark (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Denmark (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions on gatherings have been lifted as of 10 September. No
-exemptions for vaccinated/ unvaccinated people.
 <https://web.archive.org/web/20210914150249/https://en.coronasmitte.dk/rules-and-regulations?__cf_chl_captcha_tk__=pmd_9rxk6szrOIvl4dTsHtOp2XtUIWE7C_CUgoF5O3V3QDQ-1631630143-0-gqNtZGzNAxCjcnBszQeR>
 
 </td>
@@ -647,62 +537,6 @@ Archived: Archived:
 ### Japan (GRI: 58 ↓ 57)
 
 ### Moldova (GRI: 45 ↓ 41)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Moldova (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Moldova (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting from 1 September 2021, the National Extraordinary Public Health
-Commission (CNESP) stated that all schools open in country wide, in
-conditions of the observance of the prevention measure of COVID 19.
-<https://web.archive.org/web/20210908121112/https://www.moldpres.md/en/news/2021/08/24/21006199>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
 
 #### Protection of elderly people (H8)
 
