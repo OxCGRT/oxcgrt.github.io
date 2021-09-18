@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-17</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#finland-gri-52--55">Finland (GRI: 52 ↑ 55)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-18</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#finland-gri-52--55">Finland (GRI: 52 ↑ 55)</a> 
 </div><div><a href="#netherlands-gri-54--56">Netherlands (GRI: 54 ↑ 56)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
 </div><div><a href="#cameroon-gri-32--30">Cameroon (GRI: 32 ↓ 30)</a> 
@@ -45,7 +45,6 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 </div><div><a href="#japan-gri-58--57">Japan (GRI: 58 ↓ 57)</a> 
 </div><div><a href="#moldova-gri-45--41">Moldova (GRI: 45 ↓ 41)</a> 
 </div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
-</div><div><a href="#united states-gri-61--58">United States (GRI: 61 ↓ 58)</a> 
 </div></div> <br/>
 -->
 
@@ -468,6 +467,138 @@ Archived: Archived:
 
 ### Japan (GRI: 58 ↓ 57)
 
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Japan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+13/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Japan (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools in many regions have resumed in-person learning, however, school
+attendance is largely part-time through staggering grades or shortening
+classes to reduce the number of students on-site at any one time. All
+other days of the week for students are spent in online lessons. For
+many wards and prefectures, online schooling is also a voluntary option
+available to students and parents during the state of emergency. From
+September 20 to 26, all public schools in Tokyo Metropolitan Area
+announced there will be a temporary suspension of in-person learning
+during Silver Week.
+<https://web.archive.org/web/20210910022721/https://www3.nhk.or.jp/news/html/20210909/k10013252101000.html>
+(Silver Week suspension in Tokyo)
+<https://web.archive.org/web/20210918025123/https://www3.nhk.or.jp/news/html/20210913/k10013256991000.html>
+(summary of school attendance in Tokyo’s 23 wards)
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Japan (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+11/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Japan (5S)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On September 11, priority inoculation for the younger generation (ages
+18-39) begin in Osaka mass vaccination site. Within Taito ward of Tokyo,
+efforts are being made to mass vaccinate those who are homeless to
+prevent spread of infection in vulnerable populations. In Katsushika
+ward of Tokyo, priority vaccination of elementary school children and
+junior high school students begin in mass vaccination venues. Children
+who have a resident card from elementary 6th grade to junior high 3rd
+grade are eligible.
+<https://web.archive.org/web/20210917235431/https://www3.nhk.or.jp/news/html/20210911/k10013254511000.html>
+(Osaka youth vaccination)
+<https://web.archive.org/web/20210917235506/https://www3.nhk.or.jp/news/html/20210913/k10013257031000.html>
+(Taito homeless vaccination)
+<https://web.archive.org/web/20210917235620/https://www3.nhk.or.jp/news/html/20210911/k10013255201000.html>
+(Katsushika priority children vaccination)
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Moldova (GRI: 45 ↓ 41)
 
 #### Protection of elderly people (H8)
@@ -628,146 +759,6 @@ parts of South Korea (2T)
 The Ministry of Education reaffirmed Thursday it will allow schools to
 expand in-person classes even under the Level 4 distancing scheme, the
 most stringent set of rules, as planned. <https://archive.is/cJrur>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United States (GRI: 61 ↓ 58)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of United
-States (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-13/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of United States (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Few states are at the "“2T”" level. See Kansas: On August 24,In response
-to the continued spread of the Delta variant of the COVID-19 virus,
-Governor Laura Kelly today released new guidance directing state
-agencies under the jurisdiction of the Executive Branch to resume remote
-work operations where possible. “Since the start of the pandemic, my
-administration has followed the best public health guidance to keep our
-communities safe, mitigate the spread of the virus, and reduce strain on
-hospitals,” Governor Kelly said. “The decision to return to remote work
-was not made lightly – but we know that this is a necessary step to
-prevent COVID-19 infections. I am confident that our state employees
-will continue to provide quality services to all Kansans who need them.”
-The remote work model will remain in place through October 4th. At that
-time, a re-assessment of current COVID-19 infection rates will determine
-when state employees can return to fully on-site work. At the outset of
-the COVID-19 pandemic, state agency operations shifted to remote work
-for employees whose job functions could be performed remotely. In June,
-after a significant reduction in daily COVID-19 infections, state
-employees began returning to state office buildings. As infection
-numbers began to rise again throughout the summer, a transition to
-remote work will help control the spread of the virus among state
-employees. Onsite staffing will be limited to only those necessary to
-safely conduct agency operations. Mask requirements, social distancing
-and other mitigation measures will remain in place for employees whose
-jobs must be performed on-site. Public offices serving customers will be
-encouraged to re-institute mitigation measures that were previously
-utilized during the pandemic, such as scheduling “by appointment only”
-or making allowances for virtual as opposed to in-person interactions.
-All such measures will be carried out in a way as to have as minimal an
-impact or inconvenience on customers. View the new guidance here.
-<https://archive.fo/WkDls>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>all
-workers</b> in United States (1A)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-5/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No income support</b> is present across all of United States (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The expanded unemployment benefits lasted until September 4th, ending on
-September 5th. See archive:
-<https://web.archive.org/web/20210904010849/https://dwd.wisconsin.gov/uiben/fpuc/>
-<https://web.archive.org/web/20210905192207/https://www.forbes.com/sites/zackfriedman/2021/09/05/unemployment-benefits-end-tomorrow-for-millions-of-americans>
 
 </td>
 
