@@ -168,6 +168,75 @@ leaving high incidence areas\]
 
 ### Canada (GRI: 66 ↓ 64)
 
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of Canada (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+14/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
+parts of Canada (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Effective 14 September 2021: “The N.W.T.’s \[Northwest Territories\]
+chief public health officer is closing all JK-12 schools, colleges and
+trade schools in Yellowknife, Dettah and N’Dilo until at least Sept. 24
+…remote learning … is expected to begin … Students in Behchoko?`,
+Whati` and Norman Wells were already learning from home, because of
+containment orders in those communities. Students in Colville Lake,
+De´li?ne?, Fort Good Hope and Tulita are also at home, due to the
+decision of local district education authorities”. Elementary and/or
+secondary schools are also closed in other regions of Canada. Many
+universities across Canada are requiring students and staff to be
+vaccinated or tested regularly. “New Brunswick has … required
+vaccination for all school staff (or regular testing)”.See CBC news and
+Globe and Mail newspaper websites, archived:
+<https://web.archive.org/web/20210917145721/https://www.cbc.ca/news/canada/north/yellowknife-schools-closed-covid-update-1.6174485>
+<https://web.archive.org/web/20210917145558/https://www.theglobeandmail.com/canada/article-covid-19-vaccination-debates-cause-rifts-on-university-campuses/>
+<https://web.archive.org/web/20210917150912/https://www.cbc.ca/news/world/coronavirus-covid19-canada-world-sept12-2021-1.6172939>
+<https://web.archive.org/web/20210905124006/https://www.cbc.ca/news/canada/back-to-school-canada-2021-comparison-1.6155723>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 #### Close public transport (C5)
 
 <div id="table-div">
@@ -217,6 +286,71 @@ St. John’s and Corner Brook, NL and Winnipeg Transit websites, archived:
 <https://web.archive.org/web/20210909161639/https://www.cornerbrook.com/bus-transit/>
 <https://web.archive.org/web/20210909161612/https://www.metrobus.com/covid19/>
 <https://web.archive.org/web/20210909161758/https://winnipegtransit.com/en/rider-guide/news/winnipeg-transit-response-to-covid-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Canada
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/9/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> not leaving the house; across <b>all</b> of Canada (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Effective 18 September 2021 in the Northwest Territories (NWT) town of
+Norman Wells the overnight curfew was lifted. The Government of Canada
+continues to advise: “As efforts continue across Canada to increase
+overall vaccine coverage and lower community transmission, public health
+measures remain the foundation of the pandemic response… new variants of
+concern have been identified and are circulating. This is why it’s even
+more important to consistently use multiple personal preventive
+practices at once, regardless of your vaccination status… Stay at home
+as much as possible, especially if you’re at risk of more severe disease
+or outcomes from COVID-19.” See Government of Canada and Town of Norman
+Wells websites, archived:
+<https://web.archive.org/web/20210917173651/https://normanwells.com/wp-content/uploads/2021/09/Community-Update-sept-15-2021-.pdf>
+<https://web.archive.org/web/20210917173822/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks.html>
 
 </td>
 
