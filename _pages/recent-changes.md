@@ -36,15 +36,12 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-18</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#finland-gri-52--55">Finland (GRI: 52 ↑ 55)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-19</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#finland-gri-52--55">Finland (GRI: 52 ↑ 55)</a> 
 </div><div><a href="#netherlands-gri-54--56">Netherlands (GRI: 54 ↑ 56)</a> 
 </div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
-</div><div><a href="#cameroon-gri-32--30">Cameroon (GRI: 32 ↓ 30)</a> 
 </div><div><a href="#canada-gri-66--64">Canada (GRI: 66 ↓ 64)</a> 
 </div><div><a href="#denmark-gri-47--43">Denmark (GRI: 47 ↓ 43)</a> 
 </div><div><a href="#japan-gri-58--57">Japan (GRI: 58 ↓ 57)</a> 
-</div><div><a href="#moldova-gri-45--41">Moldova (GRI: 45 ↓ 41)</a> 
-</div><div><a href="#south korea-gri-62--60">South Korea (GRI: 62 ↓ 60)</a> 
 </div></div> <br/>
 -->
 
@@ -156,64 +153,6 @@ of Austria (2T)
 No internal exit restrictions currently in force. Source:
 <https://archive.vn/eHzkb#selection-865.0-865.29> \[Compulsory test when
 leaving high incidence areas\]
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Cameroon (GRI: 32 ↓ 30)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Cameroon (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Cameroon (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-An order jointly signed by the Ministers of Basic and Secondary
-Education outlines that the school calendar for 2021/22 is to commence
-on the 6th of September, 2021 and will end on Friday July 29, 2022.
-Pupils and students will attend classes both in classroom and online
-because of of COVID19 pandemic. Source: <https://archive.vn/Qzfkw>
 
 </td>
 
@@ -599,65 +538,6 @@ grade are eligible.
 
 </div>
 
-### Moldova (GRI: 45 ↓ 41)
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; across
-<b>all</b> of Moldova (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Moldova (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Extraordinary National Commission for Public Health from 29 April
-2021. It is recommended to avoid people over the age of 63 years away
-from home and in public spaces without some exception.
-<https://web.archive.org/web/20210908120730/https://ambchisinau.esteri.it/Ambasciata_Chisinau/resource/doc/2021/05/cnesp_decision_no54_29aril21_unofficial_eng.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Netherlands (GRI: 54 ↑ 56)
 
 #### Protection of elderly people (H8)
@@ -702,63 +582,6 @@ Netherlands (1G)
 
 No policy change
 <https://web.archive.org/web/20210818114749/https://www.government.nl/topics/coronavirus-covid-19/tackling-new-coronavirus-in-the-netherlands/coronavirus-measures-in-brief>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### South Korea (GRI: 62 ↓ 60)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of South Korea (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-6/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
-parts of South Korea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Ministry of Education reaffirmed Thursday it will allow schools to
-expand in-person classes even under the Level 4 distancing scheme, the
-most stringent set of rules, as planned. <https://archive.is/cJrur>
 
 </td>
 
