@@ -99,6 +99,45 @@ and the appointment of a COVID-19 officer is required. Source:
 
 </tr>
 
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Austria (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+15/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Austria (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The 3G rule applies to gatherings of 25 people or more (previously the
+limit was 100 people) as Level 1 rules introduced "“Due to the current
+workload, the level 1 measures came into effect on September 15 .”"
+Source:
+<https://web.archive.org/web/20210916133751/https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Aktuelle-Ma%C3%9Fnahmen.html>
+
+</td>
+
+</tr>
+
 </tbody>
 
 </table>
@@ -148,6 +187,49 @@ of Austria (2T)
 No internal exit restrictions currently in force. Source:
 <https://archive.vn/eHzkb#selection-865.0-865.29> \[Compulsory test when
 leaving high incidence areas\]
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Austria (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/9/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Austria (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Braunau district - Compulsory test upon departure "“From September 18,
+2021, the following applies to the entire Braunau district: Leaving the
+area - with a few exceptions - is only permitted with a 3-G certificate.
+Evidence is a negative PCR test (not older than 72 hours), a negative
+antigen test (not older than 24 hours), recovered persons (up to 180
+days after confirmed infection), persons who have proof of neutralizing
+antibodies (not older than 90 days), people who are already fully
+immunized and people who have recovered with at least one Covid
+vaccination. Details can be found in the relevant ordinance .”" Source:
+<https://archive.vn/ZOLww> \[Upper Austria regional measures\]
 
 </td>
 
