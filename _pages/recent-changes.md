@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-20</i></p><h4>Overall increase</h4><div class="contents"></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-21</i></p><h4>Overall increase</h4><div class="contents"></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#austria-gri-74--68">Austria (GRI: 74 ↓ 68)</a> 
 </div></div> <br/>
 -->
 
@@ -204,7 +204,7 @@ leaving high incidence areas\]
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/9/2021  
+19/9/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -219,17 +219,6 @@ of Austria (2T)
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
-
-Braunau district - Compulsory test upon departure "“From September 18,
-2021, the following applies to the entire Braunau district: Leaving the
-area - with a few exceptions - is only permitted with a 3-G certificate.
-Evidence is a negative PCR test (not older than 72 hours), a negative
-antigen test (not older than 24 hours), recovered persons (up to 180
-days after confirmed infection), persons who have proof of neutralizing
-antibodies (not older than 90 days), people who are already fully
-immunized and people who have recovered with at least one Covid
-vaccination. Details can be found in the relevant ordinance .”" Source:
-<https://archive.vn/ZOLww> \[Upper Austria regional measures\]
 
 </td>
 
