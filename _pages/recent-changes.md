@@ -36,7 +36,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <!-- ## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-23</i></p><h4>Overall increase</h4><div class="contents"></div> <br/><h4>Overall decrease</h4><div class="contents"></div> <br/>
+<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-24</i></p><h4>Overall increase</h4><div class="contents"></div> <br/><h4>Overall decrease</h4><div class="contents"></div> <br/>
 -->
 
 Please see our
