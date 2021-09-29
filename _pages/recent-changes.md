@@ -34,42 +34,232 @@ paper](https://www.bsg.ox.ac.uk/research/publications/variation-government-respo
 or explore our [dataset
 publication](https://doi.org/10.1038/s41562-021-01079-8).
 
-<!-- ## Changes in Policy over the last two weeks
+## Changes in Policy over the last two weeks
 
-<img src="../images/changes-map.png"><p style="text-align:right"><i>Last updated  2021-09-29</i></p><h4>Overall increase</h4><div class="contents"><div><a href="#austria-gri-70--74">Austria (GRI: 70 ↑ 74)</a> 
-</div><div><a href="#cameroon-gri-34--36">Cameroon (GRI: 34 ↑ 36)</a> 
-</div><div><a href="#canada-gri-65--66">Canada (GRI: 65 ↑ 66)</a> 
-</div><div><a href="#cote d'ivoire-gri-39--40">Cote d'Ivoire (GRI: 39 ↑ 40)</a> 
-</div><div><a href="#jamaica-gri-77--79">Jamaica (GRI: 77 ↑ 79)</a> 
-</div><div><a href="#japan-gri-58--62">Japan (GRI: 58 ↑ 62)</a> 
-</div><div><a href="#kosovo-gri-45--53">Kosovo (GRI: 45 ↑ 53)</a> 
-</div><div><a href="#madagascar-gri-38--45">Madagascar (GRI: 38 ↑ 45)</a> 
-</div><div><a href="#papua new guinea-gri-38--41">Papua New Guinea (GRI: 38 ↑ 41)</a> 
-</div><div><a href="#philippines-gri-67--70">Philippines (GRI: 67 ↑ 70)</a> 
-</div><div><a href="#ukraine-gri-44--57">Ukraine (GRI: 44 ↑ 57)</a> 
-</div></div> <br/><h4>Overall decrease</h4><div class="contents"><div><a href="#bolivia-gri-57--49">Bolivia (GRI: 57 ↓ 49)</a> 
-</div><div><a href="#burkina faso-gri-29--28">Burkina Faso (GRI: 29 ↓ 28)</a> 
-</div><div><a href="#congo-gri-37--32">Congo (GRI: 37 ↓ 32)</a> 
-</div><div><a href="#ecuador-gri-71--68">Ecuador (GRI: 71 ↓ 68)</a> 
-</div><div><a href="#estonia-gri-35--33">Estonia (GRI: 35 ↓ 33)</a> 
-</div><div><a href="#ireland-gri-67--59">Ireland (GRI: 67 ↓ 59)</a> 
-</div><div><a href="#luxembourg-gri-47--41">Luxembourg (GRI: 47 ↓ 41)</a> 
-</div><div><a href="#mauritius-gri-66--59">Mauritius (GRI: 66 ↓ 59)</a> 
-</div><div><a href="#mongolia-gri-49--48">Mongolia (GRI: 49 ↓ 48)</a> 
-</div><div><a href="#norway-gri-53--51">Norway (GRI: 53 ↓ 51)</a> 
-</div><div><a href="#oman-gri-58--54">Oman (GRI: 58 ↓ 54)</a> 
-</div><div><a href="#pakistan-gri-67--59">Pakistan (GRI: 67 ↓ 59)</a> 
-</div><div><a href="#palestine-gri-64--44">Palestine (GRI: 64 ↓ 44)</a> 
-</div><div><a href="#peru-gri-65--63">Peru (GRI: 65 ↓ 63)</a> 
-</div><div><a href="#saudi arabia-gri-57--55">Saudi Arabia (GRI: 57 ↓ 55)</a> 
-</div><div><a href="#slovenia-gri-48--47">Slovenia (GRI: 48 ↓ 47)</a> 
-</div><div><a href="#suriname-gri-57--52">Suriname (GRI: 57 ↓ 52)</a> 
-</div><div><a href="#sweden-gri-43--40">Sweden (GRI: 43 ↓ 40)</a> 
-</div><div><a href="#taiwan-gri-53--50">Taiwan (GRI: 53 ↓ 50)</a> 
-</div><div><a href="#tunisia-gri-62--41">Tunisia (GRI: 62 ↓ 41)</a> 
-</div><div><a href="#yemen-gri-35--31">Yemen (GRI: 35 ↓ 31)</a> 
-</div></div> <br/>
--->
+<img src="../images/changes-map.png">
+
+<p style="text-align:right">
+
+<i>Last updated 2021-09-29</i>
+
+</p>
+
+<h4>
+
+Overall increase
+
+</h4>
+
+<div class="contents">
+
+<div>
+
+<a href="#austria-gri-70--74">Austria (GRI: 70 ↑ 74)</a>
+
+</div>
+
+<div>
+
+<a href="#cameroon-gri-34--36">Cameroon (GRI: 34 ↑ 36)</a>
+
+</div>
+
+<div>
+
+<a href="#canada-gri-65--66">Canada (GRI: 65 ↑ 66)</a>
+
+</div>
+
+<div>
+
+<a href="#cote d'ivoire-gri-39--40">Cote d’Ivoire (GRI: 39 ↑ 40)</a>
+
+</div>
+
+<div>
+
+<a href="#jamaica-gri-77--79">Jamaica (GRI: 77 ↑ 79)</a>
+
+</div>
+
+<div>
+
+<a href="#japan-gri-58--62">Japan (GRI: 58 ↑ 62)</a>
+
+</div>
+
+<div>
+
+<a href="#kosovo-gri-45--53">Kosovo (GRI: 45 ↑ 53)</a>
+
+</div>
+
+<div>
+
+<a href="#madagascar-gri-38--45">Madagascar (GRI: 38 ↑ 45)</a>
+
+</div>
+
+<div>
+
+<a href="#papua new guinea-gri-38--41">Papua New Guinea (GRI: 38 ↑
+41)</a>
+
+</div>
+
+<div>
+
+<a href="#philippines-gri-67--70">Philippines (GRI: 67 ↑ 70)</a>
+
+</div>
+
+<div>
+
+<a href="#ukraine-gri-44--57">Ukraine (GRI: 44 ↑ 57)</a>
+
+</div>
+
+</div>
+
+<br/>
+
+<h4>
+
+Overall decrease
+
+</h4>
+
+<div class="contents">
+
+<div>
+
+<a href="#bolivia-gri-57--49">Bolivia (GRI: 57 ↓ 49)</a>
+
+</div>
+
+<div>
+
+<a href="#burkina faso-gri-29--28">Burkina Faso (GRI: 29 ↓ 28)</a>
+
+</div>
+
+<div>
+
+<a href="#congo-gri-37--32">Congo (GRI: 37 ↓ 32)</a>
+
+</div>
+
+<div>
+
+<a href="#ecuador-gri-71--68">Ecuador (GRI: 71 ↓ 68)</a>
+
+</div>
+
+<div>
+
+<a href="#estonia-gri-35--33">Estonia (GRI: 35 ↓ 33)</a>
+
+</div>
+
+<div>
+
+<a href="#ireland-gri-67--59">Ireland (GRI: 67 ↓ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#luxembourg-gri-47--41">Luxembourg (GRI: 47 ↓ 41)</a>
+
+</div>
+
+<div>
+
+<a href="#mauritius-gri-66--59">Mauritius (GRI: 66 ↓ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#mongolia-gri-49--48">Mongolia (GRI: 49 ↓ 48)</a>
+
+</div>
+
+<div>
+
+<a href="#norway-gri-53--51">Norway (GRI: 53 ↓ 51)</a>
+
+</div>
+
+<div>
+
+<a href="#oman-gri-58--54">Oman (GRI: 58 ↓ 54)</a>
+
+</div>
+
+<div>
+
+<a href="#pakistan-gri-67--59">Pakistan (GRI: 67 ↓ 59)</a>
+
+</div>
+
+<div>
+
+<a href="#palestine-gri-64--44">Palestine (GRI: 64 ↓ 44)</a>
+
+</div>
+
+<div>
+
+<a href="#peru-gri-65--63">Peru (GRI: 65 ↓ 63)</a>
+
+</div>
+
+<div>
+
+<a href="#saudi arabia-gri-57--55">Saudi Arabia (GRI: 57 ↓ 55)</a>
+
+</div>
+
+<div>
+
+<a href="#slovenia-gri-48--47">Slovenia (GRI: 48 ↓ 47)</a>
+
+</div>
+
+<div>
+
+<a href="#suriname-gri-57--52">Suriname (GRI: 57 ↓ 52)</a>
+
+</div>
+
+<div>
+
+<a href="#sweden-gri-43--40">Sweden (GRI: 43 ↓ 40)</a>
+
+</div>
+
+<div>
+
+<a href="#taiwan-gri-53--50">Taiwan (GRI: 53 ↓ 50)</a>
+
+</div>
+
+<div>
+
+<a href="#tunisia-gri-62--41">Tunisia (GRI: 62 ↓ 41)</a>
+
+</div>
+
+<div>
+
+<a href="#yemen-gri-35--31">Yemen (GRI: 35 ↓ 31)</a>
+
+</div>
+
+</div>
+
+<br/>
 
 Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
