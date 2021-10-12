@@ -17,7 +17,7 @@ jobs:
           path: ~/.local/share/renv
           key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
           restore-keys: |
-            ${{ runner.os }}-renv-
+            ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
       - uses: r-lib/actions/setup-pandoc@master
       - uses: r-lib/actions/setup-r@master
       - name: Install dependencies
