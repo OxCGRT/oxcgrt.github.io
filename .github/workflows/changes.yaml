@@ -56,5 +56,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Automated run of latest changes" -a
+          git diff-index --quiet HEAD || git commit -m "Automated run of latest changes website" -a
           git push origin main:main
