@@ -8,18 +8,23 @@ jobs:
   build:
     name: R github actions
     runs-on: ubuntu-latest
+
     steps:
+
       - uses: actions/checkout@main
         with:
           path: main
+
+      - uses: r-lib/actions/setup-pandoc@master
+
+      - uses: r-lib/actions/setup-r@master
+
       - uses: actions/cache@main
         with:
-          path: ~/.local/share/renv
-          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
-      - uses: r-lib/actions/setup-pandoc@master
-      - uses: r-lib/actions/setup-r@master
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+
       - name: Install dependencies
         run: |
           ls
@@ -27,6 +32,7 @@ jobs:
           ls
           chmod +x ./r-code/sysrequirements.sh
           ./r-code/sysrequirements.sh
+
       - name: Run Rmd script to generate changes text
         run: |
           ls
@@ -34,12 +40,14 @@ jobs:
           ls
           chmod +x './r-code/changes-render.R'
           Rscript './r-code/changes-render.R'
+
       - name: add yaml to top of md file
         run: |
           ls
           cd main
           ls
           sed -i '1i---  \nlayout: recent-changes  \ntitle: Recent policy changes reported in the OxCGRT  \npermalink: /recent-changes/  \n---\n' ./_pages/recent-changes.md
+
       - name: Commit changes
         run: |
           ls
