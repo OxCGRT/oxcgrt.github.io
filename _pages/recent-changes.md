@@ -40,7 +40,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <p style="text-align:right">
 
-<i>Last updated 2021-10-12</i>
+<i>Last updated 2021-10-13</i>
 
 </p>
 
@@ -51,6 +51,12 @@ Overall increase
 </h4>
 
 <div class="contents">
+
+<div>
+
+<a href="#azerbaijan-gri-53--56">Azerbaijan (GRI: 53 ↑ 56)</a>
+
+</div>
 
 <div>
 
@@ -194,7 +200,7 @@ Overall decrease
 
 <div>
 
-<a href="#belgium-gri-61--55">Belgium (GRI: 61 ↓ 55)</a>
+<a href="#belgium-gri-61--60">Belgium (GRI: 61 ↓ 60)</a>
 
 </div>
 
@@ -266,6 +272,12 @@ Overall decrease
 
 <div>
 
+<a href="#pakistan-gri-57--55">Pakistan (GRI: 57 ↓ 55)</a>
+
+</div>
+
+<div>
+
 <a href="#panama-gri-73--70">Panama (GRI: 73 ↓ 70)</a>
 
 </div>
@@ -315,12 +327,6 @@ Overall decrease
 <div>
 
 <a href="#sweden-gri-33--29">Sweden (GRI: 33 ↓ 29)</a>
-
-</div>
-
-<div>
-
-<a href="#timor-leste-gri-55--55">Timor-Leste (GRI: 55 ↓ 55)</a>
 
 </div>
 
@@ -810,6 +816,120 @@ meters away from other people.
 
 </div>
 
+### Azerbaijan (GRI: 53 ↑ 56)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; in <b>some</b> parts of Azerbaijan (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/10/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Azerbaijan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+October 1st: Public transportation (incl. Baku Metro) is allowed to
+operate 7 days per week, the suspension of weekend operations is lifted.
+<https://web.archive.org/web/20211012222802/https://www.garda.com/crisis24/news-alerts/528426/azerbaijan-government-to-ease-certain-covid-19-related-restrictions-effective-oct-1-update-38>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Azerbaijan (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+1/10/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
+of Azerbaijan (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No restrictions on intercity or interstate travel.
+<https://web.archive.org/web/20211012221511/https://az.usembassy.gov/covid-19-information-for-azerbaijan/>
+Oct. 1: All passengers aged 18 or older using public rail or road
+transport to Baku or Sumqayit from other cities or districts in
+Azerbaijan must provide proof of having received at least one
+vaccination or proof of COVID-19 immunity.
+<https://web.archive.org/web/20211012222802/https://www.garda.com/crisis24/news-alerts/528426/azerbaijan-government-to-ease-certain-covid-19-related-restrictions-effective-oct-1-update-38>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
 ### Bahamas (GRI: 48 ↑ 49)
 
 #### Restrictions on internal movement (C7)
@@ -1254,71 +1374,7 @@ administered.
 
 </div>
 
-### Belgium (GRI: 61 ↓ 55)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Belgium (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Belgium (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Following new resolutions by the Government which came into effect on
-October 1, all workplaces are now open, including previously closed
-nightclubs and discos, however, there is a need to provide a Covid Safe
-Ticket, which is a proof This is proof (via a QR code) of a complete
-vaccination (prior to 2 weeks), a negative PCR test (less than 48 hours
-old) or a recovery certificate (you have been cured of the virus after
-testing positive more than 10 days and less than 6 months before the
-event). This QR code can either be presented in digital form (CovidSafe
-app) or in print form (via MaSanté). There is also a need for these
-establishments to guarantee sufficient air quality and ventilation, by
-following the protocols rigorously. Archived:
-<https://web.archive.org/web/20211003165725/https://www.info-coronavirus.be/en/news/occ-1709/>
-<https://web.archive.org/web/20211003173003/https://www.commissioner.brussels/en/updates-covid-19/item/882-what-about-the-new-measures>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Belgium (GRI: 61 ↓ 60)
 
 #### Cancel public events (C3)
 
@@ -1607,44 +1663,6 @@ Contact tracing available
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Benin (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Benin
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Restrictions on bars, restaurants and entertainment spots have been
-lifted.
-<https://web.archive.org/web/20211002200853/https://www.gov.uk/foreign-travel-advice/benin/coronavirus>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Recommended closure </b> (or work from home) of businesses or open
 with significant operational differences; across <b>all</b> of Benin
 (1G)
@@ -1850,115 +1868,6 @@ before departing for Benin and complete 15 days of isolation.
 
 ### Bolivia (GRI: 42 ↑ 46)
 
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Bolivia
-(2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Bolivia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There are no movement restrictions, however, municipalities have the
-authority to impose movement restrictions when deemed necessary to
-mitigate the transmission of COVID-19. <https://archive.fo/KTVk7>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Bolivia (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Bolivia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There are no movement restrictions, however, municipalities have the
-authority to impose movement restrictions when deemed necessary to
-mitigate the transmission of COVID-19. <https://archive.fo/KTVk7>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Income support (E1)
 
 <div id="table-div">
@@ -2004,59 +1913,6 @@ will pay into personal Savings Accounts, 77,540,092 Bolivians out of a
 total of 187,298,327 budgeted for 2021, and said benefits will not be
 reversed, becoming safe savings if they are not used.
 <https://web.archive.org/web/20211012043005/https://www.minsalud.gob.bo/6093-gobierno-digitaliza-pago-del-bono-juana-azurduy-a-mujeres-gestantes-y-madres-para-cobrar-en-cajeros-automaticos>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Bolivia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Bolivia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No measures were found <https://archive.fo/KTVk7>
 
 </td>
 
@@ -4570,65 +4426,6 @@ vaccination initially - no change
 
 ### Macao (GRI: 56 ↑ 58)
 
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Macao (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Macao (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-New Yellow Code Zones have been set up accordingly in line with the
-zone-specific, multi-level targeted approach to epidemic prevention and
-control. Individuals are not permitted to leave the zone until
-completion of the first test. Other restrictive measures include border
-exit restriction. From Macau authorities on 28 September 2021
-<https://archive.vn/wg0zS> NEWS GOV-MO: Two more Yellow Code Zones as
-the 69th and 70th COVID-19 cases were confirmed, both import-related
-(archive.vn)
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Protection of elderly people (H8)
 
 <div id="table-div">
@@ -4746,58 +4543,6 @@ aged 18 or older
 
 ### Mauritania (GRI: 46 ↑ 46)
 
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Mauritania (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Mauritania (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<http://web.archive.org/web/20211004205634/https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/mauritania/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### International travel controls (C8)
 
 <div id="table-div">
@@ -4807,40 +4552,6 @@ operational differences; across <b>all</b> of Mauritania (1G)
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into
-Mauritania (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Mauritania (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<http://web.archive.org/web/20211004205634/https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/mauritania/>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -5163,9 +4874,9 @@ for an exemption.""
 
 </div>
 
-### Panama (GRI: 73 ↓ 70)
+### Pakistan (GRI: 57 ↓ 55)
 
-#### School closing (C1)
+#### Close public transport (C5)
 
 <div id="table-div">
 
@@ -5181,14 +4892,14 @@ for an exemption.""
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Panama (2G)
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; in <b>some</b> parts of Pakistan (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-28/9/2021  
+1/10/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -5197,27 +4908,26 @@ for an exemption.""
 
 <b>New policy:</b>
 
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Panama (1G)
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Pakistan (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Schools are partially open. Documents show that "“Panama Public School
-is offering in-person learning for all students in grades PK-12, and
-Grades 7-12 will offer full-time virtual for those students who
-qualify”“. Cannot find any policy regarding private schools. News
-also show that schools are not completely open and parents and children
-are struggling. Regarding universities,”“Melva Cruz stressed that “we
-finalize details for the opening of the universities, on the part of the
-Minsa there is no impediment to the openings, as long as they comply
-with the established biosafety measures, they must have their Covid
-committees, have their protocols, they can restart the openings. It is
-up to the authorities of each of them to establish the mechanism, so as
-autonomous entities to start their reopening process”. "" (Oct 3) link:
-<https://archive.ph/NuVO4> link: <https://archive.ph/yYCwN> link:
-<https://archive.ph/YBWV9> link: <https://archive.ph/OTvis>
+The government of Pakistan has allowed Public transport to be restarted
+across Pakistan with some restrictions ( face mask, social distancing).
+Domestic flight operations have restarted at all airports in Pakistan.
+From 1 October, passengers who are aged 18 and above will require a full
+course of a Covid-19 vaccine in order to undertake domestic air travel
+in Pakistan. Pakistan will accept the proof of national or international
+vaccination certificate. Passengers who are exempt from this requirement
+are: • Foreign passport holders below 18 years of age • Passengers who
+hold a medical certificate stating that they have been medically advised
+not to receive a Covid-19 vaccine See UK and USA government foreign
+travel website
+<https://web.archive.org/web/20211009095029/https://www.gov.uk/foreign-travel-advice/pakistan/coronavirus>
+<https://web.archive.org/web/20211011192445/https://pk.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -5230,6 +4940,8 @@ autonomous entities to start their reopening process”. "" (Oct 3) link:
 </div>
 
 </div>
+
+### Panama (GRI: 73 ↓ 70)
 
 #### Close public transport (C5)
 
@@ -5359,43 +5071,6 @@ Source:
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Panama (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; in
-<b>some</b> parts of Panama (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Curfews are taking place in certain areas. link:
-<https://archive.ph/0mMp5>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -7536,60 +7211,6 @@ them. <https://archive.vn/kC0RN>
 
 ### Seychelles (GRI: 64 ↓ 60)
 
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Seychelles (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Seychelles (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Schools are fully open. See in UNESCO website, last updated September 29
-th, 2021 archived:
-<http://web.archive.org/web/20211004172639/https://en.unesco.org/covid19/educationresponse>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Restrictions on internal movement (C7)
 
 <div id="table-div">
@@ -7654,41 +7275,6 @@ Are there restrictions on intercity or interstate travel? No
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Ban</b> arrivals from <b>some</b> regions coming into Seychelles (3)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Seychelles (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-It’s necessary negative PCR test and vaccine certification. See in
-Ministry of Health ’s website, archived:
-<http://web.archive.org/web/20211004155641/http://www.health.gov.sc/index.php/covid-19/covid-19-in-seychelles/>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -8272,120 +7858,6 @@ not seem to have any new policy in place for income support.
 
 </div>
 
-### Timor-Leste (GRI: 55 ↑ 55)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Timor-Leste (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Timor-Leste (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Council of Ministers of September 29th decided not to renew the
-imposition of a sanitary fence in the Municipality of Dili, on the 29th
-of September. The sanitary fence to access dilly ended on 29th at 23:59
-hours. See Timor Leste Government website, archived:
-<https://archive.vn/9Cjcl>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Timor-Leste (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-30/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Timor-Leste
-(3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In the event of an outbreak of COVID-19 in any part of the country, all
-individuals residing in Timor-Leste are required to undergo COVID-19
-testing or submit full vaccination certification, according to the
-meeting of the Council of Ministers of September 29th. See Timor Leste
-Government website, archived: <https://archive.vn/9Cjcl>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 ### Tunisia (GRI: 35 ↑ 41)
 
 #### School closing (C1)
@@ -8811,185 +8283,6 @@ unclear when it ends. In Mary Region, inter-district bus services have
 been indefinitely suspended. In addition, employers must switch to
 remote working as far as possible.”"
 <http://web.archive.org/web/20211008193456/https://www.garda.com/fr/crisis24/alertes-de-securite/531206/turkmenistan-authorities-maintaining-nationwide-covid-19-countermeasures-as-of-oct-4-update-18>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Turkmenistan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Turkmenistan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Quote: "“Authorities are maintaining international entry restrictions
-and domestic measures consistent with those imposed elsewhere to limit
-the spread of COVID-19 as of Oct. 4. Authorities previously tightened
-COVID-19 countermeasures in Ashgabat and Turkmenbashi, as well as in the
-Mary Region. Access to Ashgabat is restricted; individuals may only
-enter or leave the city for limited essential reasons, including work”"
-"“In Mary Region, inter-district bus services have been indefinitely
-suspended. In addition, employers must switch to remote working as far
-as possible. Rail services on all lines, except those between
-Ashgabat-Dashoguz and Ashgabat-Turkmenbashi, have been suspended.
-Domestic flights are operating on a significantly reduced schedule.
-Overland travel between districts is prohibited. Security forces have
-erected checkpoints on roads entering Ashgabat; checkpoints have also
-been reported on highways in Balkan, Mary, and Dashoguz provinces, where
-health screenings have been carried out. Special permits are required
-for travel within or between provinces.”" Archive Link
-<http://web.archive.org/web/20211008193456/https://www.garda.com/fr/crisis24/alertes-de-securite/531206/turkmenistan-authorities-maintaining-nationwide-covid-19-countermeasures-as-of-oct-4-update-18>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA
-Turkmenistan (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Turkmenistan (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Quote: "“The authorities provided temporary suspension of loan
-repayments to businesses affected by the COVID containment measures.”"
-Archive Link
-<http://web.archive.org/web/20211008202850/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Public officials <b>urge caution</b> about COVID-19 in; across
-<b>all</b> of Turkmenistan (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Turkmenistan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Coordinated public campaigns Archive Link
-<http://web.archive.org/web/20211008203811/https://turkmenpost.gov.tm/>
 
 </td>
 
@@ -9491,283 +8784,6 @@ Islands (1G)
 Public school and daycare campuses closed; Virtual learning implemented
 Source:
 <https://web.archive.org/web/20211003171326/https://www.vi.gov/covid/phases/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of United
-States Virgin Islands (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of United States Virgin Islands (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of United States Virgin Islands
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of United States Virgin
-Islands (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Do not see any restrictions at this time.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of United States Virgin
-Islands (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of United
-States Virgin Islands (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Cabinet of the Virgin Islands has extended the national 1:00 am to
-5:00 am curfew for 14 more days, according to Minister for Health and
-Social Development, Hon Carvin Malone (AL) in a September 30, 2021,
-update. Link:
-<https://web.archive.org/web/20211003173307/https://www.virginislandsnewsonline.com/en/news/4-hour-curfew-extended-for-14-more-days-hon-malone>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Public officials <b>urge caution</b> about COVID-19 in; across
-<b>all</b> of United States Virgin Islands (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of United States Virgin Islands (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Coordinated campaign with website announcements and government updates.
-Link:
-<https://web.archive.org/web/20211003171041/https://www.vi.gov/covid/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA United States Virgin Islands
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/9/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA United States
-Virgin Islands (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to the department’s news release, getting the COVID-19 vaccine
-can prevent severe illness and death. Those who wish to get the
-vaccination can schedule an appointment by calling 340-777-8227 or going
-online to the Department of Health website. Walk-ins also are accepted
-at the territory’s Community Vaccination Centers. Link:
-<https://web.archive.org/web/20211003162505/https://stthomassource.com/content/2021/09/27/two-covid-19-deaths-bring-territorys-pandemic-death-toll-to-71/>
 
 </td>
 
