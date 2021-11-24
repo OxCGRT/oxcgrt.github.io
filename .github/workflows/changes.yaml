@@ -1,4 +1,4 @@
-name: An R workflow for updating website with latest changes
+name: An R workflow for updating a website with latest changes
 on:
   push
 #  schedule:
