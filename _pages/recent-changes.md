@@ -40,7 +40,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <p style="text-align:right">
 
-<i>Last updated 2021-10-27</i>
+<i>Last updated 2021-12-01</i>
 
 </p>
 
@@ -54,103 +54,117 @@ Overall increase
 
 <div>
 
-<a href="#andorra-gri-56--58">Andorra (GRI: 56 ↑ 58)</a>
+<a href="#austria-gri-74--82">Austria (GRI: 74 ↑ 82)</a>
 
 </div>
 
 <div>
 
-<a href="#angola-gri-55--57">Angola (GRI: 55 ↑ 57)</a>
+<a href="#bahrain-gri-52--54">Bahrain (GRI: 52 ↑ 54)</a>
 
 </div>
 
 <div>
 
-<a href="#austria-gri-70--74">Austria (GRI: 70 ↑ 74)</a>
+<a href="#belgium-gri-64--69">Belgium (GRI: 64 ↑ 69)</a>
 
 </div>
 
 <div>
 
-<a href="#belgium-gri-57--59">Belgium (GRI: 57 ↑ 59)</a>
+<a href="#bolivia-gri-46--47">Bolivia (GRI: 46 ↑ 47)</a>
 
 </div>
 
 <div>
 
-<a href="#burundi-gri-17--18">Burundi (GRI: 17 ↑ 18)</a>
+<a href="#bosnia and herzegovina-gri-42--46">Bosnia and Herzegovina
+(GRI: 42 ↑ 46)</a>
 
 </div>
 
 <div>
 
-<a href="#chile-gri-37--40">Chile (GRI: 37 ↑ 40)</a>
+<a href="#croatia-gri-52--53">Croatia (GRI: 52 ↑ 53)</a>
 
 </div>
 
 <div>
 
-<a href="#eswatini-gri-59--64">Eswatini (GRI: 59 ↑ 64)</a>
+<a href="#finland-gri-50--53">Finland (GRI: 50 ↑ 53)</a>
 
 </div>
 
 <div>
 
-<a href="#guinea-gri-53--63">Guinea (GRI: 53 ↑ 63)</a>
+<a href="#georgia-gri-47--49">Georgia (GRI: 47 ↑ 49)</a>
 
 </div>
 
 <div>
 
-<a href="#kuwait-gri-51--58">Kuwait (GRI: 51 ↑ 58)</a>
+<a href="#germany-gri-57--74">Germany (GRI: 57 ↑ 74)</a>
 
 </div>
 
 <div>
 
-<a href="#latvia-gri-45--58">Latvia (GRI: 45 ↑ 58)</a>
+<a href="#guinea-gri-51--54">Guinea (GRI: 51 ↑ 54)</a>
 
 </div>
 
 <div>
 
-<a href="#liberia-gri-45--47">Liberia (GRI: 45 ↑ 47)</a>
+<a href="#india-gri-49--54">India (GRI: 49 ↑ 54)</a>
 
 </div>
 
 <div>
 
-<a href="#monaco-gri-49--50">Monaco (GRI: 49 ↑ 50)</a>
+<a href="#israel-gri-64--65">Israel (GRI: 64 ↑ 65)</a>
 
 </div>
 
 <div>
 
-<a href="#nepal-gri-49--55">Nepal (GRI: 49 ↑ 55)</a>
+<a href="#jamaica-gri-72--74">Jamaica (GRI: 72 ↑ 74)</a>
 
 </div>
 
 <div>
 
-<a href="#paraguay-gri-43--45">Paraguay (GRI: 43 ↑ 45)</a>
+<a href="#myanmar-gri-70--72">Myanmar (GRI: 70 ↑ 72)</a>
 
 </div>
 
 <div>
 
-<a href="#syria-gri-40--45">Syria (GRI: 40 ↑ 45)</a>
+<a href="#nepal-gri-63--66">Nepal (GRI: 63 ↑ 66)</a>
 
 </div>
 
 <div>
 
-<a href="#venezuela-gri-75--78">Venezuela (GRI: 75 ↑ 78)</a>
+<a href="#slovenia-gri-60--63">Slovenia (GRI: 60 ↑ 63)</a>
 
 </div>
 
 <div>
 
-<a href="#vietnam-gri-57--61">Vietnam (GRI: 57 ↑ 61)</a>
+<a href="#south korea-gri-56--57">South Korea (GRI: 56 ↑ 57)</a>
+
+</div>
+
+<div>
+
+<a href="#tunisia-gri-35--37">Tunisia (GRI: 35 ↑ 37)</a>
+
+</div>
+
+<div>
+
+<a href="#united arab emirates-gri-50--53">United Arab Emirates (GRI: 50
+↑ 53)</a>
 
 </div>
 
@@ -168,122 +182,55 @@ Overall decrease
 
 <div>
 
-<a href="#afghanistan-gri-28--23">Afghanistan (GRI: 28 ↓ 23)</a>
+<a href="#chile-gri-42--36">Chile (GRI: 42 ↓ 36)</a>
 
 </div>
 
 <div>
 
-<a href="#australia-gri-68--53">Australia (GRI: 68 ↓ 53)</a>
+<a href="#greenland-gri-43--42">Greenland (GRI: 43 ↓ 42)</a>
 
 </div>
 
 <div>
 
-<a href="#bangladesh-gri-58--56">Bangladesh (GRI: 58 ↓ 56)</a>
+<a href="#kazakhstan-gri-65--53">Kazakhstan (GRI: 65 ↓ 53)</a>
 
 </div>
 
 <div>
 
-<a href="#cambodia-gri-61--57">Cambodia (GRI: 61 ↓ 57)</a>
+<a href="#liberia-gri-49--45">Liberia (GRI: 49 ↓ 45)</a>
 
 </div>
 
 <div>
 
-<a href="#canada-gri-66--64">Canada (GRI: 66 ↓ 64)</a>
+<a href="#mauritania-gri-51--43">Mauritania (GRI: 51 ↓ 43)</a>
 
 </div>
 
 <div>
 
-<a href="#gambia-gri-37--33">Gambia (GRI: 37 ↓ 33)</a>
+<a href="#panama-gri-62--49">Panama (GRI: 62 ↓ 49)</a>
 
 </div>
 
 <div>
 
-<a href="#greece-gri-76--72">Greece (GRI: 76 ↓ 72)</a>
+<a href="#seychelles-gri-65--61">Seychelles (GRI: 65 ↓ 61)</a>
 
 </div>
 
 <div>
 
-<a href="#india-gri-59--57">India (GRI: 59 ↓ 57)</a>
+<a href="#sri lanka-gri-63--62">Sri Lanka (GRI: 63 ↓ 62)</a>
 
 </div>
 
 <div>
 
-<a href="#iran-gri-68--63">Iran (GRI: 68 ↓ 63)</a>
-
-</div>
-
-<div>
-
-<a href="#ireland-gri-65--64">Ireland (GRI: 65 ↓ 64)</a>
-
-</div>
-
-<div>
-
-<a href="#italy-gri-76--75">Italy (GRI: 76 ↓ 75)</a>
-
-</div>
-
-<div>
-
-<a href="#kenya-gri-54--53">Kenya (GRI: 54 ↓ 53)</a>
-
-</div>
-
-<div>
-
-<a href="#kiribati-gri-33--24">Kiribati (GRI: 33 ↓ 24)</a>
-
-</div>
-
-<div>
-
-<a href="#madagascar-gri-48--34">Madagascar (GRI: 48 ↓ 34)</a>
-
-</div>
-
-<div>
-
-<a href="#mauritius-gri-60--56">Mauritius (GRI: 60 ↓ 56)</a>
-
-</div>
-
-<div>
-
-<a href="#nicaragua-gri-19--16">Nicaragua (GRI: 19 ↓ 16)</a>
-
-</div>
-
-<div>
-
-<a href="#pakistan-gri-51--42">Pakistan (GRI: 51 ↓ 42)</a>
-
-</div>
-
-<div>
-
-<a href="#saudi arabia-gri-57--55">Saudi Arabia (GRI: 57 ↓ 55)</a>
-
-</div>
-
-<div>
-
-<a href="#slovak republic-gri-56--53">Slovak Republic (GRI: 56 ↓ 53)</a>
-
-</div>
-
-<div>
-
-<a href="#united states virgin islands-gri-62--60">United States Virgin
-Islands (GRI: 62 ↓ 60)</a>
+<a href="#timor-leste-gri-54--52">Timor-Leste (GRI: 54 ↓ 52)</a>
 
 </div>
 
@@ -295,516 +242,7 @@ Please see our
 [Codebook](https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/codebook.md)
 for a full description of the policies we track.
 
-### Afghanistan (GRI: 28 ↓ 23)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Afghanistan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Afghanistan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-18th October 2021: According to garda world, Localized business and
-gathering controls are possible in areas with higher COVID-19 activity.
-Enforcement and compliance with the directives have been generally poor,
-particularly after the Taliban took over power in the country in
-mid-August. Officials may impose heightened security measures in
-localities with increased COVID-19 activity.See link below:
-<https://web.archive.org/web/20211023193153/https://www.garda.com/crisis24/news-alerts/535386/afghanistan-covid-19-related-measures-remain-in-effect-nationwide-as-of-oct-18-update-20>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Afghanistan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Afghanistan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-no data available
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Close public transport (C5)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Afghanistan (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Afghanistan (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-18th October 2021: according to Garda World COVID-19-related
-restrictions remain in effect nationwide. Some transport disruptions are
-possible due to the protocols. Officials may impose heightened security
-measures in localities with increased COVID-19 activity.
-<https://web.archive.org/web/20211023193153/https://www.garda.com/crisis24/news-alerts/535386/afghanistan-covid-19-related-measures-remain-in-effect-nationwide-as-of-oct-18-update-20>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Afghanistan (4)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into
-Afghanistan (2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-18th October 2021: according to Garda World Civilian authorities advise
-individuals arriving in Afghanistan with no symptoms to self-quarantine
-for 14 days and those displaying symptoms to contact the Ministry of
-Public Health; it is unclear if the policy remains in place under the
-Taliban.
-<https://web.archive.org/web/20211023193153/https://www.garda.com/crisis24/news-alerts/535386/afghanistan-covid-19-related-measures-remain-in-effect-nationwide-as-of-oct-18-update-20>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-There is <b>no official</b> public information campaign across all of
-Afghanistan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Afghanistan (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-according to MoD Afghanistan COMMUNICATION MATERIALS TO PREVENT THE
-SPREAD OF THE NEW CORONA VIRUS • Posters • Flyers • Photos for Facebook
-• Brochures • Billboards • Signboards
-<https://web.archive.org/web/20211023202548/https://moph.gov.af/ps/node/1412>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-NA; NA Afghanistan (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No testing policy</b> are present across all of Afghanistan (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-no evidence of this found
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Andorra (GRI: 56 ↑ 58)
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>more than 50% income</b>; for <b>formal
-workers only</b> in Andorra (2F)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>more than 50% income</b>; for <b>all
-workers</b> in Andorra (2A)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No changes found.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Angola (GRI: 55 ↑ 57)
-
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Angola (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Anyone</b> can be tested (open testing) is present; NA Angola (3)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of January 16, 2021, upon arrival at the Aeroporto Internacional
-Quatro de Fevereiro in Luanda, all arriving passengers on international
-flights, regardless of citizenship, may be required to take a COVID test
-at the airport before being allowed to enter the country. As of October
-15, proof of vaccination (at least one dose) or a negative COVID test is
-required of anyone over the age of 18 in some situations.
-<https://web.archive.org/web/20211012232423/https://ao.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Australia (GRI: 68 ↓ 53)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Australia (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Australia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting 22 Oct curfews and lockdowns have ended. Restrictions vary by
-region but generally are eased for people who are fully vaccinated or
-have a medical exemption. Workplaces have opened with hygiene or
-capacity restrictions. Example: up to 75 per cent or up to 30 people can
-return if total workplace is 40 or less, if there’s no more than 1
-person per 4 square metres for Metropolitan Melbourne locations, and no
-more than 1 person per 2 square metres for Regional Victoria locations.
-<https://web.archive.org/web/20210708181532/https://www.healthdirect.gov.au/covid19-restriction-checker/gatherings-and-work/vic>
-<https://web.archive.org/web/20211022184508/https://www.theguardian.com/australia-news/2021/oct/22/melbourne-covid-lockdown-ends-lifts-today-friday-victoria-end-lift-change-what-are-the-new-restrictions-rules-freedoms-reopening-plan>
-<https://web.archive.org/web/20211022043759/https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions/80-percent>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Austria (GRI: 74 ↑ 82)
 
 #### Cancel public events (C3)
 
@@ -823,142 +261,13 @@ more than 1 person per 2 square metres for Regional Victoria locations.
 <b>Old policy:</b>
 
 <b>Require</b> cancellation of public events; in <b>some</b> parts of
-Australia (2T)
+Austria (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Australia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting 22 Oct curfews and lockdowns have ended. Restrictions vary by
-region but generally are eased for people who are fully vaccinated or
-have a medical exemption. Generally indoor events have a capacity
-restriction of 75 per cent but outdoor events have 100 per cent capacity
-with social distancing. Example: A maximum of 2,000 people can attend a
-controlled, ticketed outdoor event if they’re assigned a specific seat —
-subject to 1 person per 2 square metres. A maximum of 500 people can
-attend a controlled, ticketed outdoor event if they’re allocated to a
-designated seating area — subject to 1 person per 2 square metres.
-Indoor entertainment facilities can sell tickets for seated events at 75
-per cent of fixed seating capacity or no more than 1 person per 2 square
-metres on the premises. Outdoor entertainment facilities can sell
-tickets for seated events at 100 per cent of fixed seating capacity or
-no more than 1 person per 2 square metres on the premises.
-<https://web.archive.org/web/20210307062444/https://www.healthdirect.gov.au/covid19-restriction-checker/entertainment-and-amusement-venues/nsw>
-<https://web.archive.org/web/20210708181532/https://www.healthdirect.gov.au/covid19-restriction-checker/gatherings-and-work/vic>
-<https://web.archive.org/web/20211022184508/https://www.theguardian.com/australia-news/2021/oct/22/melbourne-covid-lockdown-ends-lifts-today-friday-victoria-end-lift-change-what-are-the-new-restrictions-rules-freedoms-reopening-plan>
-<https://web.archive.org/web/20211022043759/https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions/80-percent>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Australia (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Australia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Starting 22 Oct curfews and lockdowns have ended. Restrictions vary by
-region but generally are eased for people who are fully vaccinated or
-have a medical exemption.
-<https://web.archive.org/web/20210307062444/https://www.healthdirect.gov.au/covid19-restriction-checker/entertainment-and-amusement-venues/nsw>
-<https://web.archive.org/web/20210831161454/https://www.healthdirect.gov.au/covid19-restriction-checker/hotspots-and-case-locations/vic>
-<https://web.archive.org/web/20211022184508/https://www.theguardian.com/australia-news/2021/oct/22/melbourne-covid-lockdown-ends-lifts-today-friday-victoria-end-lift-change-what-are-the-new-restrictions-rules-freedoms-reopening-plan>
-<https://web.archive.org/web/20211022043759/https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions/80-percent>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; in <b>some</b> parts of Australia (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/10/2021  
+22/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -967,19 +276,20 @@ distancing not possible; in <b>some</b> parts of Australia (3T)
 
 <b>New policy:</b>
 
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; in <b>some</b> parts of Australia (4T)
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Austria (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Starting 22 Oct curfews and lockdowns have ended. Restrictions vary by
-region but generally masks are required in certain public spaces. In
-Victoria you must wear a face mask whenever you leave your home in both
-indoor and outdoor settings. You must carry a mask at all times.
-<https://web.archive.org/web/20211022194019/https://www.healthdirect.gov.au/covid19-restriction-checker/face-masks/vic>
-<https://web.archive.org/web/20211004184048/https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-case-numbers-and-statistics>
+Stay at home requirements, closing of event facilities (entertainment,
+amusement or recreation) as part of the 5th COVID-19 Emergency Measures
+Ordinance are in place, in effect covering all events. Sources:
+<https://archive.vn/lFJFe> \[5th COVID-19 Emergency Measures Ordinance\]
+<https://archive.vn/00qXI> \[Nationwide measures\]
+<https://web.archive.org/web/20211125164101/https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Aktuelle-Ma%C3%9Fnahmen.html>
+\[Coronavirus - Current Measures\]
 
 </td>
 
@@ -993,7 +303,7 @@ indoor and outdoor settings. You must carry a mask at all times.
 
 </div>
 
-#### Protection of elderly people (H8)
+#### Restrictions on gatherings (C4)
 
 <div id="table-div">
 
@@ -1009,15 +319,15 @@ indoor and outdoor settings. You must carry a mask at all times.
 
 <b>Old policy:</b>
 
-<b>Extensive restrictions</b> for protection of elderly people; in
-<b>some</b> parts of Australia (3T)
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Austria (3G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-22/10/2021  
-<img src="../images/down-arrow.png">
+22/11/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -1025,21 +335,49 @@ indoor and outdoor settings. You must carry a mask at all times.
 
 <b>New policy:</b>
 
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Australia (1G)
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Austria (4G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Starting 22 Oct curfews and lockdowns have ended. National policy
-outlines recommended guidelines to protect the elderly along a three
-tiered system. The visitation restrictions and guidelines for
-residential aged care facilities follow social distancing, vaccination
-and COVID screening norms.
-<https://web.archive.org/web/20210415104420/https://www.health.gov.au/sites/default/files/documents/2020/11/coronavirus-covid-19-national-aged-care-guidance-escalation-tiers-and-aged-care-provider-responses.pdf>
-<https://web.archive.org/web/20211021011733/https://www.health.gov.au/node/18602/coronavirus-covid-19-advice-for-people-in-residential-aged-care-facilities-and-visitors>
+‘Leaving your own private living space for the purpose of attending
+meetings is only permitted for the following meetings’ - so in effect
+gatherings are restricted to those in the private living space for most
+citizens. Meetings • Leaving your own private living space for the
+purpose of attending meetings is only permitted for the following
+meetings: o Funerals o Assemblies according to the assembly law o
+Meetings for professional purposes, if these are necessary to maintain
+the professional activity o meetings of organs of political persons
+cannot be postponed if they cannot be held in digital form o meetings of
+bodies of legal persons that cannot be postponed, provided that they
+cannot be held in digital form o meetings that cannot be postponed under
+the Labor Constitution Act o Meetings for absolutely necessary
+vocational training and further education purposes, to fulfill the
+necessary integration measures according to the Integration Act and for
+final professional examinations, if it is not possible to hold them in
+digital form o Meetings of medical and psychosocial self-help groups If
+not all participants have a 2G certificate at these gatherings, an FFP2
+mask must be worn. • The following applies to meetings for rehearsals
+for professional purposes and for professional artistic performance in a
+fixed composition: o the 3G rule, when physical contact with other
+people cannot be excluded. o In addition, the person responsible for the
+meeting must appoint a COVID-19 officer and develop and implement a
+COVID-19 prevention concept. • For meetings within the framework of the
+labor market service, as well as for other meetings for absolutely
+necessary vocational training and further education purposes, the 3G
+certificate applies if physical contact cannot be ruled out or the risk
+of infection can be minimized by other suitable protective measures. •
+Other exceptions for meetings: o Elite sport. o Driving into theaters,
+concert halls and arenas, cinemas, variety theaters and cabarets, if
+this is done with multi-lane vehicles. o rehearsals and artistic
+performances in a fixed composition without an audience, which are
+carried out for professional purposes. Sources:
+<https://archive.vn/lFJFe> \[5th COVID-19 Emergency Measures Ordinance\]
+<https://archive.vn/00qXI> \[Nationwide measures\]
+<https://web.archive.org/web/20211125164101/https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Aktuelle-Ma%C3%9Fnahmen.html>
+\[Coronavirus - Current Measures\]
 
 </td>
 
@@ -1052,8 +390,6 @@ and COVID screening norms.
 </div>
 
 </div>
-
-### Austria (GRI: 70 ↑ 74)
 
 #### Restrictions on internal movement (C7)
 
@@ -1077,7 +413,7 @@ and COVID screening norms.
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
+22/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -1086,20 +422,37 @@ and COVID screening norms.
 
 <b>New policy:</b>
 
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Austria (2T)
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Austria (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Measures for the municipality of St. Koloman "“From October 18, 2021
-(until October 31, 2021), the following applies to the municipality of
-St. Koloman: Leaving the municipality - with a few exceptions - is only
-possible with a 2G test (vaccination or recovery) or by means of a
-negative PCR test (not older than 72 hours), permitted (see
-corresponding ordinance).”" Source: <https://archive.vn/tYjaF> \[Special
-regulations for Salzburg\]
+Exit regulation All-day exit restrictions apply. Leaving your own
+private living area and staying outside your own private living area is
+only permitted for the following purposes: • Avoidance of immediate
+danger to life, limb and property. • Care of and assistance for people
+in need of support as well as exercise of family rights and fulfillment
+of family duties. • Covering the necessary basic needs of daily life,
+such as contact with the partner who does not live in the same
+household, individual close relatives (parents, children and siblings)
+and important reference persons, the supply of basic goods of daily
+life, the use of health services, the coverage a need for housing, the
+satisfaction of basic religious needs, as well as the care of animals. •
+professional and educational purposes. • Staying outdoors alone, with
+people from the common household or people for physical and mental
+relaxation. • to pursue administrative or judicial processes that cannot
+be postponed. • to participate in elections provided by law and to use
+the instruments of direct democracy provided by law. • for the purpose
+of entering customer areas of certain business premises such as
+pharmacies, grocery stores, drugstores, health and care services, petrol
+stations, banks, postal service providers, car and bicycle workshops,
+picking up pre-ordered meals, etc.). Sources: <https://archive.vn/lFJFe>
+\[5th COVID-19 Emergency Measures Ordinance\] <https://archive.vn/00qXI>
+\[Nationwide measures\]
+<https://web.archive.org/web/20211125164101/https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Aktuelle-Ma%C3%9Fnahmen.html>
+\[Coronavirus - Current Measures\]
 
 </td>
 
@@ -1112,8 +465,6 @@ regulations for Salzburg\]
 </div>
 
 </div>
-
-### Bangladesh (GRI: 58 ↓ 56)
 
 #### International travel controls (C8)
 
@@ -1131,14 +482,15 @@ regulations for Salzburg\]
 
 <b>Old policy:</b>
 
-<b>Ban</b> arrivals from <b>some</b> regions coming into Bangladesh (3)
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Austria
+(2)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/10/2021  
-<img src="../images/down-arrow.png">
+27/11/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -1146,25 +498,36 @@ regulations for Salzburg\]
 
 <b>New policy:</b>
 
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into
-Bangladesh (2)
+<b>Ban</b> arrivals from <b>some</b> regions coming into Austria (3)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Officials have eased COVID-19-related quarantine requirements for
-vaccinated international arrivals from most locations as of Oct. 25.
-Vaccinated arrivals from Armenia, Bulgaria, Estonia, Georgia, Latvia,
-Lithuania, Moldova, Mongolia, Palestine, Romania, Serbia, Slovenia, and
-Ukraine must quarantine at their residence for seven days, while
-unvaccinated entrants from these locations must quarantine at a
-designated facility for seven days at their own expense. Vaccinated
-arrivals from all other locations no longer have to quarantine, while
-unvaccinated entrants must quarantine at their residence for 14 days.
-Symptomatic arrivals from any location or with any vaccination status
-must isolate at a designated facility.
-<https://web.archive.org/web/20211025133025/https://www.garda.com/crisis24/news-alerts/538041/bangladesh-authorities-lift-quarantine-requirements-for-vaccinated-international-arrivals-from-most-locations-as-of-oct-25-update-60>
+Regulations for entering Austria The 8th amendment to the COVID-19 Entry
+Ordinance 2021 comes into force on November 27th . Due to the new virus
+variant Omicron, there is a tightening of the entry into Austria: •
+Classification of the following countries as virus variant areas
+("“Appendix 2 of the Entry Regulation”“): Botswana, Eswatini, Lesotho,
+Mozambique, Namibia, Zimbabwe, South Africa • Entry from these countries
+is generally prohibited • Essentially, only Austrian citizens and people
+with a place of residence or habitual abode in Austria are allowed to
+enter the country. Entry for humanitarian reasons or in the urgent
+interest of the republic is also possible. There are also a few other
+exceptions. • The following rules apply to these people upon entry: o
+Registration for pre-travel clearance at <https://entry.ptc.gv.at/> o
+Presentation of a negative molecular biological test result ( PCR test);
+the sampling must not be more than 72 hours ago o Immediate start of a
+ten-day quarantine. The quarantine is deemed to have ended if a further
+PCR test is carried out at the earliest on the fifth day after entry ,
+the result of which is negative. The day of entry is to be regarded
+as”“day zero”". • In addition, flights from these seven African
+countries will be banned from landing. Sources:
+<https://archive.vn/QppwY> \[Coronavirus - Current Measures\]
+<https://web.archive.org/web/20211129210334/https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2021_II_492/BGBLA_2021_II_492.html>
+\[492. Ordinance of the Federal Minister for Social Affairs, Health,
+Care and Consumer Protection on the landing ban of aircraft from
+SARS-CoV-2 virus variant areas and states\]
 
 </td>
 
@@ -1178,7 +541,127 @@ must isolate at a designated facility.
 
 </div>
 
-### Belgium (GRI: 57 ↑ 59)
+### Bahrain (GRI: 52 ↑ 54)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Bahrain
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Bahrain (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On the 26th of November, 2021, Bahrain’s Civil Aviation Affairs
+reactivated the country’s Red List countries, in line with directives
+issued by the Government Executive Committee in response to
+recommendations made by the National Medical Taskforce for Combatting
+Covid-19. The countries that were red-listed are the following: Republic
+of South Africa, Republic of Namibia, The Republic of Botswana, The
+Republic of Zimbabwe, Kingdom of Lesotho, Kingdom of Eswatini. See
+KhaleejTimes Website. Archived Link:
+<https://web.archive.org/web/20211129200613/https://www.khaleejtimes.com/coronavirus/covid-19-bahrain-suspends-flights-entry-of-travellers-from-6-new-countries>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Belgium (GRI: 64 ↑ 69)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Belgium (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>all</b> sectors of business; across
+<b>all</b> of Belgium (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Work from home is now mandatory, with workers allowed only one 1 day of
+perweek at their workplace. Night clubs and dance halls are required to
+shut down. Opening hours of catering services is now restricted to
+5am-11pm Archived:
+<https://web.archive.org/web/20211127092329/https://www.info-coronavirus.be/en/faq/>
+<https://web.archive.org/web/20211127094244/https://www.info-coronavirus.be/en/news/occ-2611/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
 
 #### Cancel public events (C3)
 
@@ -1195,71 +678,15 @@ must isolate at a designated facility.
 <td style="text-align:left;min-width: 2in; ">
 
 <b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Belgium (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-15/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
 
 <b>Require</b> cancellation of public events; in <b>some</b> parts of
 Belgium (2T)
 
 </td>
 
-<td style="text-align:left;min-width: 4in; ">
-
-Brussels introduced a COVID-19 certificate scheme; only allowing those
-that are vaccinated to enter public events.
-<https://web.archive.org/web/20211019035155/https://www.aa.com.tr/en/europe/brussels-makes-covid-19-pass-obligatory-in-restaurants-gyms/2393111>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Burundi (GRI: 17 ↑ 18)
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No availability</b> is present across all of Burundi (0)
-
-</td>
-
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
+17/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -1268,142 +695,15 @@ that are vaccinated to enter public events.
 
 <b>New policy:</b>
 
-Available to <b>ONE</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Burundi (1S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The vaccination drive just began in Burundi, and it is unclear which
-groups are eligible.
-<https://web.archive.org/web/20211020114230/https://www.reuters.com/world/africa/burundi-launches-covid-19-vaccination-drive-2021-10-18/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Cambodia (GRI: 61 ↓ 57)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Cambodia (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Cambodia (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“Certain businesses deemed at a high risk of transmitting the virus
-such as entertainment complexes have been ordered closed in some
-provinces. (effective from 18th October)”" - especially in some "“red
-zone”" areas. For example, in Phnom Penh (15-Oct-2021 to 28-Oct-2021),
-"“1. Suspend all businesses that are high risk of Covid: - All kinds
-of entertainment club businesses ex karaoke, discotheque, cinemas and
-bars; 2. Businesses not suspended must strictly adhere to safety
-measures (3 do’s/3 don’ts) and sanitization”" link:
-<https://archive.ph/Q207o> link: <https://archive.ph/af8bR> link:
-<https://archive.ph/hf2cm>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
 <b>Require</b> cancellation of public events; across <b>all</b> of
-Cambodia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Cambodia (2T)
+Belgium (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-"“The public is directed to?avoid?close contact with
-others,?remaining?in closed air-conditioned?rooms, and?gatherings?of
-more than 50 people to minimize community transmission”" (effective from
-18 October). This is a general recommendation. But according to some
-local Administrative Measures, for example, in Mondulkiri Province,
-"“effective 14-June-2021 Admin Measures - No Expiry Ban on Sports/Gyms
-+ Ban on Gatherings of more than 5 people + Ban on Dine-In”". This is a
-stricter target requirement. link: <https://archive.ph/af8bR> link:
-<https://archive.ph/hf2cm>
+COVID-Certificate in use all over the country. Archived:
+<https://web.archive.org/web/20211127092653/https://www.commissioner.brussels/en/updates-covid-19/item/888-covid-updates-17-11>
 
 </td>
 
@@ -1432,1148 +732,34 @@ stricter target requirement. link: <https://archive.ph/af8bR> link:
 <td style="text-align:left;min-width: 2in; ">
 
 <b>Old policy:</b>
+
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of Belgium (3T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+27/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
 
 Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Cambodia (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Cambodia (4T)
+<b>all</b> of Belgium (4G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-"“The public is directed to?avoid?close contact with
-others,?remaining?in closed air-conditioned?rooms, and?gatherings?of
-more than 50 people to minimize community transmission”" (effective from
-18 October). This is a general recommendation. But according to some
-local Administrative Measures, for example, in Mondulkiri Province,
-"“effective 14-June-2021 Admin Measures - No Expiry Ban on Sports/Gyms
-+ Ban on Gatherings of more than 5 people + Ban on Dine-In”". This is a
-stricter target requirement. link: <https://archive.ph/af8bR> link:
-<https://archive.ph/hf2cm>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Canada (GRI: 66 ↓ 64)
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; in
-<b>some</b> parts of Canada (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 22 october 2021, the provincial and territorial governments continue
-to be responsible for regulating long-term care (LTC) homes with the
-government of Canada providing guidance to protect residents and staff
-from covid-19. In all provinces and territories, visitors are permitted.
-However, some provinces and territories restrict less-than-fully
-vaccinated persons from visiting LTC homes and require staff to be fully
-vaccinated or regularly show negative tests. See Globe and Mail
-newspaper websites, archived:
-<https://web.archive.org/web/20211022144850/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fbaieverteseniorshome%2F>
-<https://web.archive.org/web/20211018153505/https://www.theglobeandmail.com/canada/article-covid-19-outbreaks-rising-in-long-term-care-homes-across-the-country/>
-<https://web.archive.org/web/20211018135430/https://www.theglobeandmail.com/canada/british-columbia/article-ninety-five-percent-of-workers-in-bc-long-term-care-homes-have-been/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Chile (GRI: 37 ↑ 40)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Chile (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Chile
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 1 October, National government took new measures about international
-travel. All travellers entering the country must complete the strict and
-mandatory between 5 or 7 days isolation. Available at:
-<https://archive.vn/F8Bm5>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Eswatini (GRI: 59 ↑ 64)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Eswatini (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Eswatini (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According to a press statement by the Prime Minister of Eswatini on
-October 16, 2021, schools are closed indefinitely due to civil unrest.
-<https://web.archive.org/web/20211016162235/http://www.gov.sz/images/CORONA/PM-Statement-16-October-2021.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Gambia (GRI: 37 ↓ 33)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> cancellation of public events; across <b>all</b> of
-Gambia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Gambia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-<http://web.archive.org/web/20211025234557/https://blog.wego.com/gambia-travel-restrictions-and-quarantine-requirements/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Greece (GRI: 76 ↓ 72)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Greece (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Greece
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-no policy change Effective Sept. 13, all unvaccinated workers both in
-the public and private sectors will need to take a COVID-19 test once a
-week at their own expense. Those employed in industries that involve
-direct contact with large numbers of people, such as tourism and
-catering, will need to take two COVID-19 rapid tests a week. Workers
-will need to upload their test results to the relevant government
-website and carry printed proof of a negative test to be allowed
-admission to their workplaces. Persons who test positive will receive
-further instructions on additional testing and self-isolation. The new
-regulation will also allow employers to demand proof of vaccination from
-employees who work in close proximity to other staff. Authorities have
-indicated that the cost of rapid tests will be set at EUR 10.
-/web/20210919211330/<https://www.garda.com/crisis24/news-alerts/517001/greece-authorities-plan-to-tighten-domestic-covid-19-restrictions-starting-sept-13-update-71>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Greece (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Greece (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-no policy change Are there restrictions on intercity or interstate
-travel? No As of May 14, 2021, Greek authorities lifted prior
-restrictions on travel between regions in Greece. Individuals traveling
-by land in continental Greece are strongly recommended to self-test
-before departure, but are not required to do so. All passengers
-traveling to Greek islands by air or ferry must provide the following
-documents, depending on their age group, as described on the
-GreeceHealthFirst.gr website: Adults (18 and over) Proof of full
-vaccination at least 14 days prior to travel; or A negative PCR test no
-older than 72 hours; or A negative antigen (rapid) test no older than 48
-hours; or Documentation by a health care professional of recovery from
-COVID-19 within the previous 2-9 months. Minors (aged 12 to 17): Any of
-the documents listed above for adults; or A self-test taken no more than
-24 hours before boarding. Self-test results must be reported either
-electronically via the <https://self-testing.gov.gr/> website or by
-printing and filling out the Self-Test Declaration form. Children under
-the age of 12 are not required to provide COVID-19 documentation for
-travel within Greece. Passengers traveling to Greek islands must fill in
-the Pre-boarding Health Declaration questionnaire (on their cell
-phone/tablet or on paper) within 24 hrs before their embarkation.
-<https://web.archive.org/web/20210911002130/https://gr.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Guinea (GRI: 53 ↑ 63)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Guinea
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Guinea (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Most workplaces have reopened. However, there is a nightly curfew from
-midnight to 4 a.m. for the greater Conakry area. Visits to bars and
-restaurants are permitted subject to the distance and hygiene
-regulations; night clubs must remain closed.
-<https://web.archive.org/web/20211024185029/https://gn.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Guinea
-(2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Guinea
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The government has mandated a curfew starting between 12 midnight to 4am
-<https://web.archive.org/web/20211024202014/https://www.auswaertiges-amt.de/de/aussenpolitik/laender/guinea-node/guineasicherheit/206098>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No income support</b> is present across all of Guinea (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>all
-workers</b> in Guinea (1A)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-no policy change
-<https://web.archive.org/web/20211024204150/https://anss-guinee.org/Welcome/document/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No debt relief</b> is present across all of Guinea (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Guinea (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-no policy change
-<https://web.archive.org/web/20211024204150/https://anss-guinee.org/Welcome/document/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Guinea (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials <b>urge caution</b> about COVID-19 in; across
-<b>all</b> of Guinea (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Information and policy documents are accessible on the government’s
-ministry of health website.
-<https://web.archive.org/web/20211024204150/https://anss-guinee.org/Welcome/document/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Vaccination policy (H7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Available to <b>ALL</b> key group (key workers, elderly, clinically
-vulnerable); at no / minimal cost to the individual (government funded
-or subsidised) Guinea (3S)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Universal</b> availability; at no / minimal cost to the individual
-(government funded or subsidised) Guinea (5S)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccines are widely available and free and government is actively
-campaigning to having citizens go out and get vaccinated
-<https://archive.ph/hln5i>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Guinea (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Guinea (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No Policy measure
-<https://web.archive.org/web/20211024204150/https://anss-guinee.org/Welcome/document/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### India (GRI: 59 ↓ 57)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of India (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; in <b>some</b> parts of India
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-There is very little information about workplace closures in India. The
-latest information is about movie theatres in Maharashtra reopening to
-50% capacity. Coding based on reduced capacity requirements.
-<https://archive.vn/ijFGZ>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Iran (GRI: 68 ↓ 63)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Iran (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Iran (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of October,24, 2021, the schools were opened in all Iran. Source:
-UNICEF Global Monitoring of School Closure dataset Archived link:
-<https://web.archive.org/web/20211022210544/https://en.unesco.org/covid19/educationresponse>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Ireland (GRI: 65 ↓ 64)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Ireland (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Ireland (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From 22 October 2021, further restrictions will be lifted, including
-limits on numbers attending: - Weddings - Organised indoor and outdoor
-group events - Religious or civil ceremonies - Nightclubs and other
-hospitality can fully reopen with some restrictions in place.
-<https://web.archive.org/web/20211024162025/https://www.citizensinformation.ie/en/health/covid19/public_health_measures_for_covid19.html>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Italy (GRI: 76 ↓ 75)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Italy (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-15/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Italy (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-starting October 15th green passes are mandatory to all workers needing
-to enter their workplace, hence all workplaces are virtually closed for
-those who don’t have a green pass.
-<https://web.archive.org/web/20211015175921/https://tg24.sky.it/cronaca/2021/10/15/green-pass-covid-oggi-15-ottobre-diretta>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Italy
-(2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; across <b>all</b> of Italy (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-from Oct 19th no local red or orange zones have been established In
-white zones there is no curfew but the recommendation is still to keep
-distancing and as such there is an encouragement to stay at home when
-possible
-<https://web.archive.org/web/20211022173829/https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioComunicatiNuovoCoronavirus.jsp?lingua=italiano&id=5837>
-<https://web.archive.org/web/20211021104610/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Italy (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Italy (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-from Oct 19th no local red or orange zones have been established
-Internal movement is possible across white zones without restrictions
-but the is a recommendation to limit movement
-<https://web.archive.org/web/20211022173829/https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioComunicatiNuovoCoronavirus.jsp?lingua=italiano&id=5837>
-<https://web.archive.org/web/20211021104610/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843>
+Private gatherings indoors are prohibited, except weddings and funeral
+receptions, where a Covid safe ticket is required when there are more
+than 50 people indoors and 100 people outdoors. Archived:
+<https://web.archive.org/web/20211127094244/https://www.info-coronavirus.be/en/news/occ-2611/>
 
 </td>
 
@@ -2602,76 +788,16 @@ but the is a recommendation to limit movement
 <td style="text-align:left;min-width: 2in; ">
 
 <b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; in <b>some</b> parts of Italy (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
 
 <b>Required</b> wearing of face masks in <b>specific shared spaces</b>
 outside the home when other people are present; across <b>all</b> of
-Italy (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-from Oct 19th no local red or orange zones have been established In
-white zones masks are required in all closed spaces and whenever
-distancing is not possible
-<https://web.archive.org/web/20211022053110/https://www.governo.it/it/articolo/domande-frequenti-sulle-misure-adottate-dal-governo/15638>
-<https://web.archive.org/web/20211021104610/https://www.qualitytravel.it/colori-regioni-covid-19-le-nuove-zone-rosse-arancioni-gialle-e-bianche-dal-22-marzo/92843>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Kenya (GRI: 54 ↓ 53)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Kenya (2T)
+Belgium (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-20/10/2021  
+17/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -2679,312 +805,31 @@ distancing is not possible
 <td style="text-align:left;min-width: 2in; ">
 
 <b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Kenya (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Some sectors like bars and pubs are closed at a specific time.
-<https://web.archive.org/web/20211025195311/https://www.president.go.ke/2021/10/20/president-kenyatta-lifts-covid-19-curfew-as-he-leads-nation-in-celebrating-mashujaa-day/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Kenya (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-20/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Kenya (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Accordingly, the number of persons gathering for in-person worship, is
-reviewed upwards from one-third of the congregants to two-thirds
-provided that they adhere to all health protocols as directed by the
-Government.
-<https://web.archive.org/web/20211025195311/https://www.president.go.ke/2021/10/20/president-kenyatta-lifts-covid-19-curfew-as-he-leads-nation-in-celebrating-mashujaa-day/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Kiribati (GRI: 33 ↓ 24)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Kiribati (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kiribati (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Curfew Order introduced in July 2021, which refers to restrictions
-on gatherings, continues to be listed under official Government pages
-with no further update (
-<http://archive.today/2021.09.30-061704/https://www.president.gov.ki/resources/gazettes-instruments.html>
-), however there are no recent references to this curfew order or
-restrictions on gatherings in official facebook pages. Photographs of
-gatherings from Facebook pages do not suggest that this order is current
-and the Police department page
-(<https://www.facebook.com/kiribatipolice>) makes no reference to
-infringement or enforcement of this order.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Kiribati (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-26/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Kiribati (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-The Curfew Order introduced in July 2021 continues to be listed under
-official Government pages
-(<http://archive.today/2021.09.30-061704/https://www.president.gov.ki/resources/gazettes-instruments.html>),
-however there are no recent references to the curfew on official
-facebook pages and the US Embassy in Fiji (see drop down for Kiribati on
-<http://archive.today/2021.09.30-061132/https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/>)
-reports there is no curfew in place ("“Is a curfew in place? No”").
-Although references were made to the curfew order on the police facebook
-page on 28th July and 2nd August 2021, no further references have been
-identified since then. It is therefore unclear whether the curfew
-remains in place.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Kuwait (GRI: 51 ↑ 58)
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Kuwait (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; across <b>all</b> of
-Kuwait (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Vaccinated people are allowed to enter all places, but unvaccinated
-people can only enter pharmacies, supermarkets, medical centers, and
-hospitals. Archived: <https://archive.vn/qYTrO>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
 
 <b>Required</b> wearing of face masks in <b>all shared spaces</b>
 outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Kuwait (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; in <b>some</b> parts of Kuwait (4T)
+distancing not possible; across <b>all</b> of Belgium (3G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-The wearing of masks will no longer be mandatory while outside for
-vaccinated people. However, they will remain compulsory inside public
-spaces, such as malls or restaurants. Archived:
-<https://archive.vn/xp9TQ>
+The use of the facemask is now compulsory for all children above the age
+of 10, however, for education, communities decide whether or not to
+introduce compulsory masks for children under 12. The use of the
+facemask is now required in the following circumstances: The
+Consultative Committee decided to generalise the wearing of masks, which
+will now be compulsory in the following situations: in enclosed areas of
+public transport and organised collective transport; for medical and
+non-medical professions; in health care institutions; in establishments
+and places where catering activities are organised; in the context of
+events, both indoors and outdoors and regardless of the size of the
+event; in shops and shopping centres; in publicly accessible areas of
+companies, public administrations, etc; in public buildings and courts;
+in libraries, toy libraries and media libraries; in publicly accessible
+areas of establishments in the cultural, festive, sports, recreational
+and event sectors; in fitness centres; in places of worship. Archived:
+<https://web.archive.org/web/20211127092653/https://www.commissioner.brussels/en/updates-covid-19/item/888-covid-updates-17-11>
 
 </td>
 
@@ -2998,9 +843,11 @@ spaces, such as malls or restaurants. Archived:
 
 </div>
 
-### Latvia (GRI: 45 ↑ 58)
+### Benin (GRI: 60 ↓ 54)
 
-#### School closing (C1)
+### Bolivia (GRI: 46 ↑ 47)
+
+#### Close public transport (C5)
 
 <div id="table-div">
 
@@ -3016,183 +863,13 @@ spaces, such as malls or restaurants. Archived:
 
 <b>Old policy:</b>
 
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Latvia (1G)
+<b>No measures</b> are present across all of Bolivia (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Latvia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-As of October 21 Latvia started the period of strengthened security
-measures. Pupils’ holidays has been extended until 29 October 2021. -
-From 1 November 2021, 1st to 3rd grade pupils will study in person,
-strictly observing the general safety measures. - From 1 November 2021,
-4th to 12th grade pupils will study remotely. - From 15 November 2021,
-the learning process for pupils of all grades will be able to take place
-in person. Kindergartens operate strictly subject to epidemiological
-safety requirements.
-<https://web.archive.org/web/20211025052446/https://covid19.gov.lv/en/support-society/how-behave-safely/covid-19-control-measures>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Latvia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Latvia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Only essential trade and services are allowed to operate during lockdown
-period. Work must take place remotely. - Vaccinated\* or those who have
-started vaccination can work on-site with a negative Covid-19 test if
-they are employed in industries of very high importance to the society
-or if the nature of work does not permit working remotely. - Vaccinated
-on-site workers can be tested regularly by the employer. - Every day
-on-site workers submit self-certification that there has been no
-known/deliberate contact with the infected person and they do not have
-symptoms of respiratory infectious diseases. There is an obligation for
-people who are work in public sectors to get vaccinated otherwise they
-might be suspended from work.
-<https://web.archive.org/web/20211025052446/https://covid19.gov.lv/en/support-society/how-behave-safely/covid-19-control-measures>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Latvia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Latvia (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-  - Representatives of two households may meet to: - provide care for a
-    person; - provide support to a single person (living alone in a
-    household); - parents whose minor children live in another household
-    can meet with the children (unless isolation, home quarantine,
-    self-isolation is required). Exemptions on number of people allowed
-    for certain ceremonies like baptism, marriage, funerals, etc.
-    <https://web.archive.org/web/20211025052446/https://covid19.gov.lv/en/support-society/how-behave-safely/covid-19-control-measures>
-    </td>
-    </tr>
-    </tbody>
-    </table>
-    </div>
-    </div>
-    #### Close public transport (C5)
-    <div id="table-div">
-    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-    <table class="table" style="margin-left: auto; margin-right: auto;">
-    <tbody>
-    <tr>
-    <td style="text-align:left;min-width: 2in; ">
-    <b>Old policy:</b>
-
-<b>No measures</b> are present across all of Latvia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-21/10/2021  
+22/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -3202,19 +879,15 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); across
 <b>New policy:</b>
 
 <b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Latvia (1G)
+of public transport; across <b>all</b> of Bolivia (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Municipality and public transport service providers receiving grants
-from municipalities do not apply fare reductions. Urban and suburban
-public transport operates without exceeding 50% of its capacity. The
-capacity of regional and interurban public transport is up to 80% (85%
-if it is required to pick up passengers at stops outside the regional
-importance routes).
-<https://web.archive.org/web/20211025052446/https://covid19.gov.lv/en/support-society/how-behave-safely/covid-19-control-measures>
+Social distancing and the use of masks are still mandatory in public
+vehicle places.
+<https://web.archive.org/web/20211130073856/https://bo.usembassy.gov/es/covid-19-information-es/>
 
 </td>
 
@@ -3244,13 +917,70 @@ importance routes).
 
 <b>Old policy:</b>
 
-<b>No measures</b> are present across all of Latvia (0)
+<b>Recommend</b> not leaving the house; in <b>some</b> parts of Bolivia
+(1T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-21/10/2021  
+22/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Bolivia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+There are no movement restrictions, however, municipalities have the
+authority to impose movement restrictions when deemed necessary to
+mitigate the transmission of COVID-19.
+<https://web.archive.org/web/20211130073856/https://bo.usembassy.gov/es/covid-19-information-es/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Vaccination policy (H7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Available to ALL key group (key workers, elderly, clinically vulnerable)
+plus additional availability to wider population; at no / minimal cost
+to the individual (government funded or subsidised) Bolivia (4S)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -3259,248 +989,18 @@ importance routes).
 
 <b>New policy:</b>
 
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Latvia
-(2G)
+<b>Universal</b> availability; at no / minimal cost to the individual
+(government funded or subsidised) Bolivia (5S)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Every resident must stay at his/her place of residence from 20:00 to
-5:00 in the period from 21 October to 14 November.
-<https://web.archive.org/web/20211025052446/https://covid19.gov.lv/en/support-society/how-behave-safely/covid-19-control-measures>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Liberia (GRI: 45 ↑ 47)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Liberia
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Liberia (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-According the national covid 19 guidelines released on August 23rd, in
-addition to adhering to covid 19 preventive measures offices and
-businesses are required to reduce their onsite staff by 20%.
-<http://web.archive.org/web/20210907152229/http://moh.gov.lr/wp-content/uploads/COVID-19-PROTOCOL-AUGUST-23-2021.pdf>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Madagascar (GRI: 48 ↓ 34)
-
-#### Cancel public events (C3)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> cancellation of public events; across <b>all</b> of
-Madagascar (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Madagascar (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-• Outdoor events and sports competitions are permitted.
-<https://web.archive.org/web/20211025175227/https://www.garda.com/crisis24/news-alerts/535551/madagascar-authorities-to-gradually-ease-international-covid-19-restrictions-from-oct-23-update-35>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of
-Madagascar (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Madagascar (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-• The curfew has been lifted
-<https://web.archive.org/web/20211025175227/https://www.garda.com/crisis24/news-alerts/535551/madagascar-authorities-to-gradually-ease-international-covid-19-restrictions-from-oct-23-update-35>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Border closure</b> (ban on all regions) in Madagascar (4)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-19/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Madagascar (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-• As of October 23, regional flights from the islands of Mauritius and
-Reunion will be authorized. Long-haul flights from Europe to
-Antananarivo, as well as charter flights from Milan and Rome, Italy, to
-Nosy Be island, will resume from November 6. • Travelers who enter the
-country will need to provide proof of a negative COVID-19 test taken no
-more than 72 hours before arrival. • All passengers entering the country
-will be subject to a COVID-19 test, for which the cost will be included
-in the flight ticket price. • Travelers will be subject to a quarantine
-period of up to two days until a negative test result has been received.
-In case of a positive result, travelers will have to quarantine for 14
-days. • Sea borders remain closed as of Oct. 18. • Cargo transport is
-ongoing.
-<https://web.archive.org/web/20211025175227/https://www.garda.com/crisis24/news-alerts/535551/madagascar-authorities-to-gradually-ease-international-covid-19-restrictions-from-oct-23-update-35>
+Vaccines: Sinopharm, Sputnik V, AstraZeneca, Pfizer, and Janssen From
+November 29 until December 31, the third dose of Covid-19 vaccines will
+be applied in Bolivia to people inoculated between February and July,
+according to the Bolivian Minister of Health, Jayson Auza
+<https://archive.fo/xlyzj>
 
 </td>
 
@@ -3530,14 +1030,15 @@ ongoing.
 
 <b>Old policy:</b>
 
-<b>Narrow restrictions</b> for protecting elderly people; in <b>some</b>
-parts of Madagascar (2T)
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Bolivia (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/10/2021  
+22/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -3546,14 +1047,14 @@ parts of Madagascar (2T)
 
 <b>New policy:</b>
 
-<b>No measures</b> are present across all of Madagascar (0)
+<b>No measures</b> are present across all of Bolivia (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-• The curfew has been lifted.
-<https://web.archive.org/web/20211025175227/https://www.garda.com/crisis24/news-alerts/535551/madagascar-authorities-to-gradually-ease-international-covid-19-restrictions-from-oct-23-update-35>
+No measures
+<https://web.archive.org/web/20211130073856/https://bo.usembassy.gov/es/covid-19-information-es/>
 
 </td>
 
@@ -3567,9 +1068,9 @@ parts of Madagascar (2T)
 
 </div>
 
-### Mauritius (GRI: 60 ↓ 56)
+### Bosnia and Herzegovina (GRI: 42 ↑ 46)
 
-#### School closing (C1)
+#### Stay at home requirements (C6)
 
 <div id="table-div">
 
@@ -3585,67 +1086,13 @@ parts of Madagascar (2T)
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> levels of schools; across
-<b>all</b> of Mauritius (2G)
+<b>No measures</b> are present across all of Bosnia and Herzegovina (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-16/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Mauritius (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Archived: <https://archive.vn/IYgVC>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Monaco (GRI: 49 ↑ 50)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Monaco (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/10/2021  
+21/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -3654,14 +1101,16 @@ Archived: <https://archive.vn/IYgVC>
 
 <b>New policy:</b>
 
-<b>Recommended closure</b> of schools or open with significant
-operational differences; across <b>all</b> of Monaco (1G)
+<b>Recommend</b> not leaving the house; across <b>all</b> of Bosnia and
+Herzegovina (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No changes. <https://archive.vn/eN0I7>
+No change from previous policy - there is no curfew in place
+<https://web.archive.org/web/20211129233047/https://www.garda.com/crisis24/news-alerts/549896/bosnia-and-herzegovina-authorities-maintaining-covid-19-related-restrictions-nationwide-as-of-nov-26-update-34>
+<https://web.archive.org/web/20211129230641/https://ba.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -3675,7 +1124,7 @@ No changes. <https://archive.vn/eN0I7>
 
 </div>
 
-#### Restrictions on gatherings (C4)
+#### Restrictions on internal movement (C7)
 
 <div id="table-div">
 
@@ -3691,14 +1140,68 @@ No changes. <https://archive.vn/eN0I7>
 
 <b>Old policy:</b>
 
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Monaco (4G)
+<b>No measures</b> are present across all of Bosnia and Herzegovina (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/10/2021  
+21/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Bosnia and Herzegovina (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No change from previous policy - there are no restrictions on intercity
+travel
+<https://web.archive.org/web/20211129230641/https://ba.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Testing policy (H2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Anyone</b> can be tested (open testing) is present; NA Bosnia and
+Herzegovina (3)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -3707,23 +1210,301 @@ Restrictions on <b>small</b> gatherings (10 people or fewer); across
 
 <b>New policy:</b>
 
-<b>No measures</b> are present across all of Monaco (0)
+Anyone <b>symptomatic</b> can be tested; NA Bosnia and Herzegovina (2)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-It is no longer limited to 10 people. However, it is strongly
-recommended to observe the barrier gestures. Gatherings of more than
-1,000 people may be authorised in the context of the organisation of a
-demonstration or a special event, after analysis of the risk factors
-with regard, in particular, to the general health situation and the
-measures implemented by the organiser to guarantee compliance with the
-measures to combat the COVID-19 epidemic. The corresponding application
-for authorisation must be submitted prior to the event to the relevant
-government departments, accompanied by a complete file including, in
-particular, the protocol of the planned health measures.
-<https://archive.vn/FmWgM>
+No change to previous policy
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Bulgaria (GRI: 61 ↓ 59)
+
+### Chile (GRI: 42 ↓ 36)
+
+### Croatia (GRI: 52 ↑ 53)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Croatia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Croatia (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Decision on the security measure of a temporary ban on entry into the
+Republic of Croatia for persons coming from the Republic of South
+Africa, Botswana, the Kingdom of Eswatini, Lesotho, Namibia, Zimbabwe
+and Hong Kong (26 November 2021)
+<https://web.archive.org/web/20211129195804/https://www.koronavirus.hr/odluke-stozera-civilne-zastite-za-sprjecavanje-%C5%A1irenja-zaraze-novim-koronavirusom/323>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Croatia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> wearing of face masks; across <b>all</b> of Croatia
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Masks Wearing protective masks is mandatory?in all closed spaces
+throughout?the country. Masks are also mandatory in open spaces where a
+physical distance of at least 1.5 meters cannot be maintained.
+<https://web.archive.org/web/20211122084519/https://hr.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Finland (GRI: 50 ↑ 53)
+
+#### Facial Coverings (H6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended</b> wearing of face masks; across <b>all</b> of Finland
+(1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Required</b> wearing of face masks in <b>all shared spaces</b>
+outside the home when other people are present <b>or</b> when social
+distancing not possible; across <b>all</b> of Finland (3G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Georgia (GRI: 47 ↑ 49)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into Georgia (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Georgia
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+As of 28 November 2021, Georgian and foreign citizens travelling from
+eight countries, including South Africa, Botswana, Zimbabwe, Namibia,
+Lesotho, Eswatini (Swaziland), Mozambique and Malawi, will need to
+quarantine for 14 days following the emergence of Covid-19 variant in
+South Africa.
+<http://web.archive.org/web/20211128195455/https://agenda.ge/en/news/2021/3750>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Germany (GRI: 57 ↑ 74)
+
+#### Workplace closing (C2)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; in
+<b>some</b> parts of Germany (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Germany (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+3G rule implemented for workplaces; hospital staff now needs to be
+vaccinated:
+<https://web.archive.org/web/20211121163624/https://www.tagesschau.de/inland/gesellschaft/3g-bus-bahn-corona-101.html>
 
 </td>
 
@@ -3753,13 +1534,13 @@ particular, the protocol of the planned health measures.
 
 <b>Old policy:</b>
 
-<b>No measures</b> are present across all of Monaco (0)
+<b>No measures</b> are present across all of Germany (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/10/2021  
+24/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -3768,14 +1549,15 @@ particular, the protocol of the planned health measures.
 
 <b>New policy:</b>
 
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; across <b>all</b> of Monaco (1G)
+<b>Require closure</b> (or significant reduction in volume/routes) of
+public transport; across <b>all</b> of Germany (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No changes. <https://archive.vn/fupJg>
+3G rule has been implemented in German national trains:
+<https://web.archive.org/web/20211121163624/https://www.tagesschau.de/inland/gesellschaft/3g-bus-bahn-corona-101.html>
 
 </td>
 
@@ -3789,7 +1571,7 @@ No changes. <https://archive.vn/fupJg>
 
 </div>
 
-#### Income support (E1)
+#### Stay at home requirements (C6)
 
 <div id="table-div">
 
@@ -3805,14 +1587,13 @@ No changes. <https://archive.vn/fupJg>
 
 <b>Old policy:</b>
 
-Government is replacing <b>more than 50% income</b>; for <b>formal
-workers only</b> in Monaco (2F)
+<b>No measures</b> are present across all of Germany (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/10/2021  
+19/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -3821,14 +1602,16 @@ workers only</b> in Monaco (2F)
 
 <b>New policy:</b>
 
-Government is replacing <b>more than 50% income</b>; for <b>all
-workers</b> in Monaco (2A)
+<b>Recommend</b> not leaving the house; across <b>all</b> of Germany
+(1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No changes. <https://archive.vn/74IL1>
+Recommendations have been put out to reduce contacts and stay at home if
+possible:
+<https://web.archive.org/web/20211119201632/https://www.tagesschau.de/inland/corona-lage-spahn-wieler-101.html>
 
 </td>
 
@@ -3842,9 +1625,7 @@ No changes. <https://archive.vn/74IL1>
 
 </div>
 
-### Nepal (GRI: 49 ↑ 55)
-
-#### Cancel public events (C3)
+#### Restrictions on internal movement (C7)
 
 <div id="table-div">
 
@@ -3860,15 +1641,14 @@ No changes. <https://archive.vn/74IL1>
 
 <b>Old policy:</b>
 
-<b>Require</b> cancellation of public events; across <b>all</b> of Nepal
-(2G)
+<b>No measures</b> are present across all of Germany (0)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/10/2021  
-<img src="../images/down-arrow.png">
+19/11/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -3876,18 +1656,52 @@ No changes. <https://archive.vn/74IL1>
 
 <b>New policy:</b>
 
-<b>Require</b> cancellation of public events; in <b>some</b> parts of
-Nepal (2T)
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Germany (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-All persons within Nepal are subject to current health protocols,
-including restrictions on large gatherings. Violations of local orders
-may result in penalties. Additional restrictions remain possible in many
-locations. Please see below the US embassy link
-<https://web.archive.org/web/20211018150946/https://np.usembassy.gov/covid-19-information/>
+Recommendations have been put out to reduce contacts and stay at home if
+possible:
+<https://web.archive.org/web/20211119201632/https://www.tagesschau.de/inland/corona-lage-spahn-wieler-101.html>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Germany (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Germany (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+3G rule has been implemented in German national trains:
+<https://web.archive.org/web/20211121163624/https://www.tagesschau.de/inland/gesellschaft/3g-bus-bahn-corona-101.html>
 
 </td>
 
@@ -3901,7 +1715,7 @@ locations. Please see below the US embassy link
 
 </div>
 
-#### Contact tracing (H3)
+#### International travel controls (C8)
 
 <div id="table-div">
 
@@ -3917,13 +1731,14 @@ locations. Please see below the US embassy link
 
 <b>Old policy:</b>
 
-<b>No contact tracing</b> is present across all of Nepal (0)
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Germany
+(2)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/10/2021  
+26/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -3932,16 +1747,14 @@ locations. Please see below the US embassy link
 
 <b>New policy:</b>
 
-<b>Limited</b> contact tracing (not done for all identified cases); NA
-Nepal (1)
+<b>Ban</b> arrivals from <b>some</b> regions coming into Germany (3)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Some difficulties in tracing persist
-<https://web.archive.org/web/20210915133848/https://covid19.mohp.gov.np/>
-<https://web.archive.org/web/20210913223553/https://kathmandupost.com/health/2021/09/10/covid-19-learn-from-the-past-prepare-for-the-worst>
+Germany bans several flights from South Africa:
+<https://web.archive.org/web/20211128210141/https://www.schengenvisainfo.com/news/germany-bans-flights-from-south-africa-again/>
 
 </td>
 
@@ -3955,62 +1768,7 @@ Some difficulties in tracing persist
 
 </div>
 
-### Nicaragua (GRI: 19 ↓ 16)
-
-#### Public information campaigns (H1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-There is <b>no official</b> public information campaign across all of
-Nicaragua (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Public officials <b>urge caution</b> about COVID-19 in; across
-<b>all</b> of Nicaragua (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-No coordinated information campaigns. The health ministry has created a
-24/7 hotline to call regarding COVID-19 in Nicaragua
-<http://web.archive.org/web/20211024201007/https://ni.usembassy.gov/covid-19-information-2-2-2-2/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Greenland (GRI: 43 ↓ 42)
 
 #### Facial Coverings (H6)
 
@@ -4029,15 +1787,15 @@ No coordinated information campaigns. The health ministry has created a
 <b>Old policy:</b>
 
 <b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; across <b>all</b> of
-Nicaragua (2G)
+outside the home when other people are present; in <b>some</b> parts of
+Greenland (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
-<img src="../images/down-arrow.png">
+20/11/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4045,17 +1803,20 @@ Nicaragua (2G)
 
 <b>New policy:</b>
 
-<b>Recommended</b> wearing of face masks; across <b>all</b> of Nicaragua
-(1G)
+<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
+outside the home when other people are present; across <b>all</b> of
+Greenland (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No evidence of a mandatory requirement
-<http://web.archive.org/web/20211024202844/https://nicaraguainvestiga.com/nacion/61877-utiliza-mascarilla-de-tela-estos-son-los-estandares-que-deben-cumplirse-para-su-efectividad/>
-<http://web.archive.org/web/20211024201007/https://ni.usembassy.gov/covid-19-information-2-2-2-2/>
-<http://web.archive.org/web/20211017191728/https://www.paho.org/es/noticias/30-9-2021-nicaragua-recibe-138000-dosis-vacunas-sinopharm>
+In Greenland, you are required to wear a bandage in the following
+situations: For international and domestic flights (bandages are carried
+to the quarantine site / final destination) for everyone 12 years and
+older. If you are infected or at risk of being infected with COVID-19
+and exceptionally need to move out, e.g. because you need to be tested.
+<https://web.archive.org/web/20211119184045/https://corona.nun.gl/da/forebyggelse/brug-af-mundbind-og-visir/>
 
 </td>
 
@@ -4086,13 +1847,13 @@ No evidence of a mandatory requirement
 <b>Old policy:</b>
 
 <b>Narrow restrictions</b> for protecting elderly people; across
-<b>all</b> of Nicaragua (2G)
+<b>all</b> of Greenland (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
+20/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -4101,14 +1862,18 @@ No evidence of a mandatory requirement
 
 <b>New policy:</b>
 
-<b>No measures</b> are present across all of Nicaragua (0)
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Greenland (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No change in policy
-<http://web.archive.org/web/20211024203253/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+Frontline employees in the health service and the municipality are now
+offered booster vaccination against COVID-19 as well as influenza
+vaccination.
+<https://web.archive.org/web/20211111215954/https://corona.nun.gl/da/arbejdsgiver/vaccination-af-frontlinemedarbejdere-sundheds-social-og-aeldresektoren/>
 
 </td>
 
@@ -4122,9 +1887,9 @@ No change in policy
 
 </div>
 
-### Pakistan (GRI: 51 ↓ 42)
+### Guinea (GRI: 51 ↑ 54)
 
-#### Cancel public events (C3)
+#### Public information campaigns (H1)
 
 <div id="table-div">
 
@@ -4140,15 +1905,15 @@ No change in policy
 
 <b>Old policy:</b>
 
-<b>Recommend</b> cancellation of public events; in <b>some</b> parts of
-Pakistan (1T)
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Guinea (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/10/2021  
-<img src="../images/down-arrow.png">
+23/11/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4156,15 +1921,74 @@ Pakistan (1T)
 
 <b>New policy:</b>
 
-<b>No measures</b> are present across all of Pakistan (0)
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Guinea (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Indoor and outdoor gatherings can involve up to 200 and 400 people,
-respectively. Some public venues, such as cinemas and shrines, and
-dining in at indoor places remain suspended. <https://archive.vn/Z5EXc>
+<http://web.archive.org/web/20211129184958/https://gn.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### India (GRI: 49 ↑ 54)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of India (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Require</b> closure of <b>some</b> levels of schools; in <b>some</b>
+parts of India (2T)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Schools have reopened across all states and most education levels except
+J\&K –
+<https://web.archive.org/web/20211128221821/https://cdn.s3waas.gov.in/s3d34ab169b70c9dcd35e62896010cd9ff/uploads/2021/11/2021112219.pdf>
+Note that Delhi has closed schools again (only recently reopened after
+1.5 years of schools closures due to covid) but this time due to
+pollution.  
+<https://web.archive.org/web/20211128214319/https://indianexpress.com/article/delhi/delhi-school-closure-extended-need-better-solutions-to-tackle-pollution-say-educators-parents-7636184/>
 
 </td>
 
@@ -4195,13 +2019,13 @@ dining in at indoor places remain suspended. <https://archive.vn/Z5EXc>
 <b>Old policy:</b>
 
 Restrictions on <b>large</b> gatherings (between 101-1000 people); in
-<b>some</b> parts of Pakistan (2T)
+<b>some</b> parts of India (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/10/2021  
+22/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -4210,16 +2034,15 @@ Restrictions on <b>large</b> gatherings (between 101-1000 people); in
 
 <b>New policy:</b>
 
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Pakistan (2G)
+Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
+parts of India (3T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Indoor and outdoor gatherings can involve up to 200 and 400 people,
-respectively. Some public venues, such as cinemas and shrines, and
-dining in at indoor places remain suspended. <https://archive.vn/Z5EXc>
+J\&K has put in place restrictions on gathering size (up to 25)
+<https://web.archive.org/web/20211128221821/https://cdn.s3waas.gov.in/s3d34ab169b70c9dcd35e62896010cd9ff/uploads/2021/11/2021112219.pdf>
 
 </td>
 
@@ -4233,7 +2056,9 @@ dining in at indoor places remain suspended. <https://archive.vn/Z5EXc>
 
 </div>
 
-#### Stay at home requirements (C6)
+### Israel (GRI: 64 ↑ 65)
+
+#### Restrictions on gatherings (C4)
 
 <div id="table-div">
 
@@ -4249,15 +2074,15 @@ dining in at indoor places remain suspended. <https://archive.vn/Z5EXc>
 
 <b>Old policy:</b>
 
-<b>Recommend</b> not leaving the house; across <b>all</b> of Pakistan
-(1G)
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Israel (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/10/2021  
-<img src="../images/down-arrow.png">
+29/11/2021  
+<img src="../images/up-arrow.png">
 
 </td>
 
@@ -4265,13 +2090,20 @@ dining in at indoor places remain suspended. <https://archive.vn/Z5EXc>
 
 <b>New policy:</b>
 
-<b>No measures</b> are present across all of Pakistan (0)
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Israel (3G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No requirements in place anymore <https://archive.vn/Z5EXc>
+*Changes to the Green Pass* Effective 29.11.2021, the Green Pass
+guidance will be changed: Green Pass will be required for indoor
+gatherings of more than 50 participants. Sources:
+<https://archive.vn/YXrbS> \[Local Councils Traffic Light Model orange
+locality\]
+<https://web.archive.org/web/20211129232315/https://corona.health.gov.il/en/directives/green-pass-info/>
+\[Green Pass Restrictions\]
 
 </td>
 
@@ -4284,6 +2116,8 @@ No requirements in place anymore <https://archive.vn/Z5EXc>
 </div>
 
 </div>
+
+### Jamaica (GRI: 72 ↑ 74)
 
 #### International travel controls (C8)
 
@@ -4301,150 +2135,14 @@ No requirements in place anymore <https://archive.vn/Z5EXc>
 
 <b>Old policy:</b>
 
-<b>Ban</b> arrivals from <b>some</b> regions coming into Pakistan (3)
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Jamaica
+(2)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-17/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Screening</b> arrivals coming into Pakistan (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Passenger flights remain limited due to low demand and travel
-restrictions by foreign governments on Pakistani citizens and air
-carriers. Cargo, charter, and repatriation flights are operational.
-Travelers arriving by air must submit a negative result from a COVID-19
-test taken within 72 hours before arrival and a health declaration form
-online or via the Pass Track mobile application within 48 hours before
-arrival. Travel from Category C nations, including Costa Rica, Ethiopia,
-Guatemala, Iran, Iraq, Mexico, Mongolia, the Philippines, Slovenia,
-South Africa, Thailand, and Trinidad and Tobago, remains banned with
-limited exceptions. Authorities may revise the category classifications
-at short notice. Passengers must undergo on-arrival rapid antigen
-testing. Symptomatic passengers and those who test positive must
-quarantine at designated sites until an additional test returns a
-negative result. <https://archive.vn/Z5EXc>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Debt/contract relief (E2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is providing <b>broad debt relief</b> across all of; NA
-Pakistan (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is providing <b>narrow debt relief</b> across all of; NA
-Pakistan (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In addition, the FY 2021 budget included further increases in health and
-social spending, tariff and custom duty reductions on food items, an
-allocation for ‘COVID-19 Responsive and Other Natural Calamities Control
-Program’ (PKR 70 billion), a housing package to subsidize mortgages (PKR
-30 billion), as well as the provision of tax incentives to the
-construction sector (retail and cement companies) which got extended in
-the context of the second wave to the end of December 2021. Provincial
-governments also implemented supportive fiscal measures from the onset
-of the shock, including cash grants to low-income households, tax
-relief, and additional health spending (including a salary increase for
-healthcare workers). The government of Punjab implemented a PKR 18
-billion tax relief package and a PKR 10 billion cash grants program. The
-government of Sindh’s measures included cash grant and ration
-distribution program of PKR 1.5 billion for low-income households. The
-FY 2021 provincial budgets also provided tax relaxations and sizeable
-increases in expenditure allocations, especially on health services.
-<https://archive.vn/9zPHk>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Paraguay (GRI: 43 ↑ 45)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Paraguay
-(1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/10/2021  
+28/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -4453,61 +2151,40 @@ with significant operational differences; across <b>all</b> of Paraguay
 
 <b>New policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Paraguay (2G)
+<b>Ban</b> arrivals from <b>some</b> regions coming into Jamaica (3)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-restrictions are in place in terms of opneing hours. businesses can
-operate in well-ventilated environments between the permitted hours,
-with use of facemasks, work in crews to limit contact and promoting the
-sale of products on a delivery and pickup basis restaurants can operate
-within the permitted hours, promoting delivery and pickup services or on
-a reservation and client registration essential businesses such as
-pharmacies, delivery services and call centres can operate on a 24 hour
-basis
-<https://web.archive.org/web/20211022130149/https://www.gov.uk/foreign-travel-advice/paraguay/coronavirus>
+  - Jamaica has, with immediate effect, imposed restrictions on
+    travelers from a number of African countries, following the
+    emergence of the new variant of concern for the SARS-CoV-2,
+    initially identified as B.1.1.529.
+    <https://web.archive.org/web/20211129231346/https://jis.gov.jm/jamaica-imposes-travel-restrictions-on-african-countries/>
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+    </div>
+    ### Kazakhstan (GRI: 65 ↓ 53)
+    #### Testing policy (H2)
+    <div id="table-div">
+    <div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+    <table class="table" style="margin-left: auto; margin-right: auto;">
+    <tbody>
+    <tr>
+    <td style="text-align:left;min-width: 2in; ">
+    <b>Old policy:</b>
 
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Saudi Arabia (GRI: 57 ↓ 55)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; across
-<b>all</b> of Saudi Arabia (2G)
+<b>Anyone</b> can be tested (open testing) is present; NA Kazakhstan (3)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
+21/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -4516,82 +2193,20 @@ basis
 
 <b>New policy:</b>
 
-<b>Recommended closure </b> (or work from home) of businesses or open
-with significant operational differences; across <b>all</b> of Saudi
-Arabia (1G)
+NA; NA Kazakhstan (1)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-"“Beginning October 17, Saudi Arabia has eased several COVID-19
-mitigation measures throughout the country, including: Masks are no
-longer required when outdoors (still required indoors) for fully
-vaccinated persons. Full capacity is allowed in public places,
-restaurants, transportation facilities, wedding halls, and cinemas for
-fully vaccinated persons. Full capacity is allowed in the two Holy
-Mosques for fully vaccinated persons. Social distancing measures are no
-longer required for fully vaccinated persons. Social distancing will
-continue to be enforced in places where health status checks are not
-performed via Tawakkalna.”"
-<https://web.archive.org/web/20211025202659/https://sa.usembassy.gov/u-s-citizen-services/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Saudi Arabia (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
-of Saudi Arabia (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Effective September 1, 2021, only fully vaccinated passengers, with an
-approved COVID-19 vaccine, will be allowed to travel on domestic flights
-in Saudi Arabia. This rule does not apply to children under the age of
-12 years old or individuals who are exempt from COVID-19 vaccination due
-to health reasons documented by the Ministry of Health.
-<https://web.archive.org/web/20211025202659/https://sa.usembassy.gov/u-s-citizen-services/covid-19-information/>
+Quote: "“As advised by local authorities anyone who has symptoms similar
+to COVID-19 should not go to the hospital, instead you should call the
+ambulance 103 or the hospital you’re registered with clearly explaining
+the symptoms. In most parts of the country COVID-19 infected patients
+are not hospitalised unless severe danger to health, but in Almaty
+anyone who tests positive for COVID-19 may be hospitalised”" Archive
+Link:
+<https://web.archive.org/web/20211007032541/https://www.gov.uk/foreign-travel-advice/kazakhstan/coronavirus>
 
 </td>
 
@@ -4621,35 +2236,36 @@ to health reasons documented by the Ministry of Health.
 
 <b>Old policy:</b>
 
+<b>Required</b> wearing of face masks at <b>all times</b> outside the
+home; across <b>all</b> of Kazakhstan (4G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+21/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
 <b>Required</b> wearing of face masks in <b>all shared spaces</b>
 outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Saudi Arabia (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>specific shared spaces</b>
-outside the home when other people are present; in <b>some</b> parts of
-Saudi Arabia (2T)
+distancing not possible; across <b>all</b> of Kazakhstan (3G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Wearing masks is no longer obligatory in open places - except for the
-excluded places - while continuing to be mandatory to be worn in closed
-areas.
-<https://web.archive.org/web/20211022032522/https://www.spa.gov.sa/viewfullstory.php?lang=en&newsid=2295694>
+Quote: "“Masks Required: The Chief Sanitary Doctor of Kazakhstan has
+mandated that masks be worn nationwide in public settings, including
+both indoor and outdoor spaces and on public transportation. Failure to
+comply with this measure could result in administrative penalty.”"
+Archive Link
+<https://web.archive.org/web/20211123093223/https://kz.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -4663,9 +2279,7 @@ areas.
 
 </div>
 
-### Slovak Republic (GRI: 56 ↓ 53)
-
-#### Public information campaigns (H1)
+#### Protection of elderly people (H8)
 
 <div id="table-div">
 
@@ -4681,14 +2295,14 @@ areas.
 
 <b>Old policy:</b>
 
-Public officials have a <b>co-ordinated public information campaign</b>
-about COVID-19; across <b>all</b> of Slovak Republic (2G)
+<b>Extensive restrictions</b> for protection of elderly people; across
+<b>all</b> of Kazakhstan (3G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-19/10/2021  
+21/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -4697,15 +2311,14 @@ about COVID-19; across <b>all</b> of Slovak Republic (2G)
 
 <b>New policy:</b>
 
-Public officials <b>urge caution</b> about COVID-19 in; across
-<b>all</b> of Slovak Republic (1G)
+<b>No measures</b> are present across all of Kazakhstan (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No policy change
-<https://web.archive.org/web/20210903162104/https://www.uvzsr.sk/en/docs/covid19/Mask_mandate_01102021.pdf>
+No restrictions for elderly as per new update Archive Link
+<https://web.archive.org/web/20211130043613/https://www.garda.com/crisis24/news-alerts/547011/kazakhstan-authorities-update-list-of-regions-according-to-covid-19-risk-as-of-nov-19-update-49>
 
 </td>
 
@@ -4719,66 +2332,7 @@ No policy change
 
 </div>
 
-### Syria (GRI: 40 ↑ 45)
-
-#### School closing (C1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; in <b>some</b>
-parts of Syria (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> levels of schools; across
-<b>all</b> of Syria (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Authorities in the Autonomous Administration of North and East Syria
-plan to impose a complete curfew in the Euphrates Region Oct. 16-25 to
-curb the spread of COVID-19. All shops, offices, schools, and places of
-worship must close during this period. In the rest of the country,
-Syrian authorities are maintaining precautionary measures to curb the
-spread of COVID-19. Educational institutions remain closed.
-<https://archive.fo/lnu8V>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
+### Liberia (GRI: 49 ↓ 45)
 
 #### Workplace closing (C2)
 
@@ -4796,134 +2350,14 @@ spread of COVID-19. Educational institutions remain closed.
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Syria (2T)
+<b>Require</b> closure of <b>some</b> sectors of business; across
+<b>all</b> of Liberia (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-16/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Syria (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Authorities in the Autonomous Administration of North and East Syria
-plan to impose a complete curfew in the Euphrates Region Oct. 16-25 to
-curb the spread of COVID-19. All shops, offices, schools, and places of
-worship must close during this period. Hospitals, pharmacies, bakeries,
-and fuel stations, however, are exempt from the restrictions
-<https://archive.fo/lnu8V>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> not leaving the house; in <b>some</b> parts of Syria
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-16/10/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Syria
-(2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Authorities in the Autonomous Administration of North and East Syria
-plan to impose a complete curfew in the Euphrates Region Oct. 16-25 to
-curb the spread of COVID-19. All shops, offices, schools, and places of
-worship must close during this period. Hospitals, pharmacies, bakeries,
-and fuel stations, however, are exempt from the restrictions.
-<https://archive.fo/lnu8V>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### United States Virgin Islands (GRI: 62 ↓ 60)
-
-#### Stay at home requirements (C6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of United
-States Virgin Islands (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-17/10/2021  
+23/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -4932,15 +2366,18 @@ States Virgin Islands (2G)
 
 <b>New policy:</b>
 
-<b>Recommend</b> not leaving the house; across <b>all</b> of United
-States Virgin Islands (1G)
+<b>Recommended closure </b> (or work from home) of businesses or open
+with significant operational differences; across <b>all</b> of Liberia
+(1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Under the ‘Safer at Home’ phase, advice is to follow this guideline.
-<https://web.archive.org/web/20211022102039/https://www.vi.gov/covid/phases/>
+According the national covid 19 guidelines released on August 23rd, in
+addition to adhering to covid 19 preventive measures offices and
+businesses are required to reduce their onsite staff by 20%.
+<http://web.archive.org/web/20210907152229/http://moh.gov.lr/wp-content/uploads/COVID-19-PROTOCOL-AUGUST-23-2021.pdf>
 
 </td>
 
@@ -4954,9 +2391,7 @@ Under the ‘Safer at Home’ phase, advice is to follow this guideline.
 
 </div>
 
-### Venezuela (GRI: 75 ↑ 78)
-
-#### Workplace closing (C2)
+#### International travel controls (C8)
 
 <div id="table-div">
 
@@ -4972,15 +2407,15 @@ Under the ‘Safer at Home’ phase, advice is to follow this guideline.
 
 <b>Old policy:</b>
 
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Venezuela (3T)
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Liberia
+(2)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
-<img src="../images/up-arrow.png">
+23/11/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -4988,16 +2423,34 @@ parts of Venezuela (3T)
 
 <b>New policy:</b>
 
-<b>Require</b> closure of <b>all</b> sectors of business; across
-<b>all</b> of Venezuela (3G)
+<b>Screening</b> arrivals coming into Liberia (1)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-While cases are increasing in Caracas, the government is still
-maintaining its 7+7plus schema:
-<https://web.archive.org/web/20210924093824/https://www.efe.com/efe/america/sociedad/maduro-alerta-del-incremento-de-contagios-la-covid-19-en-gran-caracas/20000013-4636952>
+Entry and Exit Requirements Are U.S. citizens permitted to enter? Yes Is
+a negative COVID-19 test (PCR and/or serology) required for entry? Yes
+All incoming travelers must present a negative PCR COVID-19 test result
+upon arrival at the airport in Liberia regardless of vaccination status.
+Refer to the Ministry of Health’s COVID-19 Airport Protocol. Travelers
+will be tested for COVID-19 upon arrival at the traveler’s expense.
+Refer to the Ministry of Health’s COVID-19 Airport Protocol. Are health
+screening procedures in place at airports and other ports of entry? Yes
+Travelers will be tested for COVID-19 upon arrival at the traveler’s
+expense. Refer to the Ministry of Health’s COVID-19 Airport Protocol.
+Incoming travelers will have a mandatory temperature check. All
+passengers are required to wear a face mask while at the airport and
+wash their hands. A negative COVID-19 test result is required to exit
+Liberia. Refer to the Ministry of Health’s COVID-19 Airport Protocol. If
+the link to the online certificates does not work, cut and paste it into
+a browser (<https://liberiacovidtravel.org/>). Check with your airline
+for their testing requirements or requirements for your destination.
+Only ticketed passengers will be allowed entry into the airport. All
+passengers should arrive four hours before check-in time. Residents and
+tourists in Liberia should contact the Ministry of Foreign Affairs for
+questions regarding visa extensions.
+<https://web.archive.org/web/20211122170209/https://lr.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -5011,7 +2464,9 @@ maintaining its 7+7plus schema:
 
 </div>
 
-#### Stay at home requirements (C6)
+### Mauritania (GRI: 51 ↓ 43)
+
+#### Cancel public events (C3)
 
 <div id="table-div">
 
@@ -5027,16 +2482,15 @@ maintaining its 7+7plus schema:
 
 <b>Old policy:</b>
 
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
-(2G)
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Mauritania (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
-<img src="../images/up-arrow.png">
+23/11/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -5044,17 +2498,14 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Venezuela
 
 <b>New policy:</b>
 
-<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
-allowed to leave once a week, or only one person can leave at a time,
-etc); across <b>all</b> of Venezuela (3G)
+<b>Recommend</b> cancellation of public events; across <b>all</b> of
+Mauritania (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-While cases are increasing in Caracas, the government is still
-maintaining its 7+7plus schema:
-<https://web.archive.org/web/20210924093824/https://www.efe.com/efe/america/sociedad/maduro-alerta-del-incremento-de-contagios-la-covid-19-en-gran-caracas/20000013-4636952>
+<http://web.archive.org/web/20211129195322/https://mr.usembassy.gov/covid-19-information-2/>
 
 </td>
 
@@ -5067,8 +2518,6 @@ maintaining its 7+7plus schema:
 </div>
 
 </div>
-
-### Vietnam (GRI: 57 ↑ 61)
 
 #### Restrictions on gatherings (C4)
 
@@ -5086,15 +2535,15 @@ maintaining its 7+7plus schema:
 
 <b>Old policy:</b>
 
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Vietnam (3T)
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Mauritania (4G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
-<img src="../images/up-arrow.png">
+23/11/2021  
+<img src="../images/down-arrow.png">
 
 </td>
 
@@ -5102,17 +2551,14 @@ parts of Vietnam (3T)
 
 <b>New policy:</b>
 
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Vietnam (4T)
+Restrictions on <b>medium</b> gatherings (11-100 people); across
+<b>all</b> of Mauritania (3G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-Since October 1, in Ho Chi Minh City, religious ceremonies, indoor
-workshops, and public gatherings of 10-15 participants are allowed (or
-up to 75-100 participants of fully vaccinated. link:
-<https://archive.ph/L521e>
+<http://web.archive.org/web/20211129195322/https://mr.usembassy.gov/covid-19-information-2/>
 
 </td>
 
@@ -5142,14 +2588,14 @@ up to 75-100 participants of fully vaccinated. link:
 
 <b>Old policy:</b>
 
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Vietnam (2T)
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Mauritania (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-13/10/2021  
+23/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -5158,26 +2604,37 @@ public transport; in <b>some</b> parts of Vietnam (2T)
 
 <b>New policy:</b>
 
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Vietnam (1T)
+<b>No measures</b> are present across all of Mauritania (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-"“The Vietnamese government announced that ten domestic air routes would
-resume on October 10. However, domestic flights in Vietnam remain
-severely limited.”" "“Vietnam plans to gradually resume interprovincial
-passenger transportation beginning October 13.”" "“On October 14, Hanoi
-further relaxed social distancing orders. Most businesses are allowed to
-reopen, including restaurants, hotels, malls, supermarkets, and
-barbershops. Public transportation, including buses and taxis, has
-resumed.”" (Hanoi is the capital city which is influenced by covid
-most.) link: <https://archive.ph/L521e>
+<http://web.archive.org/web/20211129195322/https://mr.usembassy.gov/covid-19-information-2/>
 
 </td>
 
 </tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Myanmar (GRI: 70 ↑ 72)
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
 
 <tr>
 
@@ -5185,14 +2642,15 @@ most.) link: <https://archive.ph/L521e>
 
 <b>Old policy:</b>
 
-<b>Recommended closure</b> (or significant reduction in volume/routes)
-of public transport; in <b>some</b> parts of Vietnam (1T)
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; across <b>all</b> of Myanmar
+(2G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
+26/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -5201,14 +2659,18 @@ of public transport; in <b>some</b> parts of Vietnam (1T)
 
 <b>New policy:</b>
 
-<b>Require closure</b> (or significant reduction in volume/routes) of
-public transport; in <b>some</b> parts of Vietnam (2T)
+<b>Require</b> not leaving the house with <b>minimal exceptions</b> (eg
+allowed to leave once a week, or only one person can leave at a time,
+etc); in <b>some</b> parts of Myanmar (3T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-There have been no change in policies. link: <https://archive.ph/L521e>
+Some areas in Myanmar are under a state of martial law, whilst others
+have curfews and ‘Stay at Home’ orders in place. In Yangon the curfew is
+from 10pm to 4am.
+<https://web.archive.org/web/20211129140646/https://www.gov.uk/foreign-travel-advice/myanmar/coronavirus>
 
 </td>
 
@@ -5238,57 +2700,14 @@ There have been no change in policies. link: <https://archive.ph/L521e>
 
 <b>Old policy:</b>
 
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Vietnam (2T)
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Myanmar (1G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-13/10/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Vietnam (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-"“The Vietnamese government announced that ten domestic air routes would
-resume on October 10. However, domestic flights in Vietnam remain
-severely limited.”" "“Vietnam plans to gradually resume interprovincial
-passenger transportation beginning October 13.”" "“On October 14, Hanoi
-further relaxed social distancing orders. Most businesses are allowed to
-reopen, including restaurants, hotels, malls, supermarkets, and
-barbershops. Public transportation, including buses and taxis, has
-resumed.”" (Hanoi is the capital city which is influenced by covid
-most.) link: <https://archive.ph/L521e>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommend</b> to not travel between regions/cities; in <b>some</b>
-parts of Vietnam (1T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-18/10/2021  
+26/11/2021  
 <img src="../images/up-arrow.png">
 
 </td>
@@ -5298,13 +2717,19 @@ parts of Vietnam (1T)
 <b>New policy:</b>
 
 <b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Vietnam (2T)
+of Myanmar (2T)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No change in policies. link: <https://archive.ph/L521e>
+Are there restrictions on intercity or interstate travel? – YES During
+COVID-19 stay-at-home orders in Burma, residents may only leave their
+residence to travel to/from work, to buy groceries, or for medical
+treatment. A mask must be worn at all times when outside the home.
+Authorities set up checkpoints in Rangoon and elsewhere to verify
+travelers are on the road for permitted reasons.
+<https://web.archive.org/web/20211129141507/https://mm.usembassy.gov/covid-19-information/>
 
 </td>
 
@@ -5317,6 +2742,8 @@ No change in policies. link: <https://archive.ph/L521e>
 </div>
 
 </div>
+
+### Nepal (GRI: 63 ↑ 66)
 
 #### Debt/contract relief (E2)
 
@@ -5335,13 +2762,69 @@ No change in policies. link: <https://archive.ph/L521e>
 <b>Old policy:</b>
 
 Government is providing <b>narrow debt relief</b> across all of; NA
-Vietnam (1)
+Nepal (1)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-18/10/2021  
+23/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Government is providing <b>broad debt relief</b> across all of; NA Nepal
+(2)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No further announcements:
+<https://web.archive.org/web/20211122211450/https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Panama (GRI: 62 ↓ 49)
+
+#### Cancel public events (C3)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> cancellation of public events; across <b>all</b> of
+Panama (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/11/2021  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -5350,13 +2833,730 @@ Vietnam (1)
 
 <b>New policy:</b>
 
-<b>No debt relief</b> is present across all of Vietnam (0)
+<b>No measures</b> are present across all of Panama (0)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-No new measures.
+Information is difficult to find. It appears that most public events in
+Panama have now resumed, although restaurants, bars, museums and other
+social events have reduced capacity and requirements differ based on
+vaccination status.
+<https://web.archive.org/web/20211128191419/https://www.gov.uk/foreign-travel-advice/panama/coronavirus>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Stay at home requirements (C6)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Require</b> not leaving the house with exceptions for daily exercise,
+grocery shopping, and ‘essential’ trips; in <b>some</b> parts of Panama
+(2T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Panama (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No curfew is currently in place in Panama.
+<https://web.archive.org/web/20211128183220/https://pa.usembassy.gov/covid-19-information/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Seychelles (GRI: 65 ↓ 61)
+
+#### Restrictions on internal movement (C7)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Internal travel restrictions</b> are in place; across <b>all</b> of
+Seychelles (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommend</b> to not travel between regions/cities; across <b>all</b>
+of Seychelles (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+A nationwide curfew is in place from 11pm to 4am. Travel outside your
+accommodation is not permitted between these times without
+authorisation. However, there are no restrictions on interstate
+movement.
+<https://web.archive.org/web/20211108183916/https://www.gov.uk/foreign-travel-advice/seychelles/coronavirus>
+<https://web.archive.org/web/20211120054553/https://www.nation.sc/articles/11394/covid-19-update>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Slovenia (GRI: 60 ↑ 63)
+
+#### Close public transport (C5)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Slovenia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended closure</b> (or significant reduction in volume/routes)
+of public transport; across <b>all</b> of Slovenia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Transport has a normal timetable and there are no restrictions connected
+with passengers capacity. Although, If a person in transit uses public
+transport (e.g. a bus, train, taxi), they must comply with the
+recovered/vaccinated/tested rule in accordance with the Ordinance on the
+temporary measures for the prevention and control of the infectious
+disease COVID-19. The same rule must also be met by persons using
+domestic public transport. Source: Slovenian’s Ministry of the Interior,
+Police. Link:
+<https://web.archive.org/web/20211129173152/https://www.policija.si/eng/newsroom/news-archive/104670-transit-trough-slovenia-on-way-to-another-country-allowed-within-12-hours-from-entering-clarification>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### Public information campaigns (H1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Slovenia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+18/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Slovenia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The same measures to contain the spred of Covid are operating. Officials
+continue to urge caution in every conference. Source: GOV.SI -Slovenia´s
+official website Link:
+<https://web.archive.org/web/20211121184615/https://www.gov.si/en/news/2021-11-17-bratusa-number-of-first-dose-vaccinations-gradually-increasing/>
+Link:
+<https://web.archive.org/web/20211115113654/https://www.gov.si/en/news/2021-11-11-102nd-regular-session-of-the-government-of-the-republic-of-slovenia/>
+Link:
+<https://web.archive.org/web/20211106204121/https://www.gov.si/en/news/2021-11-06-the-government-adopts-new-measures-to-contain-the-spread-of-covid-19/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Slovenia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Slovenia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+On November 22th, the Goverment alert parents to comply with the
+self-testing measure for their children. Officials said that parents
+should remember that a safe school environment is conditional upon
+compliance with measures to prevent the spread of coronavirus by every
+individual who enters the school premises on a daily basis. Source:
+Slovenian goverment official website Link:
+<https://web.archive.org/web/20211129180143/https://www.gov.si/en/news/2021-11-22-inspector-slokan-it-is-our-responsibility-to-enable-children-to-be-educated-at-school/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+Public officials <b>urge caution</b> about COVID-19 in; across
+<b>all</b> of Slovenia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+25/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+Public officials have a <b>co-ordinated public information campaign</b>
+about COVID-19; across <b>all</b> of Slovenia (2G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+No new measures or public conferences. The same measures are in force.
+Link:
+<https://web.archive.org/web/20211129173539/https://www.gov.si/en/topics/coronavirus-disease-covid-19/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### South Korea (GRI: 56 ↑ 57)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; in <b>some</b> parts of South Korea (1T)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of South Korea (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.md/AGL5H> For the first time since South Korea began
+battling its coronavirus outbreak in early 2020, all schools across the
+country resumed full-time in-person classes on Monday.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into South
+Korea (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+28/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into South Korea (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<https://archive.md/3oyAW> The Korea Disease Control and Prevention
+Agency called an emergency meeting Saturday evening with 13 ministries
+and announced that all foreigners who have been in the newly listed
+African countries will be refused entry to Korea.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Sri Lanka (GRI: 63 ↓ 62)
+
+#### School closing (C1)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Recommended closure</b> of schools or open with significant
+operational differences; across <b>all</b> of Sri Lanka (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+23/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>No measures</b> are present across all of Sri Lanka (0)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+The academic activities of all government and government approved
+private schools in the island for all grades commenced from Monday 22nd
+November 2021. This was the final phase of the four-phase plan to reopen
+schools in Sri Lanka.
+<https://web.archive.org/web/20211119072357/http://www.colombopage.com/archive_21B/Nov17_1637125526CH.php>
+<https://web.archive.org/web/20211129135047/https://economynext.com/sri-lanka-to-open-schools-for-all-grades-as-doctors-warn-of-increasing-screen-addiction-87993/>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into Sri
+Lanka (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+26/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into Sri Lanka (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Travellers with a travel history in the past 14 days to South Africa,
+Botswana, Lesotho, Namibia, Zimbabwe and Eswatini are not permitted to
+enter Sri Lanka due to concerns over the new variant that has been
+detected in South African countries. See link below:
+<https://web.archive.org/web/20211127225021/http://www.health.gov.lk/moh_final/english/public/elfinder/files/library/Travel%20Restriction%20for%20Travellers%20from%20South%20African%20Countries_20211127.pdf>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Timor-Leste (GRI: 54 ↓ 52)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Quarantine</b> arrivals from <b>some</b> regions coming into
+Timor-Leste (2)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+24/11/2021  
+<img src="../images/down-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Screening</b> arrivals coming into Timor-Leste (1)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+At the Council of Ministers meeting on November 24, a decree-law (not
+available) was approved that changes the parameters for entry into the
+country.. See in Government Timor Leste website, archived:
+<http://web.archive.org/web/20211129145035/http://timor-leste.gov.tl/?p=29766>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### Tunisia (GRI: 35 ↑ 37)
+
+#### Protection of elderly people (H8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>No measures</b> are present across all of Tunisia (0)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+22/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Recommended</b> isolation, hygiene, and visitor restriction measures
+in LTCFs and/or elderly people to stay at home; across <b>all</b> of
+Tunisia (1G)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+<http://web.archive.org/web/20211129150234/https://reliefweb.int/report/tunisia/ifrc-inclusive-vaccination-and-protection-measures-urgently-needed-stop-new-pandemic>
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+</div>
+
+### United Arab Emirates (GRI: 50 ↑ 53)
+
+#### International travel controls (C8)
+
+<div id="table-div">
+
+<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
+
+<table class="table" style="margin-left: auto; margin-right: auto;">
+
+<tbody>
+
+<tr>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>Old policy:</b>
+
+<b>Screening</b> arrivals coming into United Arab Emirates (1)
+
+</td>
+
+<td style="text-align:left;min-width: 1in; color: grey80 !important;">
+
+29/11/2021  
+<img src="../images/up-arrow.png">
+
+</td>
+
+<td style="text-align:left;min-width: 2in; ">
+
+<b>New policy:</b>
+
+<b>Ban</b> arrivals from <b>some</b> regions coming into United Arab
+Emirates (3)
+
+</td>
+
+<td style="text-align:left;min-width: 4in; ">
+
+Effective Nov. 29 authorities will suspend entry into the UAE for all
+travelers and transit passengers from South Africa, Namibia, Lesotho,
+Eswatini, Zimbabwe, Botswana, and Mozambique. All travelers who have
+been in these countries within the previous 14 days prior to planned
+arrival into the UAE will be barred from entry. Exceptions to this order
+include UAE citizens, diplomatic missions, official delegations, and
+golden residence holders.
+<https://archive.vn/Wu8kp#selection-1511.0-1511.445>
 
 </td>
 
