@@ -40,7 +40,7 @@ publication](https://doi.org/10.1038/s41562-021-01079-8).
 
 <p style="text-align:right">
 
-<i>Last updated 2022-01-05</i>
+<i>Last updated 2022-01-12</i>
 
 </p>
 
@@ -54,37 +54,19 @@ Overall increase
 
 <div>
 
-<a href="#canada-gri-62--66">Canada (GRI: 62 ↑ 66)</a>
+<a href="#canada-gri-64--66">Canada (GRI: 64 ↑ 66)</a>
 
 </div>
 
 <div>
 
-<a href="#finland-gri-52--53">Finland (GRI: 52 ↑ 53)</a>
+<a href="#india-gri-54--58">India (GRI: 54 ↑ 58)</a>
 
 </div>
 
 <div>
 
-<a href="#india-gri-52--58">India (GRI: 52 ↑ 58)</a>
-
-</div>
-
-<div>
-
-<a href="#italy-gri-78--79">Italy (GRI: 78 ↑ 79)</a>
-
-</div>
-
-<div>
-
-<a href="#mongolia-gri-48--50">Mongolia (GRI: 48 ↑ 50)</a>
-
-</div>
-
-<div>
-
-<a href="#spain-gri-58--70">Spain (GRI: 58 ↑ 70)</a>
+<a href="#portugal-gri-60--63">Portugal (GRI: 60 ↑ 63)</a>
 
 </div>
 
@@ -103,12 +85,6 @@ Overall decrease
 <div>
 
 <a href="#austria-gri-77--74">Austria (GRI: 77 ↓ 74)</a>
-
-</div>
-
-<div>
-
-<a href="#portugal-gri-61--60">Portugal (GRI: 61 ↓ 60)</a>
 
 </div>
 
@@ -131,83 +107,6 @@ for a full description of the policies we track.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Austria (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Austria (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Rules are relaxed for the non-vaccinated/those without 2G proof over the
-Christmas period. Participating in small gatherings of up to ten people
-is allowed from 24-26 December. **Nationwide Measures: Special
-regulation for the Christmas holidays and New Year’s Eve 2021** The
-following special rules apply to the Christmas holidays (December 24, 25
-and 26, 2021): • The exit restriction for people without 2G proof does
-not apply. • Participation in private celebrations of up to 10 people is
-possible. • The night curfew (from 11 p.m.) is suspended. Source:
-<https://archive.vn/7k1YB#selection-1111.0-1207.45> \[Nationwide
-Measures\]
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Austria (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-27/12/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); across
-<b>all</b> of Austria (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -295,6 +194,65 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 
 <td style="text-align:left;min-width: 4in; ">
 
+For meetings without assigned seats indoor / outdoor 2G proof is
+required. Maximum limit: max. 25 people (including family reunions,
+birthday parties, wedding parties, Christmas parties, etc.). **Meetings:
+Nationwide measures** • Leaving your own private living area for the
+purpose of attending meetings is only permitted for the following
+meetings without 2G proof: o Funerals, o Assemblies according to the
+assembly law, o Meetings for professional purposes, if these are
+necessary to maintain the professional activity, o meetings of organs of
+political persons that cannot be postponed if they cannot be held in
+digital form, o meetings of bodies of legal persons that cannot be
+postponed, provided that they cannot be held in digital form, o meetings
+that cannot be postponed under the Labor Constitution Act, o Meetings of
+medical and psychosocial self-help groups, o driving into theaters,
+concert halls and arenas, cinemas, variety theaters and cabarets, if
+this is done with multi-lane vehicles, o picking up food and drinks (see
+paragraph on gastronomy), o Meetings in top sport and o Meetings for
+extracurricular youth work. • Personal assistance and 24-hour care are
+not included in the maximum number of people or households. • Meetings
+are only allowed between 5:00 a.m. and 10:00 p.m. • Participants have to
+wear a mask in closed rooms. • There is a notification requirement from
+50 people and a permit requirement from 250 people. • For meetings of
+more than 50 people, the organizers must appoint a COVID-19 officer and
+develop and implement a COVID-19 prevention concept. This does not apply
+to meetings in private living quarters. • For meetings without assigned
+seats indoor / outdoor the following applies: o Access is only permitted
+with valid 2-G proof. o Maximum limit: max. 25 people (including family
+reunions, birthday parties, wedding parties, Christmas parties, etc.) •
+For meetings with assigned seats indoor / outdoor the following applies:
+o Access is permitted depending on the number of people with the
+following proof: ? max. 500 people: 2-G certificate ? max. 1000 people:
+2-G detection + PCR test (not older than 72 hours) ? max. 2000 people:
+booster vaccination + PCR test (not older than 72 hours) • This also
+applies to specialist and public fairs as well as to occasional markets
+(e.g. Advent markets) or separate areas of occasional markets . In the
+case of occasional markets that offer goods, food or drinks for sale, a
+2G verification requirement and an FFP2 mask requirement apply in closed
+rooms. • If there are more than 50 participants, the 2G rule and the
+recording of contact data do not apply to gatherings of a maximum of
+four people from fewer than three households plus six underage children
+of these people and minors for whom these people perform existing
+supervisory duties. • For meetings for rehearsals for professional
+purposes and for professional artistic performance in a fixed
+composition, the following also applies: o In the event of a positive
+test result, however, the patient can still be admitted if there is no
+more symptoms for at least 48 hours after the infection has ended and
+based on the medical laboratory results, in particular on the basis of a
+CT value\> 30, it can be assumed that there is no longer any risk of
+infection. o If a mask cannot be worn due to the activity, other
+suitable protective measures must be taken to minimize the risk of
+infection. • For meetings within the framework of the labor market
+service (training and further education, etc.), FFP2 mask requirements
+as well as 3G proof apply if physical contact cannot be ruled out or the
+risk of infection can be minimized by other suitable protective
+measures. If it is not possible to wear a mask due to the nature of the
+training or the integration measures of people, the risk of infection
+must be minimized by means of suitable protective measures. Source:
+<https://archive.vn/QQaaZ#selection-1969.0-1969.8> \[Nationwide
+measures\]
+
 </td>
 
 </tr>
@@ -316,84 +274,6 @@ Restrictions on <b>medium</b> gatherings (11-100 people); across
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Austria
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>No measures</b> are present across all of Austria (0)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Rules are relaxed for the non-vaccinated/those without 2G proof over the
-Christmas period. The exit restriction is lifted from 24-26 December.
-**Nationwide Measures: Special regulation for the Christmas holidays and
-New Year’s Eve 2021** The following special rules apply to the Christmas
-holidays (December 24, 25 and 26, 2021): • The exit restriction for
-people without 2G proof does not apply. • Participation in private
-celebrations of up to 10 people is possible. • The night curfew (from 11
-p.m.) is suspended. Sources:
-<https://archive.vn/7k1YB#selection-1111.0-1207.45> \[Nationwide
-Measures\] <https://archive.vn/o5SYg> \[2nd amendment to the 6th
-COVID-19 Protective Measures Ordinance\]
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Austria (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-27/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> not leaving the house with exceptions for daily exercise,
-grocery shopping, and ‘essential’ trips; across <b>all</b> of Austria
-(2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -480,6 +360,39 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Austria
 
 <td style="text-align:left;min-width: 4in; ">
 
+Exit regulations for people without 2G proof. reinstated after
+relaxation for NYE. "“There are no all-day exit restrictions for people
+with a 2G certificate, only a curfew from 10 p.m. for restaurants.
+Children under the age of 12 are exempt from the exit
+restrictions.”“All-day exit restrictions apply to people without 2G
+proof. Leaving one’s own private living area (including residential
+units in accommodation establishments, retirement and nursing homes,
+stationary residential facilities for the disabled) and staying outside
+one’s own private living area is only permitted for the following
+purposes: • Avoidance of an immediate danger to life, limb and property.
+• Care of and assistance for people in need of support as well as
+exercise of family rights and fulfillment of family duties. • Covering
+the necessary basic needs of daily life, such as in particular o the
+contact with the partner who does not live in the same household,
+individual close relatives (parents, children and siblings) and
+important reference persons, whereby a household may only meet one other
+person from a second household, o the supply of basic goods of daily
+life, o the use of health services, o the coverage of a housing
+requirement, o the satisfaction of basic religious needs, o as well as
+the care of animals. • professional and educational purposes. • Staying
+outdoors alone, with people from the common household or people for
+physical and mental relaxation. • to pursue administrative or judicial
+processes that cannot be postponed. • to participate in elections
+provided by law and to use the instruments of direct democracy provided
+by law. • for the purpose of entering customer areas of certain business
+premises, such as pharmacies, grocery stores, drugstores, health and
+care services, petrol stations, banks, postal service providers, car and
+bicycle workshops, picking up pre-ordered meals, etc.). • Participation
+in certain gatherings, e.g. extracurricular youth education, top-class
+sport, etc.”" Source:
+<https://archive.vn/QQaaZ#selection-1491.0-1673.96> \[Nationwide
+measures\]
+
 </td>
 
 </tr>
@@ -492,7 +405,7 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of Austria
 
 </div>
 
-### Canada (GRI: 62 ↑ 66)
+### Canada (GRI: 64 ↑ 66)
 
 #### School closing (C1)
 
@@ -560,68 +473,6 @@ newspaper and CTV news websites archived:
 
 </div>
 
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Canada (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Canada (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 24 December 2021, in Nunavut Territory: “Effective immediately, in
-every Nunavut community: All non-essential businesses and government
-offices are closed. Bars and licensed establishments are closed.
-Restaurants may open for takeout only.” In the rest of Canada,
-businesses are open with varying levels of restrictions. Many
-jurisdictions restrict access to some non-essential businesses to fully
-vaccinated customers (or require proof of a recent negative test). See
-Retail Council of Canada as well as governments of Nunavut websites,
-<https://web.archive.org/web/20211225214240/https://gov.nu.ca/health/news/new-covid-cases-lead-nunavut-wide-restrictions>
-<https://web.archive.org/web/20211225215037/https://www.retailcouncil.org/coronavirus-info-for-retailers/vaccination-requirements-by-province/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
 #### Stay at home requirements (C6)
 
 <div id="table-div">
@@ -631,48 +482,6 @@ Retail Council of Canada as well as governments of Nunavut websites,
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Canada (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-22/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Recommend</b> not leaving the house; in <b>some</b> parts of Canada
-(1T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 22 december 2021, Quebec Premier ‘Legault said he’s worried about
-people who are age 60 or older because they are “the most vulnerable…
-Ideally, they should stay home because that way there’s no risk”. In
-Atlantic Canada, close and/or household contacts of those who test
-positive have been instructed to stay home. See Montreal Gazette
-newspaper as well as governments of NL and NB websites, archived:
-<https://web.archive.org/web/20211223201524/https://www.gov.nl.ca/releases/2021/health/1217n05/>
-<https://web.archive.org/web/20211205143923/https://www2.gnb.ca/content/gnb/en/news/news_release.2021.12.0889.html>
-<https://web.archive.org/web/20211226131803/https://montrealgazette.com/news/local-news/covid-19-updates-montreal-quebec-new-cases-vaccine-vaccination-booster-shot-omicron-legault-restrictions-curfew-lockdown-december-22>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -730,202 +539,7 @@ NB websites, archived:
 
 </div>
 
-#### Testing policy (H2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Anyone <b>symptomatic</b> can be tested; NA Canada (2)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-23/12/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-NA; NA Canada (1)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-On 23 Dec. 2021, the Chief Public Health Officer of Canada continues to
-advise that “a vaccines plus approach continues to be essential to the
-pandemic response in Canada. This includes … getting tested if
-symptomatic and/or as recommended”. The current policy intent of most
-provinces and territories is to supplement polymerase chain reaction
-(PCR) testing of symptomatic cases with mass availability of lateral
-flow and other rapid tests. However the caseload wave is frustrating
-efforts to achieve testing goals: ‘Faced with a tidal wave of COVID-19
-cases, health officials in Alberta and in Montreal are asking residents
-to rely on rapid home test kits rather than line up for the more
-reliable PCR lab tests. Alberta axed general access to PCR tests on
-Thursday, despite the widespread shortage of rapid test kits. The
-province’s Chief Medical Officer of Health … asked those with
-forthcoming PRC test appointments to cancel them … \[and\] said the
-province dialled back PCR access to conserve the more accurate tests for
-high-risk groups, such health care workers, continuing-care residents,
-and those who qualify for antibody treatment because of their clinical
-condition. “As Omicron is spreading …, no one in Canada will be able to
-maintain PCR testing for every community case with mild symptoms” …
-Alberta did not require residents using rapid tests to report a positive
-result. The province will still track severe outcomes, such as death
-\[and\] will also monitor the prevalence of COVID-19 with other tools,
-such as wastewater data…Montreal public-health director … said
-Montrealers who get a positive result from a rapid antigen test … need
-not undertake another screening to confirm their status…the local health
-authority … around Vancouver has begun rationing PCR tests … only people
-deemed by medical experts to be “at greater risk of severe disease from
-COVID-19? are being given these tests on site.” See government of Canada
-and Globe and Mail newspaper websites, archived:
-<https://web.archive.org/web/20211227131740/https://www.canada.ca/en/public-health/news/2021/12/statement-from-the-chief-public-health-officer-of-canada-on-december-23-2021.html>
-<https://web.archive.org/web/20211227131413/https://www.theglobeandmail.com/canada/article-alberta-montreal-call-to-scale-back-pcr-lab-testing-as-demand-rises/>
-<https://web.archive.org/web/20211227132009/https://www.theglobeandmail.com/canada/article-ontario-lab-professionals-working-beyond-humanly-possible-to-process/>
-<https://web.archive.org/web/20211227132501/https://www.theglobeandmail.com/canada/article-provinces-working-to-meet-demand-for-covid-19-testing-as-cases-surge/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Finland (GRI: 52 ↑ 53)
-
-#### Restrictions on gatherings (C4)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>medium</b> gatherings (11-100 people); in <b>some</b>
-parts of Finland (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); in
-<b>some</b> parts of Finland (4T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-In the Helsinki and Uusimaa Hospital District, Southern Finland, all
-indoor public events and general meetings are prohibited. Restrictions
-cannot be waived by using a corona passport. Archived:
-<https://web.archive.org/web/20211231185230/https://avi.fi/usein-kysyttya-koronaviruksesta>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Income support (E1)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Government is replacing <b>more than 50% income</b>; for <b>all
-workers</b> in Finland (2A)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-1/1/2022  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Government is replacing <b>less than 50% income</b>; for <b>all
-workers</b> in Finland (1A)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Government support for the unemployed is currently on and is currently
-at 300 Euros per month Archived: <https://archive.vn/EdF84>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### India (GRI: 52 ↑ 58)
+### India (GRI: 54 ↑ 58)
 
 #### School closing (C1)
 
@@ -1158,121 +772,7 @@ grocery shopping, and ‘essential’ trips; across <b>all</b> of India (2G)
 
 </div>
 
-### Italy (GRI: 78 ↑ 79)
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; in <b>some</b> parts of Italy (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Italy (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-From Dec 25th to Jan 31st a mask mandate is in place throughout Italy
-such that masks are required in all public spaces
-<https://web.archive.org/web/20211225114530/https://www.adnkronos.com/decreto-natale-2021-gazzetta-ufficiale-misure-in-vigore-da-oggi-25-dicembre_2rNEica7wfGueXqdc4pPve>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Mongolia (GRI: 48 ↑ 50)
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Screening</b> arrivals coming into Mongolia (1)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-28/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Mongolia
-(2)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-All passengers are required to do a 3 day quarantine upon arriving.
-<https://web.archive.org/web/20211220021732/https://mn.usembassy.gov/covid-19-information/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Portugal (GRI: 61 ↓ 60)
+### Portugal (GRI: 60 ↑ 63)
 
 #### Restrictions on gatherings (C4)
 
@@ -1283,79 +783,6 @@ All passengers are required to do a 3 day quarantine upon arriving.
 <table class="table" style="margin-left: auto; margin-right: auto;">
 
 <tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Portugal (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Portugal (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-For 24,25,31.12: gatherings of more than 10 people are prohibited (this
-is for public spaces, not explicitly private gatherings):
-<https://web.archive.org/web/20211222164810/https://www.theportugalnews.com/news/2021-12-22/what-are-the-new-covid-19-rules/64278>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-Restrictions on <b>small</b> gatherings (10 people or fewer); across
-<b>all</b> of Portugal (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-25/12/2021  
-<img src="../images/down-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-Restrictions on <b>large</b> gatherings (between 101-1000 people);
-across <b>all</b> of Portugal (2G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Gathering restrictions remain in place.
-<https://web.archive.org/web/20211222164810/https://www.theportugalnews.com/news/2021-12-22/what-are-the-new-covid-19-rules/64278>
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -1394,37 +821,20 @@ prohibited.
 
 </tr>
 
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### International travel controls (C8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
 <tr>
 
 <td style="text-align:left;min-width: 2in; ">
 
 <b>Old policy:</b>
 
-<b>Ban</b> arrivals from <b>some</b> regions coming into Portugal (3)
+Restrictions on <b>small</b> gatherings (10 people or fewer); across
+<b>all</b> of Portugal (4G)
 
 </td>
 
 <td style="text-align:left;min-width: 1in; color: grey80 !important;">
 
-25/12/2021  
+1/1/2022  
 <img src="../images/down-arrow.png">
 
 </td>
@@ -1433,251 +843,17 @@ prohibited.
 
 <b>New policy:</b>
 
-<b>Quarantine</b> arrivals from <b>some</b> regions coming into Portugal
-(2)
+Restrictions on <b>large</b> gatherings (between 101-1000 people);
+across <b>all</b> of Portugal (2G)
 
 </td>
 
 <td style="text-align:left;min-width: 4in; ">
 
-The previous travel ban has been lifted and replaced by strict
-quarantine rules:
-<https://web.archive.org/web/20211227085652/https://www.schengenvisainfo.com/news/portugal-abolishes-air-travel-suspension-for-arrivals-from-mozambique/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-### Spain (GRI: 58 ↑ 70)
-
-#### Workplace closing (C2)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Require</b> closure of <b>some</b> sectors of business; in
-<b>some</b> parts of Spain (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Require</b> closure of <b>all</b> sectors of business; in <b>some</b>
-parts of Spain (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Over the christmas days (and at least until January 14th), all
-non-essential businesses will have to close in Murcia.
-<https://web.archive.org/web/20211223155421/https://www.thelocal.es/20211223/explained-the-covid-restrictions-in-your-region-of-spain-this-christmas/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Restrictions on internal movement (C7)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>No measures</b> are present across all of Spain (0)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Internal travel restrictions</b> are in place; in <b>some</b> parts
-of Spain (2T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Catalonia has implemented a curfew from 1AM to 6AM:
-<https://web.archive.org/web/20211223155421/https://www.thelocal.es/20211223/explained-the-covid-restrictions-in-your-region-of-spain-this-christmas/>
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Facial Coverings (H6)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Required</b> wearing of face masks in <b>all shared spaces</b>
-outside the home when other people are present <b>or</b> when social
-distancing not possible; across <b>all</b> of Spain (3G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Required</b> wearing of face masks at <b>all times</b> outside the
-home; across <b>all</b> of Spain (4G)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Facial coverings are required in all public spaces in Spain:
-<https://web.archive.org/web/20211229212801/https://www.thelocal.es/20211227/reminder-what-are-the-rules-and-exceptions-for-wearing-face-masks-outdoors-in-spain/>
-There are a two exceptions: face masks are not considered necessary
-outdoors “during individual sports” (for example, going for a jog or a
-cycle on your own) or “during activities that are not sporting in
-nature, but are carried out in natural spaces”, such as hanging out at
-the beach or hiking in the forest. These exceptions are contingent on
-the 1.5 metre social distancing rules being maintained. The face mask
-can also be removed outdoors in Spain by those travelling by boat, an
-exception that was included in the previous law. However, the new rules
-make masks mandatory below deck, even if social distancing is
-maintained. Face masks will not be mandatory inside residences, centres
-for people with disabilities, or similar homes, provided that the
-vaccination rate is 80 percent or higher with the full schedule and
-booster doses. External visitors and workers at these centers are still
-required to wear face masks.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-</div>
-
-</div>
-
-#### Protection of elderly people (H8)
-
-<div id="table-div">
-
-<div style="border: 1px solid #ddd; padding: 5px; overflow-x: scroll; width:100%; ">
-
-<table class="table" style="margin-left: auto; margin-right: auto;">
-
-<tbody>
-
-<tr>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>Old policy:</b>
-
-<b>Recommended</b> isolation, hygiene, and visitor restriction measures
-in LTCFs and/or elderly people to stay at home; across <b>all</b> of
-Spain (1G)
-
-</td>
-
-<td style="text-align:left;min-width: 1in; color: grey80 !important;">
-
-24/12/2021  
-<img src="../images/up-arrow.png">
-
-</td>
-
-<td style="text-align:left;min-width: 2in; ">
-
-<b>New policy:</b>
-
-<b>Extensive restrictions</b> for protection of elderly people; in
-<b>some</b> parts of Spain (3T)
-
-</td>
-
-<td style="text-align:left;min-width: 4in; ">
-
-Extensive protection in place in Valencia region, with testing and
-COVID-19 certification requirements to visit care homes:
-<https://web.archive.org/web/20211223155421/https://www.thelocal.es/20211223/explained-the-covid-restrictions-in-your-region-of-spain-this-christmas/>
+No changes for the period, as the same rules are applicable until the
+9th of January, as it was communicated by the Council of Ministers of
+December 21, 2021:
+<https://web.archive.org/web/20220107142627/https://www.portugal.gov.pt/pt/gc22/governo/comunicado-de-conselho-de-ministros?i=459>
 
 </td>
 
