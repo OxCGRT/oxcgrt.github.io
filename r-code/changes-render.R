@@ -2,4 +2,4 @@ library(rmarkdown)
 library(here)
 
 here()
-render(here("ChangesMarkdown.Rmd"), output_file = "../_pages/recent-changes.md")
+render(here("r-code", "ChangesMarkdown.Rmd"), output_file = "../_pages/recent-changes.md")
